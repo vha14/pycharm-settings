@@ -1,0 +1,248 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1522097631253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522182220084">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="65" />
+        <mark key="." line="23" column="65" />
+      </file>
+      <file name="/code.py" timestamp="1522360697878">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1522776321154">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/__init__.py" timestamp="1522777166726">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+      </file>
+      <file name="/a.dummy" timestamp="1522086627291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/nuclei/src/overview.py" timestamp="1522360299450">
+        <mark key="'" line="223" column="16" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/Dockerfile-dev" timestamp="1522782027484">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" timestamp="1522800131363">
+        <mark key="'" line="22" column="25" />
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
+        <mark key="'" line="180" column="8" />
+        <mark key="[" line="210" column="22" />
+        <mark key="]" line="210" column="26" />
+        <mark key="^" line="210" column="26" />
+        <mark key="." line="210" column="26" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1522112757471">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/nuclei/src/unet_starter.py" timestamp="1522432579503">
+        <mark key="'" line="24" column="39" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/manage.py" timestamp="1522777142817">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
+        <mark key="'" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="210" column="10" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="275" column="17" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="42" column="7" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="189" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="217" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="188" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="72" column="4" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="77" column="86" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="200" column="56" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="111" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="85" column="13" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="199" column="492" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="214" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="325" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="21" column="67" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="15" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="31" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="287" column="10" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="34" column="70" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="35" column="32" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="296" column="39" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="62" column="29" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="18" column="23" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="145" column="19" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="223" column="16" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
+      <jump line="25" column="39" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
+      <jump line="32" column="26" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
+      <jump line="22" column="25" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>latest</text>
+      </register>
+      <register name="-" type="4">
+        <text>latest</text>
+      </register>
+      <register name="/" type="4">
+        <text>env</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aW1nX2RmCnQgPSBpbWdfZGYucXVlcnkoJ1RyYWluaW5nU3BsaXQ9PSJ0cmFpbiInKQp0Cgpncm91cF9jb2xzID0gWydTdGFnZScsICdJbWFnZUlkJ10KZyA9IHQuZ3JvdXBieShncm91cF9jb2xzKQprMCA9IGxpc3QoZy5ncm91cHMua2V5cygpKVswXQp2MCA9IGcuZ2V0X2dyb3VwKGswKQp2MC5jb2x1bW5zCgpxMCA9IHYwW3YwWydJbWFnZVR5cGUnXSA9PSAibWFza3MiXQpxMFsncGF0aCddLmlsb2NbMF0KZm9vID0gcmVhZF9hbmRfc3RhY2socTBbJ3BhdGgnXSkKCmZvby5fX2NsYXNzX18KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9vMi5tYXAocmVhZF9hbmRfc3RhY2spCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Zm9vMiA9IHBkLkRhdGFGcmFtZShbcTBdKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">djAucXVlcnkoJ0ltYWdlVHlwZT09ImltYWdlcyInKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Zy5maXJzdCgpLmNvbHVtbnMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZzBbJ0ltYWdlVHlwZSddCg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>env</last-search>
+      <last-offset />
+      <last-pattern>env</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>skimage</entry>
+        <entry>ipython</entry>
+        <entry>IMG_CH</entry>
+        <entry>get_ipython</entry>
+        <entry>sns</entry>
+        <entry>read_and</entry>
+        <entry>test_</entry>
+        <entry>timeit</entry>
+        <entry>get_ipy</entry>
+        <entry>UpSam</entry>
+        <entry>Lambda</entry>
+        <entry>dsb_</entry>
+        <entry>train_la</entry>
+        <entry>img_df</entry>
+        <entry>imread</entry>
+        <entry>foo</entry>
+        <entry>chain</entry>
+        <entry>imread_collection</entry>
+        <entry>All</entry>
+        <entry>env</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
