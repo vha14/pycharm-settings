@@ -71,6 +71,20 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fullstack-template/.travis.yml" timestamp="1523335921939">
+        <mark key="'" line="27" column="49" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/fullstack-template/docker-push.sh" timestamp="1523335675761">
+        <mark key="'" line="23" column="21" />
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="97" />
+        <mark key="." line="19" column="97" />
+        <mark key="^" line="19" column="97" />
+      </file>
       <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
         <mark key="'" line="180" column="8" />
         <mark key="[" line="210" column="22" />
@@ -146,16 +160,20 @@
       <jump line="22" column="25" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" />
       <jump line="70" column="15" filename="$USER_HOME$/work/nuclei/src/unet.py" />
+      <jump line="27" column="49" filename="$USER_HOME$/work/fullstack-template/.travis.yml" />
+      <jump line="8" column="47" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
+      <jump line="19" column="21" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
+      <jump line="23" column="21" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>latest</text>
+        <text>template</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>mask_file</text>
+        <text>USERS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
@@ -189,15 +207,14 @@
       </register>
     </registers>
     <search>
-      <last-search>mask_file</last-search>
+      <last-search>USERS</last-search>
       <last-offset />
-      <last-pattern>mask_file</last-pattern>
+      <last-pattern>USERS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ipython</entry>
         <entry>IMG_CH</entry>
         <entry>get_ipython</entry>
         <entry>sns</entry>
@@ -217,6 +234,7 @@
         <entry>All</entry>
         <entry>env</entry>
         <entry>mask_file</entry>
+        <entry>USERS</entry>
       </history-search>
       <history-cmd />
       <history-expr />
