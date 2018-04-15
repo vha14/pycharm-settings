@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/work/mathsolvers/web/index.html" timestamp="1523761328942">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/main.css" timestamp="1523810038154">
+        <mark key="'" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" timestamp="1523811715510">
+        <mark key="'" line="104" column="11" />
+      </file>
       <file name="/Python Console" timestamp="1523246471194">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,7 +24,6 @@
       <file name="$USER_HOME$/work/nuclei/src/unet.py" timestamp="1523206087145">
         <mark key="'" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/layouts/mainLayout.js" timestamp="1523805501711" />
       <file name="$USER_HOME$/work/nuclei/src/unet_starter.py" timestamp="1522432579503">
         <mark key="'" line="24" column="39" />
         <mark key="[" line="38" column="0" />
@@ -45,6 +50,7 @@
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/css/main.css" timestamp="1523762261136">
         <mark key="'" line="1452" column="18" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/vars.css" timestamp="1523810883365" />
       <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
         <mark key="'" line="180" column="8" />
         <mark key="[" line="210" column="22" />
@@ -55,6 +61,7 @@
       <file name="$USER_HOME$/work/mathsolvers/web/css/animate.css" timestamp="1523760398740">
         <mark key="'" line="1785" column="1" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/vendor/react-rotating.css" timestamp="1523811242505" />
       <file name="/Dummy.txt" timestamp="1523248981897">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,11 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="42" column="7" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="180" column="8" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="189" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="217" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="188" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -213,6 +215,11 @@
       <jump line="723" column="4" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
       <jump line="10" column="0" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
       <jump line="208" column="0" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/js/main.js" />
+      <jump line="60" column="32" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/main.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/main.css" />
+      <jump line="36" column="15" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/main.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
+      <jump line="104" column="11" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +229,7 @@
         <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>point</text>
+        <text>menu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
@@ -256,18 +263,14 @@
       </register>
     </registers>
     <search>
-      <last-search>point</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>point</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>img_df</entry>
-        <entry>imread</entry>
-        <entry>foo</entry>
-        <entry>chain</entry>
         <entry>imread_collection</entry>
         <entry>All</entry>
         <entry>env</entry>
@@ -284,6 +287,10 @@
         <entry>script</entry>
         <entry>waypoin</entry>
         <entry>point</entry>
+        <entry>scala</entry>
+        <entry>rotatinn</entry>
+        <entry>rotat</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd />
       <history-expr />
