@@ -81,6 +81,9 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" timestamp="1523762244896">
+        <mark key="'" line="340" column="50" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/web/css/flexslider.css" timestamp="1523760575843" />
       <file name="$USER_HOME$/work/fullstack-template/docker-push.sh" timestamp="1523335675761">
         <mark key="'" line="23" column="21" />
@@ -88,6 +91,9 @@
         <mark key="]" line="19" column="97" />
         <mark key="." line="19" column="97" />
         <mark key="^" line="19" column="97" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/css/main.css" timestamp="1523762261136">
+        <mark key="'" line="1452" column="18" />
       </file>
       <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
         <mark key="'" line="180" column="8" />
@@ -104,8 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="10" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="275" column="17" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
       <jump line="83" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
       <jump line="136" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
       <jump line="11" column="20" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
@@ -192,6 +196,20 @@
       <jump line="48" column="37" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
       <jump line="470" column="54" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="23" column="8" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="25" column="36" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="723" column="43" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="726" column="4" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="19" column="41" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="20" column="41" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="21" column="43" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="310" column="50" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="340" column="50" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" />
+      <jump line="5" column="7" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/css/main.css" />
+      <jump line="1452" column="18" filename="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/css/main.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +219,7 @@
         <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>Log</text>
+        <text>mont</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
@@ -235,18 +253,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Log</last-search>
+      <last-search>mont</last-search>
       <last-offset />
-      <last-pattern>Log</last-pattern>
+      <last-pattern>mont</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timeit</entry>
-        <entry>get_ipy</entry>
-        <entry>UpSam</entry>
-        <entry>Lambda</entry>
         <entry>dsb_</entry>
         <entry>train_la</entry>
         <entry>img_df</entry>
@@ -263,6 +277,10 @@
         <entry>flexside</entry>
         <entry>flex</entry>
         <entry>Log</entry>
+        <entry>script</entry>
+        <entry>css</entry>
+        <entry>fonts</entry>
+        <entry>mont</entry>
       </history-search>
       <history-cmd />
       <history-expr />
