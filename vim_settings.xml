@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1522097631253">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/web/index.html" timestamp="1523761328942">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1523248981897">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,6 +81,7 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/web/css/flexslider.css" timestamp="1523760575843" />
       <file name="$USER_HOME$/work/fullstack-template/docker-push.sh" timestamp="1523335675761">
         <mark key="'" line="23" column="21" />
         <mark key="[" line="19" column="47" />
@@ -94,6 +98,9 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/web/css/animate.css" timestamp="1523760398740">
+        <mark key="'" line="1785" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -164,6 +171,27 @@
       <jump line="8" column="47" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
       <jump line="19" column="21" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
       <jump line="23" column="21" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
+      <jump line="642" column="20" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="12" column="67" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="54" column="37" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="637" column="18" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="46" column="37" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="278" column="39" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="279" column="38" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="3" column="32" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="9" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="16" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="21" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="26" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="27" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="32" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="33" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="1785" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
+      <jump line="247" column="24" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="48" column="37" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="470" column="54" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -173,7 +201,7 @@
         <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>USERS</text>
+        <text>Log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
@@ -207,19 +235,14 @@
       </register>
     </registers>
     <search>
-      <last-search>USERS</last-search>
+      <last-search>Log</last-search>
       <last-offset />
-      <last-pattern>USERS</last-pattern>
+      <last-pattern>Log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IMG_CH</entry>
-        <entry>get_ipython</entry>
-        <entry>sns</entry>
-        <entry>read_and</entry>
-        <entry>test_</entry>
         <entry>timeit</entry>
         <entry>get_ipy</entry>
         <entry>UpSam</entry>
@@ -235,6 +258,11 @@
         <entry>env</entry>
         <entry>mask_file</entry>
         <entry>USERS</entry>
+        <entry>bootstrap</entry>
+        <entry>animate</entry>
+        <entry>flexside</entry>
+        <entry>flex</entry>
+        <entry>Log</entry>
       </history-search>
       <history-cmd />
       <history-expr />
