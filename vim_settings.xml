@@ -212,7 +212,7 @@
         <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>menu</text>
+        <text>ttu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
@@ -246,15 +246,14 @@
       </register>
     </registers>
     <search>
-      <last-search>menu</last-search>
+      <last-search>ttu</last-search>
       <last-offset />
-      <last-pattern>menu</last-pattern>
+      <last-pattern>ttu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>imread_collection</entry>
         <entry>All</entry>
         <entry>env</entry>
         <entry>mask_file</entry>
@@ -274,6 +273,7 @@
         <entry>rotatinn</entry>
         <entry>rotat</entry>
         <entry>menu</entry>
+        <entry>ttu</entry>
       </history-search>
       <history-cmd />
       <history-expr />
