@@ -9,10 +9,11 @@
       <file name="$USER_HOME$/work/mathsolvers/web/index.html" timestamp="1523761328942">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524003359780">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
         <mark key="[" line="23" column="65" />
@@ -91,10 +92,11 @@
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524003728349">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
         <mark key="'" line="0" column="0" />
@@ -208,11 +210,11 @@
       <jump line="104" column="11" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eWFybi5sb2NrCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ttu</text>
@@ -247,6 +249,9 @@
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
     </registers>
     <search>
       <last-search>ttu</last-search>
@@ -278,7 +283,9 @@
         <entry>menu</entry>
         <entry>ttu</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
