@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" timestamp="1523815025399">
         <mark key="'" line="98" column="16" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/gatsby-config.js" timestamp="1523934085258">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/work/nuclei/src/unet.py" timestamp="1523206087145">
         <mark key="'" line="70" column="15" />
       </file>
@@ -71,7 +77,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1523933638217">
+      <file name="/GraphQL.result.json" timestamp="1523934356915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
@@ -105,6 +111,9 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" timestamp="1523934456425">
+        <mark key="'" line="16" column="37" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" timestamp="1523933764145">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="8" column="6" />
@@ -121,11 +130,14 @@
       <file name="$USER_HOME$/work/mathsolvers/landing/gatsby-node.js" timestamp="1523930970873">
         <mark key="'" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/package.json" timestamp="1523934152389">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="2" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="325" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="39" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="11" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="108" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -223,58 +235,60 @@
       <jump line="16" column="49" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
       <jump line="8" column="0" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
       <jump line="9" column="32" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" />
+      <jump line="17" column="17" filename="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" />
+      <jump line="16" column="37" filename="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gatsby</text>
+        <text>gatsby-starter-typescript</text>
       </register>
       <register name="-" type="4">
-        <text>gatsby</text>
+        <text>gatsby-starter-typescript</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIEFkZCB0eXBlc2NyaXB0IHN0YWNrIGludG8gd2VicGFjawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpdGUgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
+        <text encoding="base64">ICAgIHNpdGUgewo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS10cmFuc2Zvcm1lci1yZW1hcmtgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgewogICAgICAgICAgICByZXNvbHZlOiBgZ2F0c2J5LXJlbWFyay1pbWFnZXNgLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbWF4V2lkdGg6IDYzMCwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICAiZ2F0c2J5LXJlbWFyay1jb3B5LWxpbmtlZC1maWxlcyIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0s</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCiAgICAgICAgbmFtZTogInBvc3RzIiwKICAgICAgfSwKICAgIH0s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>flex</entry>
         <entry>Log</entry>
         <entry>css</entry>
         <entry>fonts</entry>
@@ -294,6 +308,7 @@
         <entry>React</entry>
         <entry>pic01</entry>
         <entry>close</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd />
       <history-expr />
