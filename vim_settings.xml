@@ -3,45 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1522097631253">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/web/index.html" timestamp="1523761328942">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/main.css" timestamp="1523810038154">
         <mark key="'" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" timestamp="1523932103202">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" timestamp="1523815025399">
         <mark key="'" line="98" column="16" />
-      </file>
-      <file name="/Python Console" timestamp="1523246471194">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1522086627291">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nuclei/src/unet.py" timestamp="1523206087145">
         <mark key="'" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/work/nuclei/src/unet_starter.py" timestamp="1522432579503">
-        <mark key="'" line="24" column="39" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="38" column="10" />
-        <mark key="^" line="38" column="10" />
+      <file name="$USER_HOME$/work/nuclei/src/overview.py" timestamp="1522360299450">
+        <mark key="'" line="223" column="16" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" timestamp="1523765832826">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fullstack-template/docker-push.sh" timestamp="1523335675761">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="97" />
-        <mark key="." line="19" column="97" />
-        <mark key="^" line="19" column="97" />
+      <file name="$USER_HOME$/work/mathsolvers/landing2/gatsby-config.js" timestamp="1523932877176">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing/gatsby-config.js" timestamp="1523931252113">
+      <file name="$USER_HOME$/work/mathsolvers/landing/gatsby-config.js" timestamp="1523932201054">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -50,12 +45,8 @@
         <mark key="'" line="1452" column="18" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/vars.css" timestamp="1523810883365" />
-      <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
-        <mark key="'" line="180" column="8" />
-        <mark key="[" line="210" column="22" />
-        <mark key="]" line="210" column="26" />
-        <mark key="^" line="210" column="26" />
-        <mark key="." line="210" column="26" />
+      <file name="$USER_HOME$/work/mathsolvers/landing/src/layouts/index.js" timestamp="1523932137024">
+        <mark key="'" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/landing/src/pages/index.js" timestamp="1523931675647">
         <mark key="[" line="0" column="16" />
@@ -67,11 +58,11 @@
         <mark key="'" line="1785" column="1" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/vendor/react-rotating.css" timestamp="1523811242505" />
-      <file name="/Dummy.txt" timestamp="1523248981897">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1522360697878">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/manage.py" timestamp="1522777142817">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/js/main.js" timestamp="1523766205328">
         <mark key="'" line="208" column="0" />
@@ -95,28 +86,32 @@
         <mark key="]" line="23" column="65" />
         <mark key="." line="23" column="65" />
       </file>
-      <file name="$USER_HOME$/work/fullstack-template/.travis.yml" timestamp="1523335921939">
-        <mark key="'" line="27" column="49" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="30" column="15" />
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/Dockerfile-dev" timestamp="1522782027484">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" timestamp="1522800131363">
+        <mark key="'" line="22" column="25" />
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/__init__.py" timestamp="1522777166726">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" timestamp="1523932900875">
+        <mark key="'" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/landing/gatsby-node.js" timestamp="1523930970873">
         <mark key="'" line="4" column="20" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1522112757471">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="77" column="86" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="200" column="56" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="111" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -210,59 +205,64 @@
       <jump line="87" column="14" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
       <jump line="98" column="16" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
       <jump line="4" column="20" filename="$USER_HOME$/work/mathsolvers/landing/gatsby-node.js" />
+      <jump line="113" column="9" filename="$USER_HOME$/work/mathsolvers/landing/src/layouts/index.js" />
+      <jump line="116" column="10" filename="$USER_HOME$/work/mathsolvers/landing/src/layouts/index.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/work/mathsolvers/landing/src/layouts/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/landing/gatsby-config.js" />
+      <jump line="5" column="9" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
+      <jump line="10" column="36" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
+      <jump line="16" column="46" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>Gatsby Default Starter</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Gatsby Default Starter</text>
       </register>
       <register name="/" type="4">
-        <text>fs</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS10cmFuc2Zvcm1lci1yZW1hcmtgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgewogICAgICAgICAgICByZXNvbHZlOiBgZ2F0c2J5LXJlbWFyay1pbWFnZXNgLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbWF4V2lkdGg6IDYzMCwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICAiZ2F0c2J5LXJlbWFyay1jb3B5LWxpbmtlZC1maWxlcyIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0s</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCiAgICAgICAgbmFtZTogInBvc3RzIiwKICAgICAgfSwKICAgIH0s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW1nX2RmCnQgPSBpbWdfZGYucXVlcnkoJ1RyYWluaW5nU3BsaXQ9PSJ0cmFpbiInKQp0Cgpncm91cF9jb2xzID0gWydTdGFnZScsICdJbWFnZUlkJ10KZyA9IHQuZ3JvdXBieShncm91cF9jb2xzKQprMCA9IGxpc3QoZy5ncm91cHMua2V5cygpKVswXQp2MCA9IGcuZ2V0X2dyb3VwKGswKQp2MC5jb2x1bW5zCgpxMCA9IHYwW3YwWydJbWFnZVR5cGUnXSA9PSAibWFza3MiXQpxMFsncGF0aCddLmlsb2NbMF0KZm9vID0gcmVhZF9hbmRfc3RhY2socTBbJ3BhdGgnXSkKCmZvby5fX2NsYXNzX18KCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Zm9vMi5tYXAocmVhZF9hbmRfc3RhY2spCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">aW1nX2RmCnQgPSBpbWdfZGYucXVlcnkoJ1RyYWluaW5nU3BsaXQ9PSJ0cmFpbiInKQp0Cgpncm91cF9jb2xzID0gWydTdGFnZScsICdJbWFnZUlkJ10KZyA9IHQuZ3JvdXBieShncm91cF9jb2xzKQprMCA9IGxpc3QoZy5ncm91cHMua2V5cygpKVswXQp2MCA9IGcuZ2V0X2dyb3VwKGswKQp2MC5jb2x1bW5zCgpxMCA9IHYwW3YwWydJbWFnZVR5cGUnXSA9PSAibWFza3MiXQpxMFsncGF0aCddLmlsb2NbMF0KZm9vID0gcmVhZF9hbmRfc3RhY2socTBbJ3BhdGgnXSkKCmZvby5fX2NsYXNzX18KCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>fs</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>fs</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mask_file</entry>
-        <entry>USERS</entry>
         <entry>bootstrap</entry>
         <entry>animate</entry>
         <entry>flexside</entry>
@@ -281,6 +281,8 @@
         <entry>ttu</entry>
         <entry>load</entry>
         <entry>fs</entry>
+        <entry>Helmet</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd />
       <history-expr />
