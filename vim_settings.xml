@@ -44,7 +44,6 @@
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/css/main.css" timestamp="1523762261136">
         <mark key="'" line="1452" column="18" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/vars.css" timestamp="1523810883365" />
       <file name="$USER_HOME$/work/mathsolvers/landing/src/layouts/index.js" timestamp="1523932137024">
         <mark key="'" line="2" column="7" />
       </file>
@@ -57,7 +56,6 @@
       <file name="$USER_HOME$/work/mathsolvers/web/css/animate.css" timestamp="1523760398740">
         <mark key="'" line="1785" column="1" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/vendor/react-rotating.css" timestamp="1523811242505" />
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/manage.py" timestamp="1522777142817">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="11" />
@@ -72,10 +70,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1523932990786">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/titan/Business/html/index.html" timestamp="1523813031283" />
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="14" />
@@ -104,8 +104,18 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" timestamp="1523932900875">
+      <file name="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" timestamp="1523933206799">
         <mark key="'" line="16" column="46" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="44" column="1" />
+        <mark key="^" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing2/package.json" timestamp="1523933392409">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/landing/gatsby-node.js" timestamp="1523930970873">
         <mark key="'" line="4" column="20" />
@@ -215,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Gatsby Default Starter</text>
+        <text>Gatsby default starter</text>
       </register>
       <register name="-" type="4">
-        <text>Gatsby Default Starter</text>
+        <text>Gatsby default starter</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -227,31 +237,31 @@
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpdGUgewo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS10cmFuc2Zvcm1lci1yZW1hcmtgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgewogICAgICAgICAgICByZXNvbHZlOiBgZ2F0c2J5LXJlbWFyay1pbWFnZXNgLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbWF4V2lkdGg6IDYzMCwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICAiZ2F0c2J5LXJlbWFyay1jb3B5LWxpbmtlZC1maWxlcyIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0s</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCiAgICAgICAgbmFtZTogInBvc3RzIiwKICAgICAgfSwKICAgIH0s</text>
+        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS10cmFuc2Zvcm1lci1yZW1hcmtgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgewogICAgICAgICAgICByZXNvbHZlOiBgZ2F0c2J5LXJlbWFyay1pbWFnZXNgLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbWF4V2lkdGg6IDYzMCwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICAiZ2F0c2J5LXJlbWFyay1jb3B5LWxpbmtlZC1maWxlcyIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0s</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCiAgICAgICAgbmFtZTogInBvc3RzIiwKICAgICAgfSwKICAgIH0s</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1nX2RmCnQgPSBpbWdfZGYucXVlcnkoJ1RyYWluaW5nU3BsaXQ9PSJ0cmFpbiInKQp0Cgpncm91cF9jb2xzID0gWydTdGFnZScsICdJbWFnZUlkJ10KZyA9IHQuZ3JvdXBieShncm91cF9jb2xzKQprMCA9IGxpc3QoZy5ncm91cHMua2V5cygpKVswXQp2MCA9IGcuZ2V0X2dyb3VwKGswKQp2MC5jb2x1bW5zCgpxMCA9IHYwW3YwWydJbWFnZVR5cGUnXSA9PSAibWFza3MiXQpxMFsncGF0aCddLmlsb2NbMF0KZm9vID0gcmVhZF9hbmRfc3RhY2socTBbJ3BhdGgnXSkKCmZvby5fX2NsYXNzX18KCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
