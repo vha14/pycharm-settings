@@ -9,7 +9,8 @@
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/client/styles/main.css" timestamp="1523810038154">
         <mark key="'" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" timestamp="1523932103202">
+      <file name="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" timestamp="1523933867048">
+        <mark key="'" line="9" column="32" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -70,7 +71,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1523932990786">
+      <file name="/GraphQL.result.json" timestamp="1523933638217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
@@ -104,31 +105,24 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" timestamp="1523933206799">
-        <mark key="'" line="16" column="46" />
-        <mark key="[" line="44" column="0" />
+      <file name="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" timestamp="1523933764145">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="8" column="6" />
         <mark key="]" line="36" column="1" />
-        <mark key="." line="44" column="1" />
+        <mark key="." line="8" column="20" />
         <mark key="^" line="36" column="1" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing2/package.json" timestamp="1523933392409">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/work/mathsolvers/landing2/package.json" timestamp="1523933475659">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/landing/gatsby-node.js" timestamp="1523930970873">
         <mark key="'" line="4" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="56" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="111" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="85" column="13" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="199" column="492" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="214" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="70" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="325" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -220,18 +214,25 @@
       <jump line="2" column="7" filename="$USER_HOME$/work/mathsolvers/landing/src/layouts/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/landing/gatsby-config.js" />
       <jump line="5" column="9" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
       <jump line="10" column="36" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
       <jump line="16" column="46" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/work/mathsolvers/landing2/src/layouts/index.js" />
+      <jump line="0" column="24" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
+      <jump line="2" column="29" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
+      <jump line="16" column="49" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
+      <jump line="9" column="32" filename="$USER_HOME$/work/mathsolvers/landing/src/components/Main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Gatsby default starter</text>
+        <text>gatsby</text>
       </register>
       <register name="-" type="4">
-        <text>Gatsby default starter</text>
+        <text>gatsby</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>close</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
@@ -265,17 +266,14 @@
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bootstrap</entry>
-        <entry>animate</entry>
-        <entry>flexside</entry>
         <entry>flex</entry>
         <entry>Log</entry>
         <entry>css</entry>
@@ -293,6 +291,9 @@
         <entry>fs</entry>
         <entry>Helmet</entry>
         <entry>title</entry>
+        <entry>React</entry>
+        <entry>pic01</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd />
       <history-expr />
