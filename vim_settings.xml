@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/work/mathsolvers/web/index.html" timestamp="1523761328942">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524005374385">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="3" column="17" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
         <mark key="[" line="23" column="65" />
@@ -32,6 +32,12 @@
       </file>
       <file name="/a.dummy" timestamp="1522086627291">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mso/src/pages/index.js" timestamp="1524005478350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" timestamp="1523765832826">
         <mark key="'" line="10" column="0" />
@@ -70,7 +76,7 @@
         <mark key="." line="19" column="97" />
         <mark key="^" line="19" column="97" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1523904929134">
+      <file name="/GraphQL.result.json" timestamp="1524005347537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/css/main.css" timestamp="1523762261136">
@@ -210,8 +216,8 @@
       <jump line="104" column="11" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -223,31 +229,31 @@
         <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eWFybi5sb2NrCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmludGVybWVkaWF0ZS1yZXByZXNlbnRhdGlvbi8K</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiAicG9zdHMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS10cmFuc2Zvcm1lci1yZW1hcmtgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgewogICAgICAgICAgICByZXNvbHZlOiBgZ2F0c2J5LXJlbWFyay1pbWFnZXNgLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbWF4V2lkdGg6IDYzMCwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICAiZ2F0c2J5LXJlbWFyay1jb3B5LWxpbmtlZC1maWxlcyIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb3B0aW9uczogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCiAgICAgICAgbmFtZTogInBvc3RzIiwKICAgICAgfSwKICAgIH0s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9wb3N0c2AsCiAgICAgICAgbmFtZTogInBvc3RzIiwKICAgICAgfSwKICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -313,6 +319,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
