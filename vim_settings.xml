@@ -15,7 +15,8 @@
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" timestamp="1523811715510">
         <mark key="'" line="104" column="11" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" timestamp="1524039647740">
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" timestamp="1524043763029">
+        <mark key="'" line="116" column="10" />
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="27" />
         <mark key="^" line="16" column="27" />
@@ -24,14 +25,15 @@
       <file name="/Python Console" timestamp="1523246471194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524041305683">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
+      <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524043806796">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524039135370">
-        <mark key="'" line="23" column="8" />
+      <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524043795197">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
         <mark key="[" line="3" column="13" />
@@ -148,7 +150,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" timestamp="1524042151786">
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" timestamp="1524043778001">
+        <mark key="'" line="4" column="22" />
         <mark key="[" line="9" column="67" />
         <mark key="]" line="9" column="67" />
         <mark key="." line="9" column="67" />
@@ -171,14 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="200" column="56" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="111" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="81" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="85" column="13" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="199" column="492" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -271,62 +266,68 @@
       <jump line="9" column="8" filename="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" />
       <jump line="19" column="4" filename="$USER_HOME$/work/mathsolvers/landing3/src/layouts/index.tsx" />
       <jump line="23" column="8" filename="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" />
+      <jump line="1" column="12" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
+      <jump line="113" column="9" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
+      <jump line="116" column="10" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
+      <jump line="6" column="35" filename="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" />
+      <jump line="2" column="22" filename="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" />
+      <jump line="3" column="22" filename="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJnYXRzYnktc291cmNlLWZpbGVzeXN0ZW0iOiAiXjEuNS4yNyIK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>ttu</text>
+        <text>images</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAib2JqZWN0IjogIm5ldmVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPk51bGxhbSBldCBvcmNpIGV1IGxvcmVtIGNvbnNlcXVhdCB0aW5jaWR1bnQgdml2YW11cyBldCBzYWdpdHRpcyBsaWJlcm8uIE1hdXJpcyBhbGlxdWV0IG1hZ25hIG1hZ25hIHNlZCBudW5jIHJob25jdXMgcGhhcmV0cmEuIFBlbGxlbnRlc3F1ZSBjb25kaW1lbnR1bSBzZW0uIEluIGVmZmljaXR1ciBsaWd1bGEgdGF0ZSB1cm5hLiBNYWVjZW5hcyBsYW9yZWV0IG1hc3NhIHZlbCBsYWNpbmlhIHBlbGxlbnRlc3F1ZSBsb3JlbSBpcHN1bSBkb2xvci4gTnVsbGFtIGV0IG9yY2kgZXUgbG9yZW0gY29uc2VxdWF0IHRpbmNpZHVudC4gVml2YW11cyBldCBzYWdpdHRpcyBsaWJlcm8uIE1hdXJpcyBhbGlxdWV0IG1hZ25hIG1hZ25hIHNlZCBudW5jIHJob25jdXMgYW1ldCBmZXVnaWF0IHRlbXB1cy48L3A+Cg==</text>
+        <text encoding="base64">ICAgICJnYXRzYnktc291cmNlLWZpbGVzeXN0ZW0iOiAiXjEuNS4yNyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQuIER1aXMgZGFwaWJ1cyBydXRydW0gZmFjaWxpc2lzLiBDbGFzcyBhcHRlbnQgdGFjaXRpIHNvY2lvc3F1IGFkIGxpdG9yYSB0b3JxdWVudCBwZXIgY29udWJpYSBub3N0cmEsIHBlciBpbmNlcHRvcyBoaW1lbmFlb3MuIEV0aWFtIHRyaXN0aXF1ZSBsaWJlcm8gZXUgbmliaCBwb3J0dGl0b3IgZmVybWVudHVtLiBOdWxsYW0gdmVuZW5hdGlzIGVyYXQgaWQgdmVoaWN1bGEgdml2ZXJyYS4gTnVuYyB1bHRyaWNlcyBlcm9zIHV0IHVsdHJpY2llcyBjb25kaW1lbnR1bS4gTWF1cmlzIHJpc3VzIGxhY3VzLCBibGFuZGl0IHNpdCBhbWV0IHZlbmVuYXRpcyBub24sIGJpYmVuZHVtIHZpdGFlIGRvbG9yLiBOdW5jIGxvcmVtIG1hdXJpcywgZnJpbmdpbGxhIGluIGFsaXF1YW0gYXQsIGV1aXNtb2QgaW4gbGVjdHVzLiBQZWxsZW50ZXNxdWUgaGFiaXRhbnQgbW9yYmkgdHJpc3RpcXVlIHNlbmVjdHVzIGV0IG5ldHVzIGV0IG1hbGVzdWFkYSBmYW1lcyBhYyB0dXJwaXMgZWdlc3Rhcy4gSW4gbm9uIGxvcmVtIHNpdCBhbWV0IGVsaXQgcGxhY2VyYXQgbWF4aW11cy4gUGVsbGVudGVzcXVlIGFsaXF1YW0gbWF4aW11cyByaXN1cywgdmVsIHNlZCB2ZWhpY3VsYS48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBuYW1lOiBgaW1hZ2VzYCwKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9pbWFnZXNgLAogICAgICB9LAogICAgfSw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
+        <text encoding="base64">ICAgICJnYXRzYnktdHJhbnNmb3JtZXItcmVtYXJrIjogIl4xLjcuMzciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wIjogImdhdHNieSBkZXZlbG9wIiwK</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcmVtYXJrLWltYWdlcyI6ICJeMS41LjU2IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3kiOiAiZ2F0c2J5IGJ1aWxkIC0tcHJlZml4LXBhdGhzICYmIGdoLXBhZ2VzIC1kIHB1YmxpYyIsCg==</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcmVtYXJrLWNvcHktbGlua2VkLWZpbGVzIjogIl4xLjUuMzAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJmaXgtc2VtaSI6ICJlc2xpbnQgLS1xdWlldCAtLWlnbm9yZS1wYXR0ZXJuIG5vZGVfbW9kdWxlcyAtLWlnbm9yZS1wYXR0ZXJuIHB1YmxpYyAtLXBhcnNlciBiYWJlbC1lc2xpbnQgLS1uby1lc2xpbnRyYyAtLXJ1bGUgJ3tcInNlbWlcIjogWzIsIFwibmV2ZXJcIl0sIFwibm8tZXh0cmEtc2VtaVwiOiBbMl19JyAtLWZpeCBnYXRzYnktbm9kZS5qcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAidHJhaWxpbmdDb21tYSI6ICJlczUiLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS10cmFuc2Zvcm1lci1yZW1hcmtgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgewogICAgICAgICAgICByZXNvbHZlOiBgZ2F0c2J5LXJlbWFyay1pbWFnZXNgLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbWF4V2lkdGg6IDYzMCwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICAiZ2F0c2J5LXJlbWFyay1jb3B5LWxpbmtlZC1maWxlcyIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0s</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjQuMTkuMSIsCg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>ttu</last-search>
+      <last-search>images</last-search>
       <last-offset />
-      <last-pattern>ttu</last-pattern>
+      <last-pattern>images</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>All</entry>
-        <entry>env</entry>
         <entry>mask_file</entry>
         <entry>USERS</entry>
         <entry>bootstrap</entry>
@@ -345,6 +346,8 @@
         <entry>rotat</entry>
         <entry>menu</entry>
         <entry>ttu</entry>
+        <entry>Helmet</entry>
+        <entry>images</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
