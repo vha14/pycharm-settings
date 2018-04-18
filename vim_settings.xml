@@ -45,6 +45,11 @@
         <mark key="." line="38" column="10" />
         <mark key="^" line="38" column="10" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/tsconfig.json" timestamp="1524012248252">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" timestamp="1523765832826">
         <mark key="'" line="10" column="0" />
       </file>
@@ -65,6 +70,9 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/src/layouts/index.tsx" timestamp="1524011255270">
+        <mark key="'" line="45" column="6" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/web/css/animate.css" timestamp="1523760398740">
         <mark key="'" line="1785" column="1" />
       </file>
@@ -77,8 +85,14 @@
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/js/main.js" timestamp="1523766205328">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1524010712210">
+      <file name="/GraphQL.result.json" timestamp="1524011217683">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/tslint.json" timestamp="1524012448237">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
         <mark key="'" line="0" column="0" />
@@ -105,10 +119,12 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" timestamp="1524010918767">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" timestamp="1524012035279">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
@@ -128,9 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="188" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="215" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="72" column="4" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="77" column="86" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -228,46 +241,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
       <jump line="104" column="11" filename="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" />
       <jump line="4" column="11" filename="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" />
+      <jump line="45" column="6" filename="$USER_HOME$/work/mathsolvers/landing3/src/layouts/index.tsx" />
+      <jump line="17" column="24" filename="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" />
+      <jump line="9" column="8" filename="$USER_HOME$/work/mathsolvers/landing3/src/pages/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0iL3BhZ2UtMi8iPkdvIHRvIHBhZ2UgMjwvTGluaz4K</text>
+        <text encoding="base64">ICAgICJkZWZhdWx0U2V2ZXJpdHkiOiAiZXJyb3IiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>gmail.com</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>ttu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZzAucXVlcnkoJ0ltYWdlVHlwZT09Im1hc2tzIicpCg==</text>
+        <text encoding="base64">ICAgICAgICAib2JqZWN0IjogIm5ldmVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0iL3BhZ2UtMi8iPkdvIHRvIHBhZ2UgMjwvTGluaz4K</text>
+        <text encoding="base64">ICAgICJkZWZhdWx0U2V2ZXJpdHkiOiAiZXJyb3IiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cD5Ob3cgZ28gYnVpbGQgc29tZXRoaW5nIGdyZWF0LjwvcD4K</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICAgICJydWxlc0RpcmVjdG9yeSI6IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJIYXlzIENsYXJrIDxoYXlzLmNsYXJrQGdtYWlsLmNvbT4iCg==</text>
+        <text encoding="base64">ICAgICJydWxlcyI6IHt9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeOC4wLjciLAogICAgIkB0eXBlcy9yZWFjdCI6ICIxNS4wLjIxIiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIjAuMTQuMjMiLAo=</text>
+        <text encoding="base64">ICAgICJqc1J1bGVzIjoge30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3kiOiAiZ2F0c2J5IGJ1aWxkIC0tcHJlZml4LXBhdGhzICYmIGdoLXBhZ2VzIC1kIHB1YmxpYyIsCg==</text>
+        <text encoding="base64">ICAgIH1dLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eWFybi5sb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAiYXJyYXkiOiAibmV2ZXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmludGVybWVkaWF0ZS1yZXByZXNlbnRhdGlvbi8K</text>
+        <text encoding="base64">ICAgICAgICAib2JqZWN0IjogIm5ldmVyIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAic2luZ2xlbGluZSI6ICJuZXZlciIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
