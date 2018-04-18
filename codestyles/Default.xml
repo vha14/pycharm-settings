@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+  </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
