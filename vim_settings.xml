@@ -15,20 +15,21 @@
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" timestamp="1523811715510">
         <mark key="'" line="104" column="11" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" timestamp="1524043763029">
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" timestamp="1524199677868">
         <mark key="'" line="116" column="10" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+        <mark key="[" line="115" column="65" />
+        <mark key="]" line="115" column="9" />
+        <mark key="^" line="115" column="9" />
+        <mark key="." line="115" column="9" />
       </file>
       <file name="/Python Console" timestamp="1523246471194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524043806796">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524200203702">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524043795197">
         <mark key="[" line="8" column="0" />
@@ -61,6 +62,9 @@
       </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" timestamp="1523765832826">
         <mark key="'" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/html.js" timestamp="1524199845014">
+        <mark key="[" line="30" column="12" />
       </file>
       <file name="$USER_HOME$/work/fullstack-template/docker-push.sh" timestamp="1523335675761">
         <mark key="'" line="23" column="21" />
@@ -126,6 +130,12 @@
         <mark key="]" line="23" column="65" />
         <mark key="." line="23" column="65" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524200729134">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/work/fullstack-template/.travis.yml" timestamp="1523335921939">
         <mark key="'" line="27" column="49" />
         <mark key="[" line="30" column="14" />
@@ -150,11 +160,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" timestamp="1524043778001">
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" timestamp="1524200674091">
         <mark key="'" line="4" column="22" />
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="67" />
-        <mark key="." line="9" column="67" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
         <mark key="[" line="30" column="27" />
@@ -282,11 +292,11 @@
       <jump line="4" column="22" filename="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
@@ -295,31 +305,31 @@
         <text encoding="base64">ICAgICAgICAib2JqZWN0IjogIm5ldmVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0ZXggPQogICAgICAgYAogICAgICAgICAgICBXaGVuIFwoYSBcbmUgMFwpLCB0aGVyZSBhcmUgdHdvIHNvbHV0aW9ucyB0byBcKGF4XjIgKyBieCArIGMgPSAwXCkgYW5kIHRoZXkgYXJlCiAgICAgICAgICAgICQkeCA9IHstYiBccG0gXHNxcnR7Yl4yLTRhY30gXG92ZXIgMmF9LiQkCiAgICAgICBgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktc291cmNlLWZpbGVzeXN0ZW0iOiAiXjEuNS4yNyIK</text>
+        <text encoding="base64">ICAgIGxldCB0ZXggPQogICAgICAgYAogICAgICAgICAgICBXaGVuIFwoYSBcbmUgMFwpLCB0aGVyZSBhcmUgdHdvIHNvbHV0aW9ucyB0byBcKGF4XjIgKyBieCArIGMgPSAwXCkgYW5kIHRoZXkgYXJlCiAgICAgICAgICAgICQkeCA9IHstYiBccG0gXHNxcnR7Yl4yLTRhY30gXG92ZXIgMmF9LiQkCiAgICAgICBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1hdGhKYXggZnJvbSAncmVhY3QtbWF0aGpheCcK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1zb3VyY2UtZmlsZXN5c3RlbWAsCiAgICAgIG9wdGlvbnM6IHsKICAgICAgICBuYW1lOiBgaW1hZ2VzYCwKICAgICAgICBwYXRoOiBgJHtfX2Rpcm5hbWV9L3NyYy9pbWFnZXNgLAogICAgICB9LAogICAgfSw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxNYXRoSmF4LkNvbnRleHQ+CiAgICAgICAgICAgICAgPE1hdGhKYXguTm9kZT57dGV4fTwvTWF0aEpheC5Ob2RlPgogICAgICAgICAgPC9NYXRoSmF4LkNvbnRleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktdHJhbnNmb3JtZXItcmVtYXJrIjogIl4xLjcuMzciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktcmVtYXJrLWltYWdlcyI6ICJeMS41LjU2IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8TWF0aEpheC5Db250ZXh0PgogICAgICAgICAgICAgICAgICA8TWF0aEpheC5Ob2RlPnt0ZXh9PC9NYXRoSmF4Lk5vZGU+CiAgICAgICAgICAgICAgPC9NYXRoSmF4LkNvbnRleHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktcmVtYXJrLWNvcHktbGlua2VkLWZpbGVzIjogIl4xLjUuMzAiLAo=</text>
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgV2hlbiAkYSBcbmUgMCQsIHRoZXJlIGFyZSB0d28gc29sdXRpb25zIHRvIFwoYXheMiArIGJ4ICsgYyA9IDBcKSBhbmQgdGhleSBhcmUKICAgICAgICAgICAgICAgICAgJCR4ID0gey1iIFxwbSBcc3FydHtiXjItNGFjfSBcb3ZlciAyYX0uJCQKICAgICAgICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
