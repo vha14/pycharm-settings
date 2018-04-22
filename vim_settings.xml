@@ -193,6 +193,9 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/components/_form.scss" timestamp="1524367158937">
         <mark key="'" line="162" column="21" />
       </file>
+      <file name="$USER_HOME$/work/landing/gatsby-config.js" timestamp="1524422492977">
+        <mark key="'" line="83" column="18" />
+      </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="14" />
@@ -226,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="10" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="223" column="16" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="24" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
       <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
@@ -326,6 +327,8 @@
       <jump line="38" column="8" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
       <jump line="65" column="9" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="83" column="18" filename="$USER_HOME$/work/landing/gatsby-config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -335,7 +338,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>linear</text>
+        <text>netlify</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CS5pY29uIHsKCQlAaW5jbHVkZSBpY29uOwoJCWJvcmRlci1ib3R0b206IG5vbmU7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoKCQk+IC5sYWJlbCB7CgkJCWRpc3BsYXk6IG5vbmU7CgkJfQoJfQ==</text>
@@ -372,16 +375,14 @@
       </register>
     </registers>
     <search>
-      <last-search>linear</last-search>
+      <last-search>netlify</last-search>
       <last-offset />
-      <last-pattern>linear</last-pattern>
+      <last-pattern>netlify</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mont</entry>
-        <entry>script</entry>
         <entry>waypoin</entry>
         <entry>point</entry>
         <entry>scala</entry>
@@ -400,6 +401,8 @@
         <entry>loading</entry>
         <entry>delay</entry>
         <entry>linear</entry>
+        <entry>manifest</entry>
+        <entry>netlify</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
