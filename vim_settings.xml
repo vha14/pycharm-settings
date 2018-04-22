@@ -25,6 +25,9 @@
         <mark key="." line="38" column="10" />
         <mark key="^" line="38" column="10" />
       </file>
+      <file name="$USER_HOME$/work/landing/src/pages/index.js" timestamp="1524436905046">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/lhandler/Lhander10/index.html" timestamp="1523765832826">
         <mark key="'" line="10" column="0" />
       </file>
@@ -79,10 +82,11 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/work/landing/package.json" timestamp="1524435138407">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/work/landing/package.json" timestamp="1524437827367">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524370492042">
         <mark key="[" line="3" column="25" />
@@ -115,6 +119,9 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/landing/src/components/Billboard/Billboard.js" timestamp="1524437309400">
+        <mark key="'" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/web/index.html" timestamp="1523761328942">
         <mark key="'" line="0" column="0" />
@@ -198,8 +205,11 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/components/_form.scss" timestamp="1524367158937">
         <mark key="'" line="162" column="21" />
       </file>
-      <file name="$USER_HOME$/work/landing/gatsby-config.js" timestamp="1524434937844">
-        <mark key="'" line="19" column="24" />
+      <file name="$USER_HOME$/work/landing/gatsby-config.js" timestamp="1524438045879">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="4" />
+        <mark key="." line="80" column="4" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
         <mark key="[" line="21" column="14" />
@@ -234,18 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
-      <jump line="0" column="11" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
-      <jump line="32" column="26" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
-      <jump line="22" column="25" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" />
-      <jump line="70" column="15" filename="$USER_HOME$/work/nuclei/src/unet.py" />
-      <jump line="27" column="49" filename="$USER_HOME$/work/fullstack-template/.travis.yml" />
-      <jump line="8" column="47" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
-      <jump line="19" column="21" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
-      <jump line="23" column="21" filename="$USER_HOME$/work/fullstack-template/docker-push.sh" />
-      <jump line="642" column="20" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
       <jump line="12" column="67" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
       <jump line="54" column="37" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
       <jump line="637" column="18" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
@@ -332,68 +330,74 @@
       <jump line="1" column="0" filename="$USER_HOME$/work/landing/gatsby-config.js" />
       <jump line="83" column="18" filename="$USER_HOME$/work/landing/gatsby-config.js" />
       <jump line="4" column="4" filename="$USER_HOME$/work/landing/gatsby-config.js" />
-      <jump line="18" column="19" filename="$USER_HOME$/work/landing/gatsby-config.js" />
       <jump line="19" column="24" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="15" column="39" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="18" column="24" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/work/landing/package.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/landing/src/pages/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/landing/src/components/Billboard/Billboard.js" />
+      <jump line="279" column="42" filename="$USER_HOME$/work/landing/src/components/Billboard/Billboard.js" />
+      <jump line="289" column="51" filename="$USER_HOME$/work/landing/src/components/Billboard/Billboard.js" />
+      <jump line="4" column="38" filename="$USER_HOME$/work/landing/src/components/Billboard/Billboard.js" />
+      <jump line="72" column="12" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="26" column="36" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="8" column="8" filename="$USER_HOME$/work/landing/gatsby-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgImdhdHNieS1wbHVnaW4tc2hhcnAiOiAiXjEuNi4yNyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>sharp</text>
+        <text>jss</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CS5pY29uIHsKCQlAaW5jbHVkZSBpY29uOwoJCWJvcmRlci1ib3R0b206IG5vbmU7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoKCQk+IC5sYWJlbCB7CgkJCWRpc3BsYXk6IG5vbmU7CgkJfQoJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgImdhdHNieS1wbHVnaW4tc2hhcnAiOiAiXjEuNi4yNyIsCg==</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLWpzcyI6ICJeMS41LjkiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLW9mZmxpbmVgLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lmljb24gewogIEBpbmNsdWRlIGljb247Cn0K</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLW9mZmxpbmUiOiAiXjEuMC4xMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLW9mZmxpbmVgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gTGF5b3V0Lgo=</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLW9mZmxpbmUiOiAiXjEuMC4xMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcmVtYXJrLWV4dGVybmFsLWxpbmtzIjogIl4wLjAuNCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQ29tcG9uZW50Lgo=</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aSI6ICJeMS4wLjAtYmV0YS4yNyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJtZG4tcG9seWZpbGxzIjogIl41LjUuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQmFzZS4K</text>
+        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLXNoYXJwYCwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>sharp</last-search>
+      <last-search>jss</last-search>
       <last-offset />
-      <last-pattern>sharp</last-pattern>
+      <last-pattern>jss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>point</entry>
-        <entry>scala</entry>
-        <entry>rotatinn</entry>
-        <entry>rotat</entry>
-        <entry>menu</entry>
-        <entry>ttu</entry>
         <entry>Helmet</entry>
         <entry>images</entry>
         <entry>bg</entry>
@@ -407,7 +411,13 @@
         <entry>linear</entry>
         <entry>manifest</entry>
         <entry>netlify</entry>
+        <entry>plugin</entry>
         <entry>sharp</entry>
+        <entry>Sharp</entry>
+        <entry>find</entry>
+        <entry>external</entry>
+        <entry>offline</entry>
+        <entry>jss</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
