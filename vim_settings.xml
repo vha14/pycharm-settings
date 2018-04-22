@@ -48,6 +48,10 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/components/_icon.scss" timestamp="1524374209062">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="16" column="4" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/web/css/animate.css" timestamp="1523760398740">
         <mark key="'" line="1785" column="1" />
       </file>
@@ -64,6 +68,9 @@
         <mark key="[" line="23" column="65" />
         <mark key="]" line="23" column="65" />
         <mark key="." line="23" column="65" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/layout/_bg.scss" timestamp="1524382462918">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/fullstack-template/.travis.yml" timestamp="1523335921939">
         <mark key="'" line="27" column="49" />
@@ -98,6 +105,9 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" timestamp="1524382697025">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,11 +127,10 @@
       <file name="/Python Console" timestamp="1523246471194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524369828054">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524373641052">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -147,11 +156,11 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/css/font-awesome.min.css" timestamp="1524367513638">
         <mark key="'" line="3" column="142" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524371507781">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_mixins.scss" timestamp="1524367172391">
         <mark key="'" line="0" column="0" />
@@ -163,7 +172,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524201821839">
+      <file name="/Dummy.txt" timestamp="1524374387439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1522360697878">
@@ -217,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="62" column="29" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="18" column="23" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="145" column="19" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="75" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="10" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -317,62 +322,64 @@
       <jump line="11" column="19" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
       <jump line="16" column="53" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
       <jump line="27" column="41" filename="$USER_HOME$/work/mathsolvers/mso/src/layouts/index.js" />
+      <jump line="55" column="35" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/layout/_bg.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/layout/_bg.scss" />
+      <jump line="38" column="8" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text>linear</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxoZWFkZXIgaWQ9ImhlYWRlciIgc3R5bGU9e3Byb3BzLnRpbWVvdXQgPyB7ZGlzcGxheTogJ25vbmUnfSA6IHt9fT4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">CS5pY29uIHsKCQlAaW5jbHVkZSBpY29uOwoJCWJvcmRlci1ib3R0b206IG5vbmU7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoKCQk+IC5sYWJlbCB7CgkJCWRpc3BsYXk6IG5vbmU7CgkJfQoJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGltZW91dDogZmFsc2UsCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7CiAgICB0aGlzLnRpbWVvdXRJZCA9IHNldFRpbWVvdXQoKCkgPT4gdGhpcy5zZXRTdGF0ZSh7bG9hZGluZzogJyd9KSwgMTAwKTsKICB9CgogIGNvbXBvbmVudFdpbGxVbm1vdW50ICgpIHsKICAgIGlmICh0aGlzLnRpbWVvdXRJZCkgewogICAgICAgIGNsZWFyVGltZW91dCh0aGlzLnRpbWVvdXRJZCk7CiAgICB9CiAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Lmljb24gewogIEBpbmNsdWRlIGljb247Cn0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGltZW91dDogZmFsc2UsCg==</text>
+        <text encoding="base64">Ly8gTGF5b3V0Lgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Rm9vdGVyLnByb3BUeXBlcyA9IHsKICAgIHRpbWVvdXQ6IFByb3BUeXBlcy5ib29sCn0K</text>
+        <text encoding="base64">Ly8gQ29tcG9uZW50Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">Ly8gQmFzZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search>linear</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern>linear</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
-        <entry>fonts</entry>
         <entry>mont</entry>
         <entry>script</entry>
         <entry>waypoin</entry>
@@ -391,6 +398,8 @@
         <entry>fa-diamond</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>loading</entry>
+        <entry>delay</entry>
+        <entry>linear</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
