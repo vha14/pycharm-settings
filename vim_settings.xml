@@ -226,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="19" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="75" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="10" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="223" column="16" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -326,6 +325,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/layout/_bg.scss" />
       <jump line="38" column="8" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
+      <jump line="65" column="9" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -431,6 +431,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
