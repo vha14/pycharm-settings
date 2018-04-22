@@ -79,6 +79,11 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/work/landing/package.json" timestamp="1524435138407">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524370492042">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
@@ -193,8 +198,8 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/components/_form.scss" timestamp="1524367158937">
         <mark key="'" line="162" column="21" />
       </file>
-      <file name="$USER_HOME$/work/landing/gatsby-config.js" timestamp="1524422492977">
-        <mark key="'" line="83" column="18" />
+      <file name="$USER_HOME$/work/landing/gatsby-config.js" timestamp="1524434937844">
+        <mark key="'" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
         <mark key="[" line="21" column="14" />
@@ -229,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="16" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
       <jump line="25" column="39" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
       <jump line="4" column="0" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
       <jump line="0" column="11" filename="$USER_HOME$/work/testdriven-app-2.2/services/client/src/index.js" />
@@ -329,61 +331,63 @@
       <jump line="65" column="9" filename="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" />
       <jump line="1" column="0" filename="$USER_HOME$/work/landing/gatsby-config.js" />
       <jump line="83" column="18" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/work/landing/gatsby-config.js" />
+      <jump line="19" column="24" filename="$USER_HOME$/work/landing/gatsby-config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgImdhdHNieS1wbHVnaW4tc2hhcnAiOiAiXjEuNi4yNyIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>netlify</text>
+        <text>sharp</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CS5pY29uIHsKCQlAaW5jbHVkZSBpY29uOwoJCWJvcmRlci1ib3R0b206IG5vbmU7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoKCQk+IC5sYWJlbCB7CgkJCWRpc3BsYXk6IG5vbmU7CgkJfQoJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgImdhdHNieS1wbHVnaW4tc2hhcnAiOiAiXjEuNi4yNyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lmljb24gewogIEBpbmNsdWRlIGljb247Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lmljb24gewogIEBpbmNsdWRlIGljb247Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gTGF5b3V0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gTGF5b3V0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQ29tcG9uZW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ29tcG9uZW50Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQmFzZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQmFzZS4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>netlify</last-search>
+      <last-search>sharp</last-search>
       <last-offset />
-      <last-pattern>netlify</last-pattern>
+      <last-pattern>sharp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>waypoin</entry>
         <entry>point</entry>
         <entry>scala</entry>
         <entry>rotatinn</entry>
@@ -403,6 +407,7 @@
         <entry>linear</entry>
         <entry>manifest</entry>
         <entry>netlify</entry>
+        <entry>sharp</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
