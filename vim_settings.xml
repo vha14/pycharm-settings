@@ -120,6 +120,9 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_skel.scss" timestamp="1524387483192">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/landing/yarn.lock" timestamp="1524466429349">
+        <mark key="'" line="4288" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,17 +249,9 @@
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/setup.sh" timestamp="1524324437406">
         <mark key="'" line="41" column="22" />
       </file>
+      <file name="$USER_HOME$/work/landing/gatsby-node.js" timestamp="1524466504502" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="3" column="32" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="9" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="16" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="21" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="26" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="27" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="32" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
-      <jump line="33" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
       <jump line="1785" column="1" filename="$USER_HOME$/work/mathsolvers/web/css/animate.css" />
       <jump line="247" column="24" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
       <jump line="48" column="37" filename="$USER_HOME$/work/mathsolvers/web/index.html" />
@@ -348,6 +343,15 @@
       <jump line="72" column="42" filename="$USER_HOME$/work/landing/.cache/app.js" />
       <jump line="74" column="30" filename="$USER_HOME$/work/landing/.cache/app.js" />
       <jump line="53" column="30" filename="$USER_HOME$/work/landing/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="1981" column="15" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="1983" column="88" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="1985" column="4" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="3605" column="13" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="3607" column="0" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="11112" column="0" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="4169" column="2" filename="$USER_HOME$/work/landing/yarn.lock" />
+      <jump line="4288" column="0" filename="$USER_HOME$/work/landing/yarn.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,7 +361,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>brow</text>
+        <text>webpack</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CS5pY29uIHsKCQlAaW5jbHVkZSBpY29uOwoJCWJvcmRlci1ib3R0b206IG5vbmU7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoKCQk+IC5sYWJlbCB7CgkJCWRpc3BsYXk6IG5vbmU7CgkJfQoJfQ==</text>
@@ -394,16 +398,14 @@
       </register>
     </registers>
     <search>
-      <last-search>brow</last-search>
+      <last-search>webpack</last-search>
       <last-offset />
-      <last-pattern>brow</last-pattern>
+      <last-pattern>webpack</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BUCKET</entry>
-        <entry>pal</entry>
         <entry>icon</entry>
         <entry>fa-diamond</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
@@ -422,6 +424,8 @@
         <entry>navi</entry>
         <entry>node</entry>
         <entry>brow</entry>
+        <entry>gatsby</entry>
+        <entry>webpack</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
