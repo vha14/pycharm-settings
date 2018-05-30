@@ -293,6 +293,12 @@
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/setup.sh" timestamp="1524324437406">
         <mark key="'" line="41" column="22" />
       </file>
+      <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="199" column="492" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -483,13 +489,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
