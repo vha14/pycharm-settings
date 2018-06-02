@@ -69,10 +69,6 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/components/_icon.scss" timestamp="1524374209062">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="16" column="4" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/web/css/animate.css" timestamp="1523760398740">
         <mark key="'" line="1785" column="1" />
       </file>
@@ -91,6 +87,7 @@
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527969939903" />
       <file name="$USER_HOME$/work/landing/.cache/app.js" timestamp="1524444657209">
         <mark key="'" line="74" column="30" />
       </file>
@@ -216,6 +213,12 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/html.js" timestamp="1524199845014">
         <mark key="[" line="30" column="12" />
       </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/App.js" timestamp="1527970297635">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/css/font-awesome.min.css" timestamp="1524367513638">
         <mark key="'" line="3" column="142" />
       </file>
@@ -224,6 +227,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527969998491">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_mixins.scss" timestamp="1524367172391">
         <mark key="'" line="0" column="0" />
@@ -308,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="39" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="11" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="108" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -408,10 +417,11 @@
       <jump line="41" column="12" filename="$USER_HOME$/work/rambuta/ml/gender.py" />
       <jump line="42" column="12" filename="$USER_HOME$/work/rambuta/ml/gender.py" />
       <jump line="44" column="0" filename="$USER_HOME$/work/rambuta/ml/gender.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/work/notes-app-client/src/containers/Login.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoIkxvZ2dlZCBpbiIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>opencvOutput</text>
@@ -423,31 +433,31 @@
         <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3YyLmltc2hvdygiZ3JheSIsIGdyYXkpCg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoIkxvZ2dlZCBpbiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNraW1hZ2UK</text>
+        <text encoding="base64">Y3YyLmltc2hvdygiZ3JheSIsIGdyYXkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNraW1hZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBpYzAxIGZyb20gJy4uL2ltYWdlcy9waWMwMS5qcGcnCmltcG9ydCBwaWMwMiBmcm9tICcuLi9pbWFnZXMvcGljMDIuanBnJwppbXBvcnQgcGljMDMgZnJvbSAnLi4vaW1hZ2VzL3BpYzAzLmpwZycK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBpYzAxIGZyb20gJy4uL2ltYWdlcy9waWMwMS5qcGcnCmltcG9ydCBwaWMwMiBmcm9tICcuLi9pbWFnZXMvcGljMDIuanBnJwppbXBvcnQgcGljMDMgZnJvbSAnLi4vaW1hZ2VzL3BpYzAzLmpwZycK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgIDxhcnRpY2xlIGlkPSJpbnRybyIKICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YCR7dGhpcy5wcm9wcy5hcnRpY2xlID09PSAnaW50cm8nID8gJ2FjdGl2ZScgOiAnJ30gJHt0aGlzLnByb3BzLmFydGljbGVUaW1lb3V0ID8gJ3RpbWVvdXQnIDogJyd9YH0KICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7ZGlzcGxheTogJ25vbmUnfX0+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibWFqb3IiPkludHJvPC9oMj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImltYWdlIG1haW4iPjxpbWcgc3JjPXtwaWMwMX0gYWx0PSIiLz48L3NwYW4+CiAgICAgICAgICAgICAgPHA+QnkgdGhlIHdheSwgY2hlY2sgb3V0IG15IDxhIGhyZWY9IiN3b3JrIj5hd2Vzb21lIHdvcms8L2E+LjwvcD4KICAgICAgICAgICAgICB7Y2xvc2V9CiAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgPGFydGljbGUgaWQ9IndvcmsiCiAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2Ake3RoaXMucHJvcHMuYXJ0aWNsZSA9PT0gJ3dvcmsnID8gJ2FjdGl2ZScgOiAnJ30gJHt0aGlzLnByb3BzLmFydGljbGVUaW1lb3V0ID8gJ3RpbWVvdXQnIDogJyd9YH0KICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7ZGlzcGxheTogJ25vbmUnfX0+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibWFqb3IiPldvcms8L2gyPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaW1hZ2UgbWFpbiI+PGltZyBzcmM9e3BpYzAyfSBhbHQ9IiIvPjwvc3Bhbj4KICAgICAgICAgICAgICA8cD5JbnRlZ2VyIHNvbGxpY2l0dWRpbiBtYXVyaXMgbmVjIGxvcmVtIGx1Y3R1cyB1bHRyaWNlcy48L3A+CiAgICAgICAgICAgICAge2Nsb3NlfQogICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgIDxhcnRpY2xlIGlkPSJhYm91dCIKICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YCR7dGhpcy5wcm9wcy5hcnRpY2xlID09PSAnYWJvdXQnID8gJ2FjdGl2ZScgOiAnJ30gJHt0aGlzLnByb3BzLmFydGljbGVUaW1lb3V0ID8gJ3RpbWVvdXQnIDogJyd9YH0KICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7ZGlzcGxheTogJ25vbmUnfX0+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibWFqb3IiPkFib3V0PC9oMj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImltYWdlIG1haW4iPjxpbWcgc3JjPXtwaWMwM30gYWx0PSIiLz48L3NwYW4+CiAgICAgICAgICAgICAgPHA+Q3JhcyB2aXZlcnJhIGxpZ3VsYSBzaXQgYW1ldCBleCBtb2xsaXMgbWF0dGlzIGxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LjwvcD4KICAgICAgICAgICAgICB7Y2xvc2V9CiAgICAgICAgICA8L2FydGljbGU+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJqYXZhc2NyaXB0OjsiIG9uQ2xpY2s9eygpID0+IHtwcm9wcy5vbk9wZW5BcnRpY2xlKCdhYm91dCcpfX0+QWJvdXQ8L2E+PC9saT4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJqYXZhc2NyaXB0OjsiIG9uQ2xpY2s9eygpID0+IHtwcm9wcy5vbk9wZW5BcnRpY2xlKCd3b3JrJyl9fT5Xb3JrPC9hPjwvbGk+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJqYXZhc2NyaXB0OjsiIG9uQ2xpY2s9eygpID0+IHtwcm9wcy5vbk9wZW5BcnRpY2xlKCdpbnRybycpfX0+SW50cm88L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJqYXZhc2NyaXB0OjsiIG9uQ2xpY2s9eygpID0+IHtwcm9wcy5vbk9wZW5BcnRpY2xlKCd3b3JrJyl9fT5Xb3JrPC9hPjwvbGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
