@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/work/mathsolvers/titan/Business/titan-business-static-v0.1.0/package.json" timestamp="1523811715510">
         <mark key="'" line="104" column="11" />
       </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
       <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="17" />
@@ -84,10 +90,18 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/containers/Singup.js" timestamp="1527976717430">
+        <mark key="'" line="101" column="30" />
+      </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/src/registerServiceWorker.js" timestamp="1522800141132">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527969939903" />
+      <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527976836357">
+        <mark key="[" line="11" column="77" />
+        <mark key="]" line="12" column="78" />
+        <mark key="^" line="12" column="78" />
+        <mark key="." line="12" column="78" />
+      </file>
       <file name="$USER_HOME$/work/landing/.cache/app.js" timestamp="1524444657209">
         <mark key="'" line="74" column="30" />
       </file>
@@ -318,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="11" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="108" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="20" column="20" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -418,6 +431,7 @@
       <jump line="42" column="12" filename="$USER_HOME$/work/rambuta/ml/gender.py" />
       <jump line="44" column="0" filename="$USER_HOME$/work/rambuta/ml/gender.py" />
       <jump line="28" column="0" filename="$USER_HOME$/work/notes-app-client/src/containers/Login.js" />
+      <jump line="101" column="30" filename="$USER_HOME$/work/notes-app-client/src/containers/Singup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
