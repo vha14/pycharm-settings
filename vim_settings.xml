@@ -213,8 +213,8 @@
       <file name="$USER_HOME$/work/mathsolvers/mso/src/html.js" timestamp="1524199845014">
         <mark key="[" line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/App.js" timestamp="1527971489356">
-        <mark key="[" line="3" column="53" />
+      <file name="$USER_HOME$/work/notes-app-client/src/App.js" timestamp="1527975201147">
+        <mark key="[" line="40" column="37" />
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
@@ -228,12 +228,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527971609544">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="30" column="43" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527975724935">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/libs/_mixins.scss" timestamp="1524367172391">
         <mark key="'" line="0" column="0" />
@@ -420,11 +420,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/work/notes-app-client/src/containers/Login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaXNBdXRoZW50aWNhdGVkOiBmYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>opencvOutput</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>bg</text>
