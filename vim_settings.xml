@@ -104,8 +104,8 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" timestamp="1528120284937">
-        <mark key="'" line="10" column="2" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" timestamp="1528163145360">
+        <mark key="'" line="25" column="2" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -122,7 +122,7 @@
       <file name="/Dummy.txt" timestamp="1528070857677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1528122938324">
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1528163258398">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="28" column="58" />
         <mark key="." line="28" column="58" />
@@ -149,6 +149,12 @@
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/libs/dynamodb-lib.js" timestamp="1528162846574">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
@@ -237,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="223" column="16" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="24" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
       <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
       <jump line="25" column="39" filename="$USER_HOME$/work/nuclei/src/unet_starter.py" />
@@ -330,23 +334,25 @@
       <jump line="92" column="20" filename="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" />
       <jump line="20" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="11" column="64" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="15" column="64" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="24" column="2" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="44" column="35" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="8" column="8" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="10" column="2" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
+      <jump line="77" column="37" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
+      <jump line="25" column="2" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>stage</text>
+        <text>region</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bnB4IGF3cy1hcGktZ2F0ZXdheS1jbGktdGVzdCBcCi0tdXNlcm5hbWU9J3ZoYTE0QG1hdGhzb2x2ZXJzLm9yZycgXAotLXBhc3N3b3JkPSdCaXRvdGV0MkAnIFwKLS11c2VyLXBvb2wtaWQ9J3VzLXdlc3QtMl9XNGwxU0k4MjknIFwKLS1hcHAtY2xpZW50LWlkPScxYmdyM2FuOG8xM2E5cWMybWhhcDloOWwycScgXAotLWNvZ25pdG8tcmVnaW9uPSd1cy13ZXN0LTInIFwKLS1pZGVudGl0eS1wb29sLWlkPSd1cy13ZXN0LTI6ZjgzMjI0NmMtYmYwMC00MGQxLThjZWMtYTY3MTY0ZmM2OThlJyBcCi0taW52b2tlLXVybD0naHR0cHM6Ly9pdTV2cGIxaWg4LmV4ZWN1dGUtYXBpLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3Byb2QnIFwKLS1hcGktZ2F0ZXdheS1yZWdpb249J3VzLXdlc3QtMicgXAotLXBhdGgtdGVtcGxhdGU9Jy9ub3RlcycgXAotLW1ldGhvZD0nR2V0Jwo=</text>
@@ -383,9 +389,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stage</last-search>
+      <last-search>region</last-search>
       <last-offset />
-      <last-pattern>stage</last-pattern>
+      <last-pattern>region</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -409,8 +415,8 @@
         <entry>custom</entry>
         <entry>iam</entry>
         <entry>iamRole</entry>
-        <entry>region</entry>
         <entry>stage</entry>
+        <entry>region</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
