@@ -1,0 +1,286 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1522097631253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528344793994">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1522168062628">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1528344788237">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" timestamp="1527890332008">
+        <mark key="'" line="73" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1522086627291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" timestamp="1527010556498">
+        <mark key="'" line="95" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/nuclei/src/overview.py" timestamp="1522184165132">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="79" column="3" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" timestamp="1527011932448">
+        <mark key="'" line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
+        <mark key="'" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528327351157">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" timestamp="1525003535909">
+        <mark key="'" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
+        <mark key="'" line="180" column="8" />
+        <mark key="[" line="210" column="22" />
+        <mark key="]" line="210" column="26" />
+        <mark key="^" line="210" column="26" />
+        <mark key="." line="210" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" timestamp="1524972499930">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="135" column="1" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/fetch.sh" timestamp="1525243856554">
+        <mark key="'" line="50" column="17" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/setup.sh" timestamp="1525227777558">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="250" column="49" />
+        <mark key="]" line="251" column="11" />
+        <mark key="." line="251" column="11" />
+        <mark key="^" line="251" column="11" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1522112757471">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="210" column="10" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="275" column="17" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="42" column="7" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="189" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="217" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="188" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="72" column="4" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="77" column="86" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="200" column="56" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="111" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="85" column="13" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="199" column="492" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="214" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="325" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="21" column="67" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="15" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="31" column="7" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="287" column="10" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="34" column="70" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="35" column="32" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="296" column="39" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="62" column="29" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="18" column="23" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="145" column="19" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/work/nuclei/src/overview.py" />
+      <jump line="121" column="69" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" />
+      <jump line="4" column="15" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" />
+      <jump line="9" column="22" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" />
+      <jump line="2" column="6" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" />
+      <jump line="13" column="6" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" />
+      <jump line="16" column="5" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" />
+      <jump line="40" column="0" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" />
+      <jump line="54" column="19" filename="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" />
+      <jump line="68" column="2" filename="$USER_HOME$/work/eye-of-sauron/etc/conda_env.yml" />
+      <jump line="83" column="7" filename="$USER_HOME$/work/eye-of-sauron/etc/conda_env.yml" />
+      <jump line="50" column="17" filename="$USER_HOME$/work/eye-of-sauron/scripts/fetch.sh" />
+      <jump line="40" column="0" filename="$USER_HOME$/allenai/ai2website/app/html/incubator.html" />
+      <jump line="22" column="8" filename="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
+      <jump line="20" column="11" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
+      <jump line="29" column="16" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
+      <jump line="57" column="11" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
+      <jump line="95" column="27" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
+      <jump line="22" column="6" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
+      <jump line="73" column="17" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>#</text>
+      </register>
+      <register name="-" type="4">
+        <text>#</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwb3dkZXJ5XD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICAgIDxpbWcgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fcGhvdG8iIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzcmM9Int7Y2FjaGUtYnJlYWs6Li4vaW1hZ2VzL2luY3ViYXRvci9ob2NraW5nLmpwZ319IiBhbHQ9Ik1hdHQgSG9ja2luZydzIFByb2ZpbGUgUGhvdG8iPgogICAgICAgIDxoMyBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19uYW1lIj5NYXR0IEhvY2tpbmc8L2gzPgogICAgICAgIDxsYWJlbCBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X190aXRsZSI+RW50cmVwcmVuZXVyIGluIFJlc2lkZW5jZTwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19kZXNjIj4KICAgICAgICAgICAgTWF0dCBpcyBhbiBleHBlcmllbmNlZCBwcm9kdWN0IGRlc2lnbmVyIGV4Y2l0ZWQgYnkgYnVpbGRpbmcgYnVzaW5lc3NlcyBhbmQgcHJvZHVjdHMgdGhhdCBzb2x2ZSByZWFsIHByb2JsZW1zIGZvciBldmVyeWRheSBwZW9wbGUuIEhlIGNvLWZvdW5kZWQgbW92aW5nIHN0YXJ0dXAgR2hvc3RydWNrLCB3YXMgYW4gZWFybHkgbWVtYmVyIG9mIHByb2R1Y3QgdGVhbXMgYXQgTWVldE1vaSAoYWNxdWlyZWQgYnkgTWF0Y2guY29tKSBhbmQgQ2hpbWUsIGFuZCBoYXMgY29uc3VsdGVkIG9uIGRlc2lnbiBhbmQgZXhwZXJpZW5jZSBmb3IgVWJlciwgV2VXb3JrLCBNaWNyb3NvZnQsIFQtTW9iaWxlLCBEb2N1U2lnbiwgT2ZmZXJVcCwgUmVnYWxpaSBhbmQgQXBwdXJpIChBY3F1aXJlZCBieSBEb2N1c2lnbikuIE1hdHQgaGFzIGFsc28gbGVjdHVyZWQgb24gZGVzaWduIGludGVybmF0aW9uYWxseSBhdCBHZW5lcmFsIEFzc2VtYmx5IGFuZCB0aGUgU2hpbGxpbmd0b24gU2Nob29sIG9mIERlc2lnbi4KICAgICAgICA8L2Rpdj4KICAgICAgPC9saT4=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">I3Bvd2RlcnkgbWlsZGV3IHByZWRpY3Rpb24gaW5kZXggLSBjdXJyZW50bHkgc3RhdGUgb2YgdGhlIGFydDoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICIiIkxvYWQgdGhlIGZlYXR1cml6ZWQgZmVlZGJhY2sgZGF0YS4iIiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBucm93cz1ucm93cykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjb252ZXJ0ZXJzPXtjb2w6IChsYW1iZGEgeDogJycgaWYgdHlwZSh4KSA9PSBmbG9hdCBlbHNlIHgpIGZvciBjb2wgaW4gU1RSSU5HX0NPTFVNTlN9LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjIHByZXZlbnQgY29udmVyc2lvbiBvZiBlbXB0eSBzdHJpbmcgdmFsdWVzIHRvIG5hbiBmb3Igc3RyaW5nLXR5cGVkIGNvbHVtbnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjIHByZXZlbnQgY29udmVyc2lvbiBvZiBlbXB0eSBzdHJpbmcgdmFsdWVzIHRvIG5hbiBmb3Igc3RyaW5nLXR5cGVkIGNvbHVtbnMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzaGFyZWQucGF0aHMgYXMgcGF0aHMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWF0dCBpcyBhbiBleHBlcmllbmNlZCBwcm9kdWN0IGRlc2lnbmVyIGV4Y2l0ZWQgYnkgYnVpbGRpbmcgYnVzaW5lc3NlcyBhbmQgcHJvZHVjdHMgdGhhdCBzb2x2ZSByZWFsIHByb2JsZW1zIGZvciBldmVyeWRheSBwZW9wbGUuIEhlIGNvLWZvdW5kZWQgbW92aW5nIHN0YXJ0dXAgR2hvc3RydWNrLCB3YXMgYW4gZWFybHkgbWVtYmVyIG9mIHByb2R1Y3QgdGVhbXMgYXQgTWVldE1vaSAoYWNxdWlyZWQgYnkgTWF0Y2guY29tKSBhbmQgQ2hpbWUsIGFuZCBoYXMgY29uc3VsdGVkIG9uIGRlc2lnbiBhbmQgZXhwZXJpZW5jZSBmb3IgVWJlciwgV2VXb3JrLCBNaWNyb3NvZnQsIFQtTW9iaWxlLCBEb2N1U2lnbiwgT2ZmZXJVcCwgUmVnYWxpaSBhbmQgQXBwdXJpIChBY3F1aXJlZCBieSBEb2N1c2lnbikuIE1hdHQgaGFzIGFsc28gbGVjdHVyZWQgb24gZGVzaWduIGludGVybmF0aW9uYWxseSBhdCBHZW5lcmFsIEFzc2VtYmx5IGFuZCB0aGUgU2hpbGxpbmd0b24gU2Nob29sIG9mIERlc2lnbi4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxwb3dkZXJ5XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwb3dkZXJ5XD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ipython</entry>
+        <entry>IMG_CH</entry>
+        <entry>get_ipython</entry>
+        <entry>sns</entry>
+        <entry>read_and</entry>
+        <entry>test_</entry>
+        <entry>timeit</entry>
+        <entry>get_ipy</entry>
+        <entry>UpSam</entry>
+        <entry>Lambda</entry>
+        <entry>dsb_</entry>
+        <entry>train_la</entry>
+        <entry>img_df</entry>
+        <entry>imread</entry>
+        <entry>foo</entry>
+        <entry>initial</entry>
+        <entry>MapPro</entry>
+        <entry>key_name</entry>
+        <entry>16</entry>
+        <entry encoding="base64">XDxwb3dkZXJ5XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
