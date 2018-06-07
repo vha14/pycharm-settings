@@ -1,6 +1,10 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -8,7 +12,6 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="AddToFavoritesPopup" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -22,6 +25,8 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="DecrementWindowHeight" />
+  <action id="EditorMatchBrace" />
   <action id="EditorStartNewLine" />
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
@@ -41,11 +46,14 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="OpenElementInNewWindow" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="shift alt f" />
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
+  <action id="MoveStatementUp" />
+  <action id="OpenElementInNewWindow" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowUp" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt comma" />

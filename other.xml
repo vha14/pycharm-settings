@@ -1,0 +1,33 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bcl/bin/python" value="true" />
+        <entry key="$USER_HOME$/miniconda3/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/agromo-pm/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/tf/bin/python" value="false" />
+        <entry key="$USER_HOME$/work/eye-of-sauron/sauron-env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bcl/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/agromo-pm/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/tf/bin/python" value="false" />
+        <entry key="$USER_HOME$/work/eye-of-sauron/sauron-env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bcl/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/agromo-pm/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/tf/bin/python" value="false" />
+        <entry key="$USER_HOME$/work/eye-of-sauron/sauron-env/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
