@@ -34,11 +34,12 @@
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
         <mark key="'" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528394023307">
+      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528398727663">
         <mark key="'" line="15" column="2" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="58" />
+        <mark key="^" line="56" column="58" />
+        <mark key="." line="56" column="58" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" timestamp="1525003535909">
         <mark key="'" line="54" column="19" />
@@ -165,44 +166,44 @@
       <jump line="15" column="2" filename="$USER_HOME$/work/agromo/src/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBkYXRlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>%m</text>
       </register>
       <register name="-" type="4">
-        <text>MonthLocator</text>
+        <text>%m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3dkZXJ5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9udGhzID0gbWRhdGVzLk1vbnRoTG9jYXRvcigpICAjIGV2ZXJ5IG1vbnRoCg==</text>
+        <text encoding="base64">cHJpbnQoZiJ7ZGF0YS5zaGFwZVswXX0gcm93cyByZWFkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBkYXRlcwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBldmVyeSBtb250aAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBldmVyeSBtb250aAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGF0YS5EYXRlWzBdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGF0YS5zaGFwZQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ZGF0YS5kZXNjcmliZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eWVhcnMgPSBtZGF0ZXMuWWVhckxvY2F0b3IoKSAgICMgZXZlcnkgeWVhcgo=</text>
+        <text encoding="base64">ZGF0YS5EYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eWVhcnNGbXQgPSBtZGF0ZXMuRGF0ZUZvcm1hdHRlcignJVknKQo=</text>
+        <text encoding="base64">ZGF0YSA9IGRhdGFbZGF0YVsiRGF0ZSJdLmRhdGV0aW1lLmRhdGV0aW1lLlllYXIoKSA9PSAyMDE2XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXggPWZpZy5hZGRfc3VicGxvdCgxMTEpCg==</text>
+        <text encoding="base64">ZGF0YS5zaGFwZVswXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
