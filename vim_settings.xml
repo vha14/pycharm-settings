@@ -34,12 +34,11 @@
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
         <mark key="'" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528400306213">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="21" />
-        <mark key="^" line="54" column="21" />
-        <mark key="." line="54" column="21" />
+      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528419991605">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="27" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" timestamp="1525003535909">
         <mark key="'" line="54" column="19" />
@@ -164,46 +163,51 @@
       <jump line="73" column="17" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
       <jump line="2" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="15" column="2" filename="$USER_HOME$/work/agromo/src/explore.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l4</text>
+        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0g</text>
       </register>
       <register name="-" type="4">
-        <text>l4</text>
+        <text>mean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3dkZXJ5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXgucGxvdChkYXRhLkRhdGUsIGRhdGEuUE0pCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0gPSA0ICogKG1lYW50bXAgLSBtZWFudG1wLm1pbigpKS8obWVhbnRtcC5tYXgoKSAtIG1lYW50bXAubWluKCkpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YS5EYXRlWzBdCg==</text>
+        <text encoding="base64">ZGF0YS5NRUFOVE1QID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YS5zaGFwZQo=</text>
+        <text encoding="base64">c2NhbGVkID0gbWluX21heF9zY2FsZXIuZml0X3RyYW5zZm9ybShkYXRhLk1FQU5UTVApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YS5kZXNjcmliZSgpCg==</text>
+        <text encoding="base64">bWluX21heF9zY2FsZXIgPSBwcmVwcm9jZXNzaW5nLk1pbk1heFNjYWxlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYgPSBwYW5kYXMuRGF0YUZyYW1lKHhfc2NhbGVkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YS5EYXRlCg==</text>
+        <text encoding="base64">eCA9IGRmLnZhbHVlcyAjcmV0dXJucyBhIG51bXB5IGFycmF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YSA9IGRhdGFbZGF0YVsiRGF0ZSJdLmRhdGV0aW1lLmRhdGV0aW1lLlllYXIoKSA9PSAyMDE2XQo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBwcmVwcm9jZXNzaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YS5zaGFwZVswXQo=</text>
+        <text encoding="base64">ZGF0YS5EYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
