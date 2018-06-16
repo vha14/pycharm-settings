@@ -128,6 +128,11 @@
         <mark key="." line="251" column="11" />
         <mark key="^" line="251" column="11" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529190920087">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="19" />
@@ -178,7 +183,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1529173203843">
+      <file name="/Python Console" timestamp="1529190074306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -273,6 +278,12 @@
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
         <mark key="'" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/tsconfig.json" timestamp="1529190704784">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -288,6 +299,12 @@
         <mark key="]" line="11" column="66" />
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529190452995">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/work/mso/public/index.html" timestamp="1523906089227">
         <mark key="[" line="11" column="22" />
@@ -414,8 +431,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMy4zIiwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -427,31 +444,31 @@
         <text encoding="base64">cGxvdF9wbV9tZWFudG1wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMy4zIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICJtb2R1bGUiOiAiY29tbW9uanMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIGF4LnBsb3QoZGF0YS5EYXRlLCBkYXRhLk1FQU5UTVAsIGxhYmVsPSdNZWFuIFRlbXBlcmF0dXJlJykK</text>
+        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YS5NRUFOVE1QLmRlc2NyaWJlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBwcmVwcm9jZXNzaW5nCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0gPSA0ICogKG1lYW50bXAgLSBtZWFudG1wLm1pbigpKS8obWVhbnRtcC5tYXgoKSAtIG1lYW50bXAubWluKCkpCgo=</text>
+        <text encoding="base64">ICAjIGF4LnBsb3QoZGF0YS5EYXRlLCBkYXRhLk1FQU5UTVAsIGxhYmVsPSdNZWFuIFRlbXBlcmF0dXJlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YQo=</text>
+        <text encoding="base64">ZGF0YS5NRUFOVE1QLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YS5NRUFOVE1QID0gCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBwcmVwcm9jZXNzaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NhbGVkID0gbWluX21heF9zY2FsZXIuZml0X3RyYW5zZm9ybShkYXRhLk1FQU5UTVApCg==</text>
+        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0gPSA0ICogKG1lYW50bXAgLSBtZWFudG1wLm1pbigpKS8obWVhbnRtcC5tYXgoKSAtIG1lYW50bXAubWluKCkpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
