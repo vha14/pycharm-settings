@@ -237,8 +237,8 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" timestamp="1529173427824">
-        <mark key="'" line="16" column="26" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" timestamp="1529189329502">
+        <mark key="'" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/package.json" timestamp="1529188508439" />
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" timestamp="1527010556498">
@@ -411,6 +411,7 @@
       <jump line="60" column="53" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="16" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
+      <jump line="26" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
