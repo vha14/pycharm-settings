@@ -297,6 +297,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529208902167">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -451,11 +457,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>: Callback</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
