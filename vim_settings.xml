@@ -297,11 +297,11 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529208902167">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529247670086">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
@@ -458,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>forceExclude: - aws-sdk</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>forceExclude: - aws-sdk</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
