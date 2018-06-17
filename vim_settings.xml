@@ -109,6 +109,12 @@
       <file name="$USER_HOME$/work/notes-app-client/src/components/UnauthenticatedRoute.js" timestamp="1527982000564">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
         <mark key="[" line="23" column="65" />
         <mark key="]" line="23" column="65" />
@@ -168,6 +174,13 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" timestamp="1529195010104">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Notes.js" timestamp="1527981768172">
         <mark key="'" line="161" column="25" />
@@ -278,11 +291,11 @@
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
         <mark key="'" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/tsconfig.json" timestamp="1529190704784">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/tsconfig.json" timestamp="1529194578593">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
@@ -300,11 +313,10 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529190452995">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529193659887">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="$USER_HOME$/work/mso/public/index.html" timestamp="1523906089227">
         <mark key="[" line="11" column="22" />
@@ -330,6 +342,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529193394136">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-client/src/config.js" timestamp="1528062493707">
         <mark key="[" line="29" column="20" />
@@ -429,46 +446,49 @@
       <jump line="21" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="16" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
+      <jump line="20" column="57" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMy4zIiwK</text>
+        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>: Callback</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGxvdF9wbV9tZWFudG1wKCkK</text>
+        <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMy4zIiwK</text>
+        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtb2R1bGUiOiAiY29tbW9uanMiCg==</text>
+        <text encoding="base64">aW1wb3J0IHtlcnJvcn0gZnJvbSAidXRpbCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
+        <text encoding="base64">ICAgIHJlc29sdmU6IHsKICAgICAgZXh0ZW5zaW9uczogWycudHMnLCAnLmpzJywgJy5qc29uJ10KICAgIH0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHJlc29sdmU6IHsKICAgICAgZXh0ZW5zaW9uczogWycudHMnLCAnLmpzJywgJy5qc29uJ10KICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgImVzbmV4dC5hc3luY2l0ZXJhYmxlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIGF4LnBsb3QoZGF0YS5EYXRlLCBkYXRhLk1FQU5UTVAsIGxhYmVsPSdNZWFuIFRlbXBlcmF0dXJlJykK</text>
+        <text encoding="base64">ICAgICAgImRvbSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YS5NRUFOVE1QLmRlc2NyaWJlKCkK</text>
+        <text encoding="base64">ICAgICAgImVzNiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBwcmVwcm9jZXNzaW5nCg==</text>
+        <text encoding="base64">ICAgICAgImVzNSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0gPSA0ICogKG1lYW50bXAgLSBtZWFudG1wLm1pbigpKS8obWVhbnRtcC5tYXgoKSAtIG1lYW50bXAubWluKCkpCgo=</text>
+        <text encoding="base64">ICAgICJtb2R1bGUiOiAiY29tbW9uanMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
