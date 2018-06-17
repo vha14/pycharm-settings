@@ -121,11 +121,11 @@
       <file name="$USER_HOME$/work/notes-app-client/src/components/UnauthenticatedRoute.js" timestamp="1527982000564">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529269548251">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
         <mark key="[" line="23" column="65" />
@@ -206,6 +206,11 @@
         <mark key="]" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/delete.ts" timestamp="1529269649609">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524200203702">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="35" />
@@ -251,6 +256,11 @@
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/update.ts" timestamp="1529269690666">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -477,11 +487,11 @@
       <jump line="129357" column="1" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/node_modules/aws-sdk/dist/aws-sdk.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzb3VyY2UtbWFwLXN1cHBvcnQiOiAiXjAuNS42IiwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
