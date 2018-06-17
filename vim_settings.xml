@@ -146,10 +146,11 @@
         <mark key="." line="251" column="11" />
         <mark key="^" line="251" column="11" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529190920087">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529268219870">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
@@ -477,10 +478,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhbGxvd1N5bnRoZXRpY0RlZmF1bHRJbXBvcnRzIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICJzb3VyY2UtbWFwLXN1cHBvcnQiOiAiXjAuNS42IiwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -489,31 +490,31 @@
         <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbGxvd1N5bnRoZXRpY0RlZmF1bHRJbXBvcnRzIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICJzb3VyY2UtbWFwLXN1cHBvcnQiOiAiXjAuNS42IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXZ0b29sOiAnc291cmNlLW1hcCcsCg==</text>
+        <text encoding="base64">ICAgICJhbGxvd1N5bnRoZXRpY0RlZmF1bHRJbXBvcnRzIjogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIGF3cy1zZGsK</text>
+        <text encoding="base64">ICBkZXZ0b29sOiAnc291cmNlLW1hcCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yY2VFeGNsdWRlOgo=</text>
+        <text encoding="base64">ICAgICAgICAtIGF3cy1zZGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIHV1aWQK</text>
+        <text encoding="base64">ICAgICAgZm9yY2VFeGNsdWRlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9yY2VJbmNsdWRlOgo=</text>
+        <text encoding="base64">ICAgICAgICAtIHV1aWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
+        <text encoding="base64">ICAgICAgZm9yY2VJbmNsdWRlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtlcnJvcn0gZnJvbSAidXRpbCI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmU6IHsKICAgICAgZXh0ZW5zaW9uczogWycudHMnLCAnLmpzJywgJy5qc29uJ10KICAgIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHtlcnJvcn0gZnJvbSAidXRpbCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
