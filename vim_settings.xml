@@ -120,11 +120,11 @@
       <file name="$USER_HOME$/work/notes-app-client/src/components/UnauthenticatedRoute.js" timestamp="1527982000564">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529269548251">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="5" column="61" />
-        <mark key="^" line="5" column="61" />
-        <mark key="." line="5" column="61" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529330898603">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
         <mark key="[" line="23" column="65" />
@@ -145,10 +145,10 @@
         <mark key="." line="251" column="11" />
         <mark key="^" line="251" column="11" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529274271869">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529329750840">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
@@ -261,6 +261,12 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/.gitignore" timestamp="1529331005941">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
         <mark key="]" line="7" column="69" />
@@ -325,11 +331,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529249363551">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="23" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529330318800">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
@@ -377,11 +384,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529274361885">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529330881066">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-client/src/config.js" timestamp="1528062493707">
         <mark key="[" line="29" column="20" />
@@ -485,55 +493,59 @@
       <jump line="20" column="57" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
       <jump line="129357" column="1" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/node_modules/aws-sdk/dist/aws-sdk.js" />
+      <jump line="24" column="1" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
+      <jump line="7" column="8" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
+      <jump line="19" column="25" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>requestContext.identity.cognitoIdentityId,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>requestContext.identity.cognitoIdentityId,</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>stage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYXdzLWxhbWJkYSI6ICJeOC4xMC42IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtDYWxsYmFja30gZnJvbSAiYXdzLWxhbWJkYSI7Cg==</text>
+        <text encoding="base64">QVdTLmNvbmZpZy51cGRhdGUoeyByZWdpb246ICJ1cy13ZXN0LTIiIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5RXZlbnR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtEb2N1bWVudENsaWVudH0gZnJvbSAiYXdzLXNkay9saWIvZHluYW1vZGIvZG9jdW1lbnRfY2xpZW50IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3Mtb2ZmbGluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjb29yZGluYXRlID0gMTsK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLW9mZmxpbmUiOiAiXjMuMjUuNCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEb2N1bWVudENsaWVudH0gZnJvbSAiYXdzLXNkay9saWIvZHluYW1vZGIvZG9jdW1lbnRfY2xpZW50IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBmb28gPSAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzb3VyY2UtbWFwLXN1cHBvcnQiOiAiXjAuNS42IiwK</text>
+        <text encoding="base64">QVdTLmNvbmZpZy51cGRhdGUoeyByZWdpb246ICJ1cy13ZXN0LTIiIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhbGxvd1N5bnRoZXRpY0RlZmF1bHRJbXBvcnRzIjogdHJ1ZSwK</text>
+        <text encoding="base64">anNwbV9wYWNrYWdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>stage</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>stage</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -556,9 +568,9 @@
         <entry>custom</entry>
         <entry>iam</entry>
         <entry>iamRole</entry>
-        <entry>stage</entry>
         <entry>region</entry>
         <entry>get</entry>
+        <entry>stage</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
