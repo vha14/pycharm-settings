@@ -107,6 +107,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/work/agromomaster/requirements.txt" timestamp="1529353966732">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -300,7 +306,7 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528995226979">
+      <file name="/Dummy.txt" timestamp="1529353976965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1528998739201">
@@ -324,10 +330,11 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Notes.js" timestamp="1527981768172">
         <mark key="'" line="161" column="25" />
       </file>
-      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1529348858282">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1529353852472">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="51" />
+        <mark key="^" line="46" column="51" />
+        <mark key="." line="46" column="51" />
       </file>
       <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
         <mark key="'" line="180" column="8" />
@@ -462,7 +469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -474,31 +481,31 @@
         <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
+        <text encoding="base64">ICA6cGFyYW0gc2FtZV9zY2FsZTogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtlcnJvcn0gZnJvbSAidXRpbCI7Cg==</text>
+        <text encoding="base64">bWVhbnRtcC5kZXNjcmliZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmU6IHsKICAgICAgZXh0ZW5zaW9uczogWycudHMnLCAnLmpzJywgJy5qc29uJ10KICAgIH0sCg==</text>
+        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0uZGVzY3JpYmUoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHJlc29sdmU6IHsKICAgICAgZXh0ZW5zaW9uczogWycudHMnLCAnLmpzJywgJy5qc29uJ10KICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIGF4LmZvcm1hdF94ZGF0YSA9IG1kYXRlcy5EYXRlRm9ybWF0dGVyKCclbS0lZCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImVzbmV4dC5hc3luY2l0ZXJhYmxlIgo=</text>
+        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImRvbSIsCg==</text>
+        <text encoding="base64">ICA6cGFyYW0gZGF0YTogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImVzNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImVzNSIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
