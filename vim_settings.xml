@@ -227,6 +227,12 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529359222794">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529208902167">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="21" column="16" />
@@ -309,7 +315,7 @@
       <file name="/Dummy.txt" timestamp="1529353976965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1528998739201">
+      <file name="/code.py" timestamp="1529359493825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/App.tsx" timestamp="1524609331476">
@@ -469,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIC0gdG9vbHo9PTAuOS4wCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>==0.19.1</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -481,31 +487,31 @@
         <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIC0gdG9vbHo9PTAuOS4wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA6cGFyYW0gc2FtZV9zY2FsZTogCg==</text>
+        <text encoding="base64">ICAgIC0gcHl3YXZlbGV0cz09MC41LjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWVhbnRtcC5kZXNjcmliZSgpCg==</text>
+        <text encoding="base64">ICAgIC0gb3BlbmN2LXB5dGhvbj09My40LjEuMTUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YVsibm9ybWFsaXplZF9tZWFudG1wIl0uZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">ICAgIC0gbmV0d29ya3g9PTIuMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIGF4LmZvcm1hdF94ZGF0YSA9IG1kYXRlcy5EYXRlRm9ybWF0dGVyKCclbS0lZCcpCg==</text>
+        <text encoding="base64">ICAgIC0gZGVjb3JhdG9yPT00LjMuMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIC0gZGFzaz09MC4xNy41Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA6cGFyYW0gZGF0YTogCg==</text>
+        <text encoding="base64">ICAgIC0gY2xvdWRwaWNrbGU9PTAuNS4zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHBpcDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElHYXRld2F5UHJveHlFdmVudCwgQ2FsbGJhY2ssIENvbnRleHR9IGZyb20gImF3cy1sYW1iZGEiOwo=</text>
+        <text encoding="base64">ICAtIHNrbGVhcm49PTAuMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
