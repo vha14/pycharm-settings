@@ -157,12 +157,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529528112594">
+      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529535404419">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+        <mark key="[" line="98" column="97" />
+        <mark key="]" line="98" column="97" />
+        <mark key="^" line="98" column="99" />
+        <mark key="." line="98" column="97" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -500,17 +500,17 @@
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
+      <register name="0" type="4">
+        <text>{item['payload']['h_shtL']}&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
