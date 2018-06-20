@@ -157,12 +157,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529517186857">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="84" column="33" />
-        <mark key="]" line="85" column="1" />
-        <mark key="." line="85" column="1" />
-        <mark key="^" line="85" column="1" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529523728912">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="78" column="7" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -331,7 +331,7 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529360676701">
+      <file name="/Dummy.txt" timestamp="1529523674401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1529359493825">
@@ -398,10 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="42" column="7" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="180" column="8" filename="$USER_HOME$/work/nuclei/src/notebook.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="189" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="217" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -498,13 +494,17 @@
       <jump line="88" column="12" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="2" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="77" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="15" column="6" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -513,31 +513,31 @@
         <text encoding="base64">ICAgICAgImVzMjAxNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludChpdGVtWyd0aW1lc3RhbXAnXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsLnBhcnNlcgo=</text>
+        <text encoding="base64">JzE1MjQyNTAyMDk1MjEnIDwgJzE1MjkwMTY3MjkxMScK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eW91cmRhdGUgPSBkYXRldXRpbC5wYXJzZXIucGFyc2UoZGF0ZXN0cmluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsLnBhcnNlcgo=</text>
+        <text encoding="base64">ICBwcmludChpdGVtWyd0aW1lc3RhbXAnXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50KCcxNTI0MjUwMjA5NTIxJykK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsLnBhcnNlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXRlbXNbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eW91cmRhdGUgPSBkYXRldXRpbC5wYXJzZXIucGFyc2UoZGF0ZXN0cmluZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

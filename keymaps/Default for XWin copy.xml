@@ -34,7 +34,6 @@
   <action id="DecrementWindowHeight" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditorChooseLookupItem" />
-  <action id="EditorEnter" />
   <action id="EditorMatchBrace" />
   <action id="EditorStartNewLine" />
   <action id="ExecuteInPyConsoleAction">
