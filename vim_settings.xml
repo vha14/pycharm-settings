@@ -157,12 +157,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529535404419">
+      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529536051656">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="98" column="97" />
-        <mark key="]" line="98" column="97" />
-        <mark key="^" line="98" column="99" />
-        <mark key="." line="98" column="97" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="99" column="97" />
+        <mark key="^" line="99" column="99" />
+        <mark key="." line="99" column="97" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -398,7 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="5" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="188" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="215" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -498,6 +497,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="96" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="98" column="97" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
