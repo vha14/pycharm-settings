@@ -157,12 +157,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529446668492">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="77" column="45" />
-        <mark key="]" line="77" column="79" />
-        <mark key="^" line="77" column="79" />
-        <mark key="." line="77" column="79" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529454156887">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="83" column="31" />
+        <mark key="]" line="83" column="31" />
+        <mark key="^" line="83" column="31" />
+        <mark key="." line="83" column="31" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -224,9 +224,6 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="2" />
         <mark key="." line="22" column="2" />
-      </file>
-      <file name="/Python Console" timestamp="1529446755925">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529193394136">
         <mark key="[" line="0" column="30" />
@@ -497,14 +494,15 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/agromomaster/environment.yaml" />
       <jump line="67" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="71" column="36" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="40" column="2" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="5" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoaXRlbXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
