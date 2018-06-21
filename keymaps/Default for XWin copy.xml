@@ -22,11 +22,18 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="DecrementWindowHeight" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
   <action id="EditorMatchBrace" />
   <action id="EditorStartNewLine" />
   <action id="ExecuteInPyConsoleAction">
@@ -36,6 +43,10 @@
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -47,11 +58,15 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
   <action id="MoveStatementUp" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="OpenElementInNewWindow" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
