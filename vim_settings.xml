@@ -160,12 +160,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529536051656">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="99" column="97" />
-        <mark key="^" line="99" column="99" />
-        <mark key="." line="99" column="97" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529607657700">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="86" column="8" />
+        <mark key="]" line="86" column="25" />
+        <mark key="^" line="86" column="25" />
+        <mark key="." line="86" column="25" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -227,9 +227,6 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="2" />
         <mark key="." line="22" column="2" />
-      </file>
-      <file name="/Python Console" timestamp="1529539064922">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529193394136">
         <mark key="[" line="0" column="30" />
@@ -338,7 +335,7 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529539100029">
+      <file name="/Dummy.txt" timestamp="1529607576851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1529359493825">
@@ -410,8 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="77" column="86" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="198" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="105" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -510,6 +505,8 @@
       <jump line="99" column="23" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/AddRecipe.js" />
       <jump line="5" column="38" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/AddRecipe.js" />
       <jump line="56" column="12" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/AddRecipe.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
