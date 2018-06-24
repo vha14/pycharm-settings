@@ -48,8 +48,10 @@
         <mark key="^" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" timestamp="1529861477655">
+      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" timestamp="1529862630340">
         <mark key="'" line="48" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -545,7 +547,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYXdzLWxhbWJkYSI6ICJeOC4xMC42IiwKICAgICJAdHlwZXMvbm9kZSI6ICJeOC4xMC42IiwK</text>
+        <text encoding="base64">cGx1Z2luczoKICAtIHNlcnZlcmxlc3Mtd2VicGFjawo=</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -554,7 +556,7 @@
         <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYXdzLWxhbWJkYSI6ICJeOC4xMC42IiwKICAgICJAdHlwZXMvbm9kZSI6ICJeOC4xMC42IiwK</text>
+        <text encoding="base64">cGx1Z2luczoKICAtIHNlcnZlcmxlc3Mtd2VicGFjawo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgQVBJR2F0ZXdheVByb3h5RXZlbnQgfSBmcm9tICJhd3MtbGFtYmRhIjsK</text>
