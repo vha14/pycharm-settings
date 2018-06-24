@@ -16,6 +16,9 @@
         <mark key="^" line="99" column="99" />
         <mark key="." line="99" column="97" />
       </file>
+      <file name="/fragment.js" timestamp="1529875644878">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/list.js" timestamp="1527989229162">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -302,6 +305,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
+      <file name="/JavaScript Console" timestamp="1529875985070">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -333,6 +342,12 @@
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" timestamp="1527890332008">
         <mark key="'" line="73" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/test.json" timestamp="1529875904901">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
         <mark key="[" line="3" column="13" />
@@ -443,6 +458,7 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
+      <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1529876056922" />
     </filemarks>
     <jumps>
       <jump line="19" column="20" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -548,7 +564,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGx1Z2luczoKICAtIHNlcnZlcmxlc3Mtd2VicGFjawo=</text>
+        <text encoding="base64">ICAvLyAgZXRjLiAvLwo=</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -560,16 +576,16 @@
         <text encoding="base64">cGx1Z2luczoKICAtIHNlcnZlcmxlc3Mtd2VicGFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQVBJR2F0ZXdheVByb3h5RXZlbnQgfSBmcm9tICJhd3MtbGFtYmRhIjsK</text>
+        <text encoding="base64">ICAvLyAgZXRjLiAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQVBJR2F0ZXdheVByb3h5RXZlbnQgfSBmcm9tICJhd3MtbGFtYmRhIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JzE1MjQyNTAyMDk1MjEnIDwgJzE1MjkwMTY3MjkxMScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JzE1MjQyNTAyMDk1MjEnIDwgJzE1MjkwMTY3MjkxMScK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -578,13 +594,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludChpdGVtWyd0aW1lc3RhbXAnXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsLnBhcnNlcgo=</text>
+        <text encoding="base64">ICBwcmludChpdGVtWyd0aW1lc3RhbXAnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsLnBhcnNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
