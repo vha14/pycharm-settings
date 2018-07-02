@@ -187,10 +187,9 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1529539064922">
+      <file name="/Python Console" timestamp="1530488742502">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/subscriptions/NewRecipeSubscription.js" timestamp="1529539222732" />
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/libs/dynamodb-lib.js" timestamp="1528162846574">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="38" />
@@ -223,6 +222,9 @@
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" timestamp="1525003535909">
         <mark key="'" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-client/src/App.js" timestamp="1530490397575">
+        <mark key="'" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" timestamp="1524972499930">
         <mark key="'" line="22" column="0" />
@@ -278,7 +280,7 @@
       <file name="/code.py" timestamp="1529359493825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1529681962586">
+      <file name="/GraphQL.result.json" timestamp="1530488741840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
@@ -342,10 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="188" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="215" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
-      <jump line="72" column="4" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="77" column="86" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="134" column="59" filename="$USER_HOME$/work/nuclei/src/overview.py" />
       <jump line="198" column="0" filename="$USER_HOME$/work/nuclei/src/overview.py" />
@@ -442,6 +440,10 @@
       <jump line="96" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="98" column="97" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
+      <jump line="47" column="2" filename="$USER_HOME$/gitlab/serverless-stack-2-client/src/App.js" />
+      <jump line="46" column="20" filename="$USER_HOME$/gitlab/serverless-stack-2-client/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-client/src/App.js" />
+      <jump line="42" column="15" filename="$USER_HOME$/gitlab/serverless-stack-2-client/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +453,7 @@
         <text>da2-fbx6cipkafabhc2m64muews7lm</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>history</text>
       </register>
       <register name="0" type="4">
         <text>{item['payload']['h_shtL']}&quot;)</text>
@@ -488,16 +490,14 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IMG_CH</entry>
-        <entry>get_ipython</entry>
         <entry>sns</entry>
         <entry>read_and</entry>
         <entry>test_</entry>
@@ -516,6 +516,8 @@
         <entry>16</entry>
         <entry encoding="base64">XDxwb3dkZXJ5XD4=</entry>
         <entry>Create</entry>
+        <entry>userHas</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
