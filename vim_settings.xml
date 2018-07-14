@@ -89,12 +89,12 @@
       <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/steps/when.ts" timestamp="1531553816568">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="40" column="24" />
-        <mark key="." line="6" column="31" />
+      <file name="$USER_HOME$/work/big-mouth/tests/steps/when.ts" timestamp="1531586587950">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
         <mark key="[" line="0" column="16" />
@@ -631,10 +631,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
@@ -643,31 +643,31 @@
         <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IGRlc2NyaWJlLCBiZWZvcmUsIGl0IH0gZnJvbSAibW9jaGEiOwppbXBvcnQgeyBpbml0IH0gZnJvbSAiLi4vc3RlcHMvaW5pdCI7CmltcG9ydCAqIGFzIHdoZW4gZnJvbSAiLi4vc3RlcHMvd2hlbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBjb250ZXh0OiBDb250ZXh0ID0gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
+        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
+        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdDsK</text>
+        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
