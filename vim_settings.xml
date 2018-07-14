@@ -39,20 +39,19 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/common/types.ts" timestamp="1531542973953">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="$USER_HOME$/work/big-mouth/common/types.ts" timestamp="1531553517449">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-client/src/config.js" timestamp="1528292391638">
         <mark key="[" line="24" column="69" />
         <mark key="]" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531552893431">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531553934569">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="35" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="34" />
       </file>
@@ -90,12 +89,12 @@
       <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/steps/when.ts" timestamp="1531552834090">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="6" />
-        <mark key="^" line="28" column="6" />
-        <mark key="." line="28" column="6" />
+      <file name="$USER_HOME$/work/big-mouth/tests/steps/when.ts" timestamp="1531553816568">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
         <mark key="[" line="0" column="16" />
@@ -216,6 +215,18 @@
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531554072456">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/search-restaurants.ts" timestamp="1531554125760">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" timestamp="1527011932448">
         <mark key="'" line="22" column="8" />
@@ -485,11 +496,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" timestamp="1529905451984">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" timestamp="1531553539194">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531491576922">
         <mark key="[" line="21" column="3" />
@@ -509,11 +520,11 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531542729737">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
+      <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="75" />
+        <mark key="^" line="27" column="80" />
+        <mark key="." line="27" column="75" />
       </file>
     </filemarks>
     <jumps>
@@ -629,34 +640,34 @@
         <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmVudi5jb2duaXRvX2NsaWVudF9pZCA9ICJ0ZXN0X2NvZ25pdG9fY2xpZW50X2lkIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IGRlc2NyaWJlLCBiZWZvcmUsIGl0IH0gZnJvbSAibW9jaGEiOwppbXBvcnQgeyBpbml0IH0gZnJvbSAiLi4vc3RlcHMvaW5pdCI7CmltcG9ydCAqIGFzIHdoZW4gZnJvbSAiLi4vc3RlcHMvd2hlbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3ZV9pbnZva2Vfc2VhcmNoX3Jlc3RhdXJhbnRzCg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3ZV9pbnZva2VfZ2V0X3Jlc3RhdXJhbnRzLAo=</text>
+        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3ZV9pbnZva2VfZ2V0X2luZGV4LAo=</text>
+        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBSZXNwb25zZQo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
