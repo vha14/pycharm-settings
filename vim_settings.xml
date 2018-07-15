@@ -49,11 +49,10 @@
         <mark key="]" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531662573054">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531663536326">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
@@ -253,7 +252,7 @@
         <mark key="^" line="99" column="99" />
         <mark key="." line="99" column="97" />
       </file>
-      <file name="/fragment.js" timestamp="1529875644878">
+      <file name="/fragment.js" timestamp="1531663503246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
@@ -399,8 +398,8 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1529875985070">
-        <mark key="[" line="0" column="5" />
+      <file name="/JavaScript Console" timestamp="1531663542531">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -632,11 +631,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>, '#restaurantsUl'</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
@@ -645,31 +644,31 @@
         <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IGRlc2NyaWJlLCBiZWZvcmUsIGl0IH0gZnJvbSAibW9jaGEiOwppbXBvcnQgeyBpbml0IH0gZnJvbSAiLi4vc3RlcHMvaW5pdCI7CmltcG9ydCAqIGFzIHdoZW4gZnJvbSAiLi4vc3RlcHMvd2hlbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBjb250ZXh0OiBDb250ZXh0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBjb250ZXh0OiBDb250ZXh0ID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
+        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
+        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdDsK</text>
+        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
