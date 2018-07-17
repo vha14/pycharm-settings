@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531852829342">
+      <file name="/start_script.py" timestamp="1531854558530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
@@ -140,7 +140,7 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1531850304742">
+      <file name="/Python Console" timestamp="1531854943579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529193659887">
@@ -310,10 +310,10 @@
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1531851811405">
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1531854704214">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
@@ -464,11 +464,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531851840288">
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="44" column="28" />
-        <mark key="^" line="44" column="28" />
-        <mark key="." line="44" column="28" />
+      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531854901852">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="47" column="12" />
+        <mark key="^" line="47" column="12" />
+        <mark key="." line="47" column="12" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531849384829">
         <mark key="[" line="19" column="7" />
@@ -645,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IHRhaWwgLUYgL2Rldi9udWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text>anything</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
@@ -657,31 +657,31 @@
         <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IHRhaWwgLUYgL2Rldi9udWxsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBydW5zOi9ydW5zCg==</text>
+        <text encoding="base64">Q09QWSBub3RlYm9va3MgLi9ub3RlYm9va3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">Q09QWSBiaW4gLi9iaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAiODg4ODo4ODg4Igo=</text>
+        <text encoding="base64">Q09QWSBzcmMgLi9zcmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">Q09QWSBkYXRhIC4vZGF0YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBET0NLRVJfQ09NUE9TRT10cnVlCg==</text>
+        <text encoding="base64">IyBDb3B5IGRhdGEgZmlsZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBDSEVDS1BPSU5UCg==</text>
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBCQVRDSF9TSVpFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
