@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531850390377">
+      <file name="/start_script.py" timestamp="1531852829342">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
@@ -310,6 +310,11 @@
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1531851811405">
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="19" />
@@ -459,10 +464,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531849199961">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531851840288">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="44" column="28" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="44" column="28" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531849384829">
         <mark key="[" line="19" column="7" />
@@ -639,43 +645,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>sh&quot;, &quot;-c&quot;, &quot;./bin/train --train-dir=/runs/${EXPERIMENT_NAME}&quot; ]</text>
+        <text>train</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IHRhaWwgLUYgYW55dGhpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">ICAgICAgLSBydW5zOi9ydW5zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KTsK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBjb250ZXh0OiBDb250ZXh0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgLSAiODg4ODo4ODg4Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
+        <text encoding="base64">ICAgICAgLSBET0NLRVJfQ09NUE9TRT10cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgLSBDSEVDS1BPSU5UCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
+        <text encoding="base64">ICAgICAgLSBCQVRDSF9TSVpFCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
