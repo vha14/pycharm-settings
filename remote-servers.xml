@@ -2,8 +2,9 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" />
-        <option name="certificatesPath" />
+        <option name="apiUrl" value="https://34.221.230.87:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/vu-sonosite" />
+        <option name="machine" value="vu-sonosite" />
       </configuration>
     </remote-server>
   </component>
