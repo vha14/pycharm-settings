@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531860057777">
+      <file name="/start_script.py" timestamp="1531860740762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
@@ -72,9 +72,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531860141368">
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531860838633">
         <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="70" />
+        <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531663725625">
@@ -145,7 +145,7 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1531859967257">
+      <file name="/Python Console" timestamp="1531861449137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529193659887">
@@ -474,11 +474,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531859092982">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531861673706">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -664,28 +664,28 @@
         <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAuLjovd29ya3NwYWNlCg==</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgLSAuLjovd29ya3NwYWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2Rldi5Eb2NrZXJmaWxlCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogLi4K</text>
+        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2Rldi5Eb2NrZXJmaWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogLi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
