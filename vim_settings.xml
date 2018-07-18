@@ -3,13 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1522097631253">
+      <file name="/start_script.py" timestamp="1531869328500">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api/list.js" timestamp="1527989229162">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="15" column="82" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="65" />
+        <mark key="." line="23" column="65" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/.prettierrc" timestamp="1524039605893">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1528393775942">
         <mark key="[" line="0" column="0" />
@@ -21,127 +32,39 @@
         <mark key="." line="61" column="50" />
         <mark key="^" line="61" column="50" />
       </file>
-      <file name="$USER_HOME$/work/halsvision/src/components/Main.js" timestamp="1524173264711">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" timestamp="1531543667284">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="44" />
-      </file>
       <file name="$USER_HOME$/work/big-mouth/common/types.ts" timestamp="1531553517449">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-client/src/config.js" timestamp="1528292391638">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="69" />
-        <mark key="." line="24" column="69" />
+      <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531663725625">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/tsconfig.json" timestamp="1529194578593">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
-        <mark key="[" line="1" column="56" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/react-apollo/server/src/index.js" timestamp="1529729415597">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="63" />
-        <mark key="." line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-      </file>
-      <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="64" />
-        <mark key="." line="4" column="64" />
-        <mark key="^" line="4" column="64" />
-      </file>
-      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/libs/dynamodb-lib.js" timestamp="1528162846574">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="33" />
-      </file>
-      <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/steps/when.ts" timestamp="1531632678082">
-        <mark key="'" line="22" column="3" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="21" column="5" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="25" column="18" />
+      <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="75" />
+        <mark key="^" line="27" column="80" />
+        <mark key="." line="27" column="75" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Main.js" timestamp="1524201203614">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1529785151469">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="^" line="5" column="7" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1522112757471">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" timestamp="1529195010104">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/App.tsx" timestamp="1524609331476">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524200203702">
         <mark key="[" line="8" column="35" />
@@ -149,87 +72,31 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1529539064922">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531869476398">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="70" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="66" />
-        <mark key="." line="4" column="66" />
-        <mark key="^" line="4" column="66" />
-      </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
-        <mark key="[" line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api/delete.js" timestamp="1527989260444">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing3/tsconfig.json" timestamp="1524012248252">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-graphql/app-backend/rest-api/resolvers.js" timestamp="1531693449036" />
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="29" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1531689820019">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531663725625">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/get.js" timestamp="1527989211355">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/.prettierrc" timestamp="1524039605893">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/mso/public/index.html" timestamp="1523906089227">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
-        <mark key="'" line="20" column="2" />
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="6" column="57" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="6" column="57" />
-      </file>
-      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/search-restaurants.ts" timestamp="1531630688450">
-        <mark key="[" line="5" column="86" />
-        <mark key="]" line="5" column="86" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="5" column="86" />
-      </file>
-      <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
+      <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529193394136">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" timestamp="1527010556498">
+        <mark key="'" line="95" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/serverless-stack-2-api/delete.js" timestamp="1527989260444">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1529536051656">
         <mark key="'" line="12" column="0" />
@@ -238,27 +105,252 @@
         <mark key="^" line="99" column="99" />
         <mark key="." line="99" column="97" />
       </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1529785151469">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/tsconfig.json" timestamp="1524012248252">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="28" column="58" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="28" column="58" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1522112757471">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/mso/public/index.html" timestamp="1523906089227">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529193659887">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+      </file>
+      <file name="/Python Console" timestamp="1531870299508">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/get.ts" timestamp="1529193394136">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/halsvision/src/components/Main.js" timestamp="1524173264711">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/libs/dynamodb-lib.js" timestamp="1528162846574">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529208902167">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/components/UnauthenticatedRoute.js" timestamp="1527982000564">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/testdriven-app-2.2/services/users/project/api/templates/index.html" timestamp="1522798534749">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" timestamp="1527011932448">
+        <mark key="'" line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/serverless.yml" timestamp="1530196527649">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" timestamp="1531632736384">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="250" column="49" />
+        <mark key="]" line="251" column="11" />
+        <mark key="." line="251" column="11" />
+        <mark key="^" line="251" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/serverless-stack-2-client/src/config.js" timestamp="1528062493707">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="45" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1531679388493">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/reducers.ts" timestamp="1524968147044">
+        <mark key="'" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/containers/Notes.js" timestamp="1527981768172">
+        <mark key="'" line="161" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
+        <mark key="'" line="180" column="8" />
+        <mark key="[" line="210" column="22" />
+        <mark key="]" line="210" column="26" />
+        <mark key="^" line="210" column="26" />
+        <mark key="." line="210" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" timestamp="1529189329502">
+        <mark key="'" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" timestamp="1529646963270">
+        <mark key="'" line="66" column="10" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" timestamp="1529195010104">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/notes-app-client/src/App.js" timestamp="1527975201147">
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="/fragment.js" timestamp="1531663503246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
+        <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" timestamp="1527890332008">
+        <mark key="'" line="73" column="17" />
       </file>
-      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" timestamp="1524972499930">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="135" column="1" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/mso/src/pages/index.js" timestamp="1524005478350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/search-restaurants.ts" timestamp="1531630688450">
+        <mark key="[" line="5" column="86" />
+        <mark key="]" line="5" column="86" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="5" column="86" />
+      </file>
+      <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529190920087">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="66" />
+        <mark key="." line="4" column="66" />
+        <mark key="^" line="4" column="66" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1531854704214">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/serverless-stack-2-api/list.js" timestamp="1527989229162">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/agromomaster/requirements.txt" timestamp="1529353966732">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/list.ts" timestamp="1529789552192">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/react-apollo/src/components/Login.js" timestamp="1529785012722">
+        <mark key="'" line="41" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/agromomaster/README.md" timestamp="1529360600035">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="83" />
+        <mark key="^" line="10" column="83" />
+        <mark key="." line="10" column="83" />
       </file>
       <file name="$USER_HOME$/work/nuclei/src/overview.py" timestamp="1522184165132">
         <mark key="'" line="10" column="8" />
@@ -273,104 +365,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
-      <file name="$USER_HOME$/work/nuclei/src/notebook.py" timestamp="1522083215773">
-        <mark key="'" line="180" column="8" />
-        <mark key="[" line="210" column="22" />
-        <mark key="]" line="210" column="26" />
-        <mark key="^" line="210" column="26" />
-        <mark key="." line="210" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1529353852472">
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="51" />
-        <mark key="^" line="46" column="51" />
-        <mark key="." line="46" column="51" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
-        <mark key="^" line="28" column="58" />
-      </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="15" column="82" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/components/UnauthenticatedRoute.js" timestamp="1527982000564">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/testdriven-app-2.2/services/client/public/index.html" timestamp="1522948413247">
-        <mark key="[" line="23" column="65" />
-        <mark key="]" line="23" column="65" />
-        <mark key="." line="23" column="65" />
-      </file>
-      <file name="$USER_HOME$/work/eye-of-sauron/scripts/fetch.sh" timestamp="1525243856554">
-        <mark key="'" line="50" column="17" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="250" column="49" />
-        <mark key="]" line="251" column="11" />
-        <mark key="." line="251" column="11" />
-        <mark key="^" line="251" column="11" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/package.json" timestamp="1529190920087">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="59" />
-        <mark key="." line="4" column="59" />
-        <mark key="^" line="4" column="59" />
-      </file>
-      <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/list.ts" timestamp="1529789552192">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/notes-app-client/src/App.js" timestamp="1527975201147">
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/agromomaster/requirements.txt" timestamp="1529353966732">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="22" column="9" />
-        <mark key="^" line="22" column="9" />
-        <mark key="." line="22" column="9" />
+      <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -378,14 +377,30 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531666414494">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/work/react-apollo/server/src/index.js" timestamp="1529729415597">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/node_modules/@types/aws-lambda/index.d.ts" timestamp="1531552430291">
-        <mark key="'" line="25" column="27" />
+      <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="66" />
+        <mark key="^" line="11" column="66" />
+        <mark key="." line="11" column="66" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
@@ -394,72 +409,59 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529539100029">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-client/src/config.js" timestamp="1528292391638">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="69" />
+        <mark key="." line="24" column="69" />
       </file>
-      <file name="/code.py" timestamp="1529359493825">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/big-mouth/test.json" timestamp="1529875904901">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
+      <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/work/mso/src/pages/index.js" timestamp="1524005478350">
+      <file name="$USER_HOME$/work/react-apollo/src/components/LinkList.js" timestamp="1529786217534">
+        <mark key="'" line="116" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" timestamp="1525003535909">
+        <mark key="'" line="54" column="19" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1531666414494">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/tsconfig.json" timestamp="1529194578593">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="7" column="13" />
+      <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Map.tsx" timestamp="1524972499930">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="135" column="1" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eye-of-sauron/scripts/fetch.sh" timestamp="1525243856554">
+        <mark key="'" line="50" column="17" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/update.js" timestamp="1527989248324">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/mathsolvers/landing3/tslint.json" timestamp="1524022006448">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" timestamp="1529208902167">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/package.json" timestamp="1529860910422">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="66" />
-        <mark key="^" line="11" column="66" />
-        <mark key="." line="11" column="66" />
-      </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/webpack.config.js" timestamp="1529193659887">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="2" />
-        <mark key="." line="22" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/big-mouth/serverless.yml" timestamp="1530196527649">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/setup.sh" timestamp="1525227777558">
         <mark key="[" line="15" column="1" />
@@ -467,12 +469,28 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" timestamp="1531632736384">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
+      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531858827620">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531859092982">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/node_modules/@types/aws-lambda/index.d.ts" timestamp="1531552430291">
+        <mark key="'" line="25" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529539100029">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531670686374">
         <mark key="[" line="25" column="53" />
@@ -480,23 +498,51 @@
         <mark key="." line="25" column="53" />
         <mark key="^" line="25" column="82" />
       </file>
-      <file name="$USER_HOME$/work/agromomaster/README.md" timestamp="1529360600035">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="83" />
-        <mark key="^" line="10" column="83" />
-        <mark key="." line="10" column="83" />
+      <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/App.tsx" timestamp="1524609331476">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/work/serverless-stack-2-client/src/config.js" timestamp="1528062493707">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="45" />
-        <mark key="." line="29" column="45" />
-        <mark key="^" line="29" column="45" />
+      <file name="/code.py" timestamp="1529359493825">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
-        <mark key="[" line="27" column="75" />
-        <mark key="]" line="27" column="75" />
-        <mark key="^" line="27" column="80" />
-        <mark key="." line="27" column="75" />
+      <file name="$USER_HOME$/work/big-mouth/tests/steps/when.ts" timestamp="1531632678082">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" timestamp="1531543667284">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1529353852472">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="51" />
+        <mark key="^" line="46" column="51" />
+        <mark key="." line="46" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/big-mouth/test.json" timestamp="1529875904901">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/mathsolvers/landing3/tslint.json" timestamp="1524022006448">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -602,44 +648,44 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>compilers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>compilers</text>
+        <text>anything</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IGRlc2NyaWJlLCBiZWZvcmUsIGl0IH0gZnJvbSAibW9jaGEiOwppbXBvcnQgeyBpbml0IH0gZnJvbSAiLi4vc3RlcHMvaW5pdCI7CmltcG9ydCAqIGFzIHdoZW4gZnJvbSAiLi4vc3RlcHMvd2hlbiI7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KTsK</text>
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBjb250ZXh0OiBDb250ZXh0ID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGluaXQoKTsK</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgd2hlbiA9IHJlcXVpcmUoJy4uL3N0ZXBzL3doZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgLSAuLjovd29ya3NwYWNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdCA9IHJlcXVpcmUoJy4uL3N0ZXBzL2luaXQnKS5pbml0Owo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdDsK</text>
+        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2Rldi5Eb2NrZXJmaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogLi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
