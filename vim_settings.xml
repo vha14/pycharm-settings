@@ -385,6 +385,9 @@
       <file name="$USER_HOME$/work/react-apollo/src/components/LinkList.js" timestamp="1529786217534">
         <mark key="'" line="116" column="6" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/visualize.py" timestamp="1531976203698">
+        <mark key="'" line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="35" />
@@ -437,7 +440,7 @@
       <file name="/code.py" timestamp="1529359493825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531874276088">
+      <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1531976088086">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="23" />
         <mark key="^" line="19" column="23" />
@@ -547,8 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="16" column="23" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="20" column="11" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="29" column="16" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
@@ -647,6 +648,8 @@
       <jump line="15" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="52" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="2" column="36" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -656,7 +659,7 @@
         <text>anything</text>
       </register>
       <register name="/" type="4">
-        <text>data_dir</text>
+        <text>cv2</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
@@ -693,15 +696,14 @@
       </register>
     </registers>
     <search>
-      <last-search>data_dir</last-search>
+      <last-search>cv2</last-search>
       <last-offset />
-      <last-pattern>data_dir</last-pattern>
+      <last-pattern>cv2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MapPro</entry>
         <entry>key_name</entry>
         <entry>16</entry>
         <entry encoding="base64">XDxwb3dkZXJ5XD4=</entry>
@@ -721,6 +723,7 @@
         <entry>Event</entry>
         <entry>event</entry>
         <entry>data_dir</entry>
+        <entry>cv2</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
