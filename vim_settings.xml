@@ -157,14 +157,18 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1531874543171">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
+      </file>
+      <file name="$USER_HOME$/work/transfer_learning/main.py" timestamp="1532011531811">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="6" />
+        <mark key="^" line="189" column="0" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
@@ -550,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="23" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="20" column="11" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="29" column="16" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="57" column="11" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
@@ -650,10 +653,11 @@
       <jump line="2" column="36" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="0" column="7" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
       <jump line="10" column="11" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
+      <jump line="208" column="0" filename="$USER_HOME$/work/transfer_learning/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
+        <text encoding="base64">IyBJbltdCg==</text>
       </register>
       <register name="-" type="4">
         <text>anything</text>
@@ -661,8 +665,8 @@
       <register name="/" type="4">
         <text>cv2</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBJbltdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
