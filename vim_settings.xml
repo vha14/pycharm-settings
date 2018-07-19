@@ -160,8 +160,8 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532036561384">
-        <mark key="'" line="431" column="17" />
+      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532039566976">
+        <mark key="'" line="305" column="43" />
         <mark key="[" line="19" column="24" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
@@ -391,6 +391,9 @@
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/src/Filters.tsx" timestamp="1525003535909">
         <mark key="'" line="54" column="19" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/learner.py" timestamp="1532039628268">
+        <mark key="'" line="129" column="30" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api-ts/list.ts" timestamp="1529789552192">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -570,9 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
-      <jump line="60" column="53" filename="$USER_HOME$/work/agromo/src/explore.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="16" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
@@ -670,6 +670,9 @@
       <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
+      <jump line="305" column="43" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="276" column="35" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
+      <jump line="129" column="30" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -679,7 +682,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>Sequential</text>
+        <text>use_clr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEltYWdlLm9wZW4oZm4pLnJlc2l6ZSgoMTI4LDEyOCkpLnNhdmUoKGZuLnBhcmVudC5wYXJlbnQpLyd0cmFpbl9tYXNrcy0xMjgnL2ZuLm5hbWUpCg==</text>
@@ -716,16 +719,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Sequential</last-search>
+      <last-search>use_clr</last-search>
       <last-offset />
-      <last-pattern>Sequential</last-pattern>
+      <last-pattern>use_clr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>confirm</entry>
-        <entry>login</entry>
         <entry>update</entry>
         <entry>list</entry>
         <entry>aws_iam</entry>
@@ -744,6 +745,8 @@
         <entry>61</entry>
         <entry>Image</entry>
         <entry>Sequential</entry>
+        <entry>fit</entry>
+        <entry>use_clr</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
