@@ -66,6 +66,9 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" timestamp="1532037915092">
+        <mark key="'" line="403" column="10" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="64" />
@@ -567,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="74" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="60" column="53" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
@@ -667,6 +669,7 @@
       <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
