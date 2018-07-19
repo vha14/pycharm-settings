@@ -157,11 +157,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532025157885">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="19" column="23" />
+      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532032005704">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="260" column="25" />
+        <mark key="]" line="261" column="9" />
+        <mark key="." line="261" column="9" />
+        <mark key="^" line="261" column="9" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -566,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="6" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
       <jump line="0" column="0" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
       <jump line="73" column="17" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
       <jump line="2" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
@@ -666,61 +666,61 @@
       <jump line="34" column="12" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="59" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
+      <jump line="43" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>anything</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>pandas</text>
+        <text>resize_i</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGV2aWNlID0gdG9yY2guZGV2aWNlKCdjdWRhJyBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpIGVsc2UgJ2NwdScpCg==</text>
+        <text encoding="base64">ICAgIEltYWdlLm9wZW4oZm4pLnJlc2l6ZSgoMTI4LDEyOCkpLnNhdmUoKGZuLnBhcmVudC5wYXJlbnQpLyd0cmFpbl9tYXNrcy0xMjgnL2ZuLm5hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">ICAgIHByaW50KGYiUmVzaXplIHtmbn0gdG8ge2ZuLnBhcmVudC5wYXJlbnR9IGRpciIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
+        <text encoding="base64">ICAgIHJlc2l6ZV9pbWcoZmlsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGZpbGUgaW4gZmlsZXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">SW1hZ2Uub3BlbihmMCkucmVzaXplKCgxMjgsMTI4KSkuc2F2ZSgoZjAucGFyZW50LnBhcmVudCkvJ3RyYWluX21hc2tzLTEyOCcvZjAubmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">ZjAgPSBmaWxlc1swXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAuLjovd29ya3NwYWNlCg==</text>
+        <text encoding="base64">cHJpbnQoZiJSZXNpemluZyB7bGVuKGZpbGVzKX0gaW1hZ2VzIC4uLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">SW1hZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2Rldi5Eb2NrZXJmaWxlCg==</text>
+        <text encoding="base64">cHJpbnQoZiJUaGUgZmlyc3QgZmlsZSBpcyB7ZmlsZXNbMF0ubmFtZX0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogLi4K</text>
+        <text encoding="base64">ZmlsZXNbMF0ucGFyZW50LnBhcmVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pandas</last-search>
+      <last-search>resize_i</last-search>
       <last-offset />
-      <last-pattern>pandas</last-pattern>
+      <last-pattern>resize_i</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3dkZXJ5XD4=</entry>
         <entry>NewRe</entry>
         <entry>feedquery</entry>
         <entry>feedQuery</entry>
@@ -740,6 +740,7 @@
         <entry>cv2</entry>
         <entry>web</entry>
         <entry>pandas</entry>
+        <entry>resize_i</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
