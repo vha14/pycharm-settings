@@ -157,12 +157,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532032005704">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="260" column="25" />
-        <mark key="]" line="261" column="9" />
-        <mark key="." line="261" column="9" />
-        <mark key="^" line="261" column="9" />
+      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532033820355">
+        <mark key="'" line="598" column="5" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -567,11 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
-      <jump line="73" column="17" filename="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" />
-      <jump line="2" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
-      <jump line="15" column="2" filename="$USER_HOME$/work/agromo/src/explore.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="19" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="76" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="20" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
@@ -667,6 +662,11 @@
       <jump line="59" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="43" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="468" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="25" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="476" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -676,7 +676,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>resize_i</text>
+        <text>Image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEltYWdlLm9wZW4oZm4pLnJlc2l6ZSgoMTI4LDEyOCkpLnNhdmUoKGZuLnBhcmVudC5wYXJlbnQpLyd0cmFpbl9tYXNrcy0xMjgnL2ZuLm5hbWUpCg==</text>
@@ -713,16 +713,14 @@
       </register>
     </registers>
     <search>
-      <last-search>resize_i</last-search>
+      <last-search>Image</last-search>
       <last-offset />
-      <last-pattern>resize_i</last-pattern>
+      <last-pattern>Image</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NewRe</entry>
-        <entry>feedquery</entry>
         <entry>feedQuery</entry>
         <entry>confirm</entry>
         <entry>login</entry>
@@ -741,6 +739,8 @@
         <entry>web</entry>
         <entry>pandas</entry>
         <entry>resize_i</entry>
+        <entry>61</entry>
+        <entry>Image</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
