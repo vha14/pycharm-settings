@@ -227,8 +227,8 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531888317438">
-        <mark key="'" line="52" column="4" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531890102734">
+        <mark key="'" line="2" column="36" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="70" />
         <mark key="." line="19" column="0" />
@@ -498,7 +498,7 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531858827620">
+      <file name="$USER_HOME$/work/sonosite/docker/docker-compose.yml" timestamp="1531890420945">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -547,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/allenai/ai2website/app/html/incubator.html" />
       <jump line="22" column="8" filename="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" />
       <jump line="12" column="0" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="16" column="23" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
@@ -647,6 +646,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
       <jump line="15" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="52" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="2" column="36" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -656,7 +656,7 @@
         <text>anything</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>data_dir</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
@@ -693,15 +693,14 @@
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>data_dir</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>data_dir</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initial</entry>
         <entry>MapPro</entry>
         <entry>key_name</entry>
         <entry>16</entry>
@@ -721,6 +720,7 @@
         <entry>context</entry>
         <entry>Event</entry>
         <entry>event</entry>
+        <entry>data_dir</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
