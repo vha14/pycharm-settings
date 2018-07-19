@@ -157,8 +157,8 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532033820355">
-        <mark key="'" line="598" column="5" />
+      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532036561384">
+        <mark key="'" line="431" column="17" />
         <mark key="[" line="19" column="24" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
@@ -567,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="20" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="74" column="0" filename="$USER_HOME$/work/agromo/src/explore.py" />
       <jump line="60" column="53" filename="$USER_HOME$/work/agromo/src/explore.py" />
@@ -667,6 +666,7 @@
       <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
+      <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -676,7 +676,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text>Sequential</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEltYWdlLm9wZW4oZm4pLnJlc2l6ZSgoMTI4LDEyOCkpLnNhdmUoKGZuLnBhcmVudC5wYXJlbnQpLyd0cmFpbl9tYXNrcy0xMjgnL2ZuLm5hbWUpCg==</text>
@@ -713,15 +713,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search>Sequential</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
+      <last-pattern>Sequential</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feedQuery</entry>
         <entry>confirm</entry>
         <entry>login</entry>
         <entry>update</entry>
@@ -741,6 +740,7 @@
         <entry>resize_i</entry>
         <entry>61</entry>
         <entry>Image</entry>
+        <entry>Sequential</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
