@@ -190,6 +190,11 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/.travis.yml" timestamp="1532128199275">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+      </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="250" column="49" />
@@ -263,6 +268,10 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/bin/tint" timestamp="1532128189705">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="58" />
       </file>
       <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
         <mark key="[" line="30" column="27" />
@@ -621,16 +630,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5000</text>
+        <text>exec dev sh -c tox</text>
       </register>
       <register name="-" type="4">
-        <text>5000</text>
+        <text>exec dev sh -c tox</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgLWYgZG9ja2VyLWNvbXBvc2UtZGV2LnltbCBleGVjIGRldiBzaCAtYyB0b3gK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
