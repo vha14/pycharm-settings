@@ -26,12 +26,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/tests/test_unet.py" timestamp="1532058213601">
+      <file name="$USER_HOME$/work/sonosite/src/tests/test_unet.py" timestamp="1532060425494">
         <mark key="'" line="20" column="8" />
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" timestamp="1531543667284">
         <mark key="'" line="6" column="0" />
@@ -82,11 +82,11 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532058347929">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532060327734">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
         <mark key="'" line="29" column="0" />
@@ -219,11 +219,10 @@
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" timestamp="1527010556498">
         <mark key="'" line="95" column="27" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/tox.ini" timestamp="1532058684948">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
+      <file name="$USER_HOME$/work/sonosite/tox.ini" timestamp="1532060392814">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" timestamp="1527890332008">
         <mark key="'" line="73" column="17" />
@@ -458,17 +457,17 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker-compose-dev.yml" timestamp="1532058411293">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/work/sonosite/docker-compose-dev.yml" timestamp="1532060099338">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/requirements.txt" timestamp="1532058525790">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/work/sonosite/requirements.txt" timestamp="1532059508051">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -717,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGlsbG93Cg==</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text encoding="base64">LCAidG94IiA=</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -729,31 +728,31 @@
         <text encoding="base64">ICAgICAgY29udGV4dDogLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGlsbG93Cg==</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnVtcHkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAxID09IDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwcyA9IC1ye3RveGluaWRpcn0vcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBydW5zOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9sdW1lczoK</text>
+        <text encoding="base64">I0NPUFkgdG94LmluaSAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBydW5zOi9ydW5zCg==</text>
+        <text encoding="base64">I0NPUFkgc3JjIC4vc3JjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">I0NPUFkgZGF0YSAuL2RhdGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiODg4ODo4ODg4Igo=</text>
+        <text encoding="base64">IyBDb3B5IGRhdGEgZmlsZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">cHl0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
