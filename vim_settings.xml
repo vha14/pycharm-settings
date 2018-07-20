@@ -72,12 +72,11 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531949989498">
-        <mark key="'" line="178" column="11" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="24" column="5" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531952178051">
+        <mark key="'" line="105" column="40" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531663725625">
         <mark key="[" line="16" column="0" />
@@ -513,9 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/allenai/ai2website/app/html/incubator.html" />
-      <jump line="22" column="8" filename="$USER_HOME$/work/eye-of-sauron/scripts/cloud/setup_new_instance.sh" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="16" column="23" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="20" column="11" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
       <jump line="29" column="16" filename="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" />
@@ -613,61 +609,63 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
       <jump line="5" column="50" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="175" column="11" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="62" column="60" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="105" column="40" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>anything</text>
       </register>
       <register name="/" type="4">
-        <text>split</text>
+        <text>device</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICB0cmFpbjoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLgogICAgICBkb2NrZXJmaWxlOiBkb2NrZXIvdHJhaW4uRG9ja2VyZmlsZQogICAgdHR5OiB0cnVlCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBFWFBFUklNRU5UX05BTUUKICAgICAgLSBUUkFJTl9ESVIKICAgICAgLSBEQVRBX0RJUgogICAgICAtIEVQT0NIUwogICAgICAtIEJBVENIX1NJWkUKICAgICAgLSBDSEVDS1BPSU5UCiAgICAgIC0gRE9DS0VSX0NPTVBPU0U9dHJ1ZQogICAgcG9ydHM6CiAgICAgIC0gIjg4ODg6ODg4OCIKICAgIHZvbHVtZXM6CiAgICAgIC0gcnVuczovcnVucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBJbltdOgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">IyBJbltdOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">Q01EIFsgInNoIiwgIi1jIiwgIi4vYmluL3RyYWluIC0tdHJhaW4tZGlyPS9ydW5zLyR7RVhQRVJJTUVOVF9OQU1FfSIgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAuLjovd29ya3NwYWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2Rldi5Eb2NrZXJmaWxlCg==</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogLi4K</text>
+        <text encoding="base64">ICAgICAgLSAuLjovd29ya3NwYWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>split</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>split</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MapPro</entry>
         <entry>key_name</entry>
         <entry>16</entry>
         <entry encoding="base64">XDxwb3dkZXJ5XD4=</entry>
@@ -687,6 +685,7 @@
         <entry>Event</entry>
         <entry>event</entry>
         <entry>split</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
