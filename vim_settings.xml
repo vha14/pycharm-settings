@@ -72,12 +72,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1531952178051">
-        <mark key="'" line="105" column="40" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-index.ts" timestamp="1531663725625">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -309,6 +303,12 @@
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532117290438">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/list.js" timestamp="1527989229162">
         <mark key="[" line="5" column="15" />
@@ -620,10 +620,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conda install opencv -c menpo</text>
+        <text>5000</text>
       </register>
       <register name="-" type="4">
-        <text>conda install opencv -c menpo</text>
+        <text>5000</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
