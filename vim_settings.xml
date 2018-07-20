@@ -26,6 +26,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/tests/test_unet.py" timestamp="1532058213601">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" timestamp="1531543667284">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="7" />
@@ -75,10 +82,11 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1531854704214">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532058347929">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
         <mark key="'" line="29" column="0" />
@@ -211,6 +219,12 @@
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/provision_experiment_instance.py" timestamp="1527010556498">
         <mark key="'" line="95" column="27" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/tox.ini" timestamp="1532058684948">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/config/experiment7-gpus16.config" timestamp="1527890332008">
         <mark key="'" line="73" column="17" />
       </file>
@@ -269,6 +283,12 @@
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/work/react-apollo/src/components/Login.js" timestamp="1529785012722">
         <mark key="'" line="41" column="24" />
@@ -339,6 +359,12 @@
         <mark key="]" line="28" column="58" />
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/README.md" timestamp="1532057622134">
+        <mark key="'" line="76" column="42" />
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="21" />
+        <mark key="." line="80" column="21" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
@@ -431,6 +457,18 @@
         <mark key="]" line="22" column="9" />
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/docker-compose-dev.yml" timestamp="1532058411293">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/requirements.txt" timestamp="1532058525790">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -576,14 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
-      <jump line="26" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api/serverless.yml" />
-      <jump line="2" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
-      <jump line="20" column="57" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/list.ts" />
-      <jump line="58" column="0" filename="$USER_HOME$/work/agromomaster/environment.yaml" />
-      <jump line="67" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
-      <jump line="71" column="36" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="40" column="2" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="5" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
@@ -676,62 +706,68 @@
       <jump line="305" column="43" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="276" column="35" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
       <jump line="129" column="30" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/sonosite/README.md" />
+      <jump line="83" column="9" filename="$USER_HOME$/work/sonosite/README.md" />
+      <jump line="80" column="10" filename="$USER_HOME$/work/sonosite/README.md" />
+      <jump line="76" column="42" filename="$USER_HOME$/work/sonosite/README.md" />
+      <jump line="18" column="56" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
+      <jump line="20" column="59" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
+      <jump line="23" column="14" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGlsbG93Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>train</text>
       </register>
       <register name="/" type="4">
-        <text>use_clr</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEltYWdlLm9wZW4oZm4pLnJlc2l6ZSgoMTI4LDEyOCkpLnNhdmUoKGZuLnBhcmVudC5wYXJlbnQpLyd0cmFpbl9tYXNrcy0xMjgnL2ZuLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiUmVzaXplIHtmbn0gdG8ge2ZuLnBhcmVudC5wYXJlbnR9IGRpciIpCg==</text>
+        <text encoding="base64">cGlsbG93Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc2l6ZV9pbWcoZmlsZSkK</text>
+        <text encoding="base64">bnVtcHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIGZpbGUgaW4gZmlsZXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SW1hZ2Uub3BlbihmMCkucmVzaXplKCgxMjgsMTI4KSkuc2F2ZSgoZjAucGFyZW50LnBhcmVudCkvJ3RyYWluX21hc2tzLTEyOCcvZjAubmFtZSkK</text>
+        <text encoding="base64">ICBydW5zOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZjAgPSBmaWxlc1swXQo=</text>
+        <text encoding="base64">dm9sdW1lczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZiJSZXNpemluZyB7bGVuKGZpbGVzKX0gaW1hZ2VzIC4uLiIpCg==</text>
+        <text encoding="base64">ICAgICAgLSBydW5zOi9ydW5zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW1hZ2UK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZiJUaGUgZmlyc3QgZmlsZSBpcyB7ZmlsZXNbMF0ubmFtZX0iKQo=</text>
+        <text encoding="base64">ICAgICAgLSAiODg4ODo4ODg4Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmlsZXNbMF0ucGFyZW50LnBhcmVudAo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>use_clr</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>use_clr</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>list</entry>
         <entry>aws_iam</entry>
         <entry>NotesTable</entry>
         <entry>webpack</entry>
@@ -750,6 +786,8 @@
         <entry>Sequential</entry>
         <entry>fit</entry>
         <entry>use_clr</entry>
+        <entry>compose</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
