@@ -131,12 +131,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/bin/process-data" timestamp="1532186853635">
+      <file name="$USER_HOME$/work/sonosite/bin/process-data" timestamp="1532190876106">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="16" column="50" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -295,7 +295,8 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532188907382">
+      <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532190555953">
+        <mark key="'" line="19" column="74" />
         <mark key="[" line="41" column="24" />
         <mark key="]" line="9" column="45" />
         <mark key="^" line="9" column="45" />
@@ -491,12 +492,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532189442355">
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532190100096">
         <mark key="'" line="129" column="16" />
-        <mark key="[" line="132" column="17" />
-        <mark key="]" line="132" column="36" />
-        <mark key="." line="132" column="36" />
-        <mark key="^" line="132" column="36" />
+        <mark key="[" line="150" column="31" />
+        <mark key="]" line="150" column="31" />
+        <mark key="." line="150" column="31" />
+        <mark key="^" line="150" column="31" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/loss.py" timestamp="1532063474797">
         <mark key="[" line="1" column="0" />
@@ -547,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="64" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="6" column="0" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="9" column="26" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="66" column="10" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
@@ -647,13 +647,14 @@
       <jump line="33" column="15" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="29" column="21" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="129" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="19" column="74" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZC4K</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>absolute().name</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>os.path</text>
