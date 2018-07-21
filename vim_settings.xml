@@ -83,6 +83,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/io.py" timestamp="1532192283419">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/tests/steps/init.ts" timestamp="1531632844684">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="7" column="102" />
@@ -131,12 +137,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/bin/process-data" timestamp="1532190876106">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="50" />
-        <mark key="^" line="16" column="50" />
-        <mark key="." line="16" column="50" />
+      <file name="$USER_HOME$/work/sonosite/bin/process-data" timestamp="1532192740132">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -295,12 +301,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532190555953">
-        <mark key="'" line="19" column="74" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="9" column="45" />
-        <mark key="^" line="9" column="45" />
-        <mark key="." line="9" column="45" />
+      <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532192604305">
+        <mark key="'" line="40" column="17" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="60" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiment_config.py" timestamp="1532063781226">
         <mark key="[" line="0" column="29" />
@@ -504,11 +510,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/preprocess.py" timestamp="1532186910677">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="35" column="70" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/work/sonosite/src/preprocess.py" timestamp="1532192459086">
+        <mark key="[" line="37" column="75" />
+        <mark key="]" line="37" column="75" />
+        <mark key="^" line="31" column="45" />
+        <mark key="." line="37" column="75" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531670686374">
         <mark key="[" line="25" column="53" />
@@ -548,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="9" column="26" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="66" column="10" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="5" column="0" filename="$USER_HOME$/work/react-apollo/src/components/LinkList.js" />
@@ -648,46 +653,47 @@
       <jump line="29" column="21" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="129" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="19" column="74" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
+      <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>directory containing supervise.ly annotation files</text>
       </register>
       <register name="/" type="4">
         <text>os.path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltZ19uYW1lcyA9IGFsbF9pbWFnZV9uYW1lcyhvcy5wYXRoLmpvaW4oY29uZmlnLmRhdGFfZGlyLCAnaW1nJykpCg==</text>
+        <text encoding="base64">UkFXX0RJUiA9IERBVEFfRElSLydyYXcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZC4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZC4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">b3MucGF0aC5qb2luKGQsICdyYXcnKS5leGlzdHMoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZC5leGlzdHMoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZC4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgUFJPQ0VTU0VEX0RJUiwgUkFXX0RJUgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBtYXNrc19kaXI6IGEgZGlyZWN0b3J5IGludG8gd2hpY2ggdG8gc2F2ZSBtYXNrIGltYWdlcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzZWRfZGF0YXNldF9kaXIgPSBwcm9jZXNzZWRfZGlyL3Jhd19kYXRhc2V0X2Rpci5uYW1lCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9vLnBhcmVudC5wYXJlbnQvJ2xhYmVsJy9mb28ubmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vLndpdGhfc3VmZml4KCcuYWJjJykubmFtZQo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NlZF9kaXIgPSByYXdfZGlyLnBhcmVudC8ncHJvY2Vzc2VkJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9vLm5hbWUK</text>
+        <text encoding="base64">ICAgIHJhd19kaXIgPSBQYXRoKCdkYXRhL3JhdycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
