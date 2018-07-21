@@ -22,18 +22,13 @@
       <file name="/fragment.js" timestamp="1531663503246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/util.py" timestamp="1532063593474">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="9" />
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1528393775942">
+      <file name="/a.dummy" timestamp="1532193097157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/seed-restaurants.ts" timestamp="1529989219570">
@@ -95,11 +90,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/checkpoint.py" timestamp="1532063577998">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/work/sonosite/.gitignore" timestamp="1532188661941">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="3" />
@@ -137,12 +127,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/bin/process-data" timestamp="1532192740132">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/work/sonosite/bin/process-data" timestamp="1532193294133">
+        <mark key="'" line="22" column="7" />
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -212,11 +202,6 @@
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/UnauthenticatedRoute.js" timestamp="1527982000564">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532063437662">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="22" column="1" />
       </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
@@ -301,12 +286,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532192604305">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="37" column="60" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532193399794">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiment_config.py" timestamp="1532063781226">
         <mark key="[" line="0" column="29" />
@@ -505,11 +490,6 @@
         <mark key="." line="150" column="31" />
         <mark key="^" line="150" column="31" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/loss.py" timestamp="1532063474797">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/work/sonosite/src/preprocess.py" timestamp="1532192459086">
         <mark key="[" line="37" column="75" />
         <mark key="]" line="37" column="75" />
@@ -656,11 +636,11 @@
       <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>directory containing supervise.ly annotation files</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>os.path</text>
