@@ -119,6 +119,13 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532184097271">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="7" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="64" />
@@ -270,7 +277,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1532063228785">
+      <file name="/Python Console" timestamp="1532183185812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -437,7 +444,7 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182050710">
+      <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182056419">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
@@ -474,6 +481,10 @@
         <mark key="]" line="5" column="86" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532183310823">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="69" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/loss.py" timestamp="1532063474797">
         <mark key="[" line="1" column="0" />
@@ -522,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="88" column="12" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
       <jump line="2" column="0" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
@@ -622,61 +632,61 @@
       <jump line="53" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="102" column="20" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="52" column="17" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/work/sonosite/src/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3MucGF0aC4K</text>
       </register>
       <register name="-" type="4">
-        <text>5000</text>
+        <text>.__class__</text>
       </register>
       <register name="/" type="4">
-        <text>from_nu</text>
+        <text>con</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiaW1nIHNoYXBlIGFmdGVyIGFkZCBjaGFubmVsIGF4aXM6IHtpbWcuc2hhcGV9IikK</text>
+        <text encoding="base64">ICAgIGltZ19uYW1lcyA9IGFsbF9pbWFnZV9uYW1lcyhvcy5wYXRoLmpvaW4oY29uZmlnLmRhdGFfZGlyLCAnaW1nJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHRveAo=</text>
+        <text encoding="base64">b3MucGF0aC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSByZXF1aXJlbWVudHMudHh0IC4K</text>
+        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHl0ZXN0Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Zmxha2U4CiA=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1nMSA9IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHRveAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVwcz1weXRlc3QK</text>
+        <text encoding="base64">Q09QWSByZXF1aXJlbWVudHMudHh0IC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IE5hbWVkVHVwbGUK</text>
+        <text encoding="base64">cHl0ZXN0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhLnNhbXBsZXIgaW1wb3J0IFJhbmRvbVNhbXBsZXIsIFNlcXVlbnRpYWxTYW1wbGVyCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Zmxha2U4CiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>from_nu</last-search>
+      <last-search>con</last-search>
       <last-offset />
-      <last-pattern>from_nu</last-pattern>
+      <last-pattern>con</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>webpack</entry>
         <entry>mode</entry>
         <entry>custom</entry>
         <entry>context</entry>
@@ -696,6 +706,7 @@
         <entry>self</entry>
         <entry>from</entry>
         <entry>from_nu</entry>
+        <entry>con</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
