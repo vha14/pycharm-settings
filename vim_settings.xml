@@ -483,11 +483,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532195258766">
-        <mark key="[" line="122" column="77" />
-        <mark key="]" line="122" column="79" />
-        <mark key="." line="122" column="79" />
-        <mark key="^" line="122" column="79" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532218147593">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="133" column="123" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/preprocess.py" timestamp="1532195093349">
         <mark key="'" line="37" column="58" />
@@ -534,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="10" filename="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/Recipes.js" />
       <jump line="5" column="0" filename="$USER_HOME$/work/react-apollo/src/components/LinkList.js" />
       <jump line="13" column="43" filename="$USER_HOME$/work/react-apollo/src/components/LinkList.js" />
       <jump line="17" column="43" filename="$USER_HOME$/work/react-apollo/src/components/LinkList.js" />
@@ -634,10 +634,11 @@
       <jump line="19" column="74" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
       <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
       <jump line="37" column="58" filename="$USER_HOME$/work/sonosite/src/preprocess.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'label'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
       </register>
       <register name="-" type="4">
         <text>'label'</text>
@@ -649,31 +650,31 @@
         <text encoding="base64">UkFXX0RJUiA9IERBVEFfRElSLydyYXcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2ltZ19uYW1lcywgdmFsaWRfaW1nX25hbWVzID0gdHJhaW5fdGVzdF9zcGxpdChpbWdfbmFtZXMsIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT1yYW5kb21fc2VlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgUFJPQ0VTU0VEX0RJUiwgUkFXX0RJUgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBtYXNrc19kaXI6IGEgZGlyZWN0b3J5IGludG8gd2hpY2ggdG8gc2F2ZSBtYXNrIGltYWdlcwo=</text>
+        <text encoding="base64">ICAgIGltZ19uYW1lcyA9IGFsbF9pbWFnZV9uYW1lcyhvcy5wYXRoLmpvaW4oY29uZmlnLmRhdGFfZGlyLCAnaW1nJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzZWRfZGF0YXNldF9kaXIgPSBwcm9jZXNzZWRfZGlyL3Jhd19kYXRhc2V0X2Rpci5uYW1lCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZF9kaXIgPSByYXdfZGlyLnBhcmVudC8ncHJvY2Vzc2VkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhd19kaXIgPSBQYXRoKCdkYXRhL3JhdycpCg==</text>
+        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgUFJPQ0VTU0VEX0RJUiwgUkFXX0RJUgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
