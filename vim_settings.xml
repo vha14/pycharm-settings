@@ -115,10 +115,9 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532275903165">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="105" />
-        <mark key="^" line="18" column="62" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532290155843">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
@@ -280,7 +279,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1532282345303">
+      <file name="/Python Console" timestamp="1532290257845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -644,7 +643,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoKGNvbmZpZy5kYXRhX2RpciAvIElNRyksIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT1yYW5kb21fc2VlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -656,31 +655,31 @@
         <text encoding="base64">ZmlsZXMgPSAoUGF0aChjb25maWcuZGF0YV9kaXIpIC8gSU1HKS5pdGVyZGlyKCkKdHJhaW5faW1nX2ZpbGVzLCB2YWxpZF9pbWdfZmlsZXMgPSB0cmFpbl90ZXN0X3NwbGl0KGxpc3QoZmlsZXMpLCB0ZXN0X3NpemU9MC4yLCByYW5kb21fc3RhdGU9cmFuZG9tX3NlZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoKGNvbmZpZy5kYXRhX2RpciAvIElNRyksIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT1yYW5kb21fc2VlZCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2ltZ19maWxlcywgdmFsaWRfaW1nX2ZpbGVzID0gdHJhaW5fdGVzdF9zcGxpdCgK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">dHJhaW5faW1nX2ZpbGVzLCB2YWxpZF9pbWdfZmlsZXMgPSB0cmFpbl90ZXN0X3NwbGl0KGxpc3QoZmlsZXMpLCB0ZXN0X3NpemU9MC4yLCByYW5kb21fc3RhdGU9cmFuZG9tX3NlZWQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZmlsZXMgPSAoUGF0aChjb25maWcuZGF0YV9kaXIpIC8gSU1HKS5pdGVyZGlyKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">UGF0aChjb25maWcuZGF0YV9kaXIpIC8gSU1HCg==</text>
+        <text encoding="base64">ICAgICAgICBQYXRoKGNvbmZpZy5kYXRhX2RpciAvIElNRyksIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT1yYW5kb21fc2VlZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uZmlnID0gImluaXRpYWxfc2FtcGxlIgo=</text>
+        <text encoding="base64">ICAgIHRyYWluX2ltZ19maWxlcywgdmFsaWRfaW1nX2ZpbGVzID0gdHJhaW5fdGVzdF9zcGxpdCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YXNldF9kaXIgPSAiLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmFuZG9tX3NlZWQgPSA0Mgo=</text>
+        <text encoding="base64">UGF0aChjb25maWcuZGF0YV9kaXIpIC8gSU1HCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">Y29uZmlnID0gImluaXRpYWxfc2FtcGxlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">ZGF0YXNldF9kaXIgPSAiLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZSIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
