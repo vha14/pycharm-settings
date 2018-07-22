@@ -644,7 +644,7 @@
         <text>.name</text>
       </register>
       <register name="/" type="4">
-        <text>os.path</text>
+        <text>from_numpy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkFXX0RJUiA9IERBVEFfRElSLydyYXcnCg==</text>
@@ -681,15 +681,14 @@
       </register>
     </registers>
     <search>
-      <last-search>os.path</last-search>
+      <last-search>from_numpy</last-search>
       <last-offset />
-      <last-pattern>os.path</last-pattern>
+      <last-pattern>from_numpy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Event</entry>
         <entry>event</entry>
         <entry>data_dir</entry>
         <entry>cv2</entry>
@@ -709,6 +708,7 @@
         <entry>os</entry>
         <entry>os.</entry>
         <entry>os.path</entry>
+        <entry>from_numpy</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
