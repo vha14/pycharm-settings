@@ -115,11 +115,11 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532274152320">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532275903165">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="105" />
+        <mark key="^" line="18" column="62" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -279,9 +279,6 @@
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
-      </file>
-      <file name="/Python Console" timestamp="1532274063956">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -489,12 +486,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532274125000">
-        <mark key="'" line="150" column="18" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="106" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="123" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532275931705">
+        <mark key="'" line="6" column="50" />
+        <mark key="[" line="135" column="61" />
+        <mark key="]" line="134" column="11" />
+        <mark key="^" line="134" column="11" />
+        <mark key="." line="135" column="68" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/preprocess.py" timestamp="1532220619843">
         <mark key="'" line="37" column="58" />
@@ -541,8 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="21" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
-      <jump line="61" column="71" filename="$USER_HOME$/work/big-mouth/seed-restaurants.ts" />
       <jump line="29" column="13" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="14" column="77" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
@@ -641,61 +636,62 @@
       <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="150" column="18" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="6" column="50" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIGV4cGFuZF9pbWFnZShpbWcpOgogICAgcmV0dXJuIG5wLnBhZChpbWcsICgoaW1nX3NpemVbMF0gLSBpbWcuc2hhcGVbMF0pIC8vIDIsIChpbWdfc2l6ZVsxXSAtIGltZy5zaGFwZVsxXSkgLy8gMiksICdjb25zdGFudCcpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQYXRoKGNvbmZpZy5kYXRhX2RpciAvIElNRyksIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT1yYW5kb21fc2VlZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>686</text>
+        <text>split</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVmIGV4cGFuZF9pbWFnZShpbWcpOgogICAgcmV0dXJuIG5wLnBhZChpbWcsICgoaW1nX3NpemVbMF0gLSBpbWcuc2hhcGVbMF0pIC8vIDIsIChpbWdfc2l6ZVsxXSAtIGltZy5zaGFwZVsxXSkgLy8gMiksICdjb25zdGFudCcpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZmlsZXMgPSAoUGF0aChjb25maWcuZGF0YV9kaXIpIC8gSU1HKS5pdGVyZGlyKCkKdHJhaW5faW1nX2ZpbGVzLCB2YWxpZF9pbWdfZmlsZXMgPSB0cmFpbl90ZXN0X3NwbGl0KGxpc3QoZmlsZXMpLCB0ZXN0X3NpemU9MC4yLCByYW5kb21fc3RhdGU9cmFuZG9tX3NlZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmFuZG9tX3NlZWQgPSA0Mgo=</text>
+        <text encoding="base64">ICAgICAgICBQYXRoKGNvbmZpZy5kYXRhX2RpciAvIElNRyksIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT1yYW5kb21fc2VlZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">ICAgIHRyYWluX2ltZ19maWxlcywgdmFsaWRfaW1nX2ZpbGVzID0gdHJhaW5fdGVzdF9zcGxpdCgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbiBpbXBvcnQgZXhwYW5kX2ltYWdlCg==</text>
+        <text encoding="base64">UGF0aChjb25maWcuZGF0YV9kaXIpIC8gSU1HCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnID0gImluaXRpYWxfc2FtcGxlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBleHBlcmltZW50cy50ZXN0MSBpbXBvcnQgY29uZmlnCg==</text>
+        <text encoding="base64">ZGF0YXNldF9kaXIgPSAiLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmFuZG9tX3NlZWQgPSA0Mgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>686</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>686</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pandas</entry>
         <entry>resize_i</entry>
         <entry>61</entry>
         <entry>Image</entry>
@@ -715,6 +711,7 @@
         <entry>img_</entry>
         <entry>size</entry>
         <entry>686</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
