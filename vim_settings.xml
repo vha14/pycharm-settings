@@ -115,11 +115,11 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532294158974">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
-        <mark key="^" line="34" column="21" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532311793212">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -282,9 +282,6 @@
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
-      </file>
-      <file name="/Python Console" timestamp="1532308512196">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -647,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>img</text>
+        <text>.weight</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>.weight</text>
       </register>
       <register name="/" type="4">
         <text>stride</text>
@@ -659,31 +656,31 @@
         <text encoding="base64">aW1nID0gbnAuZXhwYW5kX2RpbXMoaW1nLCBheGlzPTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV0ID0gbmV0LmN1ZGEoKQo=</text>
+        <text encoding="base64">ZnJvbSBkYXRhc2V0IGltcG9ydCBsb2FkX2ltYWdlX3RvX3RlbnNvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV0ID0gbmV0LmN1ZGEoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1nID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aTAgPSBsb2FkX2ltYWdlX3RvX3RlbnNvcihpMF9maWxlLCBleHBhbmRfaW1hZ2UpCg==</text>
+        <text encoding="base64">aW1nID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmV0LmRvd24xLmVuY29kZVswXS5jb252Cg==</text>
+        <text encoding="base64">aTAgPSBsb2FkX2ltYWdlX3RvX3RlbnNvcihpMF9maWxlLCBleHBhbmRfaW1hZ2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdAo=</text>
+        <text encoding="base64">bmV0LmRvd24xLmVuY29kZVswXS5jb252Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmV0LkMK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV0LkMK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
