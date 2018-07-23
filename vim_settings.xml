@@ -115,11 +115,11 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532311793212">
-        <mark key="[" line="34" column="7" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532313649059">
+        <mark key="[" line="35" column="10" />
         <mark key="]" line="34" column="7" />
         <mark key="." line="34" column="7" />
-        <mark key="^" line="36" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -209,7 +209,7 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532292201230">
+      <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532314104413">
         <mark key="'" line="97" column="67" />
       </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
@@ -489,8 +489,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532290714403">
-        <mark key="'" line="6" column="50" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532314401186">
+        <mark key="'" line="173" column="8" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="59" />
         <mark key="^" line="134" column="11" />
@@ -541,8 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
-      <jump line="20" column="2" filename="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" />
       <jump line="22" column="3" filename="$USER_HOME$/work/big-mouth/tests/steps/when.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
@@ -641,6 +639,8 @@
       <jump line="68" column="94" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="90" column="87" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="97" column="67" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
