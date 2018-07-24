@@ -495,8 +495,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532390799348">
-        <mark key="'" line="114" column="27" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532400910857">
+        <mark key="'" line="163" column="25" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="59" />
         <mark key="^" line="134" column="11" />
@@ -547,22 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
-      <jump line="15" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="2" column="36" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
-      <jump line="10" column="11" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/work/transfer_learning/main.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="34" column="12" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="59" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="43" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="468" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="25" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
@@ -584,8 +568,6 @@
       <jump line="52" column="17" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="8" column="8" filename="$USER_HOME$/work/sonosite/src/scratch.py" />
       <jump line="26" column="7" filename="$USER_HOME$/work/sonosite/bin/process-data" />
-      <jump line="159" column="8" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="11" column="7" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="19" column="26" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="20" column="45" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -622,7 +604,6 @@
       <jump line="39" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="134" column="42" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="139" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="150" column="18" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="125" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -647,6 +628,25 @@
       <jump line="173" column="8" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="77" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="114" column="27" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="81" column="106" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="87" column="80" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="118" column="47" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="127" column="85" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="159" column="12" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="168" column="64" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="170" column="83" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="75" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="137" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="63" column="44" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="140" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="162" column="25" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="60" column="33" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="138" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="100" column="39" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="103" column="48" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="141" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="163" column="25" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -656,7 +656,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>stride</text>
+        <text>valid_datal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1nID0gbnAuZXhwYW5kX2RpbXMoaW1nLCBheGlzPTApCg==</text>
@@ -693,19 +693,14 @@
       </register>
     </registers>
     <search>
-      <last-search>stride</last-search>
+      <last-search>valid_datal</last-search>
       <last-offset />
-      <last-pattern>stride</last-pattern>
+      <last-pattern>valid_datal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Image</entry>
-        <entry>Sequential</entry>
-        <entry>fit</entry>
-        <entry>use_clr</entry>
-        <entry>compose</entry>
         <entry>self</entry>
         <entry>from</entry>
         <entry>from_nu</entry>
@@ -721,6 +716,11 @@
         <entry>split</entry>
         <entry>C</entry>
         <entry>stride</entry>
+        <entry>global</entry>
+        <entry>train_data</entry>
+        <entry>train_datal</entry>
+        <entry>valid_da</entry>
+        <entry>valid_datal</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
