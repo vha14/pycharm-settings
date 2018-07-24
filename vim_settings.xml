@@ -324,11 +324,10 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532408365982">
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532409585120">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
@@ -501,10 +500,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532407066755">
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532408733476">
         <mark key="'" line="152" column="28" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="59" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="54" />
         <mark key="^" line="134" column="11" />
         <mark key="." line="135" column="68" />
       </file>
@@ -655,44 +654,44 @@
       <jump line="152" column="28" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjdXJyZW50X2Vwb2NoczogaW50ID0gMCwK</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>cross_validation</text>
       </register>
       <register name="/" type="4">
         <text>valid_datal</text>
       </register>
-      <register name="0" type="4">
-        <text>f&quot;Experiment run at {datetime.datetime.now()}&quot;,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRlbnNvcmJvYXJkX3dyaXRlciA9IFN1bW1hcnlXcml0ZXIoc3RyKHRyYWluX2RpcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCiAgICAgICAgc2VsZi5kZXNjcmlwdGlvbiA9IGRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjdXJyZW50X2Vwb2NoczogaW50ID0gMCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHIsCiAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IHN0ciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0b3RhbF9lcG9jaHM6IGludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCiAgICAgICAgc2VsZi5kZXNjcmlwdGlvbiA9IGRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHIsCiAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IHN0ciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBleHBlcmltZW50X2NvbmZpZyBpbXBvcnQgRXhwZXJpbWVudENvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCiAgICAgICAgICAgICAgICAgbmV0OiBubi5Nb2R1bGUsCiAgICAgICAgICAgICAgICAgb3B0aW1pemVyOiBPcHRpbWl6ZXIsCg==</text>
+        <text encoding="base64">ZnJvbSBleHBlcmltZW50X2NvbmZpZyBpbXBvcnQgRXhwZXJpbWVudENvbmZpZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBjb25maWc6IEV4cGVyaW1lbnRDb25maWcpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
