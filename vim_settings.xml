@@ -181,12 +181,12 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/README.md" timestamp="1532147262628">
-        <mark key="'" line="91" column="42" />
-        <mark key="[" line="75" column="3" />
-        <mark key="]" line="81" column="32" />
-        <mark key="." line="81" column="32" />
-        <mark key="^" line="81" column="32" />
+      <file name="$USER_HOME$/work/sonosite/README.md" timestamp="1532389841904">
+        <mark key="'" line="106" column="42" />
+        <mark key="[" line="71" column="81" />
+        <mark key="]" line="71" column="82" />
+        <mark key="." line="71" column="82" />
+        <mark key="^" line="75" column="97" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/libs/dynamodb-lib.ts" timestamp="1529193148030">
         <mark key="[" line="0" column="16" />
@@ -650,10 +650,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.weight</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>.weight</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>stride</text>
