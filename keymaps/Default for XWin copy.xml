@@ -27,6 +27,7 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="Console.Execute" />
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -82,8 +83,13 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="TFFmtFileAction" />
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="YAPFReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
 </keymap>
