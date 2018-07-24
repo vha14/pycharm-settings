@@ -96,6 +96,10 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/checkpoint.py" timestamp="1532439290580">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="48" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="0" column="40" />
@@ -324,10 +328,12 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532409585120">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532440029077">
+        <mark key="'" line="80" column="50" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="23" />
+        <mark key="." line="96" column="23" />
+        <mark key="^" line="96" column="23" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
@@ -500,10 +506,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532408733476">
-        <mark key="'" line="152" column="28" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="54" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532439907274">
+        <mark key="'" line="168" column="10" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="49" />
         <mark key="^" line="134" column="11" />
         <mark key="." line="135" column="68" />
       </file>
@@ -552,8 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
       <jump line="305" column="43" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="276" column="35" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
       <jump line="129" column="30" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
@@ -637,7 +641,6 @@
       <jump line="118" column="47" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="127" column="85" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="159" column="12" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="168" column="64" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="170" column="83" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="75" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="137" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -652,46 +655,49 @@
       <jump line="141" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="163" column="25" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="152" column="28" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="168" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="72" column="12" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="74" column="50" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBjdXJyZW50X2Vwb2NoczogaW50ID0gMCwK</text>
+      <register name="&quot;" type="4">
+        <text>training_state</text>
       </register>
       <register name="-" type="4">
-        <text>cross_validation</text>
+        <text>training_state</text>
       </register>
       <register name="/" type="4">
         <text>valid_datal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbnNvcmJvYXJkX3dyaXRlciA9IFN1bW1hcnlXcml0ZXIoc3RyKHRyYWluX2RpcikpCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3Jib2FyZFguc3JjLmV2ZW50X3BiMiBpbXBvcnQgU2Vzc2lvbkxvZwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBjdXJyZW50X2Vwb2NoczogaW50ID0gMCwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGVmIHRyYWluX2Vwb2NoKHRyYWluaW5nX3N0YXRlLCBkYXRhX3N0YXRlLCBjb25maWcpOgogICAgdHJhaW5pbmdfc3RhdGUubmV0LnRyYWluKCkKCiAgICB3aXRoIHRxZG0oCiAgICAgICAgICAgIHRvdGFsPWxlbihkYXRhX3N0YXRlLnRyYWluX2RhdGFsb2FkZXIpLAogICAgICAgICAgICBkZXNjPWYnRXBvY2gge3RyYWluaW5nX3N0YXRlLmN1cnJlbnRfZXBvY2ggKyAxfS97dHJhaW5pbmdfc3RhdGUudG90YWxfZXBvY2hzfScsCiAgICAgICAgICAgIGJhcl9mb3JtYXQ9J3tsX2Jhcn17YmFyfXwge25fZm10fS97dG90YWxfZm10fSBbe3JlbWFpbmluZ317cG9zdGZpeH1dJykgYXMgcGJhcjoKICAgICAgICBmb3IgKGlucHV0cywgdGFyZ2V0cykgaW4gZGF0YV9zdGF0ZS50cmFpbl9kYXRhbG9hZGVyOgogICAgICAgICAgICBpbnB1dHMsIHRhcmdldHMgPSBpbnB1dHMudG8oZGV2aWNlKSwgdGFyZ2V0cy50byhkZXZpY2UpCgogICAgICAgICAgICBsb2dpdHMgPSB0cmFpbmluZ19zdGF0ZS5uZXQuZm9yd2FyZChpbnB1dHMpCiAgICAgICAgICAgIHByb2JzID0gRi5zaWdtb2lkKGxvZ2l0cykKCiAgICAgICAgICAgIHJlbmRlcl9yZXN1bHRzKAogICAgICAgICAgICAgICAgaW5wdXRzLAogICAgICAgICAgICAgICAgdGFyZ2V0cywKICAgICAgICAgICAgICAgIHByb2JzLAogICAgICAgICAgICAgICAgdGhyZXNob2xkPWNvbmZpZy52YWxpZGF0aW9uX3RocmVzaG9sZCwKICAgICAgICAgICAgICAgIHRlbnNvcmJvYXJkX3dyaXRlcj1kYXRhX3N0YXRlLndyaXRlciwKICAgICAgICAgICAgICAgIGdsb2JhbF9zdGVwPXRyYWluaW5nX3N0YXRlLmdsb2JhbF9zdGVwLAogICAgICAgICAgICAgICAgdGVuc29yYm9hcmRfdGFnPSJ0cmFpbiIpCgogICAgICAgICAgICBsb3NzID0gY3JpdGVyaW9uKGxvZ2l0cywgcHJvYnMsIHRhcmdldHMsIGNvbmZpZy5sb3NzX2Z1bmN0aW9uKQoKICAgICAgICAgICAgZm9yIGxvc3NfbmFtZSwgbG9zc192YWx1ZSBpbiBsb3NzLl9hc2RpY3QoKS5pdGVtcygpOgogICAgICAgICAgICAgICAgZGF0YV9zdGF0ZS53cml0ZXIuYWRkX3NjYWxhcihmJ3RyYWluL2xvc3Mve2xvc3NfbmFtZX0nLCBsb3NzX3ZhbHVlLml0ZW0oKSwgdHJhaW5pbmdfc3RhdGUuZ2xvYmFsX3N0ZXApCgogICAgICAgICAgICB0cmFpbmluZ19zdGF0ZS5vcHRpbWl6ZXIuemVyb19ncmFkKCkKICAgICAgICAgICAgbG9zcy50b3RhbC5iYWNrd2FyZCgpCiAgICAgICAgICAgIHRyYWluaW5nX3N0YXRlLm9wdGltaXplci5zdGVwKCkKCiAgICAgICAgICAgIHRyYWluaW5nX3N0YXRlID0gdHJhaW5pbmdfc3RhdGUuX3JlcGxhY2UoZ2xvYmFsX3N0ZXA9dHJhaW5pbmdfc3RhdGUuZ2xvYmFsX3N0ZXAgKyAxKQoKICAgICAgICAgICAgcGJhci5zZXRfcG9zdGZpeChPcmRlcmVkRGljdChsb3NzPSd7MDoxLjVmfScuZm9ybWF0KGxvc3MudG90YWwuaXRlbSgpKSkpCiAgICAgICAgICAgIHBiYXIudXBkYXRlKDEpCiAgICAgICAgICAgIGRvY2tlcl9jb21wb3NlX3RxZG1faGFjaygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB0b3RhbF9lcG9jaHM6IGludAo=</text>
+        <text encoding="base64">ICAgIHRvdGFsID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCiAgICAgICAgc2VsZi5kZXNjcmlwdGlvbiA9IGRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHIsCiAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IHN0ciwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjdXJyZW50X2Vwb2NoczogaW50ID0gMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBleHBlcmltZW50X2NvbmZpZyBpbXBvcnQgRXhwZXJpbWVudENvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0b3RhbF9lcG9jaHM6IGludAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCiAgICAgICAgc2VsZi5kZXNjcmlwdGlvbiA9IGRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
