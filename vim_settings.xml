@@ -308,9 +308,9 @@
         <mark key="^" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment_config.py" timestamp="1532063781226">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="1" column="8" />
+      <file name="$USER_HOME$/work/sonosite/src/experiment_config.py" timestamp="1532406915816">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="14" column="37" />
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
@@ -324,8 +324,11 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532406505583">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532407259744">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="63" />
+        <mark key="^" line="18" column="63" />
+        <mark key="." line="18" column="63" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
@@ -498,8 +501,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532400910857">
-        <mark key="'" line="163" column="25" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532407066755">
+        <mark key="'" line="152" column="28" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="59" />
         <mark key="^" line="134" column="11" />
@@ -550,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
       <jump line="305" column="43" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
@@ -650,46 +652,47 @@
       <jump line="103" column="48" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="141" column="4" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="163" column="25" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="152" column="28" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Path</text>
       </register>
       <register name="/" type="4">
         <text>valid_datal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1nID0gbnAuZXhwYW5kX2RpbXMoaW1nLCBheGlzPTApCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIG5hbWU6IHN0cgogICAgZGVzY3JpcHRpb246IHN0cgogICAgZGF0YV9kaXI6IHN0cgogICAgZXBvY2hzOiBpbnQgPSAxCiAgICBiYXRjaF9zaXplOiBpbnQgPSAxCiAgICBsZWFybmluZ19yYXRlOiBmbG9hdCA9IDAuMDAxCiAgICBjaGVja3BvaW50X2ZpbGU6IHN0ciA9IE5vbmUKICAgIGNoZWNrcG9pbnRfZnJlcXVlbmN5OiBpbnQgPSAxMAogICAgbG9zc19mdW5jdGlvbjogc3RyID0gTm9uZQogICAgdmFsaWRhdGlvbl90aHJlc2hvbGQ6IGZsb2F0ID0gMC41Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0IGltcG9ydCBsb2FkX2ltYWdlX3RvX3RlbnNvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV0ID0gbmV0LmN1ZGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lOiBzdHJpbmcsCiAgICAgICAgICAgICAgICAgbmV0OiBubi5Nb2R1bGUsCiAgICAgICAgICAgICAgICAgb3B0aW1pemVyOiBPcHRpbWl6ZXIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjb25maWc6IEV4cGVyaW1lbnRDb25maWcpOgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1nID0gCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhc2V0IGltcG9ydCBsb2FkX2ltYWdlX3RvX3RlbnNvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aTAgPSBsb2FkX2ltYWdlX3RvX3RlbnNvcihpMF9maWxlLCBleHBhbmRfaW1hZ2UpCg==</text>
+        <text encoding="base64">bmV0ID0gbmV0LmN1ZGEoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV0LmRvd24xLmVuY29kZVswXS5jb252Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmV0LkMK</text>
+        <text encoding="base64">aW1nID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
