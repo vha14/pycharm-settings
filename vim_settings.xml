@@ -132,6 +132,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/tests/test_dataset.py" timestamp="1532485301672">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -678,10 +684,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ull</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ull</text>
       </register>
       <register name="/" type="4">
         <text>686</text>
