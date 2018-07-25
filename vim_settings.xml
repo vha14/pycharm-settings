@@ -413,7 +413,8 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532442385013">
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532528854883">
+        <mark key="'" line="115" column="62" />
         <mark key="[" line="209" column="0" />
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
@@ -586,10 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" />
-      <jump line="15" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="2" column="36" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
       <jump line="10" column="11" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
       <jump line="208" column="0" filename="$USER_HOME$/work/transfer_learning/main.py" />
       <jump line="91" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
@@ -686,6 +683,10 @@
       <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -695,7 +696,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>padding</text>
+        <text>loss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgCiAgICAjICMgVGhlIGZvbGxvd2luZyBhc3NlcnRpb25zIGFyZSBjb21tZW50ZWQgb3V0IGR1ZSB0byBsYWNrIG9mIG1lbW9yeQogICAgIwo=</text>
@@ -732,15 +733,14 @@
       </register>
     </registers>
     <search>
-      <last-search>padding</last-search>
+      <last-search>loss</last-search>
       <last-offset />
-      <last-pattern>padding</last-pattern>
+      <last-pattern>loss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>from_nu</entry>
         <entry>con</entry>
         <entry>os</entry>
         <entry>os.</entry>
@@ -760,6 +760,7 @@
         <entry>valid_datal</entry>
         <entry>global_step</entry>
         <entry>padding</entry>
+        <entry>loss</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
