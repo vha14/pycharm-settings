@@ -142,6 +142,12 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532479171508">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+      </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="42" />
@@ -672,7 +678,7 @@
       <jump line="174" column="55" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
@@ -684,7 +690,7 @@
       <register name="0" type="2">
         <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
@@ -697,19 +703,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV0ID0gVU5ldDg0Nng2ODYoaW5fc2hhcGU9KDEsIGltZ19zaXplWzBdLCBpbWdfc2l6ZVsxXSkpLnRvKGRldmljZSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmV0ID0gVU5ldDg0Nng2ODYoaW5fc2hhcGU9KDEsIGltZ19zaXplWzBdLCBpbWdfc2l6ZVsxXSkpLnRvKGRldmljZSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV0ID0gVW5ldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZGlyPScuL2RhdGEvcHJvY2Vzc2VkL2luaXRpYWxfc2FtcGxlJywK</text>
+        <text encoding="base64">bmV0ID0gVW5ldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2twb2ludF9maWxlPScvcnVucy9vdmVyZml0X3VuZXRfODQ2eDY4Nl8zL21vZGVsLTE1LnB0aC50YXInLAo=</text>
+        <text encoding="base64">ICAgIGRhdGFfZGlyPScuL2RhdGEvcHJvY2Vzc2VkL2luaXRpYWxfc2FtcGxlJywK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
