@@ -132,11 +132,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/tests/test_dataset.py" timestamp="1532493027877">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
+      <file name="$USER_HOME$/work/sonosite/src/tests/test_dataset.py" timestamp="1532493702547">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="75" />
+        <mark key="^" line="9" column="94" />
+        <mark key="." line="9" column="98" />
       </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
@@ -148,10 +148,11 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532479358442">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532494915140">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
@@ -247,8 +248,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532479390161">
-        <mark key="'" line="133" column="41" />
+      <file name="$USER_HOME$/work/sonosite/src/train.py" timestamp="1532493762972">
+        <mark key="'" line="158" column="24" />
         <mark key="[" line="151" column="30" />
         <mark key="]" line="151" column="30" />
         <mark key="^" line="151" column="30" />
@@ -321,9 +322,9 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532456050388">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="20" />
+      <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="57" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
@@ -585,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="14" column="77" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/work/serverless-stack-2-api-ts/serverless.yml" />
@@ -685,43 +685,44 @@
       <jump line="134" column="41" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="15" column="4" filename="$USER_HOME$/work/sonosite/src/dataset.py" />
       <jump line="33" column="31" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/storage.py" />
+      <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>700</text>
+        <text>input</text>
       </register>
       <register name="-" type="4">
-        <text>700</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text>686</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCdzcmMnKQo=</text>
+        <text encoding="base64">ICAgIHRlc3RfaW1nX2ZpbGUgPSAiLi9zcmMvdGVzdHMvZGF0YS9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmciCiAgICBhc3NlcnQgbG9hZF9pbWFnZV90b190ZW5zb3IoUGF0aCh0ZXN0X2ltZ19maWxlKSkuc2hhcGUgPT0gKDEsIDY4NiwgODQ2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAxID09IDEgICMgVE9ETzogUmV2aXNpdCB0aGlzIGxhdGVyeW5jCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuaW5nX3JhdGUgPSAwLjAwMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCdzcmMnKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCAxID09IDEgICMgVE9ETzogUmV2aXNpdCB0aGlzIGxhdGVyeW5jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmFuZG9tX3NlZWQgPSA0Mgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCAxID09IDEgICMgVE9ETzogUmV2aXNpdCB0aGlzIGxhdGVyeW5jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCdzcmMnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">cmFuZG9tX3NlZWQgPSA0Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbiBpbXBvcnQgZXhwYW5kX2ltYWdlCg==</text>
+        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBleHBlcmltZW50cy50ZXN0MSBpbXBvcnQgY29uZmlnCg==</text>
+        <text encoding="base64">ZnJvbSB0cmFpbiBpbXBvcnQgZXhwYW5kX2ltYWdlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
