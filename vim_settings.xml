@@ -413,11 +413,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532528854883">
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1532567817089">
         <mark key="'" line="115" column="62" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+        <mark key="[" line="115" column="62" />
+        <mark key="]" line="115" column="62" />
+        <mark key="." line="115" column="62" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -587,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/work/sonosite/src/visualize.py" />
       <jump line="208" column="0" filename="$USER_HOME$/work/transfer_learning/main.py" />
       <jump line="91" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="34" column="12" filename="$USER_HOME$/work/fastai/requirements.txt" />
@@ -687,13 +686,14 @@
       <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
