@@ -338,11 +338,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532726824726">
-        <mark key="[" line="106" column="18" />
-        <mark key="]" line="107" column="14" />
-        <mark key="^" line="107" column="14" />
-        <mark key="." line="107" column="14" />
+      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532730568776">
+        <mark key="[" line="105" column="13" />
+        <mark key="]" line="93" column="27" />
+        <mark key="^" line="93" column="27" />
+        <mark key="." line="93" column="27" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
@@ -681,10 +681,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
