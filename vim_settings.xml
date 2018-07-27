@@ -338,11 +338,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532730568776">
-        <mark key="[" line="105" column="13" />
-        <mark key="]" line="93" column="27" />
-        <mark key="^" line="93" column="27" />
-        <mark key="." line="93" column="27" />
+      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532733206569">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="89" column="48" />
+        <mark key="]" line="89" column="49" />
+        <mark key="^" line="89" column="45" />
+        <mark key="." line="89" column="49" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
@@ -578,8 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="$USER_HOME$/work/transfer_learning/main.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="34" column="12" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="59" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
@@ -678,13 +677,15 @@
       <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>eq</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>eq</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
