@@ -338,12 +338,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532734704823">
-        <mark key="'" line="89" column="28" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="89" column="23" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="109" column="34" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
@@ -378,6 +378,11 @@
       </file>
       <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532496293158">
         <mark key="'" line="97" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/agromomaster/extract_sap.py" timestamp="1532739253619">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
@@ -579,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
       <jump line="43" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="468" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
@@ -679,46 +683,47 @@
       <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVzcG9uc2VbJ1Jlc3BvbnNlTWV0YWRhdGEnXQo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>KeyConditionExpresssion</text>
+        <text>, columns=['station_ID', 'timestamp', 'sap']</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVzcG9uc2VbJ1NjYW5uZWRDb3VudCddCg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzcG9uc2VbJ1Jlc3BvbnNlTWV0YWRhdGEnXQo=</text>
+        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVzcG9uc2VbJ1NjYW5uZWRDb3VudCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzcG9uc2VbJ0NvdW50J10K</text>
+        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVuKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzcG9uc2Uua2V5cygpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzcG9uc2UgPSBlbWZfdGFibGUuc2NhbigpCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVGhlIGZvbGxvd2luZyBhc3NlcnRpb25zIGFyZSBjb21tZW50ZWQgb3V0IGR1ZSB0byBsYWNrIG9mIG1lbW9yeQogICAgIwo=</text>
+        <text encoding="base64">bGVuKHJlc1swXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
