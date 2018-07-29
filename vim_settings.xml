@@ -404,6 +404,9 @@
         <mark key="." line="4" column="59" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/work/fastai/environment.yml" timestamp="1532838961587">
+        <mark key="'" line="7" column="2" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
         <mark key="[" line="30" column="27" />
         <mark key="]" line="32" column="0" />
@@ -576,6 +579,7 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1532838681975" />
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -584,11 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="43" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="468" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="25" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
@@ -684,6 +683,11 @@
       <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -693,7 +697,7 @@
         <text>, columns=['station_ID', 'timestamp', 'sap']</text>
       </register>
       <register name="/" type="4">
-        <text>loss</text>
+        <text>sci</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
@@ -730,16 +734,14 @@
       </register>
     </registers>
     <search>
-      <last-search>loss</last-search>
+      <last-search>sci</last-search>
       <last-offset />
-      <last-pattern>loss</last-pattern>
+      <last-pattern>sci</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>con</entry>
-        <entry>os</entry>
         <entry>os.</entry>
         <entry>os.path</entry>
         <entry>from_numpy</entry>
@@ -758,6 +760,8 @@
         <entry>global_step</entry>
         <entry>padding</entry>
         <entry>loss</entry>
+        <entry>skle</entry>
+        <entry>sci</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
