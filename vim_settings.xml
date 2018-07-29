@@ -225,12 +225,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532893340761">
-        <mark key="'" line="67" column="12" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532893448264">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -353,11 +353,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532893431826">
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="22" column="59" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532896072951">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="^" line="55" column="3" />
+        <mark key="." line="54" column="4" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
@@ -711,11 +711,11 @@
       <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>len(y_names)</text>
       </register>
       <register name="-" type="4">
-        <text>TRAIN_DN</text>
+        <text>len(y_names)</text>
       </register>
       <register name="/" type="4">
         <text>Image</text>
@@ -724,31 +724,31 @@
         <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gTUFTS1NfRE5fMTI4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhfbmFtZXNbMF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1zaG93KGltZykK</text>
+        <text encoding="base64">ICAgIGxlbih4X25hbWVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YV9kaXIgPSBUUkFJTl9ETl8xMjgK</text>
+        <text encoding="base64">ICAgIHN6ID0gMTI4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXNpemVkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YV9kaXIgPSBNQVNLU19ETgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bWFza3NfY3N2ID0gcGQucmVhZF9jc3YoTUFTS1NfRk4pCnhfbmFtZXMgPSBucC5hcnJheShbVFJBSU5fRE4gLyBvIGZvciBvIGluIG1hc2tzX2NzdlsnaW1nJ11dKQp5X25hbWVzID0gbnAuYXJyYXkoCiAgICBbTUFTS1NfRE4gLyBmJ3tvWzotNF19X21hc2sucG5nJyBmb3IgbyBpbiBtYXNrc19jc3ZbJ2ltZyddXSkKCnZhbF9pZHhzID0gbGlzdChyYW5nZSgxMDA4KSkKKCh2YWxfeCwgdHJuX3gpLCAodmFsX3ksIHRybl95KSkgPSBzcGxpdF9ieV9pZHgodmFsX2lkeHMsIHhfbmFtZXMsIHlfbmFtZXMpCgpzeiA9IDEyOAp0Zm1zID0gdGZtc19mcm9tX21vZGVsKAogICAgcmVzbmV0MzQsCiAgICBzeiwKICAgIGNyb3BfdHlwZT1Dcm9wVHlwZS5OTywKICAgIHRmbV95PVRmbVR5cGUuQ0xBU1MsCiAgICBhdWdfdGZtcz1hdWdfdGZtcykKCgpkYXRhc2V0cyA9IEltYWdlRGF0YS5nZXRfZHMoCiAgICBNYXRjaGVkRmlsZXNEYXRhc2V0LCAodHJuX3gsIHRybl95KSwgKHZhbF94LCB2YWxfeSksIHRmbXMsIHBhdGg9UEFUSCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXNpemVkOgo=</text>
+        <text encoding="base64">YnMgPSA2NAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZGlyID0gTm9uZQo=</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLnB5cGxvdCBpbXBvcnQgaW1zaG93Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
