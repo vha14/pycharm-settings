@@ -476,10 +476,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532881751231">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532882649387">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -715,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>torch.nn as nn</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>torch.nn as nn</text>
       </register>
       <register name="/" type="4">
         <text>META_FN</text>
