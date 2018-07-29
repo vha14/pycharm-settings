@@ -181,9 +181,6 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532872987883">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -228,12 +225,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532883765642">
-        <mark key="'" line="76" column="12" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532884548080">
+        <mark key="'" line="81" column="12" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -477,11 +474,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532883058707">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532884050081">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -717,40 +713,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nID0gSW1hZ2Uub3BlbihUUkFJTl9ETiAvIGYne0NBUl9JRH1fMDEuanBnJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.resize((300, 200))</text>
       </register>
       <register name="/" type="4">
         <text>META_FN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VFJBSU5fRE4gPSBQQVRIIC8gJ3RyYWluJwo=</text>
+        <text encoding="base64">SW1hZ2Uub3BlbihUUkFJTl9ETiAvIGYne0NBUl9JRH1fMDEuanBnJykucmVzaXplKCgzMDAsIDIwMCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nID0gSW1hZ2Uub3BlbihUUkFJTl9ETiAvIGYne0NBUl9JRH1fMDEuanBnJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBJbls1OV06Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSB0b3JjaHZpc2lvbi5tb2RlbHMgaW1wb3J0IHJlc25ldDM0Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlIEltcG9ydHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJbls1OV06Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
