@@ -228,11 +228,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532881669668">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="75" column="22" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532883765642">
+        <mark key="'" line="76" column="12" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -476,11 +477,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532882649387">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532883058707">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="0" column="21" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -710,16 +711,16 @@
       <jump line="57" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="23" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="70" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="78" column="10" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="30" column="10" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="32" column="17" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="78" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>torch.nn as nn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>torch.nn as nn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>META_FN</text>
@@ -728,47 +729,28 @@
         <text encoding="base64">VFJBSU5fRE4gPSBQQVRIIC8gJ3RyYWluJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLkYK</text>
-      </register>
-      <register name="2" type="4">
-        <text>class StdUpsample(nn.Module):
-    def __init__(self, nin, nout):
-        super().__init__()
-        self.conv = nn.ConvTranspose2d(nin, nout, 2, stride=2)
-        self.bn = nn.BatchNorm2d(nout)
-
-    def forward(self, x):
-        return self.bn(F.relu(self.conv(x)))
-
-
-# In[16]:
-
-flatten_channel = Lambda(lambda x: x[:, 0])</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZW1wdHkgPSBFbXB0eU1vZGVsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVhcm4gPSBDb252TGVhcm5lcihtZCwgbW9kZWxzKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyBJbls1OV06Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>class Empty(torch.nn.Module):
-    def forward(self, x):
-        return x
-
-
-models = ConvnetBuilder(resnet34, 0, 0, 0, custom_head=Empty())
-
-learn = ConvLearner(md, models)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBJblsxNTVdOgo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAjIyBNb2RlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
