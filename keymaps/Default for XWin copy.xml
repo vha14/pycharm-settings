@@ -38,6 +38,8 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="DecrementWindowHeight" />
   <action id="DirDiffMenu.SynchronizeDiff" />
@@ -67,6 +69,9 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="Macro.Insert code cell marker">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
     <keyboard-shortcut first-keystroke="shift alt m" />
