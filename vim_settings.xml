@@ -16,10 +16,6 @@
         <mark key="." line="61" column="50" />
         <mark key="^" line="61" column="50" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/bin/train" timestamp="1532442287867">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="26" />
-      </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/test_unet.py" timestamp="1532063515092">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="16" column="39" />
@@ -45,10 +41,6 @@
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/sonosite/src/checkpoint.py" timestamp="1532441415785">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="52" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
@@ -123,6 +115,11 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana-unet.py" timestamp="1532873065142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,6 +170,9 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1532872987883">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -216,6 +216,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532873390818">
+        <mark key="'" line="38" column="28" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="49" column="13" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -338,6 +344,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532873486524">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="5" column="0" />
@@ -451,10 +462,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiments/testing.py" timestamp="1532455529779">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -579,7 +586,6 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1532838681975" />
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -588,12 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
-      <jump line="305" column="43" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="276" column="35" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
       <jump line="129" column="30" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
       <jump line="6" column="0" filename="$USER_HOME$/work/sonosite/README.md" />
@@ -688,62 +688,66 @@
       <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, columns=['station_ID', 'timestamp', 'sap']</text>
       </register>
       <register name="/" type="4">
-        <text>sci</text>
+        <text>META_FN</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIHNob3dfaW1nKGltLCBmaWdzaXplPU5vbmUsIGF4PU5vbmUsIGFscGhhPU5vbmUpOgogICAgaWYgbm90IGF4OiBmaWcsYXggPSBwbHQuc3VicGxvdHMoZmlnc2l6ZT1maWdzaXplKQogICAgYXguaW1zaG93KGltLCBhbHBoYT1hbHBoYSkKICAgIGF4LnNldF9heGlzX29mZigpCiAgICByZXR1cm4gYXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBheAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF4LnNldF9heGlzX29mZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
+        <text encoding="base64">ICAgIGF4Lmltc2hvdyhpbSwgYWxwaGE9YWxwaGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBheDogZmlnLCBheCA9IHBsdC5zdWJwbG90cyhmaWdzaXplPWZpZ3NpemUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNob3dfaW1nKGltLCBmaWdzaXplPU5vbmUsIGF4PU5vbmUsIGFscGhhPU5vbmUpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
+        <text encoding="base64">ZnJvbSBjbGljayBpbXBvcnQgUGF0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sci</last-search>
+      <last-search>META_FN</last-search>
       <last-offset />
-      <last-pattern>sci</last-pattern>
+      <last-pattern>META_FN</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>os.</entry>
-        <entry>os.path</entry>
         <entry>from_numpy</entry>
         <entry>forward</entry>
         <entry>img_</entry>
@@ -762,6 +766,8 @@
         <entry>loss</entry>
         <entry>skle</entry>
         <entry>sci</entry>
+        <entry>MASKS_FN</entry>
+        <entry>META_FN</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
