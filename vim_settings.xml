@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531874334804">
+      <file name="/start_script.py" timestamp="1532981073704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532220472925">
@@ -62,11 +62,11 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532273759708">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="25" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532981930400">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -172,6 +172,9 @@
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
+      </file>
+      <file name="/Python Console" timestamp="1532981963470">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -686,44 +689,44 @@
       <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>, columns=['station_ID', 'timestamp', 'sap']</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhucC5uZGFycmF5KGltZzApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLnB5cGxvdCBpbXBvcnQgaW1zaG93Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVuKHJlc1swXSkK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
