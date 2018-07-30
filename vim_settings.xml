@@ -356,11 +356,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532911691720">
-        <mark key="[" line="66" column="72" />
-        <mark key="]" line="66" column="78" />
-        <mark key="^" line="66" column="78" />
-        <mark key="." line="66" column="78" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532912571747">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
@@ -714,8 +714,8 @@
       <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PATH</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>PATH</text>
@@ -727,31 +727,31 @@
         <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gTUFTS1NfRE5fMTI4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRSQUlOX0ROCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hc2tzX2NzdlsnaW1nJ11bMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxlbih0cm5feCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">YXVnX3RmbXM6IGxpc3RbVHJhbnNmb3JtXSA9IFsKICAgIFJhbmRvbVJvdGF0ZSg0LCB0Zm1feT1UZm1UeXBlLkNMQVNTKSwKICAgIFJhbmRvbUZsaXAodGZtX3k9VGZtVHlwZS5DTEFTUyksCiAgICBSYW5kb21MaWdodGluZyhiPTAuMDUsIGM9MC4wNSkKXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHlfbmFtZXNbMF0K</text>
+        <text encoding="base64">ICAgIFRSQUlOX0ROCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhfbmFtZXNbMF0K</text>
+        <text encoding="base64">ICAgIG1hc2tzX2NzdlsnaW1nJ11bMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxlbih4X25hbWVzKQo=</text>
+        <text encoding="base64">ICAgIGxlbih0cm5feCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN6ID0gMTI4Cg==</text>
+        <text encoding="base64">ICAgIHlfbmFtZXNbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhfbmFtZXNbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlbih4X25hbWVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
