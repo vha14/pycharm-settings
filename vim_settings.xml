@@ -247,6 +247,9 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
+        <mark key="'" line="338" column="32" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="6" column="57" />
@@ -353,10 +356,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532897423228">
-        <mark key="]" line="54" column="3" />
-        <mark key="^" line="54" column="3" />
-        <mark key="." line="54" column="3" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532911691720">
+        <mark key="[" line="66" column="72" />
+        <mark key="]" line="66" column="78" />
+        <mark key="^" line="66" column="78" />
+        <mark key="." line="66" column="78" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
@@ -608,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/827876045/-1679216578/torch/__init__.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="53" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="102" column="20" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -708,61 +711,61 @@
       <jump line="63" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="68" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxlbih0cm5feCkK</text>
+      <register name="&quot;" type="4">
+        <text>PATH</text>
       </register>
       <register name="-" type="4">
-        <text>val_y</text>
+        <text>PATH</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text>aug_dl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gTUFTS1NfRE5fMTI4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlbih0cm5feCkK</text>
+        <text encoding="base64">ICAgIFRSQUlOX0ROCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlfbmFtZXNbMF0K</text>
+        <text encoding="base64">ICAgIG1hc2tzX2NzdlsnaW1nJ11bMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHhfbmFtZXNbMF0K</text>
+        <text encoding="base64">ICAgIGxlbih0cm5feCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxlbih4X25hbWVzKQo=</text>
+        <text encoding="base64">ICAgIHlfbmFtZXNbMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN6ID0gMTI4Cg==</text>
+        <text encoding="base64">ICAgIHhfbmFtZXNbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlbih4X25hbWVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN6ID0gMTI4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bWFza3NfY3N2ID0gcGQucmVhZF9jc3YoTUFTS1NfRk4pCnhfbmFtZXMgPSBucC5hcnJheShbVFJBSU5fRE4gLyBvIGZvciBvIGluIG1hc2tzX2NzdlsnaW1nJ11dKQp5X25hbWVzID0gbnAuYXJyYXkoCiAgICBbTUFTS1NfRE4gLyBmJ3tvWzotNF19X21hc2sucG5nJyBmb3IgbyBpbiBtYXNrc19jc3ZbJ2ltZyddXSkKCnZhbF9pZHhzID0gbGlzdChyYW5nZSgxMDA4KSkKKCh2YWxfeCwgdHJuX3gpLCAodmFsX3ksIHRybl95KSkgPSBzcGxpdF9ieV9pZHgodmFsX2lkeHMsIHhfbmFtZXMsIHlfbmFtZXMpCgpzeiA9IDEyOAp0Zm1zID0gdGZtc19mcm9tX21vZGVsKAogICAgcmVzbmV0MzQsCiAgICBzeiwKICAgIGNyb3BfdHlwZT1Dcm9wVHlwZS5OTywKICAgIHRmbV95PVRmbVR5cGUuQ0xBU1MsCiAgICBhdWdfdGZtcz1hdWdfdGZtcykKCgpkYXRhc2V0cyA9IEltYWdlRGF0YS5nZXRfZHMoCiAgICBNYXRjaGVkRmlsZXNEYXRhc2V0LCAodHJuX3gsIHRybl95KSwgKHZhbF94LCB2YWxfeSksIHRmbXMsIHBhdGg9UEFUSCkK</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search>aug_dl</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
+      <last-pattern>aug_dl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>forward</entry>
         <entry>img_</entry>
         <entry>size</entry>
         <entry>686</entry>
@@ -782,6 +785,7 @@
         <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
+        <entry>aug_dl</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
