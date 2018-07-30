@@ -62,11 +62,11 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532982902098">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532983939408">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -217,6 +217,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532983878168" />
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -689,11 +690,11 @@
       <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1nMCA9IEltYWdlLm9wZW4oaW1nX2Zuc1swXSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>sci</text>
@@ -702,31 +703,31 @@
         <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnAuYXJyYXkoaW1nMCkK</text>
+        <text encoding="base64">aW1nMCA9IEltYWdlLm9wZW4oaW1nX2Zuc1swXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">bnAuYXJyYXkoaW1nMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
