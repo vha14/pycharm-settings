@@ -62,11 +62,11 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532273759708">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="25" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532982902098">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -172,6 +172,9 @@
         <mark key="]" line="272" column="0" />
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1532982368776">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -481,7 +484,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532480031814">
+      <file name="/Dummy.txt" timestamp="1532982368845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1532835158707">
@@ -579,7 +582,6 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1532838681975" />
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -690,11 +692,11 @@
       <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, columns=['station_ID', 'timestamp', 'sap']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sci</text>
@@ -703,31 +705,31 @@
         <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">bnAuYXJyYXkoaW1nMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGVuKHJlc3VsdFsnc3RhdGlvbl9JRCddKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGVuKHJlc3VsdFsnc2FwJ10pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciBpdGVtIGluIHJlc3BbJ0l0ZW1zJ10gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gW1tpdGVtWydzdGF0aW9uX0lEJ10sIGl0ZW1bJ3RpbWVzdGFtcCddLCBpdGVtWydwYXlsb2FkJ11bJ3NhcCddXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
