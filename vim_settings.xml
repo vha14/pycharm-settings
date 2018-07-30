@@ -369,6 +369,9 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="109" column="34" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" timestamp="1532927794965">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="28" column="58" />
@@ -509,7 +512,7 @@
       <file name="/Dummy.txt" timestamp="1532892699059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1532892023549">
+      <file name="/code.py" timestamp="1532927813074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1532457269632">
@@ -612,7 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="53" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="102" column="20" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="52" column="17" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -712,6 +714,7 @@
       <jump line="68" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -721,7 +724,7 @@
         <text>PATH</text>
       </register>
       <register name="/" type="4">
-        <text>aug_dl</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gTUFTS1NfRE5fMTI4Cg==</text>
@@ -758,15 +761,14 @@
       </register>
     </registers>
     <search>
-      <last-search>aug_dl</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>aug_dl</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>img_</entry>
         <entry>size</entry>
         <entry>686</entry>
         <entry>split</entry>
@@ -786,6 +788,7 @@
         <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
