@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531874334804">
+      <file name="/start_script.py" timestamp="1532989191546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532220472925">
@@ -15,10 +15,6 @@
         <mark key="]" line="61" column="50" />
         <mark key="." line="61" column="50" />
         <mark key="^" line="61" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/sonosite/bin/train" timestamp="1532442287867">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/test_unet.py" timestamp="1532063515092">
         <mark key="'" line="17" column="8" />
@@ -46,10 +42,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/checkpoint.py" timestamp="1532441415785">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="52" />
-      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="0" column="40" />
@@ -62,10 +54,12 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532988128771">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532989536863">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -216,7 +210,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532987746797" />
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532989256431" />
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -452,10 +446,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiments/testing.py" timestamp="1532455529779">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="22" />
-      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
         <mark key="]" line="7" column="69" />
@@ -481,7 +471,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532983046370">
+      <file name="/Dummy.txt" timestamp="1532988305996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1532988139685">
@@ -587,7 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
       <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
@@ -687,46 +676,47 @@
       <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="16" column="14" filename="$USER_HOME$/work/sonosite/src/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>, figsize=(9, 6))</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sci</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">bGlzdCgoUGF0aC5jd2QoKS8nZGF0YS9jYXJ2YW5hL3RyYWluJykuaXRlcmRpcigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBsaXN0KChQYXRoLmN3ZCgpLydkYXRhL2NhcnZhbmEvdHJhaW4nKS5pdGVyZGlyKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXhlcy5mbGF0Cg==</text>
+        <text encoding="base64">Y2FydmFuYV9kaXIuZXhpc3RzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXhlcwo=</text>
+        <text encoding="base64">KFBhdGguY3dkKCkvJ2RhdGEnKS5leGlzdHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwbHQuaW1zaG93KG5wLmFycmF5KGltZzApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1nMCA9IEltYWdlLm9wZW4oaW1nX2Zuc1swXSkK</text>
+        <text encoding="base64">Y2FydmFuYV9kaXIgPSAnL2hvbWUvdnUvd29yay9mYXN0YWkvZGF0YS9jYXJ2YW5hL3RyYWluJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bnAuYXJyYXkoaW1nMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">YXhlcy5mbGF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBkZiA9IHBkLkRhdGFGcmFtZS5mcm9tX2RpY3QocmVzdWx0LCBjb2x1bW5zPVsnc3RhdGlvbl9JRCcsICd0aW1lc3RhbXAnLCAnc2FwJ10pCg==</text>
+        <text encoding="base64">YXhlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
