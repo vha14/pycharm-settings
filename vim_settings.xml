@@ -209,11 +209,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1533072674142">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1533074795838">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -684,7 +683,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -696,16 +695,16 @@
         <text encoding="base64">bGlzdCgoUGF0aC5jd2QoKS8nZGF0YS9jYXJ2YW5hL3RyYWluJykuaXRlcmRpcigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmIHNob3dfaW1nKGltLCBmaWdzaXplPU5vbmUsIGF4PU5vbmUsIGFscGhhPU5vbmUpOgogICAgaWYgbm90IGF4OiBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9Zmlnc2l6ZSkKICAgIGF4Lmltc2hvdyhpbSwgYWxwaGE9YWxwaGEpCiAgICBheC5zZXRfYXhpc19vZmYoKQogICAgcmV0dXJuIGF4Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Zm9vID0gWzEgZm9yIHggaW4gUGF0aCgnZGF0YS9jYXJ2YW5hL3RyYWluJykuaXRlcmRpcigpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -713,11 +712,11 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZGVmIHNob3dfaW1nKGltLCBmaWdzaXplPU5vbmUsIGF4PU5vbmUsIGFscGhhPU5vbmUpOgogICAgaWYgbm90IGF4OiBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9Zmlnc2l6ZSkKICAgIGF4Lmltc2hvdyhpbSwgYWxwaGE9YWxwaGEpCiAgICBheC5zZXRfYXhpc19vZmYoKQogICAgcmV0dXJuIGF4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhucC5hc2FycmF5KGltZ3NbMV0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
