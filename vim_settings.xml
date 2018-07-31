@@ -79,7 +79,9 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1533009175118" />
+      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1533012270389">
+        <mark key="'" line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="10" column="2" />
@@ -182,7 +184,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533009252693">
+      <file name="/Python Console" timestamp="1533012706668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -191,7 +193,7 @@
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
       </file>
-      <file name="/fragment.py" timestamp="1533009221698">
+      <file name="/fragment.py" timestamp="1533012249345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532194500757">
@@ -261,7 +263,7 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533000690332">
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
@@ -522,7 +524,7 @@
       <file name="/Dummy.txt" timestamp="1532999793943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1532999758870">
+      <file name="/code.py" timestamp="1533011534630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1532457269632">
@@ -617,6 +619,9 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1533012178981">
+        <mark key="'" line="210" column="15" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -625,8 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="102" column="20" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="52" column="17" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="8" column="8" filename="$USER_HOME$/work/sonosite/src/scratch.py" />
       <jump line="26" column="7" filename="$USER_HOME$/work/sonosite/bin/process-data" />
@@ -725,6 +728,8 @@
       <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" />
+      <jump line="210" column="15" filename="$USER_HOME$/work/fastai/fastai/models/resnet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
