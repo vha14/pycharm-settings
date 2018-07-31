@@ -181,6 +181,9 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1532999639151">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -225,10 +228,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532912767808">
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1532999246703">
         <mark key="'" line="66" column="12" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="21" />
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
@@ -256,6 +259,12 @@
         <mark key="]" line="6" column="57" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1532999672501">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/search-restaurants.ts" timestamp="1531630688450">
         <mark key="[" line="5" column="86" />
@@ -509,7 +518,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532892699059">
+      <file name="/Dummy.txt" timestamp="1532999465587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1532927813074">
@@ -718,43 +727,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="-" type="4">
-        <text>PATH</text>
+        <text>version()</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gTUFTS1NfRE5fMTI4Cg==</text>
+        <text encoding="base64">bWQgPSBjb25zdHJ1Y3RfZGF0YSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YXVnX3RmbXM6IGxpc3RbVHJhbnNmb3JtXSA9IFsKICAgIFJhbmRvbVJvdGF0ZSg0LCB0Zm1feT1UZm1UeXBlLkNMQVNTKSwKICAgIFJhbmRvbUZsaXAodGZtX3k9VGZtVHlwZS5DTEFTUyksCiAgICBSYW5kb21MaWdodGluZyhiPTAuMDUsIGM9MC4wNSkKXQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRSQUlOX0ROCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hc2tzX2NzdlsnaW1nJ11bMF0K</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxlbih0cm5feCkK</text>
+        <text encoding="base64">eC5zaGFwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHlfbmFtZXNbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhfbmFtZXNbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
