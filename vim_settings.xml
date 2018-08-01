@@ -438,12 +438,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533166211897">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533166584738">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -728,10 +728,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>[:no_img]</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>[:no_img]</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
