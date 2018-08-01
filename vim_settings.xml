@@ -45,11 +45,11 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1533083755328">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="34" />
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1533159021475">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1533012270389">
         <mark key="'" line="95" column="0" />
@@ -121,7 +121,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1533152300653">
+      <file name="/Python Console" timestamp="1533158955189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -365,7 +365,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533152412732">
+      <file name="/Dummy.txt" timestamp="1533158955193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533080675560">
@@ -562,11 +562,11 @@
       <jump line="210" column="15" filename="$USER_HOME$/work/fastai/fastai/models/resnet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text>pytorch:0.4-cuda9-cudnn7-devel</text>
       </register>
       <register name="-" type="4">
-        <text>version()</text>
+        <text>pytorch:0.4-cuda9-cudnn7-devel</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
