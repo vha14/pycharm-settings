@@ -159,8 +159,8 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" timestamp="1533101084712">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" timestamp="1533101946609">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
@@ -384,11 +384,11 @@
       <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" timestamp="1532927794965">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai_v1/dev_nb/001a_nn_basics.py" timestamp="1533101153475">
-        <mark key="[" line="45" column="86" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/work/fastai_v1/dev_nb/001a_nn_basics.py" timestamp="1533101448144">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
@@ -636,7 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="21" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="417" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="418" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="420" column="57" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
@@ -736,43 +735,44 @@
       <jump line="298" column="28" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="299" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="2" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="-" type="4">
         <text>version()</text>
       </register>
       <register name="/" type="4">
-        <text>tensor</text>
+        <text>zeros</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWQgPSBjb25zdHJ1Y3RfZGF0YSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eC5zaGFwZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -782,15 +782,14 @@
       </register>
     </registers>
     <search>
-      <last-search>tensor</last-search>
+      <last-search>zeros</last-search>
       <last-offset />
-      <last-pattern>tensor</last-pattern>
+      <last-pattern>zeros</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>686</entry>
         <entry>split</entry>
         <entry>C</entry>
         <entry>stride</entry>
@@ -810,6 +809,7 @@
         <entry>aug_dl</entry>
         <entry>version</entry>
         <entry>tensor</entry>
+        <entry>zeros</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
