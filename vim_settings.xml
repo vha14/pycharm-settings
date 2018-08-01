@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531874334804">
+      <file name="/start_script.py" timestamp="1533164097609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532220472925">
@@ -174,9 +174,6 @@
         <mark key="]" line="272" column="0" />
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1533158955189">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -441,14 +438,20 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533165265848">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1533160586167">
-        <mark key="'" line="61" column="27" />
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1533163794548">
+        <mark key="'" line="41" column="17" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -512,7 +515,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533158955193">
+      <file name="/Dummy.txt" timestamp="1533164123594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533080675560">
@@ -621,9 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="21" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="129" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="19" column="74" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
       <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
       <jump line="37" column="58" filename="$USER_HOME$/work/sonosite/src/preprocess.py" />
       <jump line="151" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -721,13 +721,16 @@
       <jump line="33" column="10" filename="$USER_HOME$/work/sonosite/conda-environment.yml" />
       <jump line="45" column="7" filename="$USER_HOME$/work/sonosite/conda-environment.yml" />
       <jump line="0" column="21" filename="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" />
+      <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/sonosite/scratch.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/work/sonosite/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBgYGAK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>conda env create sonosite</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
@@ -736,31 +739,31 @@
         <text encoding="base64">RlJPTSBweXRvcmNoL3B5dG9yY2g6MC40LjEtY3VkYTktY3Vkbm43LXJ1bnRpbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBgYGAK</text>
+        <text encoding="base64">bWFza3NbMF1bLi4uLCAwXS5zaGFwZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">My4gSW5zdGFsbCBzcGVjaWFsIHBhY2thZ2VzIHZpYSBDb25kYToKICAgYGBgYmFzaAogICBjb25kYSBpbnN0YWxsIHB5dG9yY2ggLWMgcHl0b3JjaAogICBjb25kYSBpbnN0YWxsIC1jIG1lbnBvIG9wZW5jdgogICBgYGAKNC4gSW5zdGFsbCBweXRob24gcGFja2FnZXMgZm9yIHRoaXMgcHJvamVjdDoKICAgYGBgYmFzaAogICBwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">cGx0Lmltc2hvdyhucC5hc2FycmF5KEltYWdlLm9wZW4odG9fbGFiZWwoaW1nc1swXSkpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSBweXRvcmNoL3B5dG9yY2g6MC40LWN1ZGE5LWN1ZG5uNy1kZXZlbAo=</text>
+        <text encoding="base64">dG9fbGFiZWwoaW1nc1swXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">ZGVmIHRvX2xhYmVsKGltZ19maWxlOiBQYXRoKToKICAgIHJldHVybiBpbWdfZmlsZS5wYXJlbnQucGFyZW50IC8gTEFCRUwgLyBpbWdfZmlsZS5uYW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhucC5hc2FycmF5KGkwKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">aTAgPSBJbWFnZS5vcGVuKGltZ3NbMF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
