@@ -73,7 +73,8 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1533160686988">
+      <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1533161995747">
+        <mark key="'" line="0" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="38" />
@@ -620,7 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="15" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="29" column="21" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="129" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="19" column="74" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
@@ -720,6 +720,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/conda-environment.yml" />
       <jump line="33" column="10" filename="$USER_HOME$/work/sonosite/conda-environment.yml" />
       <jump line="45" column="7" filename="$USER_HOME$/work/sonosite/conda-environment.yml" />
+      <jump line="0" column="21" filename="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
