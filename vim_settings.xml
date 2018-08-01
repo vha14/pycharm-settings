@@ -438,11 +438,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533165265848">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
+      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533166211897">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -727,43 +728,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RlJPTSBweXRvcmNoL3B5dG9yY2g6MC40LjEtY3VkYTktY3Vkbm43LXJ1bnRpbWUK</text>
+        <text encoding="base64">ICAgIGF4Lmltc2hvdyhpbWdzW2ldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFza3NbMF1bLi4uLCAwXS5zaGFwZQo=</text>
+        <text encoding="base64">YXhlc1swLCAwXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhucC5hc2FycmF5KEltYWdlLm9wZW4odG9fbGFiZWwoaW1nc1swXSkpKSkK</text>
+        <text encoding="base64">ICAgIG1hc2sgPSBtYXNrc1tpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dG9fbGFiZWwoaW1nc1swXSkK</text>
+        <text encoding="base64">ICAgIGltZyA9IGltZ3NbaV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXhlcy5zaGFwZVswXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNob3dfaW1nKG1hc2ssIGF4PWF4LCBhbHBoYT0wLjUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNob3dfaW1nKG1hc2ssIGF4PWF4LCBhbHBoYT0wLjUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRvX2xhYmVsKGltZ19maWxlOiBQYXRoKToKICAgIHJldHVybiBpbWdfZmlsZS5wYXJlbnQucGFyZW50IC8gTEFCRUwgLyBpbWdfZmlsZS5uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhucC5hc2FycmF5KGkwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aTAgPSBJbWFnZS5vcGVuKGltZ3NbMF0pCg==</text>
+        <text encoding="base64">ICAgIGF4Lmltc2hvdyhpbSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
