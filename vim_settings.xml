@@ -352,8 +352,8 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533240188209">
-        <mark key="'" line="344" column="374" />
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533241072160">
+        <mark key="'" line="349" column="17" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
@@ -645,7 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="45" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="433" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="436" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="437" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
@@ -745,6 +744,7 @@
       <jump line="61" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" />
       <jump line="302" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="344" column="374" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
+      <jump line="349" column="17" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -754,7 +754,7 @@
         <text>version()</text>
       </register>
       <register name="/" type="4">
-        <text>transforms_side</text>
+        <text>precomp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWQgPSBjb25zdHJ1Y3RfZGF0YSgpCg==</text>
@@ -791,15 +791,14 @@
       </register>
     </registers>
     <search>
-      <last-search>transforms_side</last-search>
+      <last-search>precomp</last-search>
       <last-offset />
-      <last-pattern>transforms_side</last-pattern>
+      <last-pattern>precomp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stride</entry>
         <entry>global</entry>
         <entry>train_data</entry>
         <entry>train_datal</entry>
@@ -819,6 +818,7 @@
         <entry>zeros</entry>
         <entry>transform_side_on</entry>
         <entry>transforms_side</entry>
+        <entry>precomp</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
