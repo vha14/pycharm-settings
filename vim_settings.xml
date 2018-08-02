@@ -352,6 +352,9 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533240188209">
+        <mark key="'" line="344" column="374" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="57" />
@@ -466,6 +469,9 @@
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
+        <mark key="'" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -639,9 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="418" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="420" column="57" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="432" column="45" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="433" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="436" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
@@ -739,6 +742,9 @@
       <jump line="299" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="2" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="28" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" />
+      <jump line="302" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
+      <jump line="344" column="374" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -748,7 +754,7 @@
         <text>version()</text>
       </register>
       <register name="/" type="4">
-        <text>zeros</text>
+        <text>transforms_side</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWQgPSBjb25zdHJ1Y3RfZGF0YSgpCg==</text>
@@ -785,16 +791,14 @@
       </register>
     </registers>
     <search>
-      <last-search>zeros</last-search>
+      <last-search>transforms_side</last-search>
       <last-offset />
-      <last-pattern>zeros</last-pattern>
+      <last-pattern>transforms_side</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>split</entry>
-        <entry>C</entry>
         <entry>stride</entry>
         <entry>global</entry>
         <entry>train_data</entry>
@@ -813,6 +817,8 @@
         <entry>version</entry>
         <entry>tensor</entry>
         <entry>zeros</entry>
+        <entry>transform_side_on</entry>
+        <entry>transforms_side</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
