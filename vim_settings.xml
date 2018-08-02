@@ -36,11 +36,11 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/.gitignore" timestamp="1532188661941">
+      <file name="$USER_HOME$/work/sonosite/.gitignore" timestamp="1533169860972">
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="3" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
@@ -174,9 +174,6 @@
         <mark key="]" line="272" column="0" />
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1533168371918">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -441,12 +438,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533168266196">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="2" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533169484617">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="27" column="10" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -628,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
       <jump line="37" column="58" filename="$USER_HOME$/work/sonosite/src/preprocess.py" />
       <jump line="151" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="955" column="8" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
@@ -728,46 +723,47 @@
       <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="16" column="0" filename="$USER_HOME$/work/sonosite/scratch.py" />
       <jump line="36" column="0" filename="$USER_HOME$/work/sonosite/scratch.py" />
+      <jump line="32" column="9" filename="$USER_HOME$/work/sonosite/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGVuKGltZ19maWxlcykK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBpbWcyYXJyYXkoaW1nX2ZpbGVzW2ldKQo=</text>
+        <text encoding="base64">dG9fbWFzayhpbWdfZmlsZXNbMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVuKGltZ19maWxlcykK</text>
+        <text encoding="base64">cGxvdCgwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZy50aXRsZShmIlRoZSB7b2Zmc2V0IC8vIG5vX2ltZ30gYmF0Y2giKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsdC50aXRsZShmIlRoZSB7b2Zmc2V0IC8vIG5vX2ltZ30gYmF0Y2giKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFza3MgPSBbbnAuYXNhcnJheShJbWFnZS5vcGVuKHRvX21hc2soZikpKSBmb3IgZiBpbiBpbWdfZmlsZXNdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1ncyA9IFtucC5hc2FycmF5KEltYWdlLm9wZW4oZikpIGZvciBmIGluIGltZ19maWxlc10K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">NC8vMwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGxvdChvZmZzZXQ9MCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cGxvdCgwKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">b2Zmc2V0ID0gMAo=</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhpbWcyYXJyYXkoaW1nX2ZpbGVzWzBdKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
