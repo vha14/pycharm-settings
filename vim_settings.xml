@@ -57,8 +57,8 @@
       <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532273759708">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="25" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
@@ -74,6 +74,7 @@
         <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
+        <mark key="'" line="0" column="21" />
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="34" />
         <mark key="^" line="9" column="34" />
@@ -187,9 +188,6 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533231743992">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -234,12 +232,15 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/conda-environment.yml" timestamp="1533160944379">
+        <mark key="'" line="45" column="7" />
+      </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1533000050333">
         <mark key="'" line="66" column="12" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="21" />
-        <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -259,6 +260,12 @@
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" timestamp="1533321086961">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="6" column="57" />
@@ -271,6 +278,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/.editorconfig" timestamp="1533309958522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/search-restaurants.ts" timestamp="1531630688450">
         <mark key="[" line="5" column="86" />
@@ -297,6 +309,10 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/fastai/sgdr.py" timestamp="1533313848736">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="196" column="25" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -406,8 +422,8 @@
         <mark key="'" line="91" column="42" />
         <mark key="[" line="75" column="3" />
         <mark key="]" line="81" column="32" />
-        <mark key="." line="81" column="32" />
         <mark key="^" line="81" column="32" />
+        <mark key="." line="81" column="32" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
@@ -464,11 +480,20 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/scratch.py" timestamp="1533169484617">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/src/experiment.py" timestamp="1533163794548">
+        <mark key="'" line="41" column="17" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
         <mark key="'" line="61" column="0" />
@@ -506,6 +531,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/experiments/testing.py" timestamp="1533152599116">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/models.py" timestamp="1532884050081">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -536,7 +565,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532999793943">
+      <file name="/Dummy.txt" timestamp="1533321716182">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -799,6 +828,13 @@
     </search>
     <history>
       <history-search>
+        <entry>forward</entry>
+        <entry>img_</entry>
+        <entry>size</entry>
+        <entry>686</entry>
+        <entry>split</entry>
+        <entry>C</entry>
+        <entry>stride</entry>
         <entry>global</entry>
         <entry>train_data</entry>
         <entry>train_datal</entry>
@@ -809,16 +845,9 @@
         <entry>loss</entry>
         <entry>skle</entry>
         <entry>sci</entry>
-        <entry>MASKS_FN</entry>
-        <entry>META_FN</entry>
-        <entry>Image</entry>
-        <entry>aug_dl</entry>
-        <entry>version</entry>
-        <entry>tensor</entry>
-        <entry>zeros</entry>
-        <entry>transform_side_on</entry>
-        <entry>transforms_side</entry>
-        <entry>precomp</entry>
+        <entry>run</entry>
+        <entry>numpy</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
