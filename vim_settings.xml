@@ -246,11 +246,12 @@
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" timestamp="1533310417297">
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="44" column="45" />
-        <mark key="." line="44" column="45" />
-        <mark key="^" line="45" column="0" />
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" timestamp="1533310884494">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
         <mark key="'" line="20" column="2" />
@@ -634,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="58" filename="$USER_HOME$/work/sonosite/src/preprocess.py" />
       <jump line="151" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="955" column="8" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
@@ -734,6 +734,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/work/sonosite/scratch.py" />
       <jump line="36" column="0" filename="$USER_HOME$/work/sonosite/scratch.py" />
       <jump line="32" column="9" filename="$USER_HOME$/work/sonosite/scratch.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
