@@ -426,6 +426,9 @@
       <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532496293158">
         <mark key="'" line="97" column="56" />
       </file>
+      <file name="$USER_HOME$/work/pytorch-examples/imagenet/main.py" timestamp="1533504910704">
+        <mark key="'" line="143" column="29" />
+      </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="250" column="49" />
@@ -631,12 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="437" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="439" column="56" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="451" column="45" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="452" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="464" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="468" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="478" column="26" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="485" column="26" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
@@ -731,6 +728,12 @@
       <jump line="344" column="374" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="349" column="17" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
+      <jump line="308" column="26" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="26" column="61" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="30" column="36" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="160" column="23" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="143" column="29" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -740,7 +743,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>precomp</text>
+        <text>Res</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -777,16 +780,14 @@
       </register>
     </registers>
     <search>
-      <last-search>precomp</last-search>
+      <last-search>Res</last-search>
       <last-offset />
-      <last-pattern>precomp</last-pattern>
+      <last-pattern>Res</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>global</entry>
-        <entry>train_data</entry>
         <entry>train_datal</entry>
         <entry>valid_da</entry>
         <entry>valid_datal</entry>
@@ -805,6 +806,8 @@
         <entry>transform_side_on</entry>
         <entry>transforms_side</entry>
         <entry>precomp</entry>
+        <entry>resnet</entry>
+        <entry>Res</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
