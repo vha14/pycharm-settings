@@ -42,6 +42,9 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
+        <mark key="'" line="219" column="49" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="0" column="40" />
@@ -82,7 +85,6 @@
       <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1533012270389">
         <mark key="'" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai_v1/dev_nb/002_images.py" timestamp="1533503934912" />
       <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="10" column="2" />
@@ -296,7 +298,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl2/pascal.py" timestamp="1533503466880" />
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -637,9 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="478" column="26" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="485" column="26" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="39" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="139" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -737,6 +735,9 @@
       <jump line="30" column="36" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="160" column="23" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="143" column="29" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
+      <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
+      <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -746,7 +747,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>Res</text>
+        <text>run_backward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -783,15 +784,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Res</last-search>
+      <last-search>run_backward</last-search>
       <last-offset />
-      <last-pattern>Res</last-pattern>
+      <last-pattern>run_backward</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>train_datal</entry>
         <entry>valid_da</entry>
         <entry>valid_datal</entry>
         <entry>global_step</entry>
@@ -811,6 +811,7 @@
         <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
+        <entry>run_backward</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
