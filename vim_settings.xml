@@ -252,6 +252,12 @@
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
       </file>
+      <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
+        <mark key="[" line="143" column="12" />
+        <mark key="]" line="79" column="19" />
+        <mark key="^" line="79" column="19" />
+        <mark key="." line="79" column="19" />
+      </file>
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" timestamp="1533488679238">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="181" column="0" />
@@ -463,6 +469,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/autograd/funkyyak/tests.py" timestamp="1533611800201" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -530,7 +537,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533529678569">
+      <file name="/Dummy.txt" timestamp="1533612176723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -742,10 +749,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>run_backward</text>
