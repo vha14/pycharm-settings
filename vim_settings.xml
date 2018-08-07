@@ -471,6 +471,9 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" timestamp="1533675023584">
+        <mark key="'" line="663" column="15" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -647,10 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="61" column="24" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="66" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="68" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="84" column="57" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="85" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="86" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -747,6 +746,10 @@
       <jump line="2152" column="44" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
       <jump line="2343" column="24" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
       <jump line="2413" column="32" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
+      <jump line="275" column="13" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
+      <jump line="660" column="15" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
+      <jump line="663" column="15" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -756,7 +759,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>exp</text>
+        <text>init_C</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -793,16 +796,14 @@
       </register>
     </registers>
     <search>
-      <last-search>exp</last-search>
+      <last-search>init_C</last-search>
       <last-offset />
-      <last-pattern>exp</last-pattern>
+      <last-pattern>init_C</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>global_step</entry>
-        <entry>padding</entry>
         <entry>loss</entry>
         <entry>skle</entry>
         <entry>sci</entry>
@@ -821,6 +822,8 @@
         <entry>run_backward</entry>
         <entry>pow</entry>
         <entry>exp</entry>
+        <entry>Module.h</entry>
+        <entry>init_C</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
