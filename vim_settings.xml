@@ -252,8 +252,8 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/CMakeLists.txt" timestamp="1533685840613">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/work/pytorch/CMakeLists.txt" timestamp="1533686710345">
+        <mark key="'" line="168" column="124" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -656,7 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="65" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="139" column="35" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="141" column="31" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="144" column="47" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -756,6 +755,7 @@
       <jump line="474" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="475" column="38" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="6" column="0" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
+      <jump line="168" column="124" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +765,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>gcc</text>
+        <text>clang</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -802,15 +802,14 @@
       </register>
     </registers>
     <search>
-      <last-search>gcc</last-search>
+      <last-search>clang</last-search>
       <last-offset />
-      <last-pattern>gcc</last-pattern>
+      <last-pattern>clang</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>transforms_side</entry>
         <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
@@ -830,6 +829,7 @@
         <entry>tools.cwrap</entry>
         <entry>build_ext</entry>
         <entry>gcc</entry>
+        <entry>clang</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
