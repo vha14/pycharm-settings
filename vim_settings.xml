@@ -133,6 +133,11 @@
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/translation.py" timestamp="1533758514649">
+        <mark key="'" line="35" column="40" />
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="59" />
+      </file>
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -183,9 +188,6 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533650328741">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -214,6 +216,13 @@
         <mark key="]" line="217" column="6" />
         <mark key="^" line="189" column="0" />
         <mark key="." line="217" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/scratch.py" timestamp="1533758665049">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
@@ -659,8 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="30" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="151" column="67" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="157" column="20" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="163" column="17" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="172" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -759,61 +766,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
       <jump line="5" column="19" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
       <jump line="63" column="10" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
+      <jump line="35" column="40" filename="$USER_HOME$/work/hackathon-vernacular/translator/translation.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/work/hackathon-vernacular/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>छापो</text>
       </register>
       <register name="/" type="4">
-        <text>verna-main</text>
+        <text encoding="base64">XDxwcmludFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
+        <text encoding="base64">4KSb4KS+4KSq4KWLID0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">4KSb4KS+4KSq4KWLID0gMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>verna-main</last-search>
+      <last-search encoding="base64">XDxwcmludFw+</last-search>
       <last-offset />
-      <last-pattern>verna-main</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
         <entry>pow</entry>
@@ -833,6 +841,7 @@
         <entry>gcc</entry>
         <entry>clang</entry>
         <entry>verna-main</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
