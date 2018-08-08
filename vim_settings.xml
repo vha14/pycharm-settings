@@ -507,6 +507,9 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" timestamp="1533753522858">
+        <mark key="'" line="63" column="10" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose-dev.yml" timestamp="1532060099338">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="8" column="19" />
@@ -656,10 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="35" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="141" column="31" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="144" column="47" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="148" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="150" column="30" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="151" column="67" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="157" column="20" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -756,6 +755,10 @@
       <jump line="475" column="38" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="6" column="0" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
       <jump line="168" column="124" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
+      <jump line="5" column="19" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
+      <jump line="63" column="10" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +768,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>clang</text>
+        <text>verna-main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -802,15 +805,14 @@
       </register>
     </registers>
     <search>
-      <last-search>clang</last-search>
+      <last-search>verna-main</last-search>
       <last-offset />
-      <last-pattern>clang</last-pattern>
+      <last-pattern>verna-main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
@@ -830,6 +832,7 @@
         <entry>build_ext</entry>
         <entry>gcc</entry>
         <entry>clang</entry>
+        <entry>verna-main</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
