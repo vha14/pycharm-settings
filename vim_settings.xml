@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1533230801754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/test/test_autograd.py" timestamp="1533667179648">
-        <mark key="'" line="2413" column="32" />
-      </file>
       <file name="/a.dummy" timestamp="1532220472925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,11 +130,6 @@
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/translator/translation.py" timestamp="1533758514649">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="59" />
-      </file>
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -188,6 +180,9 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1533651078999">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -216,13 +211,6 @@
         <mark key="]" line="217" column="6" />
         <mark key="^" line="189" column="0" />
         <mark key="." line="217" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/scratch.py" timestamp="1533761228562">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-        <mark key="." line="31" column="10" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
@@ -260,9 +248,6 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/pytorch/CMakeLists.txt" timestamp="1533686710345">
-        <mark key="'" line="168" column="124" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -319,7 +304,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/test/cli/translator_test.py" timestamp="1533760944684" />
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -377,6 +361,7 @@
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533241072160">
         <mark key="'" line="349" column="17" />
       </file>
+      <file name="$USER_HOME$/work/autograd/autograd/core.py" timestamp="1533650429298" />
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="57" />
@@ -469,6 +454,7 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/work/autograd/tests/test_scalar_ops.py" timestamp="1533531428352" />
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
@@ -484,9 +470,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" timestamp="1533675023584">
-        <mark key="'" line="663" column="15" />
-      </file>
+      <file name="$USER_HOME$/work/autograd/funkyyak/tests.py" timestamp="1533611800201" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -516,9 +500,6 @@
         <mark key="]" line="22" column="9" />
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" timestamp="1533753522858">
-        <mark key="'" line="63" column="10" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose-dev.yml" timestamp="1532060099338">
         <mark key="[" line="6" column="39" />
@@ -557,10 +538,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533684530814">
-        <mark key="'" line="475" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533666875746">
+      <file name="/Dummy.txt" timestamp="1533654583528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -669,6 +647,79 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="39" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="139" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="150" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="134" column="41" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/work/sonosite/src/dataset.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/storage.py" />
+      <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="14" column="20" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="31" column="62" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="39" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="41" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="66" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="68" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="84" column="57" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="85" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="86" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="87" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="31" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="30" column="10" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="32" column="17" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="78" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="21" column="40" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="63" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="68" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" />
+      <jump line="210" column="15" filename="$USER_HOME$/work/fastai/fastai/models/resnet.py" />
+      <jump line="19" column="56" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="118" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="119" column="43" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="136" column="16" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="137" column="65" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="139" column="35" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="141" column="31" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="144" column="47" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="148" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="150" column="30" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="151" column="67" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="157" column="20" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="163" column="17" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="172" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -696,153 +747,80 @@
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
-      <jump line="3087" column="4" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="511" column="25" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="512" column="50" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="606" column="61" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2052" column="13" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2053" column="33" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2055" column="22" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2094" column="18" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2096" column="40" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2134" column="15" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2137" column="41" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2139" column="19" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2151" column="25" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2152" column="44" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2343" column="24" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="2413" column="32" filename="$USER_HOME$/work/pytorch/test/test_autograd.py" />
-      <jump line="275" column="13" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
-      <jump line="660" column="15" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
-      <jump line="663" column="15" filename="$USER_HOME$/work/pytorch/torch/csrc/Module.cpp" />
-      <jump line="986" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="1023" column="16" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="63" column="28" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="69" column="29" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="74" column="28" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="79" column="30" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="82" column="34" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="90" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="176" column="36" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="284" column="55" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="311" column="45" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="314" column="44" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="453" column="40" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="454" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="462" column="15" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="463" column="18" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="540" column="14" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="543" column="59" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="544" column="11" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="561" column="39" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="409" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="299" column="17" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="396" column="43" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="397" column="56" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="511" column="8" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="514" column="61" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="745" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="746" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="747" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="748" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="137" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="92" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="295" column="8" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="300" column="34" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="302" column="41" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="430" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="89" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="138" column="66" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="423" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="474" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="475" column="38" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
-      <jump line="168" column="124" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
-      <jump line="68" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
-      <jump line="5" column="19" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
-      <jump line="63" column="10" filename="$USER_HOME$/work/hackathon-vernacular/ui/frontend.html" />
-      <jump line="35" column="40" filename="$USER_HOME$/work/hackathon-vernacular/translator/translation.py" />
-      <jump line="5" column="4" filename="$USER_HOME$/work/hackathon-vernacular/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAzCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>[1, 2, 3]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text>run_backward</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVmIGdldF9pdGVyKCk6CiAgICBmb3IgaXRlbSBpbiBsOgogICAgICAgIHlpZWxkIGl0ZW0K</text>
+      <register name="0" type="2">
+        <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAzCg==</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAyCg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAxCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">bCA9IFsxLDIsM10K</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bCA9IFsxLDIsM10K</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9vKCkgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBpdGVtCg==</text>
+        <text encoding="base64">eC5zaGFwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGw6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search>run_backward</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>run_backward</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>valid_da</entry>
+        <entry>valid_datal</entry>
+        <entry>global_step</entry>
+        <entry>padding</entry>
+        <entry>loss</entry>
+        <entry>skle</entry>
+        <entry>sci</entry>
+        <entry>MASKS_FN</entry>
+        <entry>META_FN</entry>
+        <entry>Image</entry>
+        <entry>aug_dl</entry>
+        <entry>version</entry>
+        <entry>tensor</entry>
+        <entry>zeros</entry>
+        <entry>transform_side_on</entry>
+        <entry>transforms_side</entry>
+        <entry>precomp</entry>
+        <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
-        <entry>pow</entry>
-        <entry>exp</entry>
-        <entry>Module.h</entry>
-        <entry>init_C</entry>
-        <entry>install</entry>
-        <entry>WITH_CUDA</entry>
-        <entry>build_all_cmd</entry>
-        <entry>build_all.sh</entry>
-        <entry>bash</entry>
-        <entry>mkdir</entry>
-        <entry>generate</entry>
-        <entry>build_py</entry>
-        <entry>tools.cwrap</entry>
-        <entry>build_ext</entry>
-        <entry>gcc</entry>
-        <entry>clang</entry>
-        <entry>verna-main</entry>
-        <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
