@@ -217,12 +217,12 @@
         <mark key="^" line="189" column="0" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/scratch.py" timestamp="1533758665049">
+      <file name="$USER_HOME$/work/hackathon-vernacular/scratch.py" timestamp="1533761228562">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
@@ -319,6 +319,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/test/cli/translator_test.py" timestamp="1533760944684" />
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -771,43 +772,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>छापो</text>
+        <text>[1, 2, 3]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">4KSb4KS+4KSq4KWLID0gMQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIGdldF9pdGVyKCk6CiAgICBmb3IgaXRlbSBpbiBsOgogICAgICAgIHlpZWxkIGl0ZW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">IyAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">4KSb4KS+4KSq4KWLID0gMQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bCA9IFsxLDIsM10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bCA9IFsxLDIsM10K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zm9vKCkgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBpdGVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGw6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
