@@ -361,7 +361,6 @@
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533241072160">
         <mark key="'" line="349" column="17" />
       </file>
-      <file name="$USER_HOME$/work/autograd/autograd/core.py" timestamp="1533650429298" />
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="57" />
@@ -454,7 +453,6 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/work/autograd/tests/test_scalar_ops.py" timestamp="1533531428352" />
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
@@ -470,7 +468,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/autograd/funkyyak/tests.py" timestamp="1533611800201" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -537,6 +534,9 @@
         <mark key="]" line="3" column="3" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533815200454">
+        <mark key="'" line="241" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1533654583528">
         <mark key="[" line="0" column="0" />
@@ -647,9 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="139" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="150" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="134" column="41" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -747,6 +744,9 @@
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
+      <jump line="430" column="45" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="241" column="14" filename="$USER_HOME$/work/pytorch/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -756,7 +756,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>run_backward</text>
+        <text>create_version_file</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -793,15 +793,14 @@
       </register>
     </registers>
     <search>
-      <last-search>run_backward</last-search>
+      <last-search>create_version_file</last-search>
       <last-offset />
-      <last-pattern>run_backward</last-pattern>
+      <last-pattern>create_version_file</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid_da</entry>
         <entry>valid_datal</entry>
         <entry>global_step</entry>
         <entry>padding</entry>
@@ -821,6 +820,7 @@
         <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
+        <entry>create_version_file</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
