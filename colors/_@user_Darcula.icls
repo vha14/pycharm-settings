@@ -1,12 +1,17 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2018-03-22T13:36:33</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-22T14:55:55</property>
+    <property name="modified">2018-08-08T14:07:14</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
