@@ -114,6 +114,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1533842686100">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="19" />
@@ -227,7 +233,6 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-891034338/-605128486/tokenize.py" timestamp="1533850193503" />
       <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1533000050333">
         <mark key="'" line="66" column="12" />
         <mark key="[" line="50" column="0" />
@@ -454,6 +459,9 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1533849106776">
+        <mark key="'" line="125" column="17" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
@@ -468,6 +476,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/py_translation.py" timestamp="1533851726814">
+        <mark key="'" line="71" column="19" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -523,6 +534,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533853914558" />
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="33" column="0" />
@@ -799,10 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valid_da</entry>
-        <entry>valid_datal</entry>
-        <entry>global_step</entry>
-        <entry>padding</entry>
         <entry>loss</entry>
         <entry>skle</entry>
         <entry>sci</entry>
@@ -819,6 +827,10 @@
         <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
+        <entry>batch</entry>
+        <entry>batch_size</entry>
+        <entry>epoch</entry>
+        <entry>tokeni</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
