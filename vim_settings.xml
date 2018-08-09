@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531874334804">
+      <file name="/start_script.py" timestamp="1533230801754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532220472925">
@@ -15,10 +15,6 @@
         <mark key="]" line="61" column="50" />
         <mark key="." line="61" column="50" />
         <mark key="^" line="61" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/sonosite/bin/train" timestamp="1532442287867">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/test_unet.py" timestamp="1532063515092">
         <mark key="'" line="17" column="8" />
@@ -46,9 +42,8 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/checkpoint.py" timestamp="1532441415785">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="52" />
+      <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
+        <mark key="'" line="219" column="49" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
@@ -87,6 +82,9 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1533012270389">
+        <mark key="'" line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="10" column="2" />
@@ -123,6 +121,12 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
+        <mark key="[" line="14" column="57" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+      </file>
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,6 +152,9 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" timestamp="1533101946609">
+        <mark key="'" line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
@@ -166,14 +173,14 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532039566976">
+      <file name="$USER_HOME$/work/fastai/courses/dl2/carvana.py" timestamp="1532835736544">
         <mark key="'" line="305" column="43" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="^" line="273" column="2" />
+        <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532480103393">
+      <file name="/Python Console" timestamp="1533651078999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -182,7 +189,7 @@
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
       </file>
-      <file name="/fragment.py" timestamp="1532370471978">
+      <file name="/fragment.py" timestamp="1533045541629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532194500757">
@@ -220,6 +227,13 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1533000050333">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="21" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -235,12 +249,34 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
+        <mark key="'" line="338" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
+        <mark key="[" line="143" column="12" />
+        <mark key="]" line="79" column="19" />
+        <mark key="^" line="79" column="19" />
+        <mark key="." line="79" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" timestamp="1533488679238">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="2" />
+        <mark key="^" line="181" column="2" />
+        <mark key="." line="181" column="2" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="57" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/search-restaurants.ts" timestamp="1531630688450">
         <mark key="[" line="5" column="86" />
@@ -322,6 +358,10 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533241072160">
+        <mark key="'" line="349" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/autograd/autograd/core.py" timestamp="1533650429298" />
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="57" />
@@ -341,11 +381,27 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1529353852472">
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="51" />
-        <mark key="^" line="46" column="51" />
-        <mark key="." line="46" column="51" />
+      <file name="$USER_HOME$/work/fastai/courses/work/helpers/data.py" timestamp="1532912571747">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="109" column="34" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" timestamp="1532927794965">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fastai_v1/dev_nb/001a_nn_basics.py" timestamp="1533102910721">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
@@ -381,6 +437,9 @@
       <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532496293158">
         <mark key="'" line="97" column="56" />
       </file>
+      <file name="$USER_HOME$/work/pytorch-examples/imagenet/main.py" timestamp="1533504910704">
+        <mark key="'" line="143" column="29" />
+      </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="250" column="49" />
@@ -395,11 +454,15 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/work/autograd/tests/test_scalar_ops.py" timestamp="1533531428352" />
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
         <mark key="." line="4" column="59" />
         <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/environment.yml" timestamp="1532838961587">
+        <mark key="'" line="7" column="2" />
       </file>
       <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
         <mark key="[" line="30" column="27" />
@@ -407,11 +470,15 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/autograd/funkyyak/tests.py" timestamp="1533611800201" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
+        <mark key="'" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -446,10 +513,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/experiments/testing.py" timestamp="1532455529779">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="22" />
-      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
         <mark key="]" line="7" column="69" />
@@ -475,10 +538,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532480031814">
+      <file name="/Dummy.txt" timestamp="1533654583528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1529359493825">
+      <file name="/code.py" timestamp="1533231786106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/train.Dockerfile" timestamp="1532457269632">
@@ -573,6 +636,9 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1533012178981">
+        <mark key="'" line="210" column="15" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -581,73 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="$USER_HOME$/work/transfer_learning/main.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="34" column="12" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="59" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="29" column="0" filename="$USER_HOME$/work/fastai/requirements.txt" />
-      <jump line="43" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="468" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="25" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="597" column="12" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="598" column="5" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="431" column="17" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="403" column="10" filename="$USER_HOME$/work/fastai/courses/dl2/carvana-unet.py" />
-      <jump line="305" column="43" filename="$USER_HOME$/work/fastai/courses/dl2/carvana.py" />
-      <jump line="276" column="35" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
-      <jump line="129" column="30" filename="$USER_HOME$/work/fastai/fastai/learner.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/sonosite/README.md" />
-      <jump line="83" column="9" filename="$USER_HOME$/work/sonosite/README.md" />
-      <jump line="80" column="10" filename="$USER_HOME$/work/sonosite/README.md" />
-      <jump line="76" column="42" filename="$USER_HOME$/work/sonosite/README.md" />
-      <jump line="18" column="56" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
-      <jump line="20" column="59" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
-      <jump line="23" column="14" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/work/sonosite/src/tests/test_unet.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/827876045/-1679216578/torch/__init__.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="53" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="102" column="20" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="52" column="17" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="8" column="8" filename="$USER_HOME$/work/sonosite/src/scratch.py" />
-      <jump line="26" column="7" filename="$USER_HOME$/work/sonosite/bin/process-data" />
-      <jump line="159" column="8" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="11" column="7" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="19" column="26" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="20" column="45" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="33" column="15" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="29" column="21" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="129" column="16" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="19" column="74" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
-      <jump line="41" column="17" filename="$USER_HOME$/work/sonosite/src/annotations.py" />
-      <jump line="37" column="58" filename="$USER_HOME$/work/sonosite/src/preprocess.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="955" column="8" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="39" column="16" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="66" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="67" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="71" column="8" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="77" column="36" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="148" column="21" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="417" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="418" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="420" column="57" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="432" column="45" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="433" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="436" column="17" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="437" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="439" column="56" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="451" column="45" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="452" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="464" column="14" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="468" column="24" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="478" column="26" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
-      <jump line="485" column="26" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" />
       <jump line="39" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="139" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
@@ -681,80 +680,147 @@
       <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="31" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="30" column="10" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="32" column="17" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="78" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="21" column="40" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="63" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="68" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
+      <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" />
+      <jump line="210" column="15" filename="$USER_HOME$/work/fastai/fastai/models/resnet.py" />
+      <jump line="19" column="56" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="118" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="119" column="43" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="136" column="16" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="137" column="65" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="139" column="35" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="141" column="31" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="144" column="47" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="148" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="150" column="30" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="151" column="67" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="157" column="20" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="163" column="17" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="172" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="175" column="74" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="183" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="189" column="6" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="230" column="71" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="231" column="1" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="297" column="33" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="298" column="28" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="299" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" />
+      <jump line="302" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
+      <jump line="344" column="374" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
+      <jump line="349" column="17" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
+      <jump line="308" column="26" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="26" column="61" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="30" column="36" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="160" column="23" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="143" column="29" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
+      <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
+      <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
+      <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>loss</text>
+        <text>run_backward</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgCiAgICAjICMgVGhlIGZvbGxvd2luZyBhc3NlcnRpb25zIGFyZSBjb21tZW50ZWQgb3V0IGR1ZSB0byBsYWNrIG9mIG1lbW9yeQogICAgIwo=</text>
+        <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVGhlIGZvbGxvd2luZyBhc3NlcnRpb25zIGFyZSBjb21tZW50ZWQgb3V0IGR1ZSB0byBsYWNrIG9mIG1lbW9yeQogICAgIwo=</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgIyBUaGUgZm9sbG93aW5nIGFzc2VydGlvbnMgYXJlIGNvbW1lbnRlZCBvdXQgZHVlIHRvIGxhY2sgb2YgbWVtb3J5Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgIyBUaGUgZm9sbG93aW5nIGFzc2VydGlvbnMgYXJlIGNvbW1lbnRlZCBvdXQgZHVlIHRvIGxhY2sgb2YgbWVtb3J5Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdvdXQnLCBvdXQuc2l6ZSgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdwYWQnLCBvdXQuc2hhcGUpCg==</text>
+        <text encoding="base64">eC5zaGFwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjbGFzc2lmeScsIG91dC5zaGFwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loss</last-search>
+      <last-search>run_backward</last-search>
       <last-offset />
-      <last-pattern>loss</last-pattern>
+      <last-pattern>run_backward</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>con</entry>
-        <entry>os</entry>
-        <entry>os.</entry>
-        <entry>os.path</entry>
-        <entry>from_numpy</entry>
-        <entry>forward</entry>
-        <entry>img_</entry>
-        <entry>size</entry>
-        <entry>686</entry>
-        <entry>split</entry>
-        <entry>C</entry>
-        <entry>stride</entry>
-        <entry>global</entry>
-        <entry>train_data</entry>
-        <entry>train_datal</entry>
         <entry>valid_da</entry>
         <entry>valid_datal</entry>
         <entry>global_step</entry>
         <entry>padding</entry>
         <entry>loss</entry>
+        <entry>skle</entry>
+        <entry>sci</entry>
+        <entry>MASKS_FN</entry>
+        <entry>META_FN</entry>
+        <entry>Image</entry>
+        <entry>aug_dl</entry>
+        <entry>version</entry>
+        <entry>tensor</entry>
+        <entry>zeros</entry>
+        <entry>transform_side_on</entry>
+        <entry>transforms_side</entry>
+        <entry>precomp</entry>
+        <entry>resnet</entry>
+        <entry>Res</entry>
+        <entry>run_backward</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -799,6 +865,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
