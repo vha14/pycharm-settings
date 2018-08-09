@@ -535,8 +535,8 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533815200454">
-        <mark key="'" line="241" column="14" />
+      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533815694551">
+        <mark key="'" line="572" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1533654583528">
         <mark key="[" line="0" column="0" />
@@ -647,11 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="134" column="41" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/work/sonosite/src/dataset.py" />
-      <jump line="33" column="31" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/storage.py" />
       <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -745,8 +740,13 @@
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="430" column="45" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="241" column="14" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="550" column="16" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="575" column="46" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="998" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="538" column="8" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="572" column="46" filename="$USER_HOME$/work/pytorch/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -756,7 +756,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>create_version_file</text>
+        <text>build_extens</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -793,15 +793,14 @@
       </register>
     </registers>
     <search>
-      <last-search>create_version_file</last-search>
+      <last-search>build_extens</last-search>
       <last-offset />
-      <last-pattern>create_version_file</last-pattern>
+      <last-pattern>build_extens</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid_datal</entry>
         <entry>global_step</entry>
         <entry>padding</entry>
         <entry>loss</entry>
@@ -821,6 +820,7 @@
         <entry>Res</entry>
         <entry>run_backward</entry>
         <entry>create_version_file</entry>
+        <entry>build_extens</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
