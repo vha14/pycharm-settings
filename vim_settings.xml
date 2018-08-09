@@ -459,8 +459,8 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1533847412645">
-        <mark key="'" line="302" column="25" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1533849106776">
+        <mark key="'" line="125" column="17" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
@@ -653,9 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="41" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/work/sonosite/src/dataset.py" />
-      <jump line="33" column="31" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/storage.py" />
       <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -748,11 +745,14 @@
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="15" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="16" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="301" column="27" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="302" column="25" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="318" column="83" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="124" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="125" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -762,7 +762,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>batch_size</text>
+        <text>epoch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -799,15 +799,14 @@
       </register>
     </registers>
     <search>
-      <last-search>batch_size</last-search>
+      <last-search>epoch</last-search>
       <last-offset />
-      <last-pattern>batch_size</last-pattern>
+      <last-pattern>epoch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>global_step</entry>
         <entry>padding</entry>
         <entry>loss</entry>
         <entry>skle</entry>
@@ -827,6 +826,7 @@
         <entry>run_backward</entry>
         <entry>batch</entry>
         <entry>batch_size</entry>
+        <entry>epoch</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
