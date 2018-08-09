@@ -310,6 +310,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/test/cli/translator_test.py" timestamp="1533852047305" />
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -477,6 +478,9 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/py_translation.py" timestamp="1533851726814">
+        <mark key="'" line="71" column="19" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -544,7 +548,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533847047257">
+      <file name="/Dummy.txt" timestamp="1533852415189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -610,6 +614,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/non_english_py_parser.py" timestamp="1533851521788" />
       <file name="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" timestamp="1531632736384">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="22" column="14" />
@@ -653,10 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="14" column="20" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="31" column="62" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="34" column="11" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="35" column="12" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -753,6 +754,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="124" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="125" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="132" column="12" filename="$USER_HOME$/work/hackathon-vernacular/translator/py_translation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/translator/py_translation.py" />
+      <jump line="68" column="19" filename="$USER_HOME$/work/hackathon-vernacular/translator/py_translation.py" />
+      <jump line="71" column="19" filename="$USER_HOME$/work/hackathon-vernacular/translator/py_translation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -762,7 +767,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>epoch</text>
+        <text>tokeni</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -799,15 +804,14 @@
       </register>
     </registers>
     <search>
-      <last-search>epoch</last-search>
+      <last-search>tokeni</last-search>
       <last-offset />
-      <last-pattern>epoch</last-pattern>
+      <last-pattern>tokeni</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>padding</entry>
         <entry>loss</entry>
         <entry>skle</entry>
         <entry>sci</entry>
@@ -827,6 +831,7 @@
         <entry>batch</entry>
         <entry>batch_size</entry>
         <entry>epoch</entry>
+        <entry>tokeni</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
