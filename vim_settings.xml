@@ -535,8 +535,8 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533815694551">
-        <mark key="'" line="572" column="46" />
+      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533817337367">
+        <mark key="'" line="135" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1533654583528">
         <mark key="[" line="0" column="0" />
@@ -647,26 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="14" column="20" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="31" column="62" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="34" column="11" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="39" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="41" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="61" column="24" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="66" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="68" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="84" column="57" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="85" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="86" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="87" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
@@ -742,11 +722,31 @@
       <jump line="430" column="45" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="241" column="14" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="550" column="16" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="575" column="46" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="998" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="538" column="8" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="572" column="46" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="1014" column="17" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="89" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="138" column="66" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="423" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="474" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="475" column="38" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="546" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="850" column="58" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="851" column="28" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="973" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="975" column="31" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="979" column="44" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="981" column="44" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="986" column="32" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="32" column="7" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="33" column="15" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="111" column="47" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="135" column="43" filename="$USER_HOME$/work/pytorch/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -756,7 +756,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>build_extens</text>
+        <text>NNPACK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -793,18 +793,14 @@
       </register>
     </registers>
     <search>
-      <last-search>build_extens</last-search>
+      <last-search>NNPACK</last-search>
       <last-offset />
-      <last-pattern>build_extens</last-pattern>
+      <last-pattern>NNPACK</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>global_step</entry>
-        <entry>padding</entry>
-        <entry>loss</entry>
-        <entry>skle</entry>
         <entry>sci</entry>
         <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
@@ -821,6 +817,10 @@
         <entry>run_backward</entry>
         <entry>create_version_file</entry>
         <entry>build_extens</entry>
+        <entry>build_ext</entry>
+        <entry>nvrt</entry>
+        <entry>NN_PACK</entry>
+        <entry>NNPACK</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
