@@ -332,6 +332,12 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.prod.yml" timestamp="1533857609612">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="17" />
@@ -462,6 +468,12 @@
       <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1533849106776">
         <mark key="'" line="125" column="17" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.override.yml" timestamp="1533857699338">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
@@ -521,6 +533,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.yml" timestamp="1533858418136">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -649,6 +666,18 @@
       <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1533012178981">
         <mark key="'" line="210" column="15" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/Dockerfile" timestamp="1533857889163">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/Dockerfile" timestamp="1533858145364">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -759,11 +788,11 @@
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYmFja2VuZC1zZXJ2aWNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>depends_on:</text>
       </register>
       <register name="/" type="4">
         <text>run_backward</text>
@@ -772,31 +801,31 @@
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">ICAgICAgYmFja2VuZC1zZXJ2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb246IHNlcnZpY2Vfc3RhcnRlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">UlVOIG5wbSBydW4gYnVpbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIHB1c2hzdGF0ZS1zZXJ2ZXIgLWcgLS1zaWxlbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">RU5WIFJFQUNUX0FQUF9VU0VSU19TRVJWSUNFX1VSTCAkUkVBQ1RfQVBQX1VTRVJTX1NFUlZJQ0VfVVJMCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIE5PREVfRU5WICROT0RFX0VOVgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
