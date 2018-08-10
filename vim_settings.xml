@@ -142,6 +142,11 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/diffs" timestamp="1533871875964">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="27" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,6 +219,12 @@
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533871663821">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
@@ -304,6 +315,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/.dockerignore" timestamp="1533871776764">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -385,6 +402,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="50" column="3" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/.dockerignore" timestamp="1533871964567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
@@ -509,6 +532,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.yml" timestamp="1533872005331">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -647,10 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
@@ -747,61 +771,64 @@
       <jump line="33" column="15" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="111" column="47" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="135" column="43" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="60" column="3" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
+      <jump line="28" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>-service</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-service</text>
       </register>
       <register name="/" type="4">
-        <text>NNPACK</text>
+        <text>--- a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
+        <text encoding="base64">K2ltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">dWkvY2xpZW50Lwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">I0FERCBhcHBfcm9vdCAvYXBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NNPACK</last-search>
+      <last-search>--- a</last-search>
       <last-offset />
-      <last-pattern>NNPACK</last-pattern>
+      <last-pattern>--- a</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sci</entry>
         <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
@@ -821,6 +848,7 @@
         <entry>nvrt</entry>
         <entry>NN_PACK</entry>
         <entry>NNPACK</entry>
+        <entry>--- a</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
