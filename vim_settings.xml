@@ -309,6 +309,9 @@
         <mark key="^" line="40" column="72" />
         <mark key="." line="40" column="74" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" timestamp="1533918691238">
+        <mark key="'" line="38" column="6" />
+      </file>
       <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -660,14 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="139" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="140" column="62" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="150" column="10" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="134" column="41" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/work/sonosite/src/dataset.py" />
-      <jump line="33" column="31" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/storage.py" />
       <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -760,6 +755,14 @@
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="18" column="9" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="19" column="62" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="23" column="66" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="28" column="13" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="34" column="27" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="38" column="6" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -769,7 +772,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>run_backward</text>
+        <text>translated</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
@@ -806,15 +809,14 @@
       </register>
     </registers>
     <search>
-      <last-search>run_backward</last-search>
+      <last-search>translated</last-search>
       <last-offset />
-      <last-pattern>run_backward</last-pattern>
+      <last-pattern>translated</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid_da</entry>
         <entry>valid_datal</entry>
         <entry>global_step</entry>
         <entry>padding</entry>
@@ -834,6 +836,7 @@
         <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
+        <entry>translated</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
