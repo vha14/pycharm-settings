@@ -45,6 +45,11 @@
       <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
         <mark key="'" line="219" column="49" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/index.js" timestamp="1533917654773">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="0" column="40" />
@@ -758,7 +763,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
+        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -770,31 +775,31 @@
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
+        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIAo=</text>
+        <text encoding="base64">cmVnaXN0ZXJTZXJ2aWNlV29ya2VyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTlBBVEggL2FwcAo=</text>
+        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">RU5WIFBZVEhPTlBBVEggL2FwcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
