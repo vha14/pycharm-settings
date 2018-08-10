@@ -309,8 +309,12 @@
         <mark key="^" line="40" column="72" />
         <mark key="." line="40" column="74" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" timestamp="1533918691238">
-        <mark key="'" line="38" column="6" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" timestamp="1533921783045">
+        <mark key="'" line="52" column="6" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="62" />
+        <mark key="." line="26" column="62" />
+        <mark key="^" line="26" column="62" />
       </file>
       <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
         <mark key="[" line="0" column="0" />
@@ -541,6 +545,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533922122363">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="33" column="0" />
@@ -765,44 +775,44 @@
       <jump line="38" column="6" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>untranslated_script_path</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>untranslated_script_path</text>
       </register>
       <register name="/" type="4">
         <text>translated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGYidW50cmFuc2xhdGVkX3NjcmlwdF9wYXRoOiB7dW50cmFuc2xhdGVkX3NjcmlwdF9wYXRofSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cmVnaXN0ZXJTZXJ2aWNlV29ya2VyKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTlBBVEggL2FwcAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVnaXN0ZXJTZXJ2aWNlV29ya2VyKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RU5WIFBZVEhPTlBBVEggL2FwcAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
