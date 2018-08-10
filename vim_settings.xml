@@ -220,11 +220,11 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533871663821">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533873736668">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
@@ -550,6 +550,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533873691693">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="33" column="0" />
@@ -566,7 +572,7 @@
       <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533817337367">
         <mark key="'" line="135" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533654583528">
+      <file name="/Dummy.txt" timestamp="1533874105569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -675,9 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
@@ -775,62 +778,63 @@
       <jump line="25" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
       <jump line="28" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
       <jump line="61" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="9" column="34" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="58" column="8" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-service</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2NyaXB0UGF0aDogJy4uJywK</text>
       </register>
       <register name="-" type="4">
-        <text>-service</text>
+        <text>/usr/local/bin/python</text>
       </register>
       <register name="/" type="4">
-        <text>--- a</text>
+        <text>Shell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">K2ltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
+        <text encoding="base64">CQkJcHl0aG9uUGF0aDogJy91c3IvbG9jYWwvYmluL3B5dGhvbicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2NyaXB0UGF0aDogJy4uJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dWkvY2xpZW50Lwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I0FERCBhcHBfcm9vdCAvYXBwCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dWkvY2xpZW50Lwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I0FERCBhcHBfcm9vdCAvYXBwCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>--- a</last-search>
+      <last-search>Shell</last-search>
       <last-offset />
-      <last-pattern>--- a</last-pattern>
+      <last-pattern>Shell</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MASKS_FN</entry>
-        <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
         <entry>version</entry>
@@ -849,6 +853,8 @@
         <entry>NN_PACK</entry>
         <entry>NNPACK</entry>
         <entry>--- a</entry>
+        <entry>shell</entry>
+        <entry>Shell</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
