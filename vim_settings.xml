@@ -215,6 +215,12 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533911662862">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="4" column="10" />
@@ -227,7 +233,6 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-891034338/-605128486/tokenize.py" timestamp="1533850193503" />
       <file name="$USER_HOME$/work/fastai/courses/work/carvana.py" timestamp="1533000050333">
         <mark key="'" line="66" column="12" />
         <mark key="[" line="50" column="0" />
@@ -386,6 +391,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="50" column="3" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/requirements.txt" timestamp="1533911668745">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
@@ -747,8 +757,8 @@
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -760,31 +770,31 @@
         <text encoding="base64">bWluKGxlYXJuLnNjaGVkLmxycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFBZVEhPTlBBVEggL2FwcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eC5zaGFwZQo=</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
