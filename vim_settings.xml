@@ -87,6 +87,12 @@
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/README.md" timestamp="1533927482150">
+        <mark key="[" line="7" column="85" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -224,6 +230,11 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/data/fixtures/translations/py-vn.txt" timestamp="1533925850305">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/io.py" timestamp="1532192283419">
         <mark key="[" line="11" column="4" />
@@ -620,44 +631,44 @@
       <jump line="65" column="8" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>URL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
+        <text encoding="base64">IyMjIERlcGxveSBkb2NrZXIgY29udGFpbmVycyAoYmFja2VuZCBhbmQgY2xpZW50KSBsb2NhbGx5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy9hcGkvdHJhbnNsYXRlJywgcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHlwYXJzaW5nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHl0aG9uPj0zLjYuMgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy9hcGkvdHJhbnNsYXRlJywgcmVxdWVzdCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHlwYXJzaW5nCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">cHl0aG9uPj0zLjYuMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
