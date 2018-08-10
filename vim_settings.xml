@@ -220,10 +220,10 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533916115786">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533935457871">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
@@ -506,6 +506,12 @@
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
         <mark key="'" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" timestamp="1533937162447">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="34" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="35" />
@@ -551,11 +557,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533922122363">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533937111584">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
@@ -782,58 +788,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>body.inputText);</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>body.inputText);</text>
       </register>
       <register name="/" type="4">
-        <text>translated</text>
+        <text>origin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGYidW50cmFuc2xhdGVkX3NjcmlwdF9wYXRoOiB7dW50cmFuc2xhdGVkX3NjcmlwdF9wYXRofSIpCg==</text>
+        <text encoding="base64">ICAJY29uc29sZS5sb2coImlucHV0OiAiICsgaW5wdXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHJlcSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIG5vZGVtb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVnaXN0ZXJTZXJ2aWNlV29ya2VyKCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHl0aG9uPj0zLjYK</text>
+        <text encoding="base64">ICAgICAgY29tcGlsYXRpb25FcnJvcjogJycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTlBBVEggL2FwcAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>translated</last-search>
+      <last-search>origin</last-search>
       <last-offset />
-      <last-pattern>translated</last-pattern>
+      <last-pattern>origin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid_datal</entry>
         <entry>global_step</entry>
         <entry>padding</entry>
         <entry>loss</entry>
@@ -853,6 +858,7 @@
         <entry>Res</entry>
         <entry>run_backward</entry>
         <entry>translated</entry>
+        <entry>origin</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
