@@ -506,11 +506,11 @@
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" timestamp="1533937162447">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="34" />
-        <mark key="." line="40" column="34" />
-        <mark key="^" line="40" column="34" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" timestamp="1533939651903">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -557,11 +557,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533937111584">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533940826410">
+        <mark key="'" line="23" column="25" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
@@ -685,21 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="24" filename="$USER_HOME$/work/sonosite/src/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="8" column="65" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="14" column="20" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="31" column="62" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="34" column="11" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="39" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="41" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="61" column="24" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="66" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="68" column="73" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="84" column="57" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="85" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="86" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="87" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -785,61 +771,75 @@
       <jump line="28" column="13" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="34" column="27" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="38" column="6" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="0" column="19" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="1" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="3" column="12" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="7" column="13" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="9" column="18" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="17" column="28" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="18" column="22" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="20" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>body.inputText);</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>body.inputText);</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>origin</text>
+        <text>req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAJY29uc29sZS5sb2coImlucHV0OiAiICsgaW5wdXQpCg==</text>
+        <text encoding="base64">CSAgIHJlcy5zZW5kKHsgYm9keTogIEpTT04uc3RyaW5naWZ5KHJlc3VsdHMpfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzcmNfaHVtYW5fbGFuZzogIiArIHNyY19odW1hbl9sYW5nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHJlcSkpOwo=</text>
+        <text encoding="base64">ICAJY29uc29sZS5sb2coImlucHV0OiAiICsgaW5wdXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIG5vZGVtb24K</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKE9iamVjdC5wcm90b3R5cGUudG9TdHJpbmcuY2FsbChyZXEuYm9keS5ib2R5KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29tcGlsYXRpb25FcnJvcjogJycsCg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHJlcSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIG5vZGVtb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgY29tcGlsYXRpb25FcnJvcjogJycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>origin</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>origin</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>global_step</entry>
         <entry>padding</entry>
         <entry>loss</entry>
         <entry>skle</entry>
@@ -859,6 +859,7 @@
         <entry>run_backward</entry>
         <entry>translated</entry>
         <entry>origin</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
