@@ -145,6 +145,7 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="13" column="50" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/feature_model/model.py" timestamp="1534193585816" />
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -409,11 +410,6 @@
         <mark key="^" line="210" column="26" />
         <mark key="." line="210" column="26" />
       </file>
-      <file name="$USER_HOME$/work/web-template/client-ts/src/App.tsx" timestamp="1533862030764">
-        <mark key="'" line="24" column="59" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="63" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -472,6 +468,9 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" timestamp="1534193427523">
+        <mark key="'" line="165" column="8" />
+      </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="250" column="49" />
@@ -516,6 +515,7 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/evaluate_signal_model.py" timestamp="1534192757237" />
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" timestamp="1533998867333">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -594,7 +594,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534178928789">
+      <file name="/Dummy.txt" timestamp="1534193083211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -712,7 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
@@ -812,6 +811,7 @@
       <jump line="16" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
       <jump line="62" column="23" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
       <jump line="17" column="32" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
+      <jump line="165" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
