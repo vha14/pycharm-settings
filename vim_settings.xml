@@ -91,6 +91,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" timestamp="1534180364560">
+        <mark key="'" line="17" column="32" />
+        <mark key="n" line="62" column="21" />
+      </file>
       <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -708,9 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
@@ -808,6 +809,9 @@
       <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
+      <jump line="16" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
+      <jump line="62" column="23" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
+      <jump line="17" column="32" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -817,7 +821,7 @@
         <text>body[0])</text>
       </register>
       <register name="/" type="4">
-        <text>5001</text>
+        <text>FeatureModel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
@@ -854,16 +858,14 @@
       </register>
     </registers>
     <search>
-      <last-search>5001</last-search>
+      <last-search>FeatureModel</last-search>
       <last-offset />
-      <last-pattern>5001</last-pattern>
+      <last-pattern>FeatureModel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skle</entry>
-        <entry>sci</entry>
         <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
@@ -882,6 +884,8 @@
         <entry>epoch</entry>
         <entry>tokeni</entry>
         <entry>URL</entry>
+        <entry>Feature</entry>
+        <entry>FeatureModel</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
