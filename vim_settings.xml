@@ -45,6 +45,7 @@
       <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
         <mark key="'" line="219" column="49" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/stripped_gru.py" timestamp="1534192091222" />
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/index.js" timestamp="1533917654773">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -118,6 +119,9 @@
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/upsample.py" timestamp="1534192168879">
+        <mark key="'" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
@@ -700,7 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
       <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
@@ -800,6 +803,7 @@
       <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
+      <jump line="62" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/upsample.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
