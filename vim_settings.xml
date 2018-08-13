@@ -45,6 +45,11 @@
       <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
         <mark key="'" line="219" column="49" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/index.js" timestamp="1533917654773">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Home.js" timestamp="1527980380304">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="0" column="40" />
@@ -130,6 +135,11 @@
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/README.md" timestamp="1533999343527">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+      </file>
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -141,11 +151,6 @@
         <mark key="]" line="7" column="39" />
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/diffs" timestamp="1533871875964">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="27" />
       </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
@@ -185,7 +190,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533651078999">
+      <file name="/Python Console" timestamp="1533923917469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -220,11 +225,11 @@
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533873736668">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/Dockerfile" timestamp="1533999027687">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="8" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/environment.yaml" timestamp="1529360628476">
         <mark key="[" line="3" column="13" />
@@ -309,18 +314,23 @@
         <mark key="^" line="40" column="72" />
         <mark key="." line="40" column="74" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" timestamp="1533943721371" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" timestamp="1533998402993">
+        <mark key="'" line="52" column="6" />
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="40" column="33" />
+      </file>
       <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/.dockerignore" timestamp="1533871776764">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/.dockerignore" timestamp="1533998927066">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -404,11 +414,10 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/.dockerignore" timestamp="1533871964567">
+      <file name="$USER_HOME$/work/hackathon-vernacular/requirements.txt" timestamp="1533911668745">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/explore.py" timestamp="1532739234082">
         <mark key="'" line="80" column="0" />
@@ -498,8 +507,19 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/test/scratch.py" timestamp="1533923990357">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
         <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" timestamp="1533998867333">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -534,10 +554,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.yml" timestamp="1533872005331">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.yml" timestamp="1533999284687">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -551,11 +571,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533873691693">
-        <mark key="'" line="58" column="8" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533970406844">
+        <mark key="'" line="23" column="25" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="14" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Login.js" timestamp="1527982021305">
         <mark key="'" line="1" column="9" />
@@ -570,10 +591,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/pytorch/setup.py" timestamp="1533817337367">
-        <mark key="'" line="135" column="43" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533874105569">
+      <file name="/Dummy.txt" timestamp="1534001190800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -682,6 +700,17 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="87" column="59" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
+      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
@@ -747,95 +776,89 @@
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
-      <jump line="430" column="45" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="241" column="14" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="550" column="16" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="575" column="46" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="998" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="538" column="8" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="572" column="46" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="1014" column="17" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="89" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="138" column="66" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="423" column="26" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="474" column="25" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="475" column="38" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="546" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="850" column="58" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="851" column="28" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="973" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="975" column="31" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="979" column="44" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="981" column="44" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="986" column="32" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="32" column="7" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="33" column="15" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="111" column="47" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="135" column="43" filename="$USER_HOME$/work/pytorch/setup.py" />
-      <jump line="60" column="3" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
-      <jump line="25" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
-      <jump line="28" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
-      <jump line="61" column="0" filename="$USER_HOME$/work/hackathon-vernacular/diffs" />
-      <jump line="7" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="9" column="34" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="58" column="8" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="18" column="9" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="19" column="62" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="23" column="66" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="28" column="13" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="34" column="27" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="38" column="6" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="0" column="19" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="1" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="3" column="12" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="7" column="13" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="9" column="18" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="17" column="28" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="18" column="22" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="20" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0UGF0aDogJy4uJywK</text>
+        <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
       </register>
       <register name="-" type="4">
-        <text>/usr/local/bin/python</text>
+        <text>body[0])</text>
       </register>
       <register name="/" type="4">
-        <text>Shell</text>
+        <text>5001</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcHl0aG9uUGF0aDogJy91c3IvbG9jYWwvYmluL3B5dGhvbicsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0UGF0aDogJy4uJywK</text>
+        <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dWkvY2xpZW50Lwo=</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIG5vZGVtb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEuYm9keSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I0FERCBhcHBfcm9vdCAvYXBwCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5wcm90b3R5cGUudG9TdHJpbmcuY2FsbChyZXMpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dG9yY2gudGVuc29yKFsxLDIsM10pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy50cmFuc2xhdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVhcm4uc2NoZWQucGxvdCgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Shell</last-search>
+      <last-search>5001</last-search>
       <last-offset />
-      <last-pattern>Shell</last-pattern>
+      <last-pattern>5001</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>loss</entry>
+        <entry>skle</entry>
+        <entry>sci</entry>
+        <entry>MASKS_FN</entry>
+        <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
         <entry>version</entry>
@@ -847,15 +870,10 @@
         <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
-        <entry>create_version_file</entry>
-        <entry>build_extens</entry>
-        <entry>build_ext</entry>
-        <entry>nvrt</entry>
-        <entry>NN_PACK</entry>
-        <entry>NNPACK</entry>
-        <entry>--- a</entry>
-        <entry>shell</entry>
-        <entry>Shell</entry>
+        <entry>translated</entry>
+        <entry>origin</entry>
+        <entry>req</entry>
+        <entry>5001</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

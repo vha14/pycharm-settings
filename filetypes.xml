@@ -5,6 +5,7 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="tint" type="PLAIN_TEXT" />
+      <mapping ext="hi_py" type="PLAIN_TEXT" />
       <mapping ext="config" type="PROTO" />
     </extensionMap>
   </component>
