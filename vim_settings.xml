@@ -507,6 +507,9 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/signal_model/train.py" timestamp="1534258414843">
+        <mark key="'" line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -718,8 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="30" column="10" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="32" column="17" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="78" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="19" column="0" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
@@ -818,6 +819,8 @@
       <jump line="214" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
       <jump line="227" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
       <jump line="105" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="71" column="23" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/signal_model/train.py" />
+      <jump line="20" column="29" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/signal_model/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -827,7 +830,7 @@
         <text>body[0])</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>WaveR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
@@ -864,15 +867,14 @@
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>WaveR</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>WaveR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Image</entry>
         <entry>aug_dl</entry>
         <entry>version</entry>
         <entry>tensor</entry>
@@ -892,6 +894,7 @@
         <entry>warn</entry>
         <entry>no config</entry>
         <entry>info</entry>
+        <entry>WaveR</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
