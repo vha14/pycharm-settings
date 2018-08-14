@@ -42,6 +42,9 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
+        <mark key="'" line="219" column="49" />
+      </file>
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/index.js" timestamp="1533917654773">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -84,16 +87,15 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1533012270389">
+        <mark key="'" line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/work/agromo/src/explore.py" timestamp="1528997980295">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" timestamp="1534180364560">
-        <mark key="'" line="17" column="32" />
-        <mark key="n" line="62" column="21" />
       </file>
       <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
         <mark key="[" line="0" column="0" />
@@ -117,12 +119,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1533842686100">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="24" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="19" />
@@ -142,10 +138,8 @@
       <file name="$USER_HOME$/work/hackathon-vernacular/README.md" timestamp="1533999343527">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="50" />
-        <mark key="^" line="7" column="1" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/feature_model/model.py" timestamp="1534193585816" />
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -167,6 +161,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="21" column="33" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" timestamp="1533101946609">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
@@ -193,7 +190,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534212828771">
+      <file name="/Python Console" timestamp="1534221467603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -267,6 +264,9 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
+        <mark key="'" line="338" column="32" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -354,12 +354,6 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.prod.yml" timestamp="1533857609612">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mso/gatsby-config.js" timestamp="1524004527993">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="17" />
@@ -372,11 +366,6 @@
         <mark key="]" line="135" column="0" />
         <mark key="^" line="135" column="0" />
         <mark key="." line="135" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/data/fixtures/translations/py-vn.txt" timestamp="1533925850305">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nuclei/src/overview.py" timestamp="1522184165132">
         <mark key="'" line="10" column="8" />
@@ -397,7 +386,9 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
-      <file name="/upsample.py" timestamp="1534271887475" />
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533241072160">
+        <mark key="'" line="349" column="17" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="57" />
@@ -435,6 +426,9 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="109" column="34" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" timestamp="1532927794965">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/fastai_v1/dev_nb/001a_nn_basics.py" timestamp="1533102910721">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -469,8 +463,14 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" timestamp="1534193427523">
-        <mark key="'" line="165" column="8" />
+      <file name="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/storage.py" timestamp="1532492972090">
+        <mark key="'" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/sonosite/src/nn/unet.py" timestamp="1532496293158">
+        <mark key="'" line="97" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/pytorch-examples/imagenet/main.py" timestamp="1533504910704">
+        <mark key="'" line="143" column="29" />
       </file>
       <file name="$USER_HOME$/allenai/ai2website/app/html/incubator.html" timestamp="1526662545683">
         <mark key="'" line="40" column="0" />
@@ -486,25 +486,17 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1534271593146">
-        <mark key="'" line="295" column="34" />
-        <mark key="[" line="295" column="46" />
-        <mark key="]" line="295" column="49" />
-        <mark key="." line="295" column="49" />
-        <mark key="^" line="295" column="49" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1534221928030">
+        <mark key="'" line="48" column="4" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.override.yml" timestamp="1533857699338">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/signal_model/_utils.py" timestamp="1534270840548" />
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
         <mark key="." line="4" column="59" />
         <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/environment.yml" timestamp="1532838961587">
+        <mark key="'" line="7" column="2" />
       </file>
       <file name="$USER_HOME$/work/halsvision/README.md" timestamp="1524196075329">
         <mark key="[" line="30" column="27" />
@@ -524,18 +516,22 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/evaluate_signal_model.py" timestamp="1534192757237" />
+      <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
+        <mark key="'" line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" timestamp="1533998867333">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-        <mark key="^" line="62" column="82" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-891034338/-1679216578/torch/nn/modules/module.py" timestamp="1532235075065">
+        <mark key="'" line="485" column="26" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/App.js" timestamp="1527975201147">
         <mark key="[" line="40" column="37" />
@@ -603,7 +599,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534193083211">
+      <file name="/Dummy.txt" timestamp="1534221163999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -651,6 +647,7 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/_data_iterator.py" timestamp="1534136094054" />
       <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182056419">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
@@ -662,12 +659,6 @@
         <mark key="]" line="11" column="66" />
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
-      </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/utils.py" timestamp="1534269724861">
-        <mark key="[" line="21" column="74" />
-        <mark key="]" line="21" column="81" />
-        <mark key="." line="21" column="81" />
-        <mark key="^" line="21" column="81" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/setup.sh" timestamp="1525227777558">
         <mark key="[" line="15" column="1" />
@@ -707,17 +698,8 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/Dockerfile" timestamp="1533860403570">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/hackathon-vernacular/ui/Dockerfile" timestamp="1533867837080">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/work/fastai/fastai/models/resnet.py" timestamp="1533012178981">
+        <mark key="'" line="210" column="15" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/functions/get-index.ts" timestamp="1531553328053">
         <mark key="[" line="27" column="75" />
@@ -727,6 +709,13 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
+      <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
@@ -811,76 +800,71 @@
       <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
-      <jump line="16" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
-      <jump line="62" column="23" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
-      <jump line="17" column="32" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
-      <jump line="165" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" />
-      <jump line="299" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="41" column="10" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="86" column="30" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="130" column="48" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="205" column="26" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="221" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="222" column="69" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="223" column="36" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="254" column="56" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="267" column="50" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="295" column="34" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="19" column="26" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="228" column="22" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="290" column="27" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="291" column="25" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
-      </register>
-      <register name="-" type="4">
-        <text>False</text>
-      </register>
-      <register name="/" type="4">
-        <text>predict</text>
-      </register>
-      <register name="0" type="4">
-        <text>os.path.join(os.path.dirname(os.path.realpath(x)), '../..'))</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">UGF0aCh4KS5wYXJlbnQucGFyZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">b3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLnJlYWxwYXRoKHgpKSwgJy4uLy4uJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">b3MucGF0aC5kaXJuYW1lKG9zLnBhdGgucmVhbHBhdGgoeCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">eCA9IG9zLmdldGN3ZCgpICsgJy9zcmMvdXRpbHMvdXRpbHMucHknCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="-" type="4">
+        <text>body[0])</text>
+      </register>
+      <register name="/" type="4">
+        <text>batch_size</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIG5vZGVtb24K</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEuYm9keSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5wcm90b3R5cGUudG9TdHJpbmcuY2FsbChyZXMpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy50cmFuc2xhdGlvbik7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>predict</last-search>
+      <last-search>batch_size</last-search>
       <last-offset />
-      <last-pattern>predict</last-pattern>
+      <last-pattern>batch_size</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>sci</entry>
+        <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
@@ -893,14 +877,12 @@
         <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
+        <entry>translated</entry>
+        <entry>origin</entry>
+        <entry>req</entry>
+        <entry>5001</entry>
         <entry>batch</entry>
         <entry>batch_size</entry>
-        <entry>epoch</entry>
-        <entry>tokeni</entry>
-        <entry>URL</entry>
-        <entry>Feature</entry>
-        <entry>FeatureModel</entry>
-        <entry>predict</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
