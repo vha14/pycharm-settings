@@ -190,7 +190,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534221467603">
+      <file name="/Python Console" timestamp="1534257563828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -326,6 +326,9 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" timestamp="1534258132983">
+        <mark key="'" line="105" column="19" />
       </file>
       <file name="$USER_HOME$/work/hackathon-vernacular/.dockerignore" timestamp="1533998927066">
         <mark key="[" line="0" column="10" />
@@ -599,7 +602,14 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534221163999">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" timestamp="1534257932317">
+        <mark key="'" line="286" column="62" />
+        <mark key="[" line="286" column="71" />
+        <mark key="]" line="286" column="7" />
+        <mark key="^" line="286" column="7" />
+        <mark key="." line="286" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534257573048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -647,7 +657,6 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/_data_iterator.py" timestamp="1534136094054" />
       <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182056419">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
@@ -709,22 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="31" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="70" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="30" column="10" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="32" column="17" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
@@ -809,6 +802,22 @@
       <jump line="290" column="27" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="291" column="25" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="48" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="265" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="308" column="59" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="310" column="27" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="316" column="51" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="318" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="319" column="39" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="286" column="62" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" />
+      <jump line="126" column="69" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="210" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="211" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="212" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="213" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="214" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="227" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
+      <jump line="105" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/experiment_context_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -818,7 +827,7 @@
         <text>body[0])</text>
       </register>
       <register name="/" type="4">
-        <text>batch_size</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
@@ -855,17 +864,14 @@
       </register>
     </registers>
     <search>
-      <last-search>batch_size</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>batch_size</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sci</entry>
-        <entry>MASKS_FN</entry>
-        <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
         <entry>version</entry>
@@ -883,6 +889,9 @@
         <entry>5001</entry>
         <entry>batch</entry>
         <entry>batch_size</entry>
+        <entry>warn</entry>
+        <entry>no config</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
