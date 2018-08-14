@@ -397,6 +397,7 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
+      <file name="/upsample.py" timestamp="1534271887475" />
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="57" />
@@ -484,6 +485,13 @@
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1534271593146">
+        <mark key="'" line="295" column="34" />
+        <mark key="[" line="295" column="46" />
+        <mark key="]" line="295" column="49" />
+        <mark key="." line="295" column="49" />
+        <mark key="^" line="295" column="49" />
       </file>
       <file name="$USER_HOME$/work/hackathon-vernacular/docker-compose.override.yml" timestamp="1533857699338">
         <mark key="[" line="7" column="0" />
@@ -719,18 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="72" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
@@ -819,16 +815,28 @@
       <jump line="62" column="23" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
       <jump line="17" column="32" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/train.py" />
       <jump line="165" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" />
+      <jump line="299" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="41" column="10" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="86" column="30" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="130" column="48" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="205" column="26" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="221" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="222" column="69" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="223" column="36" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="254" column="56" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="267" column="50" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="295" column="34" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>FeatureModel</text>
+        <text>predict</text>
       </register>
       <register name="0" type="4">
         <text>os.path.join(os.path.dirname(os.path.realpath(x)), '../..'))</text>
@@ -865,15 +873,14 @@
       </register>
     </registers>
     <search>
-      <last-search>FeatureModel</last-search>
+      <last-search>predict</last-search>
       <last-offset />
-      <last-pattern>FeatureModel</last-pattern>
+      <last-pattern>predict</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
@@ -893,6 +900,7 @@
         <entry>URL</entry>
         <entry>Feature</entry>
         <entry>FeatureModel</entry>
+        <entry>predict</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
