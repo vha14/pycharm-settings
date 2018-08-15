@@ -177,6 +177,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/foo.py" timestamp="1534300478498">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524200203702">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="35" />
@@ -602,7 +608,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534300340019">
+      <file name="/Dummy.txt" timestamp="1534300493640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -667,6 +673,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/feature_model/preprocess.py" timestamp="1534300461427">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="9" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/functions/get-restaurants.ts" timestamp="1531632736384">
         <mark key="'" line="26" column="0" />
@@ -814,7 +824,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
+        <text encoding="base64">ICAgIHByaW50KCJsaW5lIDEiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>body[0])</text>
@@ -823,7 +833,7 @@
         <text>batch_size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJsaW5lIDEiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
