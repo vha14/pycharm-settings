@@ -45,7 +45,6 @@
       <file name="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" timestamp="1533520409293">
         <mark key="'" line="219" column="49" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/stripped_gru.py" timestamp="1534192091222" />
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/client/src/index.js" timestamp="1533917654773">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -120,9 +119,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/upsample.py" timestamp="1534192168879">
-        <mark key="'" line="62" column="15" />
-      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="19" />
@@ -194,7 +190,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534280115246">
+      <file name="/Python Console" timestamp="1534290436979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -203,7 +199,7 @@
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
       </file>
-      <file name="/fragment.py" timestamp="1533045541629">
+      <file name="/fragment.py" timestamp="1534291030452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/annotations.py" timestamp="1532194500757">
@@ -490,6 +486,9 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" timestamp="1534290020133">
+        <mark key="'" line="48" column="4" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
@@ -516,6 +515,9 @@
         <mark key="]" line="5" column="12" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/evaluate_signal_model.py" timestamp="1534289133005">
+        <mark key="[" line="56" column="25" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" timestamp="1533240035918">
         <mark key="'" line="61" column="0" />
@@ -575,6 +577,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/libs/response-lib.js" timestamp="1534132042864">
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+      </file>
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533970406844">
         <mark key="'" line="23" column="25" />
         <mark key="[" line="38" column="0" />
@@ -595,7 +602,8 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534280083352">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/utils/configurable.py" timestamp="1534291046848" />
+      <file name="/Dummy.txt" timestamp="1534289999991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -704,14 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="60" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="90" column="76" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="97" column="56" filename="$USER_HOME$/work/sonosite/src/nn/unet.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="59" column="29" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="115" column="62" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
-      <jump line="197" column="4" filename="$USER_HOME$/work/sonosite/src/experiment.py" />
       <jump line="93" column="32" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="90" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="89" column="28" filename="$USER_HOME$/work/agromomaster/explore.py" />
@@ -803,7 +803,15 @@
       <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
-      <jump line="62" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/upsample.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="19" column="26" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="228" column="22" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="290" column="27" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="291" column="25" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -813,7 +821,7 @@
         <text>body[0])</text>
       </register>
       <register name="/" type="4">
-        <text>5001</text>
+        <text>batch_size</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb25lIGNhbGxpbmcgYXBpIik7Cg==</text>
@@ -850,16 +858,14 @@
       </register>
     </registers>
     <search>
-      <last-search>5001</last-search>
+      <last-search>batch_size</last-search>
       <last-offset />
-      <last-pattern>5001</last-pattern>
+      <last-pattern>batch_size</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loss</entry>
-        <entry>skle</entry>
         <entry>sci</entry>
         <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
@@ -878,6 +884,8 @@
         <entry>origin</entry>
         <entry>req</entry>
         <entry>5001</entry>
+        <entry>batch</entry>
+        <entry>batch_size</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
