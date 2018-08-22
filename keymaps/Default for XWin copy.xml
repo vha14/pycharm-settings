@@ -86,6 +86,7 @@
   <action id="OpenElementInNewWindow" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowUp" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt comma" />
