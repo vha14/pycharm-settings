@@ -119,11 +119,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534971610501">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534978086010">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="77" />
+        <mark key="." line="25" column="77" />
+        <mark key="^" line="25" column="77" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
@@ -274,9 +274,9 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1534887202305">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1534977706034">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="58" />
         <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
@@ -842,25 +842,40 @@
       <jump line="110" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YjEucmVhZGxpbmVzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
       </register>
-      <register name="0" type="4">
-        <text>Book('female', 'mary_ann', 'midnight_passenger')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lLCB0ZXh0LCBfID0gdHVwbGUobGluZS5zcGxpdCgnfCcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YjEucmVhZGxpbmVzKCkK</text>
+        <text encoding="base64">YjEucGFyZW50Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">YjEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGluZXMgPSBbbGluZGRlIGZvciBsaW5lIGluIGIxLm9wZW4oKV0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGVuKGxpbmVzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YjEucmVhZGxpbmVzKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>import pandas as pd
 
 df = pd.DataFrame({'hours':[1, 2, 5]})
@@ -887,23 +902,8 @@ df
 all_hours[~if_hour_found].shape
 df</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmFuZ2UoMSwgNikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVuKGFjdHVhbF9ib29rcykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIF9ub3JtYWxpemVkKGlucCk6CiAgICAiIiIKICAgIENvbnZlcnRpbmcgdGhlIGlucHV0IHRvIGxvd2VyIGNhc2UsIHJlcGxhY2luZyBzcGFjZSAoJyAnKSB3aXRoIHVuZGVyc2NvcmUgKCdfJykuCgogICAgQXJnczoKICAgICAgICBpbnA6IFRoZSBpbnB1dCB0byBub3JtYWxpemUsIGVpdGhlciBhIHN0cmluZywgYSA6Y2xhc3M6YHNyYy5kYXRhc2V0cy5tX2FpbGFicy5Cb29rYCwgb3IKICAgICAgICAgYSBsaXN0IG9mIDpjbGFzczpgc3JjLmRhdGFzZXRzLm1fYWlsYWJzLkJvb2tgLgoKICAgIFJldHVybnM6CiAgICAgICAgOmNsYXNzOmBBbnlgIE5vcm1hbGl6ZWQgaW5wdXQuCgogICAgRXhhbXBsZXM6CiAgICAgICAgPj4+IF9ub3JtYWxpemVkKCdNYXJ5IEFubicpCiAgICAgICAgJ21hcnlfYW5uJwogICAgICAgID4+PiBfbm9ybWFsaXplZChCb29rKCdmZW1hbGUnLCAnTWFyeSBBbm4nLCAnTWlkbmlnaHQgUGFzc2VuZ2VyJykpCiAgICAgICAgQm9vayhnZW5kZXI9J2ZlbWFsZScsIG5hbWU9J21hcnlfYW5uJywgYm9va190aXRsZT0nbWlkbmlnaHRfcGFzc2VuZ2VyJykKICAgICAgICA+Pj4gX25vcm1hbGl6ZWQoW0Jvb2soJ2ZlbWFsZScsICdNYXJ5IEFubicsICdNaWRuaWdodCBQYXNzZW5nZXInKSwgQm9vaygnZmVtYWxlJywgJ0p1ZHkgQmllYmVyJywgJ1NreSBJc2xhbmQnKV0pICMgbm9xYTogRTUwMQogICAgICAgIFtCb29rKGdlbmRlcj0nZmVtYWxlJywgbmFtZT0nbWFyeV9hbm4nLCBib29rX3RpdGxlPSdtaWRuaWdodF9wYXNzZW5nZXInKSwgQm9vayhnZW5kZXI9J2ZlbWFsZScsIG5hbWU9J2p1ZHlfYmllYmVyJywgYm9va190aXRsZT0nc2t5X2lzbGFuZCcpXQogICAgIiIiCiAgICBpZiBpc2luc3RhbmNlKGlucCwgc3RyKToKICAgICAgICByZXR1cm4gaW5wLmxvd2VyKCkucmVwbGFjZSgnICcsICdfJykKICAgIGVsaWYgaXNpbnN0YW5jZShpbnAsIEJvb2spOgogICAgICAgIHJldHVybiBCb29rKCpbX25vcm1hbGl6ZWQocykgZm9yIHMgaW4gaW5wXSkKICAgIGVsaWYgaXNpbnN0YW5jZShpbnAsIGxpc3QpOgogICAgICAgIHJldHVybiBbX25vcm1hbGl6ZWQoeCkgZm9yIHggaW4gaW5wXQogICAgZWxzZToKICAgICAgICByYWlzZSBUeXBlRXJyb3IK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">UklOS0lUSU5LX0lOX09aID0gQm9vayhGRU1BTEUsIEpVRFlfQklFQkVSLCAnUmlua2l0aW5rIGluIE96JykK</text>
+        <text encoding="base64">cmFuZ2UoMSwgNikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
