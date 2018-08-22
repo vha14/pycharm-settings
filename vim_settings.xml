@@ -119,7 +119,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534962129203">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534964810562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,11 +131,11 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1534963754707">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-        <mark key="^" line="53" column="25" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1534965437195">
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+        <mark key="^" line="66" column="3" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -201,7 +201,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534290436979">
+      <file name="/Python Console" timestamp="1534964498789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -845,10 +845,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>TypeError(f&quot;Input {inp} cannot be normalized: &quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>TypeError(f&quot;Input {inp} cannot be normalized: &quot;)</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
@@ -856,14 +856,14 @@
       <register name="0" type="4">
         <text>Book('female', 'mary_ann', 'midnight_passenger')</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCkJvb2sgPSBuYW1lZHR1cGxlKCdCb29rJywgJ2dlbmRlciBuYW1lIGJvb2tfdGl0bGUnKQoKRkVNQUxFID0gJ2ZlbWFsZScKTUFMRSA9ICdtYWxlJwpKVURZX0JJRUJFUiA9ICdKdWR5IEJpZWJlcicKTUFSWV9BTk4gPSAnTWFyeSBBbm4nCkVMTElPVF9NSUxMRVIgPSAnRWxsaW90IE1pbGxlcicKClRIRV9TRUFfRkFJUklFUyA9IEJvb2soRkVNQUxFLCBKVURZX0JJRUJFUiwgJ1RoZSBTZWEgRmFpcmllcycpClRIRV9NQVNURVJfS0VZID0gQm9vayhGRU1BTEUsIEpVRFlfQklFQkVSLCAnVGhlIE1hc3RlciBLZXknKQpSSU5LSVRJTktfSU5fT1ogPSBCb29rKEZFTUFMRSwgSlVEWV9CSUVCRVIsICdSaW5raXRpbmsgaW4gT3onKQpET1JPVEhZX0FORF9XSVpBUkRfT1ogPSBCb29rKEZFTUFMRSwgSlVEWV9CSUVCRVIsICdEb3JvdGh5IGFuZCBXaXphcmQgT3onKQpTS1lfSVNMQU5EID0gQm9vayhGRU1BTEUsIEpVRFlfQklFQkVSLCAnU2t5IElzbGFuZCcpCk9aTUFfT0ZfT1ogPSBCb29rKEZFTUFMRSwgSlVEWV9CSUVCRVIsICdPem1hIG9mIE96JykKRU1FUkFMRF9DSVRZX09GX09aID0gQm9vayhGRU1BTEUsIEpVRFlfQklFQkVSLCAnRW1lcmFsZCBDaXR5IG9mIE96JykKCk1JRE5JR0hUX1BBU1NFTkdFUiA9IEJvb2soRkVNQUxFLCBNQVJZX0FOTiwgJ01pZG5pZ2h0IFBhc3NlbmdlcicpCk5PUlRIX0FORF9TT1VUSCA9IEJvb2soRkVNQUxFLCBNQVJZX0FOTiwgJ05vcnRoQW5kU291dGgnKQoKUElSQVRFU19PRl9FUlNBVFogPSBCb29rKE1BTEUsIEVMTElPVF9NSUxMRVIsICdQaXJhdGVzIG9mIEVyc2F0eicpClBPSVNPTkVEX1BFTiA9IEJvb2soTUFMRSwgRUxMSU9UX01JTExFUiwgJ1BvaXNvbmVkIFBlbicpClNJTEVOVF9CVUxMRVQgPSBCb29rKE1BTEUsIEVMTElPVF9NSUxMRVIsICdTaWxlbnQgQnVsbGV0JykKSFVOVEVSU19TUEFDRSA9IEJvb2soTUFMRSwgRUxMSU9UX01JTExFUiwgJ0h1bnRlcnMgU3BhY2UnKQpQSU5LX0ZBSVJZX0JPT0sgPSBCb29rKE1BTEUsIEVMTElPVF9NSUxMRVIsICdQaW5rIEZhaXJ5IEJvb2snKQoKCl9hbGxib29rcyA9IFsKICAgIFRIRV9TRUFfRkFJUklFUywKICAgIFRIRV9NQVNURVJfS0VZLAogICAgUklOS0lUSU5LX0lOX09aLAogICAgRE9ST1RIWV9BTkRfV0laQVJEX09aLAogICAgU0tZX0lTTEFORCwKICAgIE9aTUFfT0ZfT1osCiAgICBFTUVSQUxEX0NJVFlfT0ZfT1osCiAgICBNSUROSUdIVF9QQVNTRU5HRVIsCiAgICBOT1JUSF9BTkRfU09VVEgsCiAgICBQSVJBVEVTX09GX0VSU0FUWiwKICAgIFBPSVNPTkVEX1BFTiwKICAgIFNJTEVOVF9CVUxMRVQsCiAgICBIVU5URVJTX1NQQUNFLAogICAgUElOS19GQUlSWV9CT09LCl0KCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">UElOS19GQUlSWV9CT09LCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X25vcm1hbGl6ZWQoUElOS19GQUlSWV9CT09LKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIF9ub3JtYWxpemVkKG9yaWcpOgogICAgcmV0dXJuIG9yaWcubG93ZXIoKS5yZXBsYWNlKCcgJywgJ18nKSBpZiBpc2luc3RhbmNlKG9yaWcsIHN0cikgZWxzZSBCb29rKCpbX25vcm1hbGl6ZWQocykgZm9yIHMgaW4gb3JpZ10pCg==</text>
+        <text encoding="base64">X25vcm1hbGl6ZWQoTUFSWV9BTk4pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -875,13 +875,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0NNRCBbInNsZWVwIiwgImluZmluaXR5Il0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
