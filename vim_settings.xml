@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1533230801754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1534935954278">
+      <file name="/a.dummy" timestamp="1534937246978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/seed-restaurants.ts" timestamp="1529989219570">
@@ -119,11 +119,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534936571025">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534937663610">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
@@ -839,44 +839,44 @@
       <jump line="92" column="36" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXNzZXJ0IGFsbCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>root_path.glob('**/metadata.csv')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SFVOVEVSU19TUEFDRSA9IEJvb2soTUFMRSwgRUxMSU9UX01JTExFUiwgJ0h1bnRlcnMgU3BhY2UnKQo=</text>
+        <text encoding="base64">X25vcm1hbGl6ZWQoTUFSWV9BTk4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNzZXJ0IGFsbCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGJvb2sgaW4gX2FsbGJvb2tzOgo=</text>
+        <text encoding="base64">Qm9vaygqUElOS19GQUlSWV9CT09LKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0dWFsX2Jvb2tzID0gW0Jvb2soKmJvb2tfbWV0YWRhdGEucGFydHNbMzo2XSkgZm9yIGJvb2tfbWV0YWRhdGEgaW4gbWV0YWRhdGFfcGF0aHNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXh0cmFjdGVkX25hbWUK</text>
+        <text encoding="base64">X25vcm1hbGl6ZWQoTUFSWV9BTk4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvb3RfcGF0aCA9IFBhdGgoJ2RhdGEnKSAvIGV4dHJhY3RlZF9uYW1lCg==</text>
+        <text encoding="base64">YXNzZXJ0IGFsbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGJvb2sgaW4gX2FsbGJvb2tzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cm9vdF9wYXRoID0gUGF0aCgnZGF0YScpIC8gZXh0cmFjdGVkX25hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ZXh0cmFjdGVkX25hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJvb3RfcGF0aCA9IFBhdGgoJ2RhdGEnKSAvIGV4dHJhY3RlZF9uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
