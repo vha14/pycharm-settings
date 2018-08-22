@@ -119,11 +119,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534978086010">
-        <mark key="[" line="25" column="68" />
-        <mark key="]" line="25" column="77" />
-        <mark key="." line="25" column="77" />
-        <mark key="^" line="25" column="77" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534979754617">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="33" column="3" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
@@ -842,11 +842,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
@@ -855,55 +855,31 @@
         <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lLCB0ZXh0LCBfID0gdHVwbGUobGluZS5zcGxpdCgnfCcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YjEucGFyZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">YjEK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YjEucGFyZW50Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">bGluZXMgPSBbbGluZGRlIGZvciBsaW5lIGluIGIxLm9wZW4oKV0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVuKGxpbmVzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YjEucmVhZGxpbmVzKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import pandas as pd
-
-df = pd.DataFrame({'hours':[1, 2, 5]})
-all_hours = pd.Series(range(1, 6), name='hours')
-if_hour_found = all_hours.isin(df['hours'].tolist())
-
-
-all_hours
-df
-if_hour_found
-pd.Series(pd.to_datetime(
-  all_hours[~if_hour_found].apply(lambda x: x*60*60+1514808000),
-  unit = 's'
-))
-
-df['hours']
-
-df['missing_hours'] = pd.Series(pd.to_datetime(
-  all_hours[~if_hour_found].apply(lambda x: x*60*60+1514808000),
-  unit = 's'
-))
-df['missing_hours']
-df
-all_hours[~if_hour_found].shape
-df</text>
+      <register name="5" type="2">
+        <text encoding="base64">YjEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGluZXMgPSBbbGluZGRlIGZvciBsaW5lIGluIGIxLm9wZW4oKV0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bGVuKGxpbmVzKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YjEucmVhZGxpbmVzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmFuZ2UoMSwgNikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
