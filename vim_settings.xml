@@ -184,7 +184,8 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1534914332346">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535043863388">
+        <mark key="'" line="214" column="0" />
         <mark key="[" line="482" column="4" />
         <mark key="]" line="482" column="6" />
         <mark key="^" line="482" column="6" />
@@ -286,13 +287,6 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535006572668">
-        <mark key="'" line="89" column="36" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="86" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="113" column="25" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -744,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/work/agromomaster/explore.py" />
       <jump line="82" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/fastai/environment.yml" />
       <jump line="101" column="4" filename="$USER_HOME$/work/fastai/environment.yml" />
@@ -844,6 +837,7 @@
       <jump line="92" column="36" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
       <jump line="37" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
       <jump line="153" column="40" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="214" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -853,7 +847,7 @@
         <text>,data/M-AILABS',</text>
       </register>
       <register name="/" type="4">
-        <text>batch_size</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvd25sb2FkX2ZpbGVfbWF5YmVfZXh0cmFjdCh1cmw9dXJsLCBkaXJlY3Rvcnk9ZGlyZWN0b3J5LCBjaGVja19maWxlcz1jaGVja19maWxlcykK</text>
@@ -890,15 +884,14 @@
       </register>
     </registers>
     <search>
-      <last-search>batch_size</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>batch_size</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sci</entry>
         <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
@@ -918,6 +911,7 @@
         <entry>5001</entry>
         <entry>batch</entry>
         <entry>batch_size</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
