@@ -145,11 +145,11 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/common.py" timestamp="1535054138503">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/common.py" timestamp="1535059540830">
+        <mark key="[" line="6" column="90" />
+        <mark key="]" line="6" column="93" />
+        <mark key="." line="6" column="93" />
+        <mark key="^" line="6" column="93" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
@@ -222,7 +222,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1535057041797">
+      <file name="/Python Console" timestamp="1535058948058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -297,11 +297,11 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535056995740">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="106" column="33" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535059610959">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="94" column="48" />
+        <mark key="^" line="94" column="68" />
+        <mark key="." line="94" column="48" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -318,6 +318,12 @@
         <mark key="]" line="181" column="2" />
         <mark key="^" line="181" column="2" />
         <mark key="." line="181" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535059431299">
+        <mark key="[" line="121" column="23" />
+        <mark key="]" line="56" column="35" />
+        <mark key="^" line="56" column="35" />
+        <mark key="." line="56" column="35" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/test_cases/get-restaurants.ts" timestamp="1531666410467">
         <mark key="'" line="20" column="2" />
@@ -855,44 +861,44 @@
       <jump line="214" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2RpcmVjdG9yeT0nd2F2cy8nLAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.abspath(wav_filename)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkX2ZpbGVfbWF5YmVfZXh0cmFjdCh1cmw9dXJsLCBkaXJlY3Rvcnk9ZGlyZWN0b3J5LCBjaGVja19maWxlcz1jaGVja19maWxlcykK</text>
+      <register name="0" type="4">
+        <text>If False, skip the check for existence of wav files.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2RpcmVjdG9yeT0nd2F2cy8nLAo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBjb2x1bW5zW3RleHRfY29sdW1uXSwgd2F2X2ZpbGVuYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gd2F2X2ZpbGVuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhdl9maWxlbmFtZSArICcud2F2JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2RpcmVjdG9yeT0nd2F2cy8nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgZXh0cmFjdGVkX25hbWUsIGF1ZGlvX2RpcmVjdG9yeSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gd2F2X2ZpbGVuYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhdl9maWxlbmFtZSArICcud2F2JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lLCB0ZXh0LCBfID0gdHVwbGUobGluZS5zcGxpdCgnfCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgZXh0cmFjdGVkX25hbWUsIGF1ZGlvX2RpcmVjdG9yeSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IGxpbmUuc3RyaXAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiB0cWRtKGYsIHRvdGFsPXRvdGFsX3Jvd3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lLCB0ZXh0LCBfID0gdHVwbGUobGluZS5zcGxpdCgnfCcpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggaW8ub3BlbihwYXRoLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IGxpbmUuc3RyaXAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
