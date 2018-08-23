@@ -145,11 +145,11 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/common.py" timestamp="1535050856951">
-        <mark key="[" line="13" column="83" />
-        <mark key="]" line="16" column="95" />
-        <mark key="." line="16" column="95" />
-        <mark key="^" line="16" column="95" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/common.py" timestamp="1535054138503">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
@@ -297,11 +297,11 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535046569562">
-        <mark key="[" line="106" column="39" />
-        <mark key="]" line="107" column="11" />
-        <mark key="." line="107" column="11" />
-        <mark key="^" line="107" column="11" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535056192088">
+        <mark key="[" line="108" column="28" />
+        <mark key="]" line="115" column="65" />
+        <mark key="^" line="115" column="65" />
+        <mark key="." line="115" column="65" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -855,11 +855,11 @@
       <jump line="214" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBhdWRpb19kaXJlY3Rvcnk6IDpjbGFzczpgc3RyYAo=</text>
+      <register name="&quot;" type="4">
+        <text>os.path.abspath(wav_filename)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>os.path.abspath(wav_filename)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
@@ -868,31 +868,31 @@
         <text encoding="base64">ICAgIGRvd25sb2FkX2ZpbGVfbWF5YmVfZXh0cmFjdCh1cmw9dXJsLCBkaXJlY3Rvcnk9ZGlyZWN0b3J5LCBjaGVja19maWxlcz1jaGVja19maWxlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBhdWRpb19kaXJlY3Rvcnk6IDpjbGFzczpgc3RyYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhdl9maWxlbmFtZSArICcud2F2JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBtZXRhZGF0YV9wYXRoOiA6Y2xhc3M6YHBhdGhsaWIuUGF0aGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgZXh0cmFjdGVkX25hbWUsIGF1ZGlvX2RpcmVjdG9yeSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDp0eXBlIGF1ZGlvX2RpcmVjdG9yeTogOmNsYXNzOmBzdHJgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lLCB0ZXh0LCBfID0gdHVwbGUobGluZS5zcGxpdCgnfCcpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IGxpbmUuc3RyaXAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuZGF0YXNldHMubV9haWxhYnMgaW1wb3J0IGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiB0cWRtKGYsIHRvdGFsPXRvdGFsX3Jvd3MpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgIHdpdGggaW8ub3BlbihwYXRoLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRvdGFsX3Jvd3M9MTMxMDAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
