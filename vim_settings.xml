@@ -119,12 +119,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534979754617">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="3" />
-      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534982061780" />
       <file name="$USER_HOME$/work/serverless-stack-2-api/serverless.yml" timestamp="1527989418145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="19" />
@@ -132,11 +127,11 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1534969777130">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1534982148475">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="81" column="3" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -846,40 +841,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lLCB0ZXh0LCBfID0gdHVwbGUobGluZS5zcGxpdCgnfCcpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGZvciBib29rIGluIGFjdHVhbF9ib29rczoKICAgICAgICBpZiBib29rLm5hbWUgPT0gYXV0aG9yOgogICAgICAgICAgICBmb3IgeCwgeSBpbiBib29rMnNwZWVjaF9kYXRhKGJvb2spOgogICAgICAgICAgICAgICAgeWllbGQgeCwgeQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YjEucGFyZW50Cg==</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Zm9yIF8sIF8gaW4gZ2VuZGVyMnNwZWVjaF9kYXRhKEZFTUFMRSk6CiAgICBwYXNzCgoKZm9yIHBhdGggaW4gbWV0YWRhdGFfcGF0aHM6CiAgICBmb3IgdGV4dCwgZmlsZW5hbWUgaW4gcmVhZF9zcGVlY2hfZGF0YShwYXRoKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YjEK</text>
+        <text encoding="base64">ICAgIGJvb2tzID0gW2Jvb2sgZm9yIGJvb2sgaW4gYWN0dWFsX2Jvb2tzIGlmIGJvb2submFtZSA9PSBhdXRob3JdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGluZXMgPSBbbGluZGRlIGZvciBsaW5lIGluIGIxLm9wZW4oKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVuKGxpbmVzKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YjEucmVhZGxpbmVzKCkK</text>
+        <text encoding="base64">Zm9yIF8sIF8gaW4gYm9vazJzcGVlY2hfZGF0YShTS1lfSVNMQU5EKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YjEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
