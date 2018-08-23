@@ -119,7 +119,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534937663610">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/scratch.py" timestamp="1534996534284">
         <mark key="[" line="20" column="50" />
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
@@ -131,6 +131,12 @@
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1534997040714">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="41" />
+        <mark key="." line="84" column="41" />
+        <mark key="^" line="84" column="41" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -840,10 +846,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SKY_ISLAND</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SKY_ISLAND</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
@@ -852,31 +858,31 @@
         <text encoding="base64">X25vcm1hbGl6ZWQoTUFSWV9BTk4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHgsIHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Qm9vaygqUElOS19GQUlSWV9CT09LKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHgsIHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0dWFsX2Jvb2tzID0gW0Jvb2soKmJvb2tfbWV0YWRhdGEucGFydHNbMzo2XSkgZm9yIGJvb2tfbWV0YWRhdGEgaW4gbWV0YWRhdGFfcGF0aHNdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X25vcm1hbGl6ZWQoTUFSWV9BTk4pCg==</text>
+        <text encoding="base64">Qm9vaygqUElOS19GQUlSWV9CT09LKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXNzZXJ0IGFsbCgpCg==</text>
+        <text encoding="base64">YWN0dWFsX2Jvb2tzID0gW0Jvb2soKmJvb2tfbWV0YWRhdGEucGFydHNbMzo2XSkgZm9yIGJvb2tfbWV0YWRhdGEgaW4gbWV0YWRhdGFfcGF0aHNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIGJvb2sgaW4gX2FsbGJvb2tzOgo=</text>
+        <text encoding="base64">X25vcm1hbGl6ZWQoTUFSWV9BTk4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXNzZXJ0IGFsbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXh0cmFjdGVkX25hbWUK</text>
+        <text encoding="base64">Zm9yIGJvb2sgaW4gX2FsbGJvb2tzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvb3RfcGF0aCA9IFBhdGgoJ2RhdGEnKSAvIGV4dHJhY3RlZF9uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
