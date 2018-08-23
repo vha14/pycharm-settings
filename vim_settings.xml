@@ -132,12 +132,12 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1534999235318">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535001560204">
         <mark key="'" line="43" column="17" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+        <mark key="[" line="74" column="51" />
+        <mark key="]" line="74" column="56" />
+        <mark key="." line="74" column="56" />
+        <mark key="^" line="74" column="56" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -846,44 +846,44 @@
       <jump line="37" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUK</text>
+      <register name="0" type="4">
+        <text>sorted(actual_books, key=lambda x: x.book_title) == sorted(_allbooks, key=lambda x: x.book_title)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0tZX0lTTEFORAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIF8sIF8gaW4gZ2VuZGVyMnNwZWVjaF9kYXRhKEZFTUFMRSk6Cg==</text>
+        <text encoding="base64">Zm9yIF8gaW4gcmVhZF9tYWlsYWJzX2RhdGEoQXV0aG9yLkVMTElPVF9NSUxMRVIpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRhZGF0YV9wYXRocyA9IGxpc3Qocm9vdF9wYXRoLmdsb2IoJyoqL21ldGFkYXRhLmNzdicpKQogICAgICAgIGFjdHVhbF9ib29rcyA9IFtwYXRoMmJvb2socGF0aCkgZm9yIHBhdGggaW4gbWV0YWRhdGFfcGF0aHNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">ICAgIHJvb3RfcGF0aCA9IFBhdGgoJ2RhdGEnKSAvICdNLUFJTEFCUy9lbl9VUy9ieV9ib29rJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBnZW5kZXI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhdXRob3I6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBleHRyYWN0ZWRfbmFtZSA9ICdNLUFJTEFCUy9lbl9VUy9ieV9ib29rJwogICAgICAgIHJvb3RfcGF0aCA9IFBhdGgoJ2RhdGEnKSAvIGV4dHJhY3RlZF9uYW1lCiAgICAgICAgbWV0YWRhdGFfcGF0aHMgPSBsaXN0KHJvb3RfcGF0aC5nbG9iKCcqKi9tZXRhZGF0YS5jc3YnKSkKICAgICAgICAKICAgICAgICBzZWxmLmFjdHVhbF9ib29rcyA9IFtwYXRoMmJvb2socGF0aCkgZm9yIHBhdGggaW4gbWV0YWRhdGFfcGF0aHNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
