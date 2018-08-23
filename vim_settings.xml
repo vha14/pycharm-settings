@@ -132,18 +132,24 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535048466085">
-        <mark key="'" line="130" column="40" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="128" column="55" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535050507426">
+        <mark key="'" line="128" column="40" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="126" column="55" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
         <mark key="]" line="14" column="60" />
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
+      </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/common.py" timestamp="1535050856951">
+        <mark key="[" line="13" column="83" />
+        <mark key="]" line="16" column="95" />
+        <mark key="." line="16" column="95" />
+        <mark key="^" line="16" column="95" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
@@ -850,58 +856,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6dHlwZSBhdWRpb19kaXJlY3Rvcnk6IDpjbGFzczpgc3RyYAo=</text>
       </register>
       <register name="-" type="4">
-        <text>basename</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxvYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvd25sb2FkX2ZpbGVfbWF5YmVfZXh0cmFjdCh1cmw9dXJsLCBkaXJlY3Rvcnk9ZGlyZWN0b3J5LCBjaGVja19maWxlcz1jaGVja19maWxlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6dHlwZSBhdWRpb19kaXJlY3Rvcnk6IDpjbGFzczpgc3RyYAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6dHlwZSBtZXRhZGF0YV9wYXRoOiA6Y2xhc3M6YHBhdGhsaWIuUGF0aGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2VuYW1lID0gb3MucGF0aC5iYXNlbmFtZSh3YXYpLnNwbGl0KCcuJylbMF0K</text>
+        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgZXh0cmFjdGVkX25hbWUsIGF1ZGlvX2RpcmVjdG9yeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhdl9maWxlbmFtZSArICcud2F2JykKICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gb3MucGF0aC5hYnNwYXRoKHdhdl9maWxlbmFtZSkKICAgICAgICAgICAgd2F2X2ZpbGVuYW1lID0gcHJvY2Vzc19hdWRpbygKICAgICAgICAgICAgICAgIHdhdl9maWxlbmFtZSwKICAgICAgICAgICAgICAgIHJlc2FtcGxlPXJlc2FtcGxlLAogICAgICAgICAgICAgICAgbm9ybT1ub3JtLAogICAgICAgICAgICAgICAgZ3VhcmQ9Z3VhcmQsCiAgICAgICAgICAgICAgICBsb3dlcl9oZXJ0ej1sb3dlcl9oZXJ0eiwKICAgICAgICAgICAgICAgIHVwcGVyX2hlcnR6PXVwcGVyX2hlcnR6LAogICAgICAgICAgICAgICAgbG91ZG5lc3M9bG91ZG5lc3Mp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDp0eXBlIGF1ZGlvX2RpcmVjdG9yeTogOmNsYXNzOmBzdHJgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGV4dHJhY3RlZF9uYW1lPSdlbl9VUycsCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlzdChtZXRhZGF0YV9wYXRoc1swXS5vcGVuKCkpCg==</text>
+        <text encoding="base64">ZnJvbSBzcmMuZGF0YXNldHMubV9haWxhYnMgaW1wb3J0IGxvZ2dlcgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bWV0YWRhdGFfcGF0aHMgPSBsaXN0KHJvb3RfcGF0aC5nbG9iKCcqKi9tZXRhZGF0YS5jc3YnKSkKbGlzdChtZXRhZGF0YV9wYXRoc1swXS5vcGVuKCkpCmFjdHVhbF9ib29rcyA9IFtwYXRoMmJvb2socGF0aCkgZm9yIHBhdGggaW4gbWV0YWRhdGFfcGF0aHNdCmFzc2VydCBzb3J0ZWQoYWN0dWFsX2Jvb2tzLCBrZXk9bGFtYmRhIHg6IHguYm9va190aXRsZSkgPT0gc29ydGVkKF9hbGxib29rcywga2V5PWxhbWJkYSB4OiB4LmJvb2tfdGl0bGUpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRvdGFsX3Jvd3M9MTMxMDAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJlc2FtcGxlPTI0MDAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxvYmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxvYmplY3RcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MASKS_FN</entry>
         <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
@@ -921,6 +926,7 @@
         <entry>batch</entry>
         <entry>batch_size</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxvYmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
