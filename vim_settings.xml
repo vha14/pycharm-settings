@@ -132,12 +132,12 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535060563462">
-        <mark key="'" line="156" column="35" />
-        <mark key="[" line="75" column="101" />
-        <mark key="]" line="75" column="113" />
-        <mark key="^" line="75" column="113" />
-        <mark key="." line="75" column="113" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535064038031">
+        <mark key="'" line="160" column="28" />
+        <mark key="[" line="166" column="35" />
+        <mark key="]" line="166" column="45" />
+        <mark key="^" line="166" column="45" />
+        <mark key="." line="166" column="45" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -220,9 +220,6 @@
         <mark key="]" line="272" column="0" />
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1535058948058">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -759,9 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/work/fastai/environment.yml" />
-      <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="31" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
@@ -859,61 +853,98 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
       <jump line="156" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
       <jump line="115" column="25" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="117" column="16" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="159" column="28" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># noqa: F401</text>
+        <text>FEMALE</text>
       </register>
       <register name="-" type="4">
-        <text>read_mailabs_data(picker))</text>
+        <text>FEMALE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYmplY3RcPg==</text>
+        <text>Gender</text>
       </register>
-      <register name="0" type="4">
-        <text># noqa: F401</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1ldGFkYXRhX3BhdGhzID0gbGlzdChyb290X3BhdGguZ2xvYignKiovbWV0YWRhdGEuY3N2JykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vY2tfb3NfaXNmaWxlLnNpZGVfZWZmZWN0ID0gRXZlcnlPdGhlcigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9vdF9wYXRoID0gZG93bmxvYWRfZGlyZWN0b3J5IC8gJ2VuX1VTL2J5X2Jvb2snCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vY2tfb3Nfc3lzdGVtLnJldHVybl92YWx1ZSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIG1ldGFkYXRhX3BhdGhzID0gbGlzdChyb290X3BhdGguZ2xvYignKiovbWV0YWRhdGEuY3N2JykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QG1vY2sucGF0Y2goInNyYy5kYXRhc2V0cy5sal9zcGVlY2gub3MucGF0aC5pc2ZpbGUiKQpAbW9jay5wYXRjaCgic3JjLmRhdGFzZXRzLmxqX3NwZWVjaC5vcy5zeXN0ZW0iKQo=</text>
+        <text encoding="base64">ICAgIG1ldGFkYXRhX3BhdGhzWzBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvCmltcG9ydCBvcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBsaXN0KAo=</text>
+      <register name="7" type="4">
+        <text>@configurable
+def mailabs_speech_dataset(directory=download_directory,
+                           url='http://www.m-ailabs.bayern/?ddownload=411',
+                           check_files=['by_book/info.txt'],
+                           picker=None,
+                           resample=24000,
+                           norm=True,
+                           guard=True,
+                           lower_hertz=125,
+                           upper_hertz=7600,
+                           loudness=False,
+                           random_seed=123,
+                           splits=(.8, .2)):
+
+    download_file_maybe_extract(url=url, directory=directory, check_files=check_files)
+    metadata_paths = list(root_path.glob('**/metadata.csv'))
+    actual_books = [_path2book(path) for path in metadata_paths]
+    assert sorted(
+        actual_books, key=lambda x: x.book_title) == sorted(
+            _allbooks, key=lambda x: x.book_title)
+
+    examples = []
+    for text, wav_filename in tqdm(list(_read_mailabs_data(picker))):
+        processed_wav_filename = process_audio(
+            str(wav_filename),
+            resample=resample,
+            norm=norm,
+            guard=guard,
+            lower_hertz=lower_hertz,
+            upper_hertz=upper_hertz,
+            loudness=loudness)
+        examples.append({'text': text, 'wav_filename': processed_wav_filename})
+
+    splits = split_dataset(
+        examples, splits=splits, deterministic_shuffle=True, random_seed=random_seed)
+    return tuple(Dataset(split) for split in splits)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHZlcmJhbGl6ZT1UcnVlLAo=</text>
+        <text encoding="base64">ICAgIG1vY2tfb3NfaXNmaWxlLnNpZGVfZWZmZWN0ID0gRXZlcnlPdGhlcigpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIHJlYWRfc3BlZWNoX2RhdGEobWV0YWRhdGFfcGF0aCwgYXVkaW9fZGlyZWN0b3J5PSd3YXZzJywgdGV4dF9jb2x1bW49MSwgY2hlY2tfd2F2ZmlsZXM9VHJ1ZSk6CiAgICAiIiIKICAgIEdpdmVuIHRoZSBwYXRoIHRvIGEgbWV0YWRhdGEuY3N2IGZpbGUsIHlpZWxkIHBhaXJzIG9mICh0ZXh0LCB3YXZfZmlsZW5hbWUpLgoKICAgIEFyZ3M6CiAgICAgICAgbWV0YWRhdGFfcGF0aDogcGF0aGxpYi5QYXRoIGlzIHRoZSBsb2NhdGlvbiBvZiB0aGUgbWV0YWRhdGEuY3N2IGZpbGUuCiAgICAgICAgYXVkaW9fZGlyZWN0b3J5OiBzdHIgaXMgdGhlIG5hbWUgb2YgdGhlIGRpcmVjdG9yeSBjb250YWluaW5nIHRoZSB3YXYgZmlsZXMuCiAgICAgICAgdGV4dF9jb2x1bW46IDAtaW5kZXhlZCBjb2x1bW4gdG8gZXh0cmFjdCB0ZXh0IGZyb20uCiAgICAgICAgY2hlY2tfd2F2ZmlsZXM6IElmIEZhbHNlLCBza2lwIHRoZSBjaGVjayBmb3IgZXhpc3RlbmNlIG9mIHdhdiBmaWxlcy4KCiAgICBSZXR1cm5zOgogICAgICAgIEEgZ2VuZXJhdG9yIHlpZWxkaW5nIHBhaXJzIG9mICh0ZXh0LCB3YXZfZmlsZW5hbWUpLCB3aGVyZSB3YXZfZmlsZW5hbWUgaXMgYSBQYXRoIG9iamVjdC4KICAgICIiIgogICAgbGluZXMgPSBsaXN0KG1ldGFkYXRhX3BhdGgub3BlbigpKQogICAgbWlzc2luZyA9IDAKICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgIGNvbHVtbnMgPSBsaW5lLnNwbGl0KCd8JykKICAgICAgICB3YXZfZmlsZW5hbWUgPSBtZXRhZGF0YV9wYXRoLnBhcmVudCAvIGF1ZGlvX2RpcmVjdG9yeSAvIChjb2x1bW5zWzBdICsgJy53YXYnKQogICAgICAgIGlmIHdhdl9maWxlbmFtZS5leGlzdHMoKSBvciBub3QgY2hlY2tfd2F2ZmlsZXM6CiAgICAgICAgICAgIHlpZWxkIGNvbHVtbnNbdGV4dF9jb2x1bW5dLCB3YXZfZmlsZW5hbWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnZXIud2FybmluZygiXG57fSBpcyBtaXNzaW5nIi5mb3JtYXQod2F2X2ZpbGVuYW1lKSkKICAgICAgICAgICAgbWlzc2luZyArPSAxCgogICAgaWYgbWlzc2luZyA+IDA6CiAgICAgICAgbG9nZ2VyLndhcm5pbmcoInt9IG1pc3Npbmcgd2F2IGZpbGVzIi5mb3JtYXQobWlzc2luZykp</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYmplY3RcPg==</last-search>
+      <last-search>Gender</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYmplY3RcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Gender</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>META_FN</entry>
         <entry>Image</entry>
         <entry>aug_dl</entry>
         <entry>version</entry>
@@ -933,6 +964,7 @@
         <entry>batch_size</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
+        <entry>Gender</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
