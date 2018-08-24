@@ -163,7 +163,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1535085765040">
+      <file name="/Python Console" timestamp="1535121554445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -232,7 +232,7 @@
         <mark key="^" line="79" column="19" />
         <mark key="." line="79" column="19" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535089036826">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535121967794">
         <mark key="'" line="120" column="25" />
         <mark key="[" line="102" column="33" />
         <mark key="]" line="102" column="33" />
@@ -261,6 +261,9 @@
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" timestamp="1535121588531">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -556,7 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="68" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
@@ -656,6 +658,7 @@
       <jump line="84" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
       <jump line="68" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
       <jump line="0" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
