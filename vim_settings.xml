@@ -172,11 +172,11 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535134514522">
-        <mark key="[" line="102" column="74" />
-        <mark key="]" line="103" column="42" />
-        <mark key="." line="103" column="42" />
-        <mark key="^" line="103" column="42" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535136218318">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="104" column="28" />
       </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
@@ -196,6 +196,9 @@
         <mark key="]" line="272" column="0" />
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1535136273193">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -837,11 +840,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, total=len(data))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, total=len(data))</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
@@ -850,31 +853,31 @@
         <text encoding="base64">ICAgIGZvciBib29rIGluIGFjdHVhbF9ib29rczoKICAgICAgICBpZiBib29rLm5hbWUgPT0gYXV0aG9yOgogICAgICAgICAgICBmb3IgeCwgeSBpbiBib29rMnNwZWVjaF9kYXRhKGJvb2spOgogICAgICAgICAgICAgICAgeWllbGQgeCwgeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBvcy5wYXRoLmlzZmlsZShkZXN0aW5hdGlvbiksIGYiZmlsZSB7ZGVzdGluYXRpb259IGRvZXMgbm90IGV4aXN0Igo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Zm9yIF8sIF8gaW4gZ2VuZGVyMnNwZWVjaF9kYXRhKEZFTUFMRSk6CiAgICBwYXNzCgoKZm9yIHBhdGggaW4gbWV0YWRhdGFfcGF0aHM6CiAgICBmb3IgdGV4dCwgZmlsZW5hbWUgaW4gcmVhZF9zcGVlY2hfZGF0YShwYXRoKToKICAgICAgICBwYXNzCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb2tzID0gW2Jvb2sgZm9yIGJvb2sgaW4gYWN0dWFsX2Jvb2tzIGlmIGJvb2submFtZSA9PSBhdXRob3JdCg==</text>
+        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdChtYXAoZXh0cmFjdF9mdW4sIGRhdGEpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIF8sIF8gaW4gYm9vazJzcGVlY2hfZGF0YShTS1lfSVNMQU5EKToK</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">YjEK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Zm9yIF8sIF8gaW4gZ2VuZGVyMnNwZWVjaF9kYXRhKEZFTUFMRSk6CiAgICBwYXNzCgoKZm9yIHBhdGggaW4gbWV0YWRhdGFfcGF0aHM6CiAgICBmb3IgdGV4dCwgZmlsZW5hbWUgaW4gcmVhZF9zcGVlY2hfZGF0YShwYXRoKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
