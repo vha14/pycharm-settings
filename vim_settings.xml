@@ -190,8 +190,8 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535137750182">
-        <mark key="'" line="157" column="37" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535143721974">
+        <mark key="'" line="41" column="4" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="58" />
         <mark key="." line="128" column="0" />
@@ -205,11 +205,12 @@
         <mark key="^" line="79" column="19" />
         <mark key="." line="79" column="19" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535142434113">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535143337976">
         <mark key="'" line="106" column="86" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+        <mark key="[" line="96" column="36" />
+        <mark key="]" line="96" column="37" />
+        <mark key="." line="96" column="37" />
+        <mark key="^" line="96" column="36" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -544,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="7" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="22" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
@@ -644,6 +644,7 @@
       <jump line="172" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
       <jump line="157" column="37" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
       <jump line="2" column="0" filename="$USER_HOME$/anaconda3/envs/WellSaid-Labs-Text-To-Speech/lib/python3.6/site-packages/torchnlp/download.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
