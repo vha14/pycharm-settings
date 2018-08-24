@@ -205,8 +205,11 @@
         <mark key="^" line="79" column="19" />
         <mark key="." line="79" column="19" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535137192455">
-        <mark key="'" line="104" column="86" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535141601616">
+        <mark key="'" line="107" column="86" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -437,7 +440,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534289999991">
+      <file name="/Dummy.txt" timestamp="1535141034289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -644,7 +647,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IGFsbChQYXRoKGV4YW1wbGVbJ3dhdl9maWxlbmFtZSddKS5leGlzdHMoKSBmb3IgZXhhbXBsZSBpbiBleGFtcGxlcykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -656,31 +659,31 @@
         <text encoding="base64">ICAgIGZvciBib29rIGluIGFjdHVhbF9ib29rczoKICAgICAgICBpZiBib29rLm5hbWUgPT0gYXV0aG9yOgogICAgICAgICAgICBmb3IgeCwgeSBpbiBib29rMnNwZWVjaF9kYXRhKGJvb2spOgogICAgICAgICAgICAgICAgeWllbGQgeCwgeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IGFsbChQYXRoKGV4YW1wbGVbJ3dhdl9maWxlbmFtZSddKS5leGlzdHMoKSBmb3IgZXhhbXBsZSBpbiBleGFtcGxlcykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IGFsbChQYXRoKGV4YW1wbGVbJ3dhdl9maWxlbmFtZSddKS5leGlzdHMoKSBmb3IgZXhhbXBsZSBpbiBleGFtcGxlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBvcy5wYXRoLmlzZmlsZShkZXN0aW5hdGlvbiksIGYiZmlsZSB7ZGVzdGluYXRpb259IGRvZXMgbm90IGV4aXN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBvcy5wYXRoLmlzZmlsZShkZXN0aW5hdGlvbiksIGYiZmlsZSB7ZGVzdGluYXRpb259IGRvZXMgbm90IGV4aXN0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdChtYXAoZXh0cmFjdF9mdW4sIGRhdGEpKQo=</text>
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdChtYXAoZXh0cmFjdF9mdW4sIGRhdGEpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
