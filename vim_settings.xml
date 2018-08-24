@@ -132,12 +132,13 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535064038031">
-        <mark key="'" line="160" column="28" />
-        <mark key="[" line="166" column="35" />
-        <mark key="]" line="166" column="45" />
-        <mark key="^" line="166" column="45" />
-        <mark key="." line="166" column="45" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535069374369">
+        <mark key="'" line="176" column="35" />
+        <mark key="i" line="21" column="18" />
+        <mark key="[" line="89" column="32" />
+        <mark key="]" line="89" column="90" />
+        <mark key="." line="89" column="90" />
+        <mark key="^" line="89" column="90" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -208,6 +209,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/site-packages/torchnlp/download.py" timestamp="1535068461873">
+        <mark key="'" line="130" column="4" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524200203702">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="35" />
@@ -220,6 +224,9 @@
         <mark key="]" line="272" column="0" />
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1535069397892">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
@@ -618,11 +625,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api/libs/response-lib.js" timestamp="1534132042864">
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-      </file>
       <file name="$USER_HOME$/work/hackathon-vernacular/ui/server.js" timestamp="1533970406844">
         <mark key="'" line="23" column="25" />
         <mark key="[" line="38" column="0" />
@@ -643,7 +645,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534302044131">
+      <file name="/Dummy.txt" timestamp="1535068357350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -756,14 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="38" column="28" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="31" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
-      <jump line="30" column="10" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
-      <jump line="32" column="17" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="78" column="12" filename="$USER_HOME$/work/fastai/courses/work/carvana.py" />
       <jump line="19" column="0" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="21" column="40" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
@@ -856,96 +850,68 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
       <jump line="117" column="16" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
       <jump line="159" column="28" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="7" column="18" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="132" column="33" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="134" column="33" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="142" column="43" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="13" column="80" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="176" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="130" column="4" filename="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/site-packages/torchnlp/download.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FEMALE</text>
+        <text>http://www.m-ailabs.bayern/?ddownload=411</text>
       </register>
       <register name="-" type="4">
-        <text>FEMALE</text>
+        <text>http://www.m-ailabs.bayern/?ddownload=411</text>
       </register>
       <register name="/" type="4">
-        <text>Gender</text>
+        <text>en_US</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1ldGFkYXRhX3BhdGhzID0gbGlzdChyb290X3BhdGguZ2xvYignKiovbWV0YWRhdGEuY3N2JykpCg==</text>
+        <text encoding="base64">ICAgICAgICBfcmVhZF9tYWlsYWJzX2RhdGEoU0tZX0lTTEFORCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">VGhlIGN1cnJlbnQgaW1wbGVtZW50YXRpb24gdXNlcyB0eXBlcyBmb3IgYm9va3MsIGdlbmRlcnMsIGF1dGhvcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm9vdF9wYXRoID0gZG93bmxvYWRfZGlyZWN0b3J5IC8gJ2VuX1VTL2J5X2Jvb2snCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1ldGFkYXRhX3BhdGhzID0gbGlzdChyb290X3BhdGguZ2xvYignKiovbWV0YWRhdGEuY3N2JykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYidGV4dDoge3h9LCBmaWxlOiB7eX0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ldGFkYXRhX3BhdGhzWzBdCg==</text>
+        <text encoding="base64">Zm9yIHgsIHkgaW4gX3JlYWRfbWFpbGFic19kYXRhKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVuKGxpc3QoX3JlYWRfbWFpbGFic19kYXRhKEF1dGhvci5KVURZX0JJRUJFUikpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>@configurable
-def mailabs_speech_dataset(directory=download_directory,
-                           url='http://www.m-ailabs.bayern/?ddownload=411',
-                           check_files=['by_book/info.txt'],
-                           picker=None,
-                           resample=24000,
-                           norm=True,
-                           guard=True,
-                           lower_hertz=125,
-                           upper_hertz=7600,
-                           loudness=False,
-                           random_seed=123,
-                           splits=(.8, .2)):
-
-    download_file_maybe_extract(url=url, directory=directory, check_files=check_files)
-    metadata_paths = list(root_path.glob('**/metadata.csv'))
-    actual_books = [_path2book(path) for path in metadata_paths]
-    assert sorted(
-        actual_books, key=lambda x: x.book_title) == sorted(
-            _allbooks, key=lambda x: x.book_title)
-
-    examples = []
-    for text, wav_filename in tqdm(list(_read_mailabs_data(picker))):
-        processed_wav_filename = process_audio(
-            str(wav_filename),
-            resample=resample,
-            norm=norm,
-            guard=guard,
-            lower_hertz=lower_hertz,
-            upper_hertz=upper_hertz,
-            loudness=loudness)
-        examples.append({'text': text, 'wav_filename': processed_wav_filename})
-
-    splits = split_dataset(
-        examples, splits=splits, deterministic_shuffle=True, random_seed=random_seed)
-    return tuple(Dataset(split) for split in splits)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBfcmVhZF9tYWlsYWJzX2RhdGEoU0tZX0lTTEFORCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vY2tfb3NfaXNmaWxlLnNpZGVfZWZmZWN0ID0gRXZlcnlPdGhlcigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9vdF9wYXRoID0gZG93bmxvYWRfZGlyZWN0b3J5IC8gJ2VuX1VTL2J5X2Jvb2snCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Gender</last-search>
+      <last-search>en_US</last-search>
       <last-offset />
-      <last-pattern>Gender</last-pattern>
+      <last-pattern>en_US</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Image</entry>
         <entry>aug_dl</entry>
         <entry>version</entry>
         <entry>tensor</entry>
@@ -965,6 +931,7 @@ def mailabs_speech_dataset(directory=download_directory,
         <entry>log</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
         <entry>Gender</entry>
+        <entry>en_US</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

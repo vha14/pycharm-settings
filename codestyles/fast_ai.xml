@@ -1,5 +1,7 @@
 <code_scheme name="fast.ai" version="173">
+  <option name="RIGHT_MARGIN" value="100" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <option name="SOFT_MARGINS" value="100" />
   <TypeScriptCodeStyleSettings>
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
