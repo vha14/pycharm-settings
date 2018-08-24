@@ -132,12 +132,12 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535072027275">
-        <mark key="'" line="177" column="35" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535074417941">
+        <mark key="'" line="175" column="35" />
         <mark key="i" line="21" column="18" />
-        <mark key="[" line="90" column="41" />
-        <mark key="]" line="90" column="46" />
-        <mark key="." line="90" column="46" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
         <mark key="^" line="90" column="46" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
@@ -225,7 +225,7 @@
         <mark key="^" line="273" column="2" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1535072113413">
+      <file name="/Python Console" timestamp="1535074577325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -861,7 +861,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -873,31 +873,31 @@
         <text encoding="base64">ICAgICAgICBfcmVhZF9tYWlsYWJzX2RhdGEoU0tZX0lTTEFORCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBkb3dubG9hZF9kaXJlY3RvcnkuZXhpc3RzKCk6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">VGhlIGN1cnJlbnQgaW1wbGVtZW50YXRpb24gdXNlcyB0eXBlcyBmb3IgYm9va3MsIGdlbmRlcnMsIGF1dGhvcnMK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYidGV4dDoge3h9LCBmaWxlOiB7eX0iKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRvd25sb2FkX2RpcmVjdG9yeS5ta2RpcihleGlzdF9vaz1UcnVlKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Zm9yIHgsIHkgaW4gX3JlYWRfbWFpbGFic19kYXRhKCk6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGVuKGxpc3QoX3JlYWRfbWFpbGFic19kYXRhKEF1dGhvci5KVURZX0JJRUJFUikpKQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBkb3dubG9hZF9kaXJlY3RvcnkuZXhpc3RzKCk6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VGhlIGN1cnJlbnQgaW1wbGVtZW50YXRpb24gdXNlcyB0eXBlcyBmb3IgYm9va3MsIGdlbmRlcnMsIGF1dGhvcnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYidGV4dDoge3h9LCBmaWxlOiB7eX0iKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Zm9yIHgsIHkgaW4gX3JlYWRfbWFpbGFic19kYXRhKCk6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfcmVhZF9tYWlsYWJzX2RhdGEoU0tZX0lTTEFORCkK</text>
+        <text encoding="base64">bGVuKGxpc3QoX3JlYWRfbWFpbGFic19kYXRhKEF1dGhvci5KVURZX0JJRUJFUikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
