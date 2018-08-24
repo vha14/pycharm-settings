@@ -132,13 +132,13 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535074417941">
-        <mark key="'" line="175" column="35" />
-        <mark key="i" line="21" column="18" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="90" column="46" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535076607942">
+        <mark key="'" line="196" column="35" />
+        <mark key="i" line="22" column="18" />
+        <mark key="[" line="102" column="62" />
+        <mark key="]" line="102" column="88" />
+        <mark key="." line="102" column="88" />
+        <mark key="^" line="102" column="88" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -209,7 +209,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/site-packages/torchnlp/download.py" timestamp="1535068461873">
+      <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/site-packages/torchnlp/download.py" timestamp="1535075714563">
         <mark key="'" line="130" column="4" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/package.json" timestamp="1524200203702">
@@ -300,11 +300,11 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535061102328">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="60" />
-        <mark key="^" line="0" column="60" />
-        <mark key="." line="0" column="60" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535076009618">
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="55" column="28" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -860,8 +860,8 @@
       <jump line="130" column="4" filename="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/site-packages/torchnlp/download.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -873,31 +873,31 @@
         <text encoding="base64">ICAgICAgICBfcmVhZF9tYWlsYWJzX2RhdGEoU0tZX0lTTEFORCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaGUgb3JpZ2luYWwgVVJMIGlzIGBodHRwOi8vd3d3Lm0tYWlsYWJzLmJheWVybi8/ZGRvd25sb2FkPTQxMWAuIFVzZSBjdXJsIC1JIDxVUkw+IHRvIGZpbmQgdGhlIHJlZGlyZWN0ZWQgVVJMLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkX2RpcmVjdG9yeS5ta2RpcihleGlzdF9vaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICMgVGhlIG9yaWdpbmFsIFVSTCBpcyBodHRwOi8vd3d3Lm0tYWlsYWJzLmJheWVybi8/ZGRvd25sb2FkPTQxMS4KICAgICMgVXNlIGN1cmwgKGN1cmwgLUkgPFVSTD4pIHRvIGZpbmQgdGhlIHJlZGlyZWN0ZWQgVVJMLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBleHRyYWN0ZWRfbmFtZSAoc3RyLCBvcHRpb25hbCk6IE5hbWUgb2YgdGhlIGV4dHJhY3RlZCBkYXRhc2V0IGRpcmVjdG9yeS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBkb3dubG9hZF9kaXJlY3RvcnkuZXhpc3RzKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJiYWxpemUgKGJvb2wsIG9wdGlvbmFsKTogVmVyYmFsaXplIHRoZSB0ZXh0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlIGN1cnJlbnQgaW1wbGVtZW50YXRpb24gdXNlcyB0eXBlcyBmb3IgYm9va3MsIGdlbmRlcnMsIGF1dGhvcnMK</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb19kaXJlY3RvcnkgKHN0ciwgb3B0aW9uYWwpOiBBdWRpbyBkaXJlY3RvcnkgY29ycmVzcG9uZGluZyB0byB0aGUgdGV4dCBmaWxlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X2ZpbGUgKHN0ciwgb3B0aW9uYWwpOiBUaGUgZmlsZSBjb250YWluaW5nIHRleHQgZmlsZXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYidGV4dDoge3h9LCBmaWxlOiB7eX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja19maWxlIChzdHIsIG9wdGlvbmFsKTogQ2hlY2sgdGhpcyBmaWxlIGV4aXN0cyBpZiB0aGUgZG93bmxvYWQgd2FzIHN1Y2Nlc3NmdWwuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIHgsIHkgaW4gX3JlYWRfbWFpbGFic19kYXRhKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9yb3dzIChpbnQsIG9wdGlvbmFsKTogSW50ZWdlciBudW1iZXIgb2Ygcm93cyB0byBiZSB1c2VkIHdpdGggdHFkbS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVuKGxpc3QoX3JlYWRfbWFpbGFic19kYXRhKEF1dGhvci5KVURZX0JJRUJFUikpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb19kaXJlY3RvcnkgKHN0ciwgb3B0aW9uYWwpOiBBdWRpbyBkaXJlY3RvcnkgY29ycmVzcG9uZGluZyB0byB0aGUgdGV4dCBmaWxlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
