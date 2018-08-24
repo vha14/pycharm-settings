@@ -172,6 +172,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="36" column="4" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535134514522">
+        <mark key="[" line="102" column="74" />
+        <mark key="]" line="103" column="42" />
+        <mark key="." line="103" column="42" />
+        <mark key="^" line="103" column="42" />
+      </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="42" />
@@ -831,11 +837,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, total=len(data))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, total=len(data))</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
