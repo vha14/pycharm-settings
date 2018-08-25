@@ -232,12 +232,12 @@
         <mark key="^" line="79" column="19" />
         <mark key="." line="79" column="19" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535121967794">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535173047973">
         <mark key="'" line="120" column="25" />
-        <mark key="[" line="102" column="33" />
-        <mark key="]" line="102" column="33" />
-        <mark key="^" line="101" column="32" />
-        <mark key="." line="102" column="33" />
+        <mark key="[" line="98" column="15" />
+        <mark key="]" line="98" column="18" />
+        <mark key="^" line="98" column="18" />
+        <mark key="." line="98" column="18" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -661,14 +661,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return_</text>
       </register>
       <register name="-" type="4">
-        <text>map(extract_fun, data)</text>
+        <text>return_</text>
       </register>
       <register name="/" type="4">
-        <text>system</text>
+        <text>isfile</text>
       </register>
       <register name="0" type="4">
         <text>multiprocessing.cpu_count()</text>
@@ -682,38 +682,37 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y2xhc3MgRXZlcnlPdGhlcihvYmplY3QpOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmluZGV4ID0gMAoKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBfX25leHRfXyhzZWxmKToKICAgICAgICByZXR1cm5fID0gc2VsZi5pbmRleCAlIDIgPT0gMQogICAgICAgIHNlbGYuaW5kZXggKz0gMQogICAgICAgIHJldHVybiByZXR1cm5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1haWxhYnNfc3BlZWNoX2RhdGFzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSZWd1bGFyIGV4cHJlc3Npb24gbWF0Y2hpbmcgd2hpdGVzcGFjZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haWxhYnNfc3BlZWNoX2RhdGFzZXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>system</last-search>
+      <last-search>isfile</last-search>
       <last-offset />
-      <last-pattern>system</last-pattern>
+      <last-pattern>isfile</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
         <entry>tensor</entry>
         <entry>zeros</entry>
         <entry>transform_side_on</entry>
@@ -733,6 +732,7 @@
         <entry>Gender</entry>
         <entry>en_US</entry>
         <entry>system</entry>
+        <entry>isfile</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
