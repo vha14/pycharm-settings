@@ -83,13 +83,13 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535088856411">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535241804154">
         <mark key="'" line="192" column="35" />
         <mark key="i" line="22" column="18" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="^" line="139" column="54" />
-        <mark key="." line="216" column="0" />
+        <mark key="[" line="220" column="31" />
+        <mark key="]" line="202" column="38" />
+        <mark key="^" line="202" column="38" />
+        <mark key="." line="202" column="38" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -134,13 +134,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535240373789">
-        <mark key="u" line="99" column="28" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535243071902">
+        <mark key="u" line="100" column="28" />
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="76" />
-        <mark key="^" line="105" column="15" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="100" column="39" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
@@ -163,7 +162,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1535236753229">
+      <file name="/Python Console" timestamp="1535243141360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -459,7 +458,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535239675148">
+      <file name="/Dummy.txt" timestamp="1535241726847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1533231786106">
@@ -661,7 +660,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdCh0cWRtKG1hcChleHRyYWN0X2Z1biwgZGF0YSksIG1pbikpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -673,31 +672,31 @@
         <text encoding="base64">ICAgICAgICBjaGVja193YXZmaWxlczogSWYgRmFsc2UsIHNraXAgdGhlIGNoZWNrIGZvciBleGlzdGVuY2Ugb2Ygd2F2IGZpbGVzLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdCh0cWRtKG1hcChleHRyYWN0X2Z1biwgZGF0YSksIG1pbikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IG9zLnBhdGguaXNmaWxlKGRlc3RpbmF0aW9uKSwgZiJmaWxlIHtkZXN0aW5hdGlvbn0gZG9lcyBub3QgZXhpc3QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IG9zLnBhdGguaXNmaWxlKGRlc3RpbmF0aW9uKSwgZiJmaWxlIHtkZXN0aW5hdGlvbn0gZG9lcyBub3QgZXhpc3QiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xhc3MgRXZlcnlPdGhlcihvYmplY3QpOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmluZGV4ID0gMAoKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBfX25leHRfXyhzZWxmKToKICAgICAgICByZXR1cm5fID0gc2VsZi5pbmRleCAlIDIgPT0gMQogICAgICAgIHNlbGYuaW5kZXggKz0gMQogICAgICAgIHJldHVybiByZXR1cm5fCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
