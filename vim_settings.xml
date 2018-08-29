@@ -83,13 +83,13 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535088856411">
-        <mark key="'" line="192" column="35" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" timestamp="1535577225784">
+        <mark key="'" line="25" column="0" />
         <mark key="i" line="22" column="18" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="^" line="139" column="54" />
-        <mark key="." line="216" column="0" />
+        <mark key="[" line="99" column="51" />
+        <mark key="]" line="99" column="24" />
+        <mark key="^" line="99" column="24" />
+        <mark key="." line="99" column="24" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -134,13 +134,13 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535089056595">
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" timestamp="1535577552427">
         <mark key="u" line="101" column="28" />
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="99" column="91" />
-        <mark key="]" line="99" column="5" />
-        <mark key="." line="99" column="5" />
-        <mark key="^" line="99" column="5" />
+        <mark key="[" line="86" column="80" />
+        <mark key="]" line="86" column="75" />
+        <mark key="." line="86" column="75" />
+        <mark key="^" line="86" column="75" />
       </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
@@ -217,11 +217,12 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535088975038">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="105" column="11" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535577006529">
+        <mark key="'" line="300" column="48" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="94" />
+        <mark key="^" line="299" column="60" />
+        <mark key="." line="299" column="60" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
@@ -231,13 +232,6 @@
         <mark key="]" line="79" column="19" />
         <mark key="^" line="79" column="19" />
         <mark key="." line="79" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" timestamp="1535089036826">
-        <mark key="'" line="120" column="25" />
-        <mark key="[" line="102" column="33" />
-        <mark key="]" line="102" column="33" />
-        <mark key="^" line="101" column="32" />
-        <mark key="." line="102" column="33" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -556,9 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
-      <jump line="68" column="11" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
-      <jump line="5" column="9" filename="$USER_HOME$/work/fastai/courses/work/helpers/data.py" />
       <jump line="338" column="32" filename="$USER_HOME$/work/fastai/fastai/dataset.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torch/__init__.py" />
       <jump line="95" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.6/site-packages/torchvision/models/resnet.py" />
@@ -656,19 +647,22 @@
       <jump line="84" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
       <jump line="68" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
       <jump line="0" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
+      <jump line="122" column="3" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
+      <jump line="300" column="48" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>7600</text>
       </register>
       <register name="-" type="4">
-        <text>map(extract_fun, data)</text>
+        <text>7600</text>
       </register>
       <register name="/" type="4">
         <text>system</text>
       </register>
-      <register name="0" type="4">
-        <text>multiprocessing.cpu_count()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJldHVybnM6CiAgICAgICAgOmNsYXNzOmB0b3JjaG5scC5kYXRhc2V0cy5EYXRhc2V0YDogRGF0YXNldCB3aXRoIGF1ZGlvIGZpbGVuYW1lcyBhbmQgdGV4dCBhbm5vdGF0aW9ucy4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -683,19 +677,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1haWxhYnNfc3BlZWNoX2RhdGFzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSZWd1bGFyIGV4cHJlc3Npb24gbWF0Y2hpbmcgd2hpdGVzcGFjZToK</text>
+        <text encoding="base64">ICAgIG1haWxhYnNfc3BlZWNoX2RhdGFzZXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBSZWd1bGFyIGV4cHJlc3Npb24gbWF0Y2hpbmcgd2hpdGVzcGFjZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
