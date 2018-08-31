@@ -224,6 +224,13 @@
         <mark key="^" line="119" column="91" />
         <mark key="." line="119" column="91" />
       </file>
+      <file name="$USER_HOME$/work/pytorch/CMakeLists.txt" timestamp="1535758330177">
+        <mark key="'" line="103" column="11" />
+        <mark key="[" line="104" column="32" />
+        <mark key="]" line="104" column="33" />
+        <mark key="." line="104" column="33" />
+        <mark key="^" line="104" column="33" />
+      </file>
       <file name="$USER_HOME$/work/fastai/fastai/dataset.py" timestamp="1532898470387">
         <mark key="'" line="338" column="32" />
       </file>
@@ -565,9 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="150" column="30" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="151" column="67" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="157" column="20" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="163" column="17" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="172" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -665,16 +669,19 @@
       <jump line="78" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="121" column="39" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="141" column="54" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
+      <jump line="91" column="18" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
+      <jump line="103" column="11" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdCh0cWRtKG1hcChleHRyYWN0X2Z1biwgZGF0YSksIG1pbikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>N</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
-        <text>OPENCV</text>
+        <text>OPEN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGVja193YXZmaWxlczogSWYgRmFsc2UsIHNraXAgdGhlIGNoZWNrIGZvciBleGlzdGVuY2Ugb2Ygd2F2IGZpbGVzLgo=</text>
@@ -711,15 +718,14 @@
       </register>
     </registers>
     <search>
-      <last-search>OPENCV</last-search>
+      <last-search>OPEN</last-search>
       <last-offset />
-      <last-pattern>OPENCV</last-pattern>
+      <last-pattern>OPEN</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>transforms_side</entry>
         <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
@@ -737,8 +743,9 @@
         <entry>system</entry>
         <entry>Ales</entry>
         <entry>9.</entry>
-        <entry>OPEN</entry>
         <entry>OPENCV</entry>
+        <entry>open</entry>
+        <entry>OPEN</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
