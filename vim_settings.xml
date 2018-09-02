@@ -140,6 +140,7 @@
         <mark key="[" line="100" column="39" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
+        <mark key="^" line="86" column="75" />
       </file>
       <file name="$USER_HOME$/work/react-appsync-graphql-recipe-app/src/appsync.js" timestamp="1529557240519">
         <mark key="[" line="4" column="13" />
@@ -217,6 +218,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535240371290">
+        <mark key="'" line="300" column="48" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="76" />
         <mark key="^" line="119" column="91" />
@@ -337,6 +339,9 @@
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
       </file>
+      <file name="$USER_HOME$/work/ai2website/app/html/incubator.html" timestamp="1535749478762">
+        <mark key="'" line="240" column="12" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -382,7 +387,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai_v1/fastai/core.py" timestamp="1535304282518" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -561,15 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="15" filename="$USER_HOME$/work/fastai/fastai/models/resnet.py" />
-      <jump line="19" column="56" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="118" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="119" column="43" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="136" column="16" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="137" column="65" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="139" column="35" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="141" column="31" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="144" column="47" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="148" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="150" column="30" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="151" column="67" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -661,6 +656,15 @@
       <jump line="108" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
       <jump line="303" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="246" column="55" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="699" column="75" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="76" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="77" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="78" column="6" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="121" column="39" filename="$USER_HOME$/work/pytorch/setup.py" />
+      <jump line="141" column="54" filename="$USER_HOME$/work/pytorch/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -670,7 +674,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lambda</text>
+        <text>OPENCV</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGVja193YXZmaWxlczogSWYgRmFsc2UsIHNraXAgdGhlIGNoZWNrIGZvciBleGlzdGVuY2Ugb2Ygd2F2IGZpbGVzLgo=</text>
@@ -707,15 +711,14 @@
       </register>
     </registers>
     <search>
-      <last-search>lambda</last-search>
+      <last-search>OPENCV</last-search>
       <last-offset />
-      <last-pattern>lambda</last-pattern>
+      <last-pattern>OPENCV</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>transform_side_on</entry>
         <entry>transforms_side</entry>
         <entry>precomp</entry>
         <entry>resnet</entry>
@@ -732,9 +735,10 @@
         <entry>Gender</entry>
         <entry>en_US</entry>
         <entry>system</entry>
-        <entry>isfile</entry>
-        <entry encoding="base64">XDx5aWVsZFw+</entry>
-        <entry>lambda</entry>
+        <entry>Ales</entry>
+        <entry>9.</entry>
+        <entry>OPEN</entry>
+        <entry>OPENCV</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
