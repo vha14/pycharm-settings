@@ -275,11 +275,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536172832125">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536177231373">
+        <mark key="'" line="8" column="29" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" timestamp="1535121588531">
         <mark key="'" line="0" column="0" />
@@ -290,7 +291,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1536172834749">
+      <file name="/fragment.js" timestamp="1536176286690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
@@ -316,6 +317,9 @@
         <mark key="]" line="7" column="102" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
+      </file>
+      <file name="bootstrap_node.js" timestamp="1536176342456">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" timestamp="1533241072160">
         <mark key="'" line="349" column="17" />
@@ -360,6 +364,11 @@
       </file>
       <file name="$USER_HOME$/work/ai2website/app/html/incubator.html" timestamp="1535749478762">
         <mark key="'" line="240" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/imo/package.json" timestamp="1536176424215">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
@@ -477,7 +486,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1536172694013">
+      <file name="/JavaScript Console" timestamp="1536177292375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -584,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="20" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="163" column="17" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="172" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="175" column="74" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -684,46 +692,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
       <jump line="91" column="18" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
       <jump line="103" column="11" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
+      <jump line="8" column="29" filename="$USER_HOME$/work/imo/scrape.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>year</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMSIpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4YW1wbGVzID0gbGlzdCh0cWRtKG1hcChleHRyYWN0X2Z1biwgZGF0YSksIG1pbikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgeCA9IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IG9zLnBhdGguaXNmaWxlKGRlc3RpbmF0aW9uKSwgZiJmaWxlIHtkZXN0aW5hdGlvbn0gZG9lcyBub3QgZXhpc3QiCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
