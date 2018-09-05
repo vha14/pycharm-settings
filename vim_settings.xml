@@ -275,12 +275,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536177231373">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="30" />
+      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536179100478">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="28" column="33" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" timestamp="1535121588531">
         <mark key="'" line="0" column="0" />
@@ -291,7 +290,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1536176286690">
+      <file name="/fragment.js" timestamp="1536177875032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
@@ -696,43 +695,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>year</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMiIpCg==</text>
+        <text encoding="base64">Ly8gJChjb250ZXN0Um9vdCkuZmluZCgnLmNtdHktY2F0LWNlbGwtdG9wLWxlZ2l0JykuZWFjaChmdW5jdGlvbiAoaSwgZWxlbSkgewovLyAgIGNvbnN0IHRpdGxlID0gJChlbGVtKS5hdHRyKCd0aXRsZScpOwovLyAgIHJldHVybiBleHRyYWN0WWVhcih0aXRsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICByZXR1cm4gZXh0cmFjdFllYXIodGl0bGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICBjb25zdCB0aXRsZSA9ICQoZWxlbSkuYXR0cigndGl0bGUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMiIpCg==</text>
+        <text encoding="base64">Ly8gJChjb250ZXN0Um9vdCkuZmluZCgnLmNtdHktY2F0LWNlbGwtdG9wLWxlZ2l0JykuZWFjaChmdW5jdGlvbiAoaSwgZWxlbSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeCA9IDE7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0aXRsZSA9ICQoZWxlbSkuYXR0cigndGl0bGUnKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMiIpCg==</text>
+        <text encoding="base64">Y29uc3QgY29udGVzdFJvb3QgPSAkKCcuY210eS1jYXRlZ29yeS1jZWxsLWZvbGRlcicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIm1lc3NhZ2UgMSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMiCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coeWVhcnMuc2xpY2UoMCwgMTApKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
