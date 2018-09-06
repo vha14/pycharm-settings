@@ -275,12 +275,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536190486948">
+      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536191538665">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="51" column="79" />
-        <mark key="]" line="51" column="79" />
-        <mark key="^" line="51" column="78" />
-        <mark key="." line="51" column="79" />
+        <mark key="[" line="50" column="70" />
+        <mark key="]" line="50" column="73" />
+        <mark key="^" line="50" column="73" />
+        <mark key="." line="50" column="73" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" timestamp="1535121588531">
         <mark key="'" line="0" column="0" />
@@ -291,7 +291,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1536190529436">
+      <file name="/fragment.js" timestamp="1536191433719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
@@ -486,7 +486,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1536189533867">
+      <file name="/JavaScript Console" timestamp="1536191547909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -696,10 +696,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
