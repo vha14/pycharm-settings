@@ -275,12 +275,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536191538665">
+      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536192922330">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="50" column="70" />
-        <mark key="]" line="50" column="73" />
-        <mark key="^" line="50" column="73" />
-        <mark key="." line="50" column="73" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" timestamp="1535121588531">
         <mark key="'" line="0" column="0" />
@@ -291,7 +291,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1536191433719">
+      <file name="/fragment.js" timestamp="1536192722658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
@@ -486,7 +486,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1536191547909">
+      <file name="/JavaScript Console" timestamp="1536192461686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -695,11 +695,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coIkRvbmUiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
@@ -708,31 +708,31 @@
         <text>$(ps).find('.cmty-view-post-topic-link').attr('href')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGluayA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC10b3BpYy1saW5rJykuYXR0cignaHJlZicpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIkRvbmUiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGV4dCA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC1pdGVtLXRleHQnKS50ZXh0KCk7Cg==</text>
+        <text encoding="base64">bGV0IGZvbyA9IGNoZWVyaW8ubG9hZChjKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGV0IGMgPSBjb250ZXN0c1swXS5wcm9ibGVtc1swXS50ZXh0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgaXNTb2x1dGlvbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbGluayA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC10b3BpYy1saW5rJykuYXR0cignaHJlZicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc29sdXRpb25saW5rID0gJChwcykuZmluZCgnLmNtdHktcG9zdC1pdGVtLWhpZGRlbi1jb250ZW50JykudGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdGV4dCA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC1pdGVtLXRleHQnKS50ZXh0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbkxpbms6ICJmb28iCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbjogImZvbyIsCg==</text>
+        <text encoding="base64">ICBsZXQgaXNTb2x1dGlvbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbnVtIC09IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc29sdXRpb25saW5rID0gJChwcykuZmluZCgnLmNtdHktcG9zdC1pdGVtLWhpZGRlbi1jb250ZW50JykudGV4dCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbkxpbms6ICJmb28iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
