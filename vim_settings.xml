@@ -291,7 +291,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1536192722658">
+      <file name="/fragment.js" timestamp="1536243919780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
@@ -305,6 +305,12 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/gitlab/mso-scrape/src/scrape.ts" timestamp="1536243911336">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/work/sonosite/io.py" timestamp="1532192283419">
         <mark key="[" line="11" column="4" />
@@ -486,7 +492,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1536192461686">
+      <file name="/JavaScript Console" timestamp="1536243904600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -695,11 +701,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIkRvbmUiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>-both</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>-both</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
@@ -747,6 +753,7 @@
     </search>
     <history>
       <history-search>
+        <entry>transforms_side</entry>
         <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
@@ -764,9 +771,8 @@
         <entry>system</entry>
         <entry>Ales</entry>
         <entry>9.</entry>
-        <entry>OPENCV</entry>
-        <entry>open</entry>
         <entry>OPEN</entry>
+        <entry>OPENCV</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
