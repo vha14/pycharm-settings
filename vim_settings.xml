@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1533230801754">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso-scrape/jest.config.js" timestamp="1536298181168">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+      </file>
       <file name="/a.dummy" timestamp="1534937246978">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,10 +205,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso-scrape/package.json" timestamp="1536246485663">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+      <file name="$USER_HOME$/gitlab/mso-scrape/package.json" timestamp="1536298229418">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -709,43 +715,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>npm run compile</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>npm run compile</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
       </register>
-      <register name="0" type="4">
-        <text>$(ps).find('.cmty-view-post-topic-link').attr('href')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJwcmV0ZXN0IjogIm5wbSBydW4gY29tcGlsZSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIkRvbmUiKQo=</text>
+        <text encoding="base64">ICAgICJqc3giLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGZvbyA9IGNoZWVyaW8ubG9hZChjKTsK</text>
+        <text encoding="base64">ICAgICJ0c3giLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGMgPSBjb250ZXN0c1swXS5wcm9ibGVtc1swXS50ZXh0Owo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIkRvbmUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGluayA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC10b3BpYy1saW5rJykuYXR0cignaHJlZicpOwo=</text>
+        <text encoding="base64">bGV0IGZvbyA9IGNoZWVyaW8ubG9hZChjKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGV4dCA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC1pdGVtLXRleHQnKS50ZXh0KCk7Cg==</text>
+        <text encoding="base64">bGV0IGMgPSBjb250ZXN0c1swXS5wcm9ibGVtc1swXS50ZXh0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbGluayA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC10b3BpYy1saW5rJykuYXR0cignaHJlZicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgaXNTb2x1dGlvbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdGV4dCA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC1pdGVtLXRleHQnKS50ZXh0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc29sdXRpb25saW5rID0gJChwcykuZmluZCgnLmNtdHktcG9zdC1pdGVtLWhpZGRlbi1jb250ZW50JykudGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbkxpbms6ICJmb28iCg==</text>
+        <text encoding="base64">ICBsZXQgaXNTb2x1dGlvbiA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
