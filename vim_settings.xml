@@ -6,10 +6,10 @@
       <file name="/start_script.py" timestamp="1533230801754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso-scrape/jest.config.js" timestamp="1536298181168">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
+      <file name="$USER_HOME$/gitlab/mso-scrape/jest.config.js" timestamp="1536301363232">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
         <mark key="^" line="14" column="1" />
       </file>
       <file name="/a.dummy" timestamp="1534937246978">
@@ -154,6 +154,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso-scrape/src/__tests__/scrape_test.ts" timestamp="1536301383947">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/foo.py" timestamp="1534300478498">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -205,10 +211,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso-scrape/package.json" timestamp="1536298229418">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
+      <file name="$USER_HOME$/gitlab/mso-scrape/package.json" timestamp="1536301238701">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -295,6 +301,12 @@
         <mark key="^" line="65" column="16" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso-scrape/tests/scrape.test.ts" timestamp="1536299188981">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" timestamp="1535121588531">
         <mark key="'" line="0" column="0" />
       </file>
@@ -319,11 +331,10 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso-scrape/src/scrape.ts" timestamp="1536262373628">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="11" column="20" />
+      <file name="$USER_HOME$/gitlab/mso-scrape/src/scrape.ts" timestamp="1536300660968">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/io.py" timestamp="1532192283419">
         <mark key="[" line="11" column="4" />
@@ -577,6 +588,12 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso-scrape/src/__tests__/scrape.test.ts" timestamp="1536300000153">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/scripts/setup.sh" timestamp="1525227777558">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -715,10 +732,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>npm run compile</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>npm run compile</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
@@ -727,31 +744,31 @@
         <text encoding="base64">ICAgICJwcmV0ZXN0IjogIm5wbSBydW4gY29tcGlsZSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJqc3giLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0c3giLAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIkRvbmUiKQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGZvbyA9IGNoZWVyaW8ubG9hZChjKTsK</text>
+        <text encoding="base64">ICBjb250ZXN0czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGMgPSBjb250ZXN0c1swXS5wcm9ibGVtc1swXS50ZXh0Owo=</text>
+        <text encoding="base64">bW9kdWxlIGV4cG9ydCB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGluayA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC10b3BpYy1saW5rJykuYXR0cignaHJlZicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGV4dCA9ICQocHMpLmZpbmQoJy5jbXR5LXZpZXctcG9zdC1pdGVtLXRleHQnKS50ZXh0KCk7Cg==</text>
+        <text encoding="base64">YXNzZXJ0KGV4dHJhY3RZZWFyKCdJTU8gMTk4NicpID09PSAxOTg2KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJqc3giLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgaXNTb2x1dGlvbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICJ0c3giLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
