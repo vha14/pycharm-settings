@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Insert code cell marker">
-      <typing text-keycode="73:0;51:1;53:1;53:1">i#%%</typing>
-      <shortuct text="ESCAPE" />
-    </macro>
-  </component>
-</application>
