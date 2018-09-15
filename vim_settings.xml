@@ -108,6 +108,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" timestamp="1537048854464">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/test_dataset.py" timestamp="1532498011763">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="39" />
@@ -241,11 +247,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537048060511">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537048567895">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="88" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -683,11 +689,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2UgfSBmcm9tICJhd3Mtc2RrIjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>OPEN</text>
@@ -696,31 +702,31 @@
         <text encoding="base64">ICAgLSB5YXJuIHJ1biBjaGVjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2UgfSBmcm9tICJhd3Mtc2RrIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gZHluYW1vRGI7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShldmVudC5ib2R5IGFzIHN0cmluZyk7CiAgY29uc3QgcGFyYW1zID0gewogICAgVGFibGVOYW1lOiBwcm9jZXNzLmVudi5EWU5BTU9EQl9VU0VSX1RBQkxFLAogICAgSXRlbTogewogICAgICB1c2VySWQ6IGV2ZW50LnJlcXVlc3RDb250ZXh0LmlkZW50aXR5LmNvZ25pdG9JZGVudGl0eUlkLAogICAgICBub3RlSWQ6IHV1aWQudjEoKSwKICAgICAgY29udGVudDogZGF0YS5jb250ZW50LAogICAgICBhdHRhY2htZW50OiBkYXRhLmF0dGFjaG1lbnQsCiAgICAgIGNyZWF0ZWRBdDogRGF0ZS5ub3coKQogICAgfQogIH0gYXMgUHV0SXRlbUlucHV0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb250ZXN0czsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlIGV4cG9ydCB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXR1cm4gZHluYW1vRGI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXNzZXJ0KGV4dHJhY3RZZWFyKCdJTU8gMTk4NicpID09PSAxOTg2KTsK</text>
+        <text encoding="base64">ICBjb250ZXN0czsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -805,6 +811,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
