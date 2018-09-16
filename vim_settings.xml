@@ -15,6 +15,9 @@
       <file name="/a.dummy" timestamp="1534937246978">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
+        <mark key="'" line="182" column="43" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -82,6 +85,9 @@
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" timestamp="1537121262103">
+        <mark key="'" line="55" column="232" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/helpers/preprocess.py" timestamp="1532892656382">
         <mark key="[" line="14" column="57" />
@@ -640,17 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="189" column="6" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="230" column="71" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="231" column="1" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="297" column="33" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="298" column="28" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="299" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="344" column="374" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="349" column="17" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
@@ -740,6 +735,17 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
       <jump line="51" column="27" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="5" column="22" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="170" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="197" column="59" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="234" column="45" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="272" column="36" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="31" column="28" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="49" column="28" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="51" column="208" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="55" column="232" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" />
+      <jump line="152" column="16" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" />
+      <jump line="182" column="43" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -749,7 +755,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>IS_OF</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIHRzbGludDpkaXNhYmxlOm5vLXVudXNlZC12YXJpYWJsZQo=</text>
@@ -786,17 +792,14 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>IS_OF</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>IS_OF</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resnet</entry>
-        <entry>Res</entry>
-        <entry>run_backward</entry>
         <entry>translated</entry>
         <entry>origin</entry>
         <entry>req</entry>
@@ -814,6 +817,9 @@
         <entry>OPENCV</entry>
         <entry>package</entry>
         <entry>build</entry>
+        <entry>custom</entry>
+        <entry>inM</entry>
+        <entry>IS_OF</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
