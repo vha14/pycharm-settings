@@ -108,9 +108,9 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" timestamp="1537051332662">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" timestamp="1537079137996">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="13" />
         <mark key="^" line="10" column="53" />
         <mark key="." line="10" column="47" />
       </file>
@@ -247,11 +247,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537050783372">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-        <mark key="^" line="9" column="38" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537079319081">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -301,11 +301,10 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/update.ts" timestamp="1537051104906">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/update.ts" timestamp="1537079265558">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
       </file>
       <file name="/fragment.js" timestamp="1536261856581">
         <mark key="[" line="0" column="0" />
@@ -333,11 +332,11 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/delete.ts" timestamp="1537050824672">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="36" />
-        <mark key="^" line="15" column="36" />
-        <mark key="." line="15" column="36" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/delete.ts" timestamp="1537079334333">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/steps/init.ts" timestamp="1531632844684">
         <mark key="[" line="8" column="24" />
@@ -359,11 +358,11 @@
         <mark key="]" line="22" column="25" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/list.ts" timestamp="1537051010681">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="7" column="2" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/list.ts" timestamp="1537078544065">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
@@ -524,11 +523,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/get.ts" timestamp="1537050927771">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/get.ts" timestamp="1537078426258">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537077386016">
         <mark key="'" line="5" column="22" />
@@ -744,43 +743,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjbGVhbiI6ICJndHMgY2xlYW4iLAo=</text>
+        <text encoding="base64">ICAgIC8vIHRzbGludDpkaXNhYmxlOm5vLXVudXNlZC12YXJpYWJsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>notes</text>
+        <text>// @ts-ignore</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJjb21waWxlIjogInRzYyAtcCAuIiwK</text>
+        <text encoding="base64">ICAgIC8vIHRzbGludDpkaXNhYmxlOm5vLXVudXNlZC12YXJpYWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJjbGVhbiI6ICJndHMgY2xlYW4iLAo=</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9yY2VFeGNsdWRlOiBhd3Mtc2RrCg==</text>
+        <text encoding="base64">ICAgICJjbGVhbiI6ICJndHMgY2xlYW4iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUudHMK</text>
+        <text encoding="base64">ICAgICAgZm9yY2VFeGNsdWRlOiBhd3Mtc2RrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUuanMK</text>
+        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUudHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZToK</text>
+        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUuanMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6Cg==</text>
+        <text encoding="base64">ICAgICAgZXhjbHVkZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGNsdWRlRGV2RGVwZW5kZW5jaWVzOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gc3JjLyouKgo=</text>
+        <text encoding="base64">ICBleGNsdWRlRGV2RGVwZW5kZW5jaWVzOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
