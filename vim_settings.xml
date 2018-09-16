@@ -215,6 +215,20 @@
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" timestamp="1535240371290">
+        <mark key="'" line="300" column="48" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="76" />
+        <mark key="^" line="119" column="91" />
+        <mark key="." line="119" column="91" />
+      </file>
+      <file name="$USER_HOME$/work/pytorch/CMakeLists.txt" timestamp="1535758330177">
+        <mark key="'" line="103" column="11" />
+        <mark key="[" line="104" column="32" />
+        <mark key="]" line="104" column="33" />
+        <mark key="." line="104" column="33" />
+        <mark key="^" line="104" column="33" />
+      </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
         <mark key="]" line="79" column="19" />
@@ -267,6 +281,13 @@
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/imo/scrape.ts" timestamp="1536192922330">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso-scrape/tests/scrape.test.ts" timestamp="1536299188981">
         <mark key="[" line="4" column="0" />
@@ -326,6 +347,17 @@
       </file>
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537055394176">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537055214533">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/src/list.ts" timestamp="1537051010681">
         <mark key="[" line="19" column="0" />
@@ -394,6 +426,13 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" timestamp="1535908108187">
+        <mark key="'" line="303" column="8" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="59" />
@@ -438,11 +477,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/.gitignore" timestamp="1537051489406">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/.gitignore" timestamp="1537055074006">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/work/agromomaster/requirements.txt" timestamp="1529353966732">
         <mark key="[" line="21" column="12" />
@@ -490,6 +529,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537056367192">
+        <mark key="'" line="54" column="27" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
@@ -595,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="175" column="74" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="183" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
       <jump line="189" column="6" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
@@ -695,61 +740,61 @@
       <jump line="103" column="11" filename="$USER_HOME$/work/pytorch/CMakeLists.txt" />
       <jump line="8" column="29" filename="$USER_HOME$/work/imo/scrape.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
+      <jump line="51" column="27" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgLSB5YXJuIHJ1biB0ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>scrape</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>OPEN</text>
+        <text>package</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgLSBjZCBzY3JhcGUKICAgLSB5YXJuIGluc3RhbGwKICAgLSB5YXJuIHJ1biBjaGVjawogICAtIHlhcm4gcnVuIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAtIGNyZWF0ZS5qcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgLSB5YXJuIHJ1biB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUudHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUuanMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cFJlc3BvbnNlIH0gZnJvbSAiYXdzLXNkayI7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhjbHVkZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShldmVudC5ib2R5ISk7CiAgY29uc3QgcGFyYW1zID0gewogICAgVGFibGVOYW1lOiBwcm9jZXNzLmVudi5EWU5BTU9EQl9VU0VSX1RBQkxFLAogICAgLy8gJ0tleScgZGVmaW5lcyB0aGUgcGFydGl0aW9uIGtleSBhbmQgc29ydCBrZXkgb2YgdGhlIGl0ZW0gdG8gYmUgdXBkYXRlZAogICAgLy8gLSAndXNlcklkJzogSWRlbnRpdHkgUG9vbCBpZGVudGl0eSBpZCBvZiB0aGUgYXV0aGVudGljYXRlZCB1c2VyCiAgICAvLyAtICdub3RlSWQnOiBwYXRoIHBhcmFtZXRlcgogICAgS2V5OiB7CiAgICAgIHVzZXJJZDogZXZlbnQucmVxdWVzdENvbnRleHQuaWRlbnRpdHkuY29nbml0b0lkZW50aXR5SWQsCiAgICAgIG5vdGVJZDogZXZlbnQucGF0aFBhcmFtZXRlcnMhLmlkCiAgICB9LAogICAgLy8gJ1VwZGF0ZUV4cHJlc3Npb24nIGRlZmluZXMgdGhlIGF0dHJpYnV0ZXMgdG8gYmUgdXBkYXRlZAogICAgLy8gJ0V4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXMnIGRlZmluZXMgdGhlIHZhbHVlIGluIHRoZSB1cGRhdGUgZXhwcmVzc2lvbgogICAgVXBkYXRlRXhwcmVzc2lvbjogJ1NFVCBjb250ZW50ID0gOmNvbnRlbnQsIGF0dGFjaG1lbnQgPSA6YXR0YWNobWVudCcsCiAgICBFeHByZXNzaW9uQXR0cmlidXRlVmFsdWVzOiB7CiAgICAgICc6YXR0YWNobWVudCc6IGRhdGEuYXR0YWNobWVudCA/IGRhdGEuYXR0YWNobWVudCA6IG51bGwsCiAgICAgICc6Y29udGVudCc6IGRhdGEuY29udGVudCA/IGRhdGEuY29udGVudCA6IG51bGwKICAgIH0sCiAgICBSZXR1cm5WYWx1ZXM6ICdBTExfTkVXJwogIH0gYXMgVXBkYXRlSXRlbUlucHV0Owo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleGNsdWRlRGV2RGVwZW5kZW5jaWVzOiB0cnVlCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBjb25zdCBwYXJhbXMgPSB7CiAgICBUYWJsZU5hbWU6IHByb2Nlc3MuZW52LkRZTkFNT0RCX1VTRVJfVEFCTEUsCiAgICAvLyAnS2V5Q29uZGl0aW9uRXhwcmVzc2lvbicgZGVmaW5lcyB0aGUgY29uZGl0aW9uIGZvciB0aGUgcXVlcnkKICAgIC8vIC0gJ3VzZXJJZCA9IDp1c2VySWQnOiBvbmx5IHJldHVybiBpdGVtcyB3aXRoIG1hdGNoaW5nICd1c2VySWQnCiAgICAvLyAgIHBhcnRpdGlvbiBrZXkKICAgIC8vICdFeHByZXNzaW9uQXR0cmlidXRlVmFsdWVzJyBkZWZpbmVzIHRoZSB2YWx1ZSBpbiB0aGUgY29uZGl0aW9uCiAgICAvLyAtICc6dXNlcklkJzogZGVmaW5lcyAndXNlcklkJyB0byBiZSBJZGVudGl0eSBQb29sIGlkZW50aXR5IGlkCiAgICAvLyAgIG9mIHRoZSBhdXRoZW50aWNhdGVkIHVzZXIKICAgIEtleUNvbmRpdGlvbkV4cHJlc3Npb246ICd1c2VySWQgPSA6dXNlcklkJywKICAgIEV4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXM6CiAgICAgICAgeyc6dXNlcklkJzogZXZlbnQucmVxdWVzdENvbnRleHQuaWRlbnRpdHkuY29nbml0b0lkZW50aXR5SWR9CiAgfSBhcyBRdWVyeUlucHV0OwoKIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0gc3JjLyouKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleGNsdWRlOgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBjb25zdCBwYXJhbXMgPSB7CiAgICBUYWJsZU5hbWU6IHByb2Nlc3MuZW52LkRZTkFNT0RCX1VTRVJfVEFCTEUsCiAgICAvLyAnS2V5JyBkZWZpbmVzIHRoZSBwYXJ0aXRpb24ga2V5IGFuZCBzb3J0IGtleSBvZiB0aGUgaXRlbSB0byBiZSByZXRyaWV2ZWQKICAgIC8vIC0gJ3VzZXJJZCc6IElkZW50aXR5IFBvb2wgaWRlbnRpdHkgaWQgb2YgdGhlIGF1dGhlbnRpY2F0ZWQgdXNlcgogICAgLy8gLSAnbm90ZUlkJzogcGF0aCBwYXJhbWV0ZXIKICAgIEtleTogewogICAgICB1c2VySWQ6IGV2ZW50LnJlcXVlc3RDb250ZXh0LmlkZW50aXR5LmNvZ25pdG9JZGVudGl0eUlkLAogICAgICBub3RlSWQ6IGV2ZW50LnBhdGhQYXJhbWV0ZXJzIS5pZAogICAgfQogIH0gYXMgR2V0SXRlbUlucHV0Owo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">cGFja2FnZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OPEN</last-search>
+      <last-search>package</last-search>
       <last-offset />
-      <last-pattern>OPEN</last-pattern>
+      <last-pattern>package</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>transforms_side</entry>
         <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
@@ -769,6 +814,7 @@
         <entry>9.</entry>
         <entry>OPEN</entry>
         <entry>OPENCV</entry>
+        <entry>package</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
