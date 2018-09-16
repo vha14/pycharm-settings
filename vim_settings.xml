@@ -354,11 +354,10 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537076414244">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537077412420">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/src/list.ts" timestamp="1537051010681">
         <mark key="[" line="19" column="0" />
@@ -531,12 +530,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537076643323">
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537077386016">
         <mark key="'" line="5" column="22" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
@@ -744,8 +743,8 @@
       <jump line="5" column="22" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>notes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjbGVhbiI6ICJndHMgY2xlYW4iLAo=</text>
       </register>
       <register name="-" type="4">
         <text>notes</text>
@@ -757,31 +756,31 @@
         <text encoding="base64">ICAgICJjb21waWxlIjogInRzYyAtcCAuIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUudHMK</text>
+        <text encoding="base64">ICAgICJjbGVhbiI6ICJndHMgY2xlYW4iLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUuanMK</text>
+        <text encoding="base64">ICAgICAgZm9yY2VFeGNsdWRlOiBhd3Mtc2RrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZToK</text>
+        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUudHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUuanMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhjbHVkZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleGNsdWRlRGV2RGVwZW5kZW5jaWVzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gc3JjLyouKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGNsdWRlOgo=</text>
+        <text encoding="base64">ICBleGNsdWRlRGV2RGVwZW5kZW5jaWVzOiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZToK</text>
+        <text encoding="base64">ICAgIC0gc3JjLyouKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
