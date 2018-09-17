@@ -172,11 +172,11 @@
       <file name="/fragment.py" timestamp="1534302302065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/problem.ts" timestamp="1537195003201">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/problem.ts" timestamp="1537218951896">
+        <mark key="[" line="1" column="138" />
+        <mark key="]" line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+        <mark key="." line="1" column="144" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiment_config.py" timestamp="1532063781226">
         <mark key="[" line="0" column="29" />
@@ -263,11 +263,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537195628492">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537219442918">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -363,11 +363,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537131260563">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537218689468">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537077412420">
         <mark key="[" line="22" column="0" />
@@ -759,11 +759,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.promise()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.promise()</text>
+        <text encoding="base64">QXR0IA==</text>
       </register>
       <register name="/" type="4">
         <text>NotesTable</text>
@@ -772,31 +772,31 @@
         <text encoding="base64">ICAgICAgICAgIHtyZWdpb246ICdsb2NhbGhvc3QnLCBlbmRwb2ludDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMCd9IDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRzbGludDpkaXNhYmxlOm5vLXVudXNlZC12YXJpYWJsZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgdXVpZCBmcm9tICd1dWlkJzsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtQdXRJdGVtSW5wdXQsIFB1dEl0ZW1PdXRwdXR9IGZyb20gJ2F3cy1zZGsvY2xpZW50cy9keW5hbW9kYic7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgVGFibGVOYW1lOiBwcm9jZXNzLmVudi5wcm9ibGVtc1RhYmxlTmFtZSwKICAgICAgSXRlbTogewogICAgICAgIHVzZXJJZDogZXZlbnQucmVxdWVzdENvbnRleHQuaWRlbnRpdHkuY29nbml0b0lkZW50aXR5SWQsCiAgICAgICAgbm90ZUlkOiB1dWlkLnYxKCksCiAgICAgICAgY29udGVudDogZGF0YS5jb250ZW50LAogICAgICAgIGF0dGFjaG1lbnQ6IGRhdGEuYXR0YWNobWVudCwKICAgICAgICBjcmVhdGVkQXQ6IERhdGUubm93KCkKICAgICAgfQogICAgfSBhcyBQdXRJdGVtSW5wdXQ7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkQXQ6IERhdGUubm93KCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhdHRhY2htZW50OiBkYXRhLmF0dGFjaG1lbnQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgQVdTIGZyb20gJ2F3cy1zZGsnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiBkYXRhLmNvbnRlbnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtEb2N1bWVudENsaWVudH0gZnJvbSAnYXdzLXNkay9saWIvZHluYW1vZGIvZG9jdW1lbnRfY2xpZW50JzsK</text>
+        <text encoding="base64">ICAgICAgICBub3RlSWQ6IHV1aWQudjEoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VySWQ6IGV2ZW50LnJlcXVlc3RDb250ZXh0LmlkZW50aXR5LmNvZ25pdG9JZGVudGl0eUlkLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGR5bmFtb0RCQ2xpZW50KCk6IERvY3VtZW50Q2xpZW50IHsKICByZXR1cm4gbmV3IEFXUy5EeW5hbW9EQi5Eb2N1bWVudENsaWVudCgKICAgICAgcHJvY2Vzcy5lbnYuSVNfT0ZGTElORSA/CiAgICAgICAgICB7cmVnaW9uOiAnbG9jYWxob3N0JywgZW5kcG9pbnQ6ICdodHRwOi8vbG9jYWxob3N0OjgwMDAnfSA6CiAgICAgICAgICB7fSk7Cn0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
