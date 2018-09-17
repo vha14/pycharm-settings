@@ -65,6 +65,10 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/resources/dynamodb-table.yml" timestamp="1537127713094">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="57" />
+      </file>
       <file name="react-appsync-graphql-recipe-app.graphqls" timestamp="1529710328495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,6 +172,12 @@
       <file name="/fragment.py" timestamp="1534302302065">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/problem.ts" timestamp="1537132549750">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/experiment_config.py" timestamp="1532063781226">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="1" column="8" />
@@ -253,11 +263,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537127529644">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537133728856">
+        <mark key="[" line="23" column="55" />
+        <mark key="]" line="23" column="55" />
+        <mark key="." line="23" column="55" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -353,11 +363,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537076372332">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537131260563">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537077412420">
         <mark key="[" line="22" column="0" />
@@ -425,11 +435,11 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" timestamp="1537047998169">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="41" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" timestamp="1537133644401">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" timestamp="1535908108187">
         <mark key="'" line="303" column="8" />
@@ -535,12 +545,12 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537127098691">
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537133242225">
         <mark key="'" line="5" column="22" />
-        <mark key="[" line="126" column="74" />
-        <mark key="]" line="126" column="76" />
-        <mark key="." line="126" column="76" />
-        <mark key="^" line="126" column="76" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
@@ -647,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="23" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="143" column="29" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
@@ -747,46 +756,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="30" column="11" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="45" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
+      <jump line="21" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DYNAMODB_USER_TABLE</text>
+        <text>.promise()</text>
       </register>
       <register name="-" type="4">
-        <text>DYNAMODB_USER_TABLE</text>
+        <text>.promise()</text>
       </register>
       <register name="/" type="4">
         <text>NotesTable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHRzbGludDpkaXNhYmxlOm5vLXVudXNlZC12YXJpYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHtyZWdpb246ICdsb2NhbGhvc3QnLCBlbmRwb2ludDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMCd9IDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERZTkFNT0RCX1VTRVJfVEFCTEU6ICR7c2VsZjpzZXJ2aWNlfS0ke29wdDpzdGFnZSwgc2VsZjpwcm92aWRlci5zdGFnZX0tVXNlcnMK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgQVdTIGZyb20gJ2F3cy1zZGsnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">aW1wb3J0IHtEb2N1bWVudENsaWVudH0gZnJvbSAnYXdzLXNkay9saWIvZHluYW1vZGIvZG9jdW1lbnRfY2xpZW50JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJjbGVhbiI6ICJndHMgY2xlYW4iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yY2VFeGNsdWRlOiBhd3Mtc2RrCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGR5bmFtb0RCQ2xpZW50KCk6IERvY3VtZW50Q2xpZW50IHsKICByZXR1cm4gbmV3IEFXUy5EeW5hbW9EQi5Eb2N1bWVudENsaWVudCgKICAgICAgcHJvY2Vzcy5lbnYuSVNfT0ZGTElORSA/CiAgICAgICAgICB7cmVnaW9uOiAnbG9jYWxob3N0JywgZW5kcG9pbnQ6ICdodHRwOi8vbG9jYWxob3N0OjgwMDAnfSA6CiAgICAgICAgICB7fSk7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUudHMK</text>
+        <text encoding="base64">ICBza2lwVmVyc2lvbkNoZWNrOiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNyYy9jcmVhdGUuanMK</text>
+        <text encoding="base64">KSkpKSkpKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYXNoS2V5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
