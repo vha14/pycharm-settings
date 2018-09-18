@@ -246,11 +246,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537246254093">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537247697556">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -498,12 +498,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537235872218">
-        <mark key="'" line="112" column="34" />
-        <mark key="[" line="117" column="16" />
-        <mark key="]" line="117" column="16" />
-        <mark key="." line="117" column="23" />
-        <mark key="^" line="76" column="34" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537247655666">
+        <mark key="'" line="129" column="33" />
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="16" />
+        <mark key="^" line="43" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
@@ -615,12 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
-      <jump line="308" column="26" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
-      <jump line="26" column="61" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
-      <jump line="30" column="36" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
-      <jump line="160" column="23" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="143" column="29" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
@@ -702,7 +696,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
       <jump line="55" column="36" filename="$USER_HOME$/gitlab/mso/serv-offline/handler.js" />
       <jump line="37" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/handler.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="132" column="27" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="12" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="60" column="32" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
@@ -715,16 +708,23 @@
       <jump line="105" column="23" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="112" column="34" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="108" column="8" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="111" column="8" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="33" column="11" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="20" column="2" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="40" column="4" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="128" column="33" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhwcm9jZXNzLmVudikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>problemsTableName</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>problemsTableName</text>
       </register>
       <register name="/" type="4">
-        <text>notes</text>
+        <text>problemsTable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhgdGFibGU6ICR7cHJvY2Vzcy5lbnYucHJvYmxlbVRhYmxlTmFtZX1gKQo=</text>
@@ -761,16 +761,14 @@
       </register>
     </registers>
     <search>
-      <last-search>notes</last-search>
+      <last-search>problemsTable</last-search>
       <last-offset />
-      <last-pattern>notes</last-pattern>
+      <last-pattern>problemsTable</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>precomp</entry>
-        <entry>resnet</entry>
         <entry>Res</entry>
         <entry>run_backward</entry>
         <entry>translated</entry>
@@ -789,6 +787,8 @@
         <entry>OPEN</entry>
         <entry>OPENCV</entry>
         <entry>notes</entry>
+        <entry>problemTableName</entry>
+        <entry>problemsTable</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
