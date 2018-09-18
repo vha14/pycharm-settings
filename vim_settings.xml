@@ -189,6 +189,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/scrape/package.json" timestamp="1537237138121">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -462,6 +467,13 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537239411620">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/requirements-dev.txt" timestamp="1532470574646">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="3" />
@@ -529,6 +541,12 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/scrape/tsconfig.json" timestamp="1537238660103">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/gitlab/mso-scrape/.gitlab-ci.yml" timestamp="1536302201447">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="17" />
@@ -579,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="17" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
       <jump line="308" column="26" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
@@ -679,46 +696,47 @@
       <jump line="101" column="26" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="105" column="23" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
       <jump line="112" column="34" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>notes</text>
+        <text>ut</text>
       </register>
       <register name="-" type="4">
-        <text>notes</text>
+        <text>ut</text>
       </register>
       <register name="/" type="4">
         <text>notes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgLSB5YXJuIHJ1biBjaGVjawo=</text>
+        <text encoding="base64">ICBpZDogJ3Rlc3RJZCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIC0gcGF0aDogdXJsIHBhdGggaXMgL25vdGVzCiAgIyAtIG1ldGhvZDogUE9TVCByZXF1ZXN0CiAgIyAtIGNvcnM6IGVuYWJsZWQgQ09SUyAoQ3Jvc3MtT3JpZ2luIFJlc291cmNlIFNoYXJpbmcpIGZvciBicm93c2VyIGNyb3NzCiAgIyAgICAgZG9tYWluIGFwaSBjYWxsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29udGVzdHNbMF0ucHJvYmxlbXNbMF0udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
+        <text encoding="base64">ICAjIC0gcGF0aDogdXJsIHBhdGggaXMgL25vdGVzCiAgIyAtIG1ldGhvZDogUE9TVCByZXF1ZXN0CiAgIyAtIGNvcnM6IGVuYWJsZWQgQ09SUyAoQ3Jvc3MtT3JpZ2luIFJlc291cmNlIFNoYXJpbmcpIGZvciBicm93c2VyIGNyb3NzCiAgIyAgICAgZG9tYWluIGFwaSBjYWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb250ZXN0czsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bW9kdWxlIGV4cG9ydCB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb250ZXN0czsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">YXNzZXJ0KGV4dHJhY3RZZWFyKCdJTU8gMTk4NicpID09PSAxOTg2KTsK</text>
+        <text encoding="base64">bW9kdWxlIGV4cG9ydCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJqc3giLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
