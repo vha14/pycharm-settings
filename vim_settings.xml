@@ -468,6 +468,13 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537235872218">
+        <mark key="'" line="112" column="34" />
+        <mark key="[" line="117" column="16" />
+        <mark key="]" line="117" column="16" />
+        <mark key="." line="117" column="23" />
+        <mark key="^" line="76" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
       </file>
@@ -572,18 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="7" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="189" column="6" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="230" column="71" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="231" column="1" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="297" column="33" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="298" column="28" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="299" column="18" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/miniconda3/envs/pytorch-master/lib/python3.7/site-packages/torch/__init__.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson2-image_models.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
-      <jump line="344" column="374" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="349" column="17" filename="$USER_HOME$/work/fastai/courses/dl1/lesson1.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/fastai/courses/dl1/lesson7-cifar10.py" />
       <jump line="308" column="26" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
@@ -672,61 +667,72 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
       <jump line="55" column="36" filename="$USER_HOME$/gitlab/mso/serv-offline/handler.js" />
       <jump line="37" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/handler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="132" column="27" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="60" column="32" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="69" column="23" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="78" column="20" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="82" column="20" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="88" column="34" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="94" column="20" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="101" column="26" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="105" column="23" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
+      <jump line="112" column="34" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>check</text>
+        <text>notes</text>
       </register>
       <register name="-" type="4">
-        <text>check</text>
+        <text>notes</text>
       </register>
       <register name="/" type="4">
-        <text>OPEN</text>
+        <text>notes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgLSB5YXJuIHJ1biBjaGVjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIC0gcGF0aDogdXJsIHBhdGggaXMgL25vdGVzCiAgIyAtIG1ldGhvZDogUE9TVCByZXF1ZXN0CiAgIyAtIGNvcnM6IGVuYWJsZWQgQ09SUyAoQ3Jvc3MtT3JpZ2luIFJlc291cmNlIFNoYXJpbmcpIGZvciBicm93c2VyIGNyb3NzCiAgIyAgICAgZG9tYWluIGFwaSBjYWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb250ZXN0czsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlIGV4cG9ydCB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb250ZXN0czsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bW9kdWxlIGV4cG9ydCB7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">YXNzZXJ0KGV4dHJhY3RZZWFyKCdJTU8gMTk4NicpID09PSAxOTg2KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJqc3giLAo=</text>
+        <text encoding="base64">YXNzZXJ0KGV4dHJhY3RZZWFyKCdJTU8gMTk4NicpID09PSAxOTg2KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0c3giLAo=</text>
+        <text encoding="base64">ICAgICJqc3giLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OPEN</last-search>
+      <last-search>notes</last-search>
       <last-offset />
-      <last-pattern>OPEN</last-pattern>
+      <last-pattern>notes</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>transforms_side</entry>
         <entry>precomp</entry>
         <entry>resnet</entry>
         <entry>Res</entry>
@@ -746,6 +752,7 @@
         <entry>9.</entry>
         <entry>OPEN</entry>
         <entry>OPENCV</entry>
+        <entry>notes</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
