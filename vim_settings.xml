@@ -246,11 +246,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537247697556">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="37" />
-        <mark key="." line="10" column="37" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537308387390">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
       </file>
       <file name="$USER_HOME$/work/fastai/courses/work/carvana1.py" timestamp="1533012027804">
         <mark key="[" line="10" column="0" />
@@ -338,11 +338,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537243791826">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537309671660">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="7" column="25" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
@@ -498,12 +498,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537247655666">
-        <mark key="'" line="129" column="33" />
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="16" />
-        <mark key="^" line="43" column="16" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537310135450">
+        <mark key="'" line="126" column="33" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
@@ -717,11 +717,11 @@
       <jump line="128" column="33" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>problemsTableName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YWdlOiAke3NlbGY6Y3VzdG9tLnN0YWdlfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>problemsTableName</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>problemsTable</text>
@@ -730,31 +730,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhgdGFibGU6ICR7cHJvY2Vzcy5lbnYucHJvYmxlbVRhYmxlTmFtZX1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhwcm9jZXNzLmVudikpCg==</text>
+        <text encoding="base64">ICAgIHN0YWdlOiAke3NlbGY6Y3VzdG9tLnN0YWdlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgYm9keTogJHtldmVudC5ib2R5fWApCg==</text>
+        <text encoding="base64">ICAgICAgUmVmOiBQcm9ibGVtc1RhYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgdGFibGU6ICR7cHJvY2Vzcy5lbnYucHJvYmxlbVRhYmxlTmFtZSEudG9TdHJpbmcoKX1gKQo=</text>
+        <text encoding="base64">ICAgIGZvbzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXBzZXVkby1wYXJhbWV0ZXJzIjogIl4yLjIuMCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29udGVzdHNbMF0ucHJvYmxlbXNbMF0udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtcHNldWRvLXBhcmFtZXRlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIC0gcGF0aDogdXJsIHBhdGggaXMgL25vdGVzCiAgIyAtIG1ldGhvZDogUE9TVCByZXF1ZXN0CiAgIyAtIGNvcnM6IGVuYWJsZWQgQ09SUyAoQ3Jvc3MtT3JpZ2luIFJlc291cmNlIFNoYXJpbmcpIGZvciBicm93c2VyIGNyb3NzCiAgIyAgICAgZG9tYWluIGFwaSBjYWxsCg==</text>
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtcHNldWRvLXBhcmFtZXRlcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUmVmOiBQcm9ibGVtc1RhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmV3aXJlIjogIl4yLjUuMjgiLAo=</text>
+        <text encoding="base64">ICAgIHByb2JsZW1zVGFibGVOYW1lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhwcm9jZXNzLmVudikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
