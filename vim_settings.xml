@@ -568,10 +568,10 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537314440732">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537316731434">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1536302250639">
         <mark key="[" line="0" column="0" />
@@ -780,8 +780,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless/bin/serverless" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogUwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -793,31 +793,31 @@
         <text encoding="base64">aW1wb3J0ICogYXMgYXNzZXJ0IGZyb20gJ2Fzc2VydCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBSZWY6IFByb2JsZW1zVGFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogUwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbzoK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gQXR0cmlidXRlTmFtZTogY3JlYXRlZEF0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5UYWJsZU5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2V5VHlwZTogUkFOR0UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ0V4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXMnIGRlZmluZXMgdGhlIHZhbHVlIGluIHRoZSB1cGRhdGUgZXhwcmVzc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gQXR0cmlidXRlTmFtZTogY3JlYXRlZEF0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ1VwZGF0ZUV4cHJlc3Npb24nIGRlZmluZXMgdGhlIGF0dHJpYnV0ZXMgdG8gYmUgdXBkYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgLSBSZWY6IFByb2JsZW1zVGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gLSAnbm90ZUlkJzogcGF0aCBwYXJhbWV0ZXIK</text>
+        <text encoding="base64">ICAgIGZvbzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gLSAndXNlcklkJzogSWRlbnRpdHkgUG9vbCBpZGVudGl0eSBpZCBvZiB0aGUgYXV0aGVudGljYXRlZCB1c2VyCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5UYWJsZU5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ0tleScgZGVmaW5lcyB0aGUgcGFydGl0aW9uIGtleSBhbmQgc29ydCBrZXkgb2YgdGhlIGl0ZW0gdG8gYmUgdXBkYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgLy8gJ0V4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXMnIGRlZmluZXMgdGhlIHZhbHVlIGluIHRoZSB1cGRhdGUgZXhwcmVzc2lvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySWQ6IGV2ZW50LnJlcXVlc3RDb250ZXh0LmlkZW50aXR5LmNvZ25pdG9JZGVudGl0eUlkLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gJ1VwZGF0ZUV4cHJlc3Npb24nIGRlZmluZXMgdGhlIGF0dHJpYnV0ZXMgdG8gYmUgdXBkYXRlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
