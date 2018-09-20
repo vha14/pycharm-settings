@@ -366,10 +366,10 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537337064863">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/gitlab/mso/serv-offline/tsconfig.json" timestamp="1537401249092">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/package.json" timestamp="1537077412420">
         <mark key="[" line="22" column="0" />
@@ -784,7 +784,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogZmFsc2UsCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -796,10 +796,10 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG1haW46IEFQSUhhbmRsZXJUeXBlID0gYXN5bmMgKGV2ZW50KSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogZmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
@@ -808,19 +808,19 @@
         <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIChldmVudCkgPT4gewo=</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1haW46IChfOiBBUElHYXRld2F5RXZlbnQpID0+IFByb21pc2U8QVBJUmVzcG9uc2U+ID0K</text>
+        <text encoding="base64">ICAgIGFzeW5jIChldmVudCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIChldmVudCkgPT4gewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG1haW46IChfOiBBUElHYXRld2F5RXZlbnQpID0+IFByb21pc2U8QVBJUmVzcG9uc2U+ID0K</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFzeW5jIChldmVudCkgPT4gewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1haW46IChfOiBBUElHYXRld2F5RXZlbnQpID0+IFByb21pc2U8QVBJUmVzcG9uc2U+ID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
