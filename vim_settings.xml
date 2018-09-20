@@ -15,11 +15,11 @@
       <file name="/a.dummy" timestamp="1537325739156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537484300282">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
+      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537486183153">
+        <mark key="[" line="41" column="2" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -715,7 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="10" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="18" column="9" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="19" column="62" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="23" column="66" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
@@ -815,46 +814,47 @@
       <jump line="6" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="29" column="24" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" />
+      <jump line="18" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>problem</text>
       </register>
       <register name="/" type="4">
         <text>NotesTable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9ibGVtX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCwK</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqIExpa2VzICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IHZlcnNpb24oKSwgY3VycmVudF9kYXRlOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHRhZwooCiAgaWQgdmFyY2hhcigxNTApIG5vdCBudWxsLAogIHRleHQgdmFyY2hhcigxNTApIG5vdCBudWxsLAogIGF1dGhvcl9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyB1c2VyKGlkKSwKICBwcmltYXJ5IGtleSAoaWQpCik7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LmR5bmFtb2RiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3JjLyoqLyouZC50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3JjLyoqLyouanMqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBhdXRvLWdlbmVyYXRlZCBmaWxlcyBmcm9tIFR5cGVTY3JpcHQK</text>
+        <text encoding="base64">ICBhdXRob3JfaWQgdmFyY2hhcigxNTApIG5vdCBudWxsIHJlZmVyZW5jZXMgdXNlcihpZCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
