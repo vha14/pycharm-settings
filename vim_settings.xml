@@ -15,12 +15,11 @@
       <file name="/a.dummy" timestamp="1537325739156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537499495737">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="9" column="66" />
-        <mark key="." line="9" column="66" />
-        <mark key="^" line="9" column="66" />
+      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537501996381">
+        <mark key="[" line="122" column="17" />
+        <mark key="]" line="122" column="18" />
+        <mark key="." line="122" column="18" />
+        <mark key="^" line="122" column="16" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -716,34 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="66" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
-      <jump line="28" column="13" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
-      <jump line="34" column="27" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
-      <jump line="38" column="6" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
-      <jump line="24" column="28" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="0" column="19" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="1" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="3" column="12" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="6" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="7" column="13" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="8" column="17" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="9" column="18" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="10" column="9" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="17" column="28" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="18" column="22" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="20" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="15" column="15" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="16" column="19" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="19" column="26" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="228" column="22" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="290" column="27" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
-      <jump line="291" column="25" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="48" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="92" column="36" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/lj_speech.py" />
       <jump line="37" column="17" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
@@ -813,16 +784,44 @@
       <jump line="6" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="29" column="24" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" />
-      <jump line="18" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="96" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="7" column="4" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="14" column="15" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="16" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="18" column="20" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="26" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="34" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="35" column="21" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="36" column="20" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="45" column="21" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="46" column="17" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="47" column="20" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="53" column="21" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="54" column="18" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="61" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="62" column="21" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="70" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="71" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="72" column="20" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="81" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="82" column="17" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="83" column="20" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="90" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="91" column="18" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="121" column="17" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="17" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="39" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="75" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="108" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="115" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -870,7 +869,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batch</entry>
         <entry>batch_size</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
@@ -889,6 +887,7 @@
         <entry>stage</entry>
         <entry>tableName</entry>
         <entry>NotesTable</entry>
+        <entry>150</entry>
         <entry>text</entry>
       </history-search>
       <history-cmd>
