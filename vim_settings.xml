@@ -15,11 +15,12 @@
       <file name="/a.dummy" timestamp="1537325739156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537486707632">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537488681080">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="95" column="32" />
+        <mark key="." line="95" column="32" />
+        <mark key="^" line="95" column="32" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -715,8 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
-      <jump line="19" column="62" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="23" column="66" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="28" column="13" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="34" column="27" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
@@ -815,61 +814,67 @@
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="29" column="24" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" />
       <jump line="18" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="96" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="7" column="4" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
+        <text>problem_author</text>
       </register>
       <register name="-" type="4">
-        <text>problem</text>
+        <text>problem_author</text>
       </register>
       <register name="/" type="4">
-        <text>NotesTable</text>
+        <text>text</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
+      <register name="0" type="4">
+        <text>create table problem_i18n
+(
+  problem_author_id varchar(150) not null references problem_author(id),
+  language_id varchar(150) not null references language(id),
+  text varchar(150)
+);</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqIExpa2VzICovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmZvIGpzb24K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHRhZwooCiAgaWQgdmFyY2hhcigxNTApIG5vdCBudWxsLAogIHRleHQgdmFyY2hhcigxNTApIG5vdCBudWxsLAogIGF1dGhvcl9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyB1c2VyKGlkKSwKICBwcmltYXJ5IGtleSAoaWQpCik7Cg==</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2JsZW1fbGlrZQooCiAgcHJvYmxlbV9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyBwcm9ibGVtKGlkKSwKICB1c2VyX2lkIHZhcmNoYXIoMTUwKSBub3QgbnVsbCByZWZlcmVuY2VzIHVzZXIoaWQpLAogIGxpa2VfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqIExpa2VzICovCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHRhZwooCiAgaWQgdmFyY2hhcigxNTApIG5vdCBudWxsLAogIHRleHQgdmFyY2hhcigxNTApIG5vdCBudWxsLAogIGF1dGhvcl9pZCB2YXJjaGFyKDE1MCkgbm90IG51bGwgcmVmZXJlbmNlcyB1c2VyKGlkKSwKICBwcmltYXJ5IGtleSAoaWQpCik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdXRob3JfaWQgdmFyY2hhcigxNTApIG5vdCBudWxsIHJlZmVyZW5jZXMgdXNlcihpZCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NotesTable</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>NotesTable</last-pattern>
+      <last-pattern>text</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5001</entry>
         <entry>batch</entry>
         <entry>batch_size</entry>
         <entry>log</entry>
@@ -889,6 +894,7 @@
         <entry>stage</entry>
         <entry>tableName</entry>
         <entry>NotesTable</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
