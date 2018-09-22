@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
         <mark key="'" line="182" column="43" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537642446230">
+        <mark key="'" line="152" column="0" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -657,7 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="29" filename="$USER_HOME$/work/pytorch-examples/imagenet/main.py" />
       <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
@@ -757,6 +759,7 @@
       <jump line="30" column="11" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="45" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" />
+      <jump line="152" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
