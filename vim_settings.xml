@@ -659,11 +659,11 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dff6f505-b02c-4bf1-8161-ab40957ecfe7/console.sql" timestamp="1537723100703">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dff6f505-b02c-4bf1-8161-ab40957ecfe7/console.sql" timestamp="1537723336452">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="13" column="51" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182056419">
         <mark key="[" line="8" column="11" />
@@ -833,7 +833,7 @@
         <text>1024</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwcm9ibGVtX3RhZwo=</text>
+        <text encoding="base64">c2VsZWN0IHByb2JsZW0uY3JlYXRlX2RhdGUsIHBhLmNvbnRlbnQsIHBhLnJldmlzaW9uLCBqc29uX2FycmF5YWdnKHRhZy50ZXh0KSBhcyB0YWdzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gdGFnCg==</text>
