@@ -659,11 +659,11 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dff6f505-b02c-4bf1-8161-ab40957ecfe7/console.sql" timestamp="1537721566184">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dff6f505-b02c-4bf1-8161-ab40957ecfe7/console.sql" timestamp="1537723100703">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182056419">
         <mark key="[" line="8" column="11" />
@@ -824,10 +824,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roblem_author</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>roblem_author</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1024</text>
