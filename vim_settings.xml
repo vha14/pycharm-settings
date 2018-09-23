@@ -69,10 +69,6 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/gitlab/serverless-stack-2-api-ts/resources/dynamodb-table.yml" timestamp="1537127713094">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="57" />
-      </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/.gitignore" timestamp="1537482576771">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="0" />
@@ -234,7 +230,7 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1537677578956">
+      <file name="/a.sql" timestamp="1537687565205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
@@ -392,6 +388,9 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="7" column="102" />
       </file>
+      <file name="/mso.language [mso@localhost]" timestamp="1537687613525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -413,10 +412,6 @@
         <mark key="]" line="5" column="54" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/@types/aws-lambda/index.d.ts" timestamp="1537336351992">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/new_testing.py" timestamp="1532493648029">
         <mark key="[" line="9" column="0" />
@@ -568,24 +563,25 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1537314483248">
+      <file name="/JavaScript Console" timestamp="1537718942858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/scrape/src/scrape.ts" timestamp="1537327297356">
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/scrape.ts" timestamp="1537719325956">
         <mark key="'" line="21" column="6" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="52" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="45" column="55" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537686792100">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="26" />
-        <mark key="^" line="38" column="26" />
-        <mark key="." line="38" column="26" />
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537718737386">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="36" />
+        <mark key="^" line="71" column="36" />
+        <mark key="." line="71" column="36" />
       </file>
       <file name="$USER_HOME$/work/sonosite/requirements-dev.txt" timestamp="1532470574646">
         <mark key="[" line="2" column="3" />
@@ -598,6 +594,9 @@
         <mark key="]" line="5" column="54" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="35" />
+      </file>
+      <file name="/dummy.sql" timestamp="1537687613671">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" timestamp="1537326259378">
         <mark key="[" line="41" column="0" />
@@ -660,6 +659,12 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dff6f505-b02c-4bf1-8161-ab40957ecfe7/console.sql" timestamp="1537718698045">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/experiments/fit_one_image_2.py" timestamp="1532182056419">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
@@ -716,23 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="33" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="134" column="33" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="142" column="43" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="13" column="80" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="176" column="35" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="130" column="4" filename="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/site-packages/torchnlp/download.py" />
-      <jump line="44" column="18" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
-      <jump line="0" column="4" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/process.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/wellsaid/lib/python3.6/_weakrefset.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/tests/datasets/test_lj_speech.py" />
-      <jump line="108" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/datasets/m_ailabs.py" />
-      <jump line="303" column="8" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="246" column="55" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="699" column="75" filename="$USER_HOME$/work/pytorch/setup.py" />
       <jump line="58" column="0" filename="$USER_HOME$/work/pytorch/setup.py" />
@@ -770,7 +758,6 @@
       <jump line="20" column="6" filename="$USER_HOME$/gitlab/mso/scrape/src/scrape.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless/bin/serverless" />
       <jump line="6" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="29" column="24" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/response-lib.ts" />
       <jump line="96" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="14" column="15" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -816,62 +803,78 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="28" column="3" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="11" column="6" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="70" column="2" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="32" column="33" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="43" column="21" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="46" column="22" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="49" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="50" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="51" column="20" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="52" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="55" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="56" column="41" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="57" column="41" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="60" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="61" column="34" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="62" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Date(), 1000, 'en'</text>
+        <text>.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>Date(), 1000, 'en'</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
-        <text>1000</text>
+        <text>problem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyX3JlcyA9IGF3YWl0IGNvbm5lY3Rpb24ucXVlcnkoCiAgICAgICdJTlNFUlQgSU5UTyBgdXNlcmAgKGlkLCBuYW1lLCBqb2luX2RhdGUsIHJlcHV0YXRpb24sIHByZWZlcnJlZF9sYW5ndWFnZSkgVkFMVUVTICg/LCA/LCA/LCA/LCA/KScsCiAgICAgIFtpZCwgJ3NtMCcsIERhdGUoKSwgMTAwMCwgJ2VuJ10sCiAgKTsK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHJvYmxlbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYWRtaW5JZCA9IHV1aWQudjEoKTsK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gdGFnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHJvYmxlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gdGFnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzKTsK</text>
+        <text encoding="base64">Y29uc3Qgbm93ID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gKGVyciwgcmVzdWx0cykgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsYW5ndWFnZQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogIGhvc3Q6ICdsb2NhbGhvc3QnLAogIHVzZXI6ICd1c2VyJywKICBwYXNzd29yZDogJ3Bhc3N3b3JkJywKICBkYXRhYmFzZTogJ21zbycKfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gd2l0aCBwbGFjZWhvbGRlcgo=</text>
+        <text encoding="base64">Y29uc3QgYWRtaW5JZCA9IHV1aWQudjEoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>1000</last-search>
+      <last-search>problem</last-search>
       <last-offset />
-      <last-pattern>1000</last-pattern>
+      <last-pattern>problem</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>en_US</entry>
-        <entry>system</entry>
         <entry>Ales</entry>
         <entry>9.</entry>
         <entry>OPEN</entry>
@@ -890,6 +893,8 @@
         <entry>text</entry>
         <entry>100</entry>
         <entry>1000</entry>
+        <entry>p1</entry>
+        <entry>problem</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
