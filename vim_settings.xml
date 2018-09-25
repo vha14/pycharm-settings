@@ -163,6 +163,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1537844432543">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -211,7 +214,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1537755001539">
+      <file name="/a.sql" timestamp="1537843655194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
@@ -289,6 +292,12 @@
         <mark key="]" line="14" column="10" />
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0392d131-2de9-44eb-a691-1402f14f0388/console.sql" timestamp="1537844402611">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
         <mark key="[" line="0" column="0" />
@@ -536,11 +545,19 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537754133170">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/scrape.ts" timestamp="1537844067083">
+        <mark key="'" line="46" column="17" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537844991105">
+        <mark key="'" line="91" column="19" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
         <mark key="^" line="46" column="1" />
-        <mark key="." line="57" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/requirements-dev.txt" timestamp="1532470574646">
         <mark key="[" line="2" column="3" />
@@ -666,8 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
-      <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="7" column="10" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
@@ -766,19 +781,21 @@
       <jump line="45" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" />
       <jump line="152" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="80" column="19" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="46" column="17" filename="$USER_HOME$/gitlab/mso/scrape/src/scrape.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>year</text>
+        <text>, ?</text>
       </register>
       <register name="/" type="4">
         <text>NotesTable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtyZWdpb246ICdsb2NhbGhvc3QnLCBlbmRwb2ludDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMCd9IDoK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -789,23 +806,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvLyBjb25uZWN0aW9uLmJlZ2luVHJhbnNhY3Rpb24oKQogIC8vICAgICAudGhlbigoKSA9PiBjb25uZWN0aW9uLnF1ZXJ5KAogIC8vICAgICAgICAgJ0lOU0VSVCBJTlRPIGBsYW5ndWFnZWAgKGNvZGUsIGVuZ2xpc2hfbmFtZSwgbmF0aXZlX25hbWUpIFZBTFVFUyAoPywgPywgPyknLAogIC8vICAgICAgICAgWydlbicsICdFbmdsaXNoJywgJ0VuZ2xpc2gnXSkpCiAgLy8gICAgIC50aGVuKCgpID0+IGNvbm5lY3Rpb24ucXVlcnkoCiAgLy8gICAgICAgICAnSU5TRVJUIElOVE8gYHVzZXJgIChpZCwgbmFtZSwgam9pbl9kYXRlLCByZXB1dGF0aW9uLCBwcmVmZXJyZWRfbGFuZ3VhZ2UpIFZBTFVFUyAoPywgPywgPywgPywgPyknLAogIC8vICAgICAgICAgW2FkbWluSWQsICdzbTAnLCBub3csIDEwMCwgJ2VuJ10pKQogIC8vICAgICAudGhlbigoKSA9PiBjb25uZWN0aW9uLnF1ZXJ5KAogIC8vICAgICAgICAgJ0lOU0VSVCBJTlRPIGB0YWdgIChpZCwgdGV4dCwgY3JlYXRlX2RhdGUsIGF1dGhvcl9pZCkgVkFMVUVTICg/LCA/LCA/LCA/KScsCiAgLy8gICAgICAgICBbaW1vVGFnSWQsICdpbW8nLCBub3csIGFkbWluSWRdKSkKICAvLyAgICAgLnRoZW4oKCkgPT4gY29ubmVjdGlvbi5xdWVyeSgKICAvLyAgICAgICAgICdJTlNFUlQgSU5UTyBgdGFnYCAoaWQsIHRleHQsIGNyZWF0ZV9kYXRlLCBhdXRob3JfaWQpIFZBTFVFUyAoPywgPywgPywgPyknLAogIC8vICAgICAgICAgW2ltb1Byb2JsZW0zVGFnSWQsIGBpbW8tcHJvYmxlbS0zYCwgbm93LCBhZG1pbklkXSkpCiAgLy8gICAgIC50aGVuKCgpID0+IGNvbm5lY3Rpb24uY29tbWl0KCkpCiAgLy8gICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgLy8gICAgICAgY29uc29sZS5sb2coZXJyKTsKICAvLyAgICAgICBjb25uZWN0aW9uLnJvbGxiYWNrKCk7CiAgLy8gICAgIH0pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBjb25zdCB0YWcxSWQgPSBpZCgpOwogIGNvbnN0IHRhZzFfcmVzID0gYXdhaXQgY29ubmVjdGlvbi5xdWVyeSgKICAgICAgJ0lOU0VSVCBJTlRPIGB0YWdgIChpZCwgdGV4dCwgY3JlYXRlX2RhdGUsIGF1dGhvcl9pZCkgVkFMVUVTICg/LCA/LCA/LCA/KScsCiAgICAgIFt0YWcxSWQsICdpbW8nLCBub3csIGFkbWluSWRdLAogICk7CgogIGNvbnN0IHRhZzJJZCA9IGlkKCk7CiAgY29uc3QgdGFnMl9yZXMgPSBhd2FpdCBjb25uZWN0aW9uLnF1ZXJ5KAogICAgICAnSU5TRVJUIElOVE8gYHRhZ2AgKGlkLCB0ZXh0LCBjcmVhdGVfZGF0ZSwgYXV0aG9yX2lkKSBWQUxVRVMgKD8sID8sID8sID8pJywKICAgICAgW3RhZzJJZCwgYGltby0ke3Byb2JsZW0ueWVhcn1gLCBub3csIGFkbWluSWRdLAogICk7Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBBZGQgRW5nbGlzaAo=</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBjb25zdCBhZG1pbklkID0gaWQoKTsKICBjb25zdCB1c2VyX3JlcyA9IGF3YWl0IGNvbm5lY3Rpb24ucXVlcnkoCiAgICAgICdJTlNFUlQgSU5UTyBgdXNlcmAgKGlkLCBuYW1lLCBqb2luX2RhdGUsIHJlcHV0YXRpb24sIHByZWZlcnJlZF9sYW5ndWFnZSkgVkFMVUVTICg/LCA/LCA/LCA/LCA/KScsCiAgICAgIFthZG1pbklkLCAnc20wJywgbm93LCAxMDAwLCAnZW4nXSwKICApOwo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">bXlzcWwuY3JlYXRlQ29ubmVjdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
