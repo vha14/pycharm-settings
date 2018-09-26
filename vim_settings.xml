@@ -585,10 +585,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537890508915">
-        <mark key="]" line="47" column="32" />
-        <mark key="^" line="47" column="32" />
-        <mark key="." line="47" column="32" />
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537934214203">
+        <mark key="'" line="64" column="33" />
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="65" column="10" />
+        <mark key="." line="65" column="10" />
       </file>
       <file name="$USER_HOME$/work/sonosite/requirements-dev.txt" timestamp="1532470574646">
         <mark key="[" line="2" column="3" />
@@ -728,10 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/work/imo/scrape.ts" />
-      <jump line="51" column="27" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
-      <jump line="5" column="22" filename="$USER_HOME$/gitlab/mso/serv-offline/serverless.yml" />
-      <jump line="170" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
       <jump line="197" column="59" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
       <jump line="234" column="45" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
       <jump line="272" column="36" filename="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-dynamodb-local/index.js" />
@@ -828,13 +826,17 @@
       <jump line="5882" column="47" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="5884" column="58" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="6054" column="164" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="64" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="68" column="1" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="66" column="33" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>hex</text>
@@ -843,31 +845,31 @@
         <text encoding="base64">c2VsZWN0IHByb2JsZW0uY3JlYXRlX2RhdGUsIHBhLmNvbnRlbnQsIHBhLnJldmlzaW9uLCBqc29uX2FycmF5YWdnKHRhZy50ZXh0KSBhcyB0YWdzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QURDOEY0RjBCRjRGMTFFODlBNURGOTdDNzU4Qjc5QjEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gdGFnCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcHJvYmxlbQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gdGFnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgbm93ID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsYW5ndWFnZQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogIGhvc3Q6ICdsb2NhbGhvc3QnLAogIHVzZXI6ICd1c2VyJywKICBwYXNzd29yZDogJ3Bhc3N3b3JkJywKICBkYXRhYmFzZTogJ21zbycKfSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgY29udGVzdHMgPQogICAgSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGFyc2VJTU9GaWxlKS50b1N0cmluZygpKSBhcyBJTU9Db250ZXN0W107CmFzc2VydChjb250ZXN0cy5sZW5ndGggPT09IDU5KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgbXlzcWwgPSByZXF1aXJlKCdteXNxbDIvcHJvbWlzZScpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QURDOEY0RjBCRjRGMTFFODlBNURGOTdDNzU4Qjc5QjEK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gdGFnCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
