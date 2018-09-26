@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
         <mark key="'" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537720939171">
-        <mark key="'" line="190" column="22" />
-        <mark key="[" line="204" column="18" />
-        <mark key="]" line="204" column="18" />
-        <mark key="." line="204" column="22" />
-        <mark key="^" line="72" column="22" />
+      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1537940112644">
+        <mark key="'" line="206" column="22" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="17" />
+        <mark key="." line="52" column="17" />
+        <mark key="^" line="56" column="1" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -832,11 +832,11 @@
       <jump line="66" column="33" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>hex</text>
