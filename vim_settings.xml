@@ -585,12 +585,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537935227029">
-        <mark key="'" line="43" column="33" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="96" column="40" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1538284097200">
+        <mark key="'" line="48" column="33" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/work/sonosite/requirements-dev.txt" timestamp="1532470574646">
         <mark key="[" line="2" column="3" />
@@ -833,31 +833,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>, myAdminId]</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>, myAdminId]</text>
       </register>
       <register name="/" type="4">
         <text>hex</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZHJvcCB0YWJsZSBpZiBleGlzdHMgYGNvbnRlc3RfdGFnYDsKY3JlYXRlIHRhYmxlIGNvbnRlc3RfdGFnCigKICBjb250ZXN0X2lkIGJpbmFyeSgxNikgbm90IG51bGwsCiAgaW5kZXggY29udGVzdF9pZHggKGNvbnRlc3RfaWQpLAogIGZvcmVpZ24ga2V5IChjb250ZXN0X2lkKSByZWZlcmVuY2VzIGNvbnRlc3QoaWQpLAoKICB0YWdfaWQgYmluYXJ5KDE2KSBub3QgbnVsbCwKICBpbmRleCB0YWdfaWR4ICh0YWdfaWQpLAogIGZvcmVpZ24ga2V5ICh0YWdfaWQpIHJlZmVyZW5jZXMgdGFnKGlkKSwKCiAgYXV0aG9yX2lkIGJpbmFyeSgxNikgbm90IG51bGwsCiAgaW5kZXggYXV0aG9yX2lkeCAoYXV0aG9yX2lkKSwKICBmb3JlaWduIGtleSAoYXV0aG9yX2lkKSByZWZlcmVuY2VzIHVzZXIoaWQpLAoKICB0YWdfZGF0ZSBkYXRlIG5vdCBudWxsCik7Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgaW1vUHJvYmxlbTNUYWdJZCA9IGlkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb250ZXN0X2luc3RhbmNlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -866,10 +866,10 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3JlaWduIGtleSAoYXV0aG9yX2lkKSByZWZlcmVuY2VzIHVzZXIoaWQpLAo=</text>
+        <text encoding="base64">ICBjb250ZXN0X2luc3RhbmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbmRleCBhdXRob3JfaWR4IChhdXRob3JfaWQpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
