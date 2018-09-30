@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
         <mark key="'" line="182" column="43" />
       </file>
+      <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" timestamp="1538337600964">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -505,12 +508,6 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1537224141799">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="39" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-      </file>
       <file name="$USER_HOME$/work/sonosite/requirements-dev.txt" timestamp="1532470574646">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="3" />
@@ -622,8 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="42" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
-      <jump line="88" column="20" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="219" column="49" filename="$USER_HOME$/work/pytorch/torch/lib/include/torch/csrc/autograd/python_engine.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
       <jump line="7" column="10" filename="$USER_HOME$/work/hackathon-vernacular/translator/controller.py" />
@@ -722,6 +717,8 @@
       <jump line="45" column="26" filename="$USER_HOME$/gitlab/serverless-stack-2-api-ts/serverless.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/gitlab/mso/serv-offline/src/libs/dynamodb-lib.ts" />
       <jump line="20" column="6" filename="$USER_HOME$/gitlab/mso/scrape/src/scrape.ts" />
+      <jump line="67" column="30" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -731,7 +728,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>NotesTable</text>
+        <text>solution</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgYXNzZXJ0IGZyb20gJ2Fzc2VydCc7Cg==</text>
@@ -768,15 +765,14 @@
       </register>
     </registers>
     <search>
-      <last-search>NotesTable</last-search>
+      <last-search>solution</last-search>
       <last-offset />
-      <last-pattern>NotesTable</last-pattern>
+      <last-pattern>solution</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5001</entry>
         <entry>batch</entry>
         <entry>batch_size</entry>
         <entry>log</entry>
@@ -796,6 +792,7 @@
         <entry>stage</entry>
         <entry>tableName</entry>
         <entry>NotesTable</entry>
+        <entry>solution</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
