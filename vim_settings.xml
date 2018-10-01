@@ -272,11 +272,11 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0392d131-2de9-44eb-a691-1402f14f0388/console.sql" timestamp="1538370959137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0392d131-2de9-44eb-a691-1402f14f0388/console.sql" timestamp="1538372802067">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="79" />
+        <mark key="^" line="16" column="79" />
+        <mark key="." line="16" column="79" />
       </file>
       <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
         <mark key="[" line="0" column="0" />
@@ -780,17 +780,22 @@
       <jump line="321" column="28" filename="$USER_HOME$/gitlab/mso/problem-api/node_modules/serverless-mysql/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>tags</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3FsOiAnc2VsZWN0IGNyZWF0ZV9kYXRlLCBpbmZvIGZyb20gcHJvYmxlbSB3aGVyZSBpZCA9ID8nLAo=</text>
+      <register name="0" type="4">
+        <text>select hex(pt.problem_id), JSON_OBJECTAGG(hex(tag.id), tag.text) as tags
+from problem
+join problem_tag pt on problem.id = pt.problem_id
+join tag on tag.id = pt.tag_id
+where problem.id = unhex('428CC560C51F11E8935CD7105DE7C33F')
+group by pt.problem_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
