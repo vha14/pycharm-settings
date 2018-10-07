@@ -381,7 +381,8 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" timestamp="1538360298715">
+      <file name="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" timestamp="1538905820045">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -678,9 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="22" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="20" column="20" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
-      <jump line="22" column="16" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
       <jump line="73" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
@@ -778,6 +776,9 @@
       <jump line="46" column="6" filename="$USER_HOME$/gitlab/mso/problem-api/node_modules/serverless-mysql/index.js" />
       <jump line="321" column="28" filename="$USER_HOME$/gitlab/mso/problem-api/node_modules/serverless-mysql/index.js" />
       <jump line="302" column="4" filename="$USER_HOME$/gitlab/mso/problem-api/node_modules/serverless-mysql/index.js" />
+      <jump line="53" column="39" filename="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" />
+      <jump line="43" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -787,7 +788,7 @@
         <text>tags</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>PROBLEM</text>
       </register>
       <register name="0" type="4">
         <text>select hex(pt.problem_id), JSON_OBJECTAGG(hex(tag.id), tag.text) as tags
@@ -829,15 +830,14 @@ group by pt.problem_id</text>
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>PROBLEM</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>PROBLEM</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Gender</entry>
         <entry>en_US</entry>
         <entry>system</entry>
         <entry>Ales</entry>
@@ -857,6 +857,7 @@ group by pt.problem_id</text>
         <entry>default</entry>
         <entry>config</entry>
         <entry>pass</entry>
+        <entry>PROBLEM</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
