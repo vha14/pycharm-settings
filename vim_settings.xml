@@ -115,6 +115,7 @@
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Ann/backend/ml/iob_converter.py" timestamp="1539884533365" />
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -408,11 +409,11 @@
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
       </file>
-      <file name="$USER_HOME$/work/Ann/backend/environment.yml" timestamp="1539882771566">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/work/Ann/backend/environment.yml" timestamp="1539885166626">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
@@ -781,10 +782,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=py37hdbc3d79_0</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>=py37hdbc3d79_0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -793,12 +794,15 @@
         <text>sqlalchemy=1.2.12=py37h1de35cc_0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>deps:
   - allennlp
   - spacy
@@ -811,23 +815,20 @@
   - sqlalchemy=1.2.12
   - sqlalchemy-utils</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC0geG1sdG9kaWN0PT0wLjExLjAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC0gd2Vic29ja2V0LWNsaWVudD09MC41My4wCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC0gd2N3aWR0aD09MC4xLjcK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC0gdW5pZGVjb2RlPT0xLjAuMjIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gdG9yY2g9PTAuNC4xCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gdGVuc29yYm9hcmR4PT0xLjIK</text>
+        <text encoding="base64">ICAgIC0gdG9yY2g9PTAuNC4xCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
