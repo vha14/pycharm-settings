@@ -408,6 +408,12 @@
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
       </file>
+      <file name="$USER_HOME$/work/Ann/backend/environment.yml" timestamp="1539882771566">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="19" column="17" />
+      </file>
       <file name="$USER_HOME$/work/notes-app-client/src/Routes.js" timestamp="1527981935894">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -672,19 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="3" column="6" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="5" column="5" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="16" column="5" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="18" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="35" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="36" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="45" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="46" column="9" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="47" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="53" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="54" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="61" column="5" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="62" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="70" column="5" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="71" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -772,71 +765,83 @@
       <jump line="41" column="49" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="79" column="78" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="104" column="53" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
+      <jump line="5" column="39" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="82" column="4" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="100" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="162" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="58" column="2" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="128" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="9" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="151" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="12" column="11" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="147" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="13" column="8" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="93" column="35" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="31" column="3" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=py37hdbc3d79_0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=py37hdbc3d79_0</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>pdf</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcm9ibGVtSWQgPSBpZCgpOwogICAgICAgIGF3YWl0IGNvbm5lY3Rpb24ucXVlcnkoCiAgICAgICAgICAgICdJTlNFUlQgSU5UTyBgcHJvYmxlbWAgKGlkLCBjcmVhdGVfZGF0ZSkgVkFMVUVTICg/LCA/KScsCiAgICAgICAgICAgIFtwcm9ibGVtSWQsIG5vd10pOwogICAgICAgIGF3YWl0IGNvbm5lY3Rpb24ucXVlcnkoCiAgICAgICAgICAgICdJTlNFUlQgSU5UTyBgcHJvYmxlbV9hdXRob3JgIChpZCwgcHJvYmxlbV9pZCwgYXV0aG9yX2lkLCBlZGl0X2RhdGUsIHJldmlzaW9uLCBjb250ZW50KSBWQUxVRVMgKD8sID8sID8sID8sID8sID8pJywKICAgICAgICAgICAgW2lkKCksIHByb2JsZW1JZCwgbXlBZG1pbklkLCBub3csIDEsIHByb2JsZW0udGV4dF0pOw==</text>
+        <text>sqlalchemy=1.2.12=py37h1de35cc_0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGkgPSAxOwo=</text>
+      <register name="3" type="4">
+        <text>deps:
+  - allennlp
+  - spacy
+  - wand
+  - PIL (pillow?)
+  - pyocr
+  - tqdm
+  - pdfminer
+  - flask
+  - sqlalchemy=1.2.12
+  - sqlalchemy-utils</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnRG9uZSEnKQo=</text>
+        <text encoding="base64">ICAgIC0geG1sdG9kaWN0PT0wLjExLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IGNvbnNvbGUubG9nKCdkb25lJykpOwo=</text>
+        <text encoding="base64">ICAgIC0gd2Vic29ja2V0LWNsaWVudD09MC41My4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC50aGVuKChjb25uZWN0aW9uKSA9PiBhZGRJTU9Qcm9ibGVtcyhjb25uZWN0aW9uKSkK</text>
+        <text encoding="base64">ICAgIC0gd2N3aWR0aD09MC4xLjcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50aGVuKChjb25uZWN0aW9uKSA9PiBpbml0aWFsaXplTXNvKGNvbm5lY3Rpb24pKQo=</text>
+        <text encoding="base64">ICAgIC0gdW5pZGVjb2RlPT0xLjAuMjIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVxdWlyZSgnbXlzcWwyL3Byb21pc2UnKQogICAgLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICBob3N0OiAnbG9jYWxob3N0JywKICAgICAgdXNlcjogJ3VzZXInLAogICAgICBwYXNzd29yZDogJ3Bhc3N3b3JkJywKICAgICAgZGF0ZVN0cmluZ3M6ICdkYXRlJywKICAgICAgZGF0YWJhc2U6ICdtc28nCiAgICB9KQogICAgLnRoZW4oKGNvbm5lY3Rpb24pID0+IGluaXRpYWxpemVNc28oY29ubmVjdGlvbikpCiAgICAudGhlbigoY29ubmVjdGlvbikgPT4gYWRkSU1PUHJvYmxlbXMoY29ubmVjdGlvbikpCiAgICAudGhlbigoKSA9PiBjb25zb2xlLmxvZygnZG9uZScpKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gdG9yY2g9PTAuNC4xCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIC0gdGVuc29yYm9hcmR4PT0xLjIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>pdf</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>pdf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stage</entry>
-        <entry>tableName</entry>
-        <entry>NotesTable</entry>
-        <entry>150</entry>
-        <entry>binary</entry>
-        <entry>code</entry>
-        <entry>text</entry>
-        <entry>100</entry>
-        <entry>1000</entry>
-        <entry>p1</entry>
-        <entry>problem</entry>
         <entry>json</entry>
         <entry>1024</entry>
         <entry>hex</entry>
@@ -846,10 +851,21 @@
         <entry>aop</entry>
         <entry>aops</entry>
         <entry>info</entry>
+        <entry>spacy</entry>
+        <entry>allennlp</entry>
+        <entry>wand</entry>
+        <entry>PIL</entry>
+        <entry>image</entry>
+        <entry>pyocr</entry>
+        <entry>pdfminer</entry>
+        <entry>flask</entry>
+        <entry>sql</entry>
+        <entry>uuid</entry>
+        <entry>pdf</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
