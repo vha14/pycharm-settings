@@ -115,7 +115,6 @@
       <file name="/GraphQL.variables.json" timestamp="1529785151469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Ann/backend/ml/iob_converter.py" timestamp="1539884533365" />
       <file name="$USER_HOME$/work/mso/.gitignore" timestamp="1524004639724">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
@@ -236,13 +235,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitlab/mso/problem-api/docker-compose.yml" timestamp="1537482291659">
-        <mark key="k" line="4" column="22" />
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
       </file>
       <file name="/mso.problem_author [mso@localhost]" timestamp="1538323072711">
         <mark key="[" line="0" column="0" />
@@ -653,6 +645,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531670686374">
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="53" />
@@ -679,7 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="70" column="5" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="71" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="81" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -779,6 +773,7 @@
       <jump line="13" column="8" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="93" column="35" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="31" column="3" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
