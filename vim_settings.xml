@@ -265,11 +265,12 @@
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540261844550">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="30" column="113" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540263073180">
+        <mark key="'" line="38" column="38" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -683,12 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="5" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="71" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="81" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="82" column="9" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="83" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="95" column="29" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -783,56 +778,52 @@
       <jump line="93" column="35" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="31" column="3" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" />
+      <jump line="32" column="47" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="38" column="38" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnVuaXF1ZSgpICAjIDEyLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text encoding="base64">bnVuaXF1ZSgpICAjIDEyLCA=</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGZbJ0RhcmtFbmRzJ10uZGVzY3JpYmUoKSAgIyBwY3Qgb2YgeWllbGQ6IG1lYW46IDEuMiwgbWluOiAwLCBtYXg6IDU5Cg==</text>
+        <text encoding="base64">c2RmWydzdGF0aW9uX25hbWUnXS5udW5pcXVlKCkgICMgMTIsIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGZbJ1JlY2VpdmVyX1ZhcmlldHknXS5udW5pcXVlKCkgICMgMjEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGYuc2hhcGUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGZbJ1JlY2VpdmVyX1ZhcmlldHknXS5udW5pcXVlKCkgICMgMjEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGYuc2hhcGUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>deps:
-  - allennlp
-  - spacy
-  - wand
-  - PIL (pillow?)
-  - pyocr
-  - tqdm
-  - pdfminer
-  - flask
-  - sqlalchemy=1.2.12
-  - sqlalchemy-utils</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
