@@ -170,6 +170,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1540259382414">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -261,6 +264,12 @@
         <mark key="]" line="104" column="33" />
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540261844550">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="30" column="113" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -776,28 +785,43 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
-      <register name="0" type="4">
-        <text>sqlalchemy=1.2.12=py37h1de35cc_0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGZbJ0RhcmtFbmRzJ10uZGVzY3JpYmUoKSAgIyBwY3Qgb2YgeWllbGQ6IG1lYW46IDEuMiwgbWluOiAwLCBtYXg6IDU5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZGZbJ1JlY2VpdmVyX1ZhcmlldHknXS5udW5pcXVlKCkgICMgMjEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGYuc2hhcGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>deps:
   - allennlp
   - spacy
@@ -809,21 +833,6 @@
   - flask
   - sqlalchemy=1.2.12
   - sqlalchemy-utils</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0geG1sdG9kaWN0PT0wLjExLjAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gd2Vic29ja2V0LWNsaWVudD09MC41My4wCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gd2N3aWR0aD09MC4xLjcK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gdW5pZGVjb2RlPT0xLjAuMjIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gdG9yY2g9PTAuNC4xCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
