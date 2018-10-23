@@ -225,6 +225,12 @@
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540259167361">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
         <mark key="]" line="79" column="19" />
@@ -313,6 +319,11 @@
         <mark key="]" line="18" column="60" />
         <mark key="^" line="18" column="60" />
         <mark key="." line="18" column="60" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/explore.py" timestamp="1540259125740">
+        <mark key="'" line="97" column="39" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/components/LoaderButton.js" timestamp="1527976580787">
         <mark key="[" line="12" column="7" />
@@ -680,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="25" filename="$USER_HOME$/work/hackathon-vernacular/ui/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/hackathon-vernacular/ui/client/src/App.js" />
       <jump line="73" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/hparams.py" />
@@ -780,51 +790,47 @@
       <jump line="53" column="39" filename="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" />
       <jump line="43" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/serverless.yml" />
+      <jump line="97" column="39" filename="$USER_HOME$/work/agromo/agromomaster/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>PROBLEM</text>
       </register>
-      <register name="0" type="4">
-        <text>select hex(pt.problem_id), JSON_OBJECTAGG(hex(tag.id), tag.text) as tags
-from problem
-join problem_tag pt on problem.id = pt.problem_id
-join tag on tag.id = pt.tag_id
-where problem.id = unhex('428CC560C51F11E8935CD7105DE7C33F')
-group by pt.problem_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkYXRhRGlyID0gJ2RhdGEnCiAgZGF0YUZpbGUgPSAnVGF2ZXJuRmFybUNvcnJlY3RlZC54bHN4Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIuZGF0ZXMgYXMgbWRhdGVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB0YWcK</text>
+        <text encoding="base64">ZnJvbSBib3RvMy5keW5hbW9kYi5jb25kaXRpb25zIGltcG9ydCBBdHRyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsYW5ndWFnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">am9pbiBzb2x1dGlvbiBzIG9uIHByb2JsZW0uaWQgPSBzLnByb2JsZW1faWQK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0YWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHMuCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsYW5ndWFnZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">am9pbiBzb2x1dGlvbiBzIG9uIHByb2JsZW0uaWQgPSBzLnByb2JsZW1faWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">am9pbiBwcm9ibGVtX2F1dGhvciBwYSBvbiBwcm9ibGVtLmlkID0gcGEucHJvYmxlbV9pZAo=</text>
+        <text encoding="base64">ICAgICAgIHMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
