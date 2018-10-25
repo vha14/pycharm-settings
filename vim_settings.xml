@@ -176,6 +176,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1540510105222">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -268,12 +271,12 @@
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540509239180">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540510074472">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="271" column="50" />
-        <mark key="]" line="271" column="30" />
-        <mark key="^" line="271" column="30" />
-        <mark key="." line="271" column="30" />
+        <mark key="[" line="273" column="96" />
+        <mark key="]" line="273" column="98" />
+        <mark key="^" line="273" column="98" />
+        <mark key="." line="273" column="98" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -795,17 +798,17 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX0Nyb3BZZWFyJylbJ1VTMSddLm1lYW4oKS5zb3J0X2luZGV4KCkK</text>
+      <register name="&quot;" type="4">
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>values(ascending=False)</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX0Nyb3BZZWFyJylbJ1VTMSddLm1lYW4oKS5zb3J0X2luZGV4KCkK</text>
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoWydSZWNlaXZlcl9Dcm9wWWVhcicsICdSZWNlaXZlcl9WYXJpZXR5J10pWydVUzEnXS5jb3VudCgpLnNvcnRfaW5kZXgoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
