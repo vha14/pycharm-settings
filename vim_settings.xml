@@ -268,9 +268,12 @@
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540502557240">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540504426614">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="261" column="58" />
+        <mark key="[" line="222" column="3" />
+        <mark key="]" line="223" column="17" />
+        <mark key="^" line="223" column="17" />
+        <mark key="." line="223" column="17" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -359,6 +362,12 @@
         <mark key="]" line="11" column="19" />
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/DEV/data/data_processing/WSU_WX_query.py" timestamp="1540506286489">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="19" column="54" />
+        <mark key="." line="19" column="54" />
+        <mark key="^" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/tests/steps/init.ts" timestamp="1531632844684">
         <mark key="[" line="8" column="24" />
@@ -567,7 +576,7 @@
       <file name="/Dummy.txt" timestamp="1537482625212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1540348819570">
+      <file name="/code.py" timestamp="1540504747375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/docker-compose.yml" timestamp="1537482572371">
@@ -786,29 +795,29 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>json()</text>
       </register>
       <register name="-" type="4">
-        <text>52</text>
+        <text>json()</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwW3doZWVsaG91c2VfbGVzc3RoYW4xMFsnUmVjZWl2ZXJfVmFyaWV0eSddID09ICdBbHR1cmFzJ11bJ1VTMSddLmRlc2NyaWJlKCkgICMgbWVhbiA9IDUyCg==</text>
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX1ZhcmlldHknKVsnVVMxJ10ubWVhbigpLnNvcnRfdmFsdWVzKGFzY2VuZGluZz1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwW3doZWVsaG91c2VfbGVzc3RoYW4xMFsnUmVjZWl2ZXJfVmFyaWV0eSddID09ICdBbHR1cmFzJ11bJ1VTMSddLmRlc2NyaWJlKCkgICMgbWVhbiA9IDUyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmNvbHVtbnMK</text>
+        <text encoding="base64">CiMgU2VsZWN0aW5nIENvbnRyYWN0X0ZpZWxkU2l0ZUlkIHRoYXQgYXJlIHdpdGhpbiAxMCBtaWxlcyByYWRpdXMgb2YgV2hlZWxob3VzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwWydPdmVyMTBveiddLmhlYWQK</text>
+        <text encoding="base64">c2RmLmNvbHVtbnMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -816,14 +825,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBVUzEgZ3JhZGUgaXMgbG93ZXIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX1ZhcmlldHknKVsnVVMxJ10uZGVzY3JpYmUoKQoKIyAgICAgICAgICAgICAgICAgICAgY291bnQgICAgICAgbWVhbiAgICAgICAgc3RkICAgICAgICBtaW4gICAgICAgIDI1JSAgXAojIFJlY2VpdmVyX1ZhcmlldHkgKHRob3NlIHdpdGggKiBhcmUgbGF0ZSB2YXJpZXRpZXMpCiMgQWxwaW5lIFJ1c3NldCAgICAgICAgNi4wICA2OS41ODgyMTkgICA3Ljc4MDAzNiAgNjEuMTEzMTQ3ICA2My44OTU2NjMKIyBBbHR1cmFzICAgICAgICAgICAgIDI2LjAgIDUyLjUzNDc3OCAgIDUuMDQ5MTk0ICA0My43MDA5NTUgIDQ5LjQxOTUyMQojIENoYWxsZW5nZXIgICAgICAgICAgIDEuMCAgNDcuNzAwOTg0ICAgICAgICBOYU4gIDQ3LjcwMDk4NCAgNDcuNzAwOTg0CiMqIENsZWFyd2F0ZXIgUnVzc2V0ICAgMzEuMCAgNjcuMDg1NDEzICAgNS43MDY1ODEgIDU1LjI1ODA5OCAgNjMuMzU5NjU4CiMgUHJlbWllciBSdXNzZXQgICAgICAgNC4wICA3MS44ODY2NzggICAyLjgyOTgxOSAgNjguNDk2Nzk3ICA3MC40MjE1MzUKIyBSYW5nZXIgUnVzc2V0ICAgICAgMTE0LjAgIDcxLjc5MDY5NyAgIDcuMTI3NTAxICA1MC41MTEzNzcgIDY4LjIyNzQ2MAojKiBSdXNzZXQgQnVyYmFuayAgICAgMzE3LjAgIDUyLjg0NTkzMiAgMTIuNjA2NTQyICAgNS43Nzc2MTQgIDQ2LjM4MzA5NgojIFNoZXBvZHkgICAgICAgICAgICAgNjMuMCAgNzMuMDI4MjA2ICAgNi4xNjMwMzggIDQ5Ljg2ODcwMCAgNzEuMDQ2MDc3CiMqIFVtYXRpbGxhIFJ1c3NldCAgICAxODguMCAgNTIuNzAxMDA1ICAgOC4xNDQ1MTcgIDM0LjMxMjE0NiAgNDYuNTA1NDU2CiMgWXVrb24gR2VtICAgICAgICAgICAgMS4wICA2NS4zMDMyNDMgICAgICAgIE5hTiAgNjUuMzAzMjQzICA2NS4zMDMyNDMKIyAgICAgICAgICAgICAgICAgICAgICAgICAgNTAlICAgICAgICA3NSUgICAgICAgIG1heAojIFJlY2VpdmVyX1ZhcmlldHkKIyBBbHBpbmUgUnVzc2V0ICAgICAgNjcuNjM2NjM0ICA3NS44MTIyNjEgIDc5Ljk1Njc1NwojKiBBbHR1cmFzICAgICAgICAgICAgNTEuNTE1MjI2ICA1Ni4yNDI5MzcgIDYyLjMzMTIwNQojIENoYWxsZW5nZXIgICAgICAgICA0Ny43MDA5ODQgIDQ3LjcwMDk4NCAgNDcuNzAwOTg0CiMgQ2xlYXJ3YXRlciBSdXNzZXQgIDY1LjY3MTYwOSAgNzEuMDcyODc3ICA3OC40MjAxNDgKIyBQcmVtaWVyIFJ1c3NldCAgICAgNzEuOTE4MTg0ICA3My4zODMzMjggIDc1LjIxMzU0OAojIFJhbmdlciBSdXNzZXQgICAgICA3MS40Mzk2NjggIDc2Ljc4NDU4OSAgODYuMTI3NTMzCiMgUnVzc2V0IEJ1cmJhbmsgICAgIDU0LjM5MzY4OSAgNjEuMjAwMDAwICA3NS4zNTg2MzIKIyBTaGVwb2R5ICAgICAgICAgICAgNzIuOTg0ODk5ICA3Ni45Nzc4NTUgIDg0LjA2MTgyOAojIFVtYXRpbGxhIFJ1c3NldCAgICA1My40NDcxODMgIDU4LjQyNDg2MyAgNzMuMjU5NjIxCiMgWXVrb24gR2VtICAgICAgICAgIDY1LjMwMzI0MyAgNjUuMzAzMjQzICA2NS4zMDMyNDMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBPdmVyCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IyBSZWNlaXZlcl9WYXJpZXR5ICh0aG9zZSB3aXRoICogYXJlIGxhdGUgdmFyaWV0aWVzKQojIEFscGluZSBSdXNzZXQgICAgICAgIDYuMCAgNjkuNTg4MjE5ICAgNy43ODAwMzYgIDYxLjExMzE0NyAgNjMuODk1NjYzCiMgQWx0dXJhcyAgICAgICAgICAgICAyNi4wICA1Mi41MzQ3NzggICA1LjA0OTE5NCAgNDMuNzAwOTU1ICA0OS40MTk1MjEKIyBDaGFsbGVuZ2VyICAgICAgICAgICAxLjAgIDQ3LjcwMDk4NCAgICAgICAgTmFOICA0Ny43MDA5ODQgIDQ3LjcwMDk4NAojKiBDbGVhcndhdGVyIFJ1c3NldCAgIDMxLjAgIDY3LjA4NTQxMyAgIDUuNzA2NTgxICA1NS4yNTgwOTggIDYzLjM1OTY1OAojIFByZW1pZXIgUnVzc2V0ICAgICAgIDQuMCAgNzEuODg2Njc4ICAgMi44Mjk4MTkgIDY4LjQ5Njc5NyAgNzAuNDIxNTM1CiMgUmFuZ2VyIFJ1c3NldCAgICAgIDExNC4wICA3MS43OTA2OTcgICA3LjEyNzUwMSAgNTAuNTExMzc3ICA2OC4yMjc0NjAKIyogUnVzc2V0IEJ1cmJhbmsgICAgIDMxNy4wICA1Mi44NDU5MzIgIDEyLjYwNjU0MiAgIDUuNzc3NjE0ICA0Ni4zODMwOTYKIyBTaGVwb2R5ICAgICAgICAgICAgIDYzLjAgIDczLjAyODIwNiAgIDYuMTYzMDM4ICA0OS44Njg3MDAgIDcxLjA0NjA3NwojKiBVbWF0aWxsYSBSdXNzZXQgICAgMTg4LjAgIDUyLjcwMTAwNSAgIDguMTQ0NTE3ICAzNC4zMTIxNDYgIDQ2LjUwNTQ1NgojIFl1a29uIEdlbSAgICAgICAgICAgIDEuMCAgNjUuMzAzMjQzICAgICAgICBOYU4gIDY1LjMwMzI0MyAgNjUuMzAzMjQzCiMgICAgICAgICAgICAgICAgICAgICAgICAgIDUwJSAgICAgICAgNzUlICAgICAgICBtYXgKIyBSZWNlaXZlcl9WYXJpZXR5CiMgQWxwaW5lIFJ1c3NldCAgICAgIDY3LjYzNjYzNCAgNzUuODEyMjYxICA3OS45NTY3NTcKIyogQWx0dXJhcyAgICAgICAgICAgIDUxLjUxNTIyNiAgNTYuMjQyOTM3ICA2Mi4zMzEyMDUKIyBDaGFsbGVuZ2VyICAgICAgICAgNDcuNzAwOTg0ICA0Ny43MDA5ODQgIDQ3LjcwMDk4NAojIENsZWFyd2F0ZXIgUnVzc2V0ICA2NS42NzE2MDkgIDcxLjA3Mjg3NyAgNzguNDIwMTQ4CiMgUHJlbWllciBSdXNzZXQgICAgIDcxLjkxODE4NCAgNzMuMzgzMzI4ICA3NS4yMTM1NDgKIyBSYW5nZXIgUnVzc2V0ICAgICAgNzEuNDM5NjY4ICA3Ni43ODQ1ODkgIDg2LjEyNzUzMwojIFJ1c3NldCBCdXJiYW5rICAgICA1NC4zOTM2ODkgIDYxLjIwMDAwMCAgNzUuMzU4NjMyCiMgU2hlcG9keSAgICAgICAgICAgIDcyLjk4NDg5OSAgNzYuOTc3ODU1ICA4NC4wNjE4MjgKIyBVbWF0aWxsYSBSdXNzZXQgICAgNTMuNDQ3MTgzICA1OC40MjQ4NjMgIDczLjI1OTYyMQojIFl1a29uIEdlbSAgICAgICAgICA2NS4zMDMyNDMgIDY1LjMwMzI0MyAgNjUuMzAzMjQzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
