@@ -268,12 +268,12 @@
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540494641501">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540497671450">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="143" column="67" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="142" column="0" />
+        <mark key="[" line="218" column="23" />
+        <mark key="]" line="218" column="34" />
+        <mark key="." line="218" column="34" />
+        <mark key="^" line="218" column="34" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -789,17 +789,17 @@
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmNvbHVtbnMK</text>
+      <register name="&quot;" type="4">
+        <text>79</text>
       </register>
       <register name="-" type="4">
-        <text>describe()  # mean: 0 (12.5), min: 0 (0), max: 0 (87)!!!!!!!!!!!</text>
+        <text>79</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwWydPdmVyMTBveiddLmRlc2NyaWJlKCkgICMgbWVhbjogMCAoMTIuNSksIG1pbjogMCAoMCksIG1heDogMCAoODcpISEhISEhISEhISEK</text>
+        <text encoding="base64">IyAoT3ZlcjZveiwgVVMxKSA9IDAuODUKIyAoT3ZlcjZveiwgUGF5YWJsZSkgPSAwLjgKIyAoVVMxLCBQYXlhYmxlKSA9IDAuNzkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmNvbHVtbnMK</text>
