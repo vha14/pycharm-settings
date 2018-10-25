@@ -268,12 +268,12 @@
         <mark key="." line="104" column="33" />
         <mark key="^" line="104" column="33" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540504426614">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540509239180">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="222" column="3" />
-        <mark key="]" line="223" column="17" />
-        <mark key="^" line="223" column="17" />
-        <mark key="." line="223" column="17" />
+        <mark key="[" line="271" column="50" />
+        <mark key="]" line="271" column="30" />
+        <mark key="^" line="271" column="30" />
+        <mark key="." line="271" column="30" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -795,17 +795,17 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>json()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX0Nyb3BZZWFyJylbJ1VTMSddLm1lYW4oKS5zb3J0X2luZGV4KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>json()</text>
+        <text>values(ascending=False)</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX1ZhcmlldHknKVsnVVMxJ10ubWVhbigpLnNvcnRfdmFsdWVzKGFzY2VuZGluZz1GYWxzZSkK</text>
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX0Nyb3BZZWFyJylbJ1VTMSddLm1lYW4oKS5zb3J0X2luZGV4KCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
