@@ -267,11 +267,11 @@
         <mark key="]" line="20" column="106" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540586070564">
-        <mark key="[" line="138" column="80" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="139" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield.py" timestamp="1540589115145">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -791,36 +791,39 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.count()  # mean: 30.3, min: 0.17, max: 9206 (NetWt/#of acres)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.count()  # mean: 30.3, min: 0.17, max: 9206 (NetWt/#of acres)</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGZbZGZbJ0lEJ10gPiAxICYgKGRmWydDb250cmFjdF9SZWdpb24nXSA9PSAnQmFzaW4gU291dGgnKV0uY291bnQoKSAgIyAyMCUgaGFzIElEID4gMQo=</text>
+        <text encoding="base64">ZGZbJ1lpZWxkJ10uZGVzY3JpYmUoKSAgIyBtZWFuOiAzMC4zLCBtaW46IDAuMTcsIG1heDogOTIwNiAoTmV0V3QvI29mIGFjcmVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByZXNlYXJjaC5oZWxwIGltcG9ydCBwbG90X2N1cnZlLCB2eV9vdXRfb2ZfYm91bmQsIGFyZWFfdW5kZXJfdGhlX2N1cnZlLCBmaW5kX3RocmVzaG9sZHNfaW50ZXJzZWN0aW9ucwo=</text>
+        <text encoding="base64">MTU3LzY2ODAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZnJvbSByZXNlYXJjaC5oZWxwIGltcG9ydCBwbG90X2N1cnZlLCB2eV9vdXRfb2ZfYm91bmQsIGFyZWFfdW5kZXJfdGhlX2N1cnZlLCBmaW5kX3RocmVzaG9sZHNfaW50ZXJzZWN0aW9ucwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Z2V0X2lweXRob24oKS5tYWdpYygncnVuIGhlbHAuaXB5bmInKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZGF0YWZyYW1lCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGludGVydmFsdHJlZT0yLjEuMAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>deps:
   - allennlp
   - spacy
@@ -833,11 +836,8 @@
   - sqlalchemy=1.2.12
   - sqlalchemy-utils</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0geG1sdG9kaWN0PT0wLjExLjAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gd2Vic29ja2V0LWNsaWVudD09MC41My4wCg==</text>
+        <text encoding="base64">ICAgIC0geG1sdG9kaWN0PT0wLjExLjAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
