@@ -339,6 +339,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" timestamp="1541383048949">
+        <mark key="'" line="18" column="71" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -702,10 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="9" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="83" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="95" column="29" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="98" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -802,6 +801,10 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="363" column="8" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
+      <jump line="16" column="93" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
+      <jump line="18" column="71" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -811,7 +814,7 @@
         <text>count</text>
       </register>
       <register name="/" type="4">
-        <text>pdf</text>
+        <text>vocab</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoWydSZWNlaXZlcl9Dcm9wWWVhcicsICdSZWNlaXZlcl9WYXJpZXR5J10pWydVUzEnXS5jb3VudCgpLnNvcnRfaW5kZXgoKQo=</text>
@@ -848,15 +851,14 @@
       </register>
     </registers>
     <search>
-      <last-search>pdf</last-search>
+      <last-search>vocab</last-search>
       <last-offset />
-      <last-pattern>pdf</last-pattern>
+      <last-pattern>vocab</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>1024</entry>
         <entry>hex</entry>
         <entry>created</entry>
@@ -876,6 +878,7 @@
         <entry>sql</entry>
         <entry>uuid</entry>
         <entry>pdf</entry>
+        <entry>vocab</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
