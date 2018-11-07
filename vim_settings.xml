@@ -176,9 +176,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1541551726920">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -404,6 +401,12 @@
         <mark key="]" line="11" column="57" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541555558548">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="19" column="2" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -676,6 +679,10 @@
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda.py" timestamp="1541555539824">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="160" column="76" />
+      </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531670686374">
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="53" />
@@ -804,44 +811,49 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGZbZGZbMF0gPT0gMF0uY291bnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>wheelhouse_lessthan10</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>wheelhouse_lessthan10</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoWydSZWNlaXZlcl9Dcm9wWWVhcicsICdSZWNlaXZlcl9WYXJpZXR5J10pWydVUzEnXS5jb3VudCgpLnNvcnRfaW5kZXgoKQo=</text>
+      <register name="0" type="4">
+        <text>non_ouput_columns = ['Receiver_CropYear', 'Receiver_Supplier', 'Receiver_Field',
+       'Contract_FieldSiteId', 'Contract_FieldLatitude',
+       'Contract_FieldLongitude', 'Receiver_Variety', 'Contract_FieldAcres',
+       'Receiver_ContractType', 'Receiver_Contract', 'Contract_System',
+       'Contract_Region']
+wheelhouse_lessthan10.drop(non_ouput_columns, axis=1).corr(method='spearman')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbZGZbMF0gPT0gMF0uY291bnQoKQo=</text>
+        <text encoding="base64">ZGZbJ1VTMSddLmRlc2NyaWJlKCkgICMgZ3JhZGUgb2YgcG90YXRvLCBhcyBwZXJjZW50YWdlIG9mIHlpZWxkOiBtZWFuOiA2MywgbWluOiAwLCBtYXg6IDk2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">ZGZbJ0RhcmtFbmRzJ10uZGVzY3JpYmUoKSAgIyBwY3Qgb2YgeWllbGQ6IG1lYW46IDEuMiwgbWluOiAwLCBtYXg6IDU5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbJ0lEJ10uZGVzY3JpYmUoKSAgIyBpbnRlcm5hbCBkaXNjb2xvcmF0aW9uOiBtZWFuOiAwLjM2LCBtaW46IDAsIG1heDogMTEuMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbJ0Jyc0ZyZWUnXS5kZXNjcmliZSgpICAjIGJydWlzZS1mcmVlLCBhcyBwZXJjZW50YWdlOiBtZWFuOiA2MiwgbWluOiAwLCBtYXg6IDEwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgU2VsZWN0aW5nIENvbnRyYWN0X0ZpZWxkU2l0ZUlkIHRoYXQgYXJlIHdpdGhpbiAxMCBtaWxlcyByYWRpdXMgb2YgV2hlZWxob3VzZQo=</text>
+        <text encoding="base64">ZGZbJ092ZXIxMG96J10uZGVzY3JpYmUoKSAgIyBtZWFuOiAxMi41LCBtaW46IDAsIG1heDo4Nwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2RmLmNvbHVtbnMK</text>
+        <text encoding="base64">ZGZbJ092ZXI2b3onXS5kZXNjcmliZSgpICAjIG1lYW46IDY0LCBtaW46IDAsIG1heDogOTQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbJ1NwZWNHcmF2J10uZGVzY3JpYmUoKSAgIyBtZWFuIChhbmQgMjUlKTogMS4wOCwgbWluOiAxLjA2LCBtYXg6IDEuMTAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmdyb3VwYnkoJ1JlY2VpdmVyX1ZhcmlldHknKVsnVVMxJ10uZGVzY3JpYmUoKQoKIyAgICAgICAgICAgICAgICAgICAgY291bnQgICAgICAgbWVhbiAgICAgICAgc3RkICAgICAgICBtaW4gICAgICAgIDI1JSAgXAojIFJlY2VpdmVyX1ZhcmlldHkgKHRob3NlIHdpdGggKiBhcmUgbGF0ZSB2YXJpZXRpZXMpCiMgQWxwaW5lIFJ1c3NldCAgICAgICAgNi4wICA2OS41ODgyMTkgICA3Ljc4MDAzNiAgNjEuMTEzMTQ3ICA2My44OTU2NjMKIyBBbHR1cmFzICAgICAgICAgICAgIDI2LjAgIDUyLjUzNDc3OCAgIDUuMDQ5MTk0ICA0My43MDA5NTUgIDQ5LjQxOTUyMQojIENoYWxsZW5nZXIgICAgICAgICAgIDEuMCAgNDcuNzAwOTg0ICAgICAgICBOYU4gIDQ3LjcwMDk4NCAgNDcuNzAwOTg0CiMqIENsZWFyd2F0ZXIgUnVzc2V0ICAgMzEuMCAgNjcuMDg1NDEzICAgNS43MDY1ODEgIDU1LjI1ODA5OCAgNjMuMzU5NjU4CiMgUHJlbWllciBSdXNzZXQgICAgICAgNC4wICA3MS44ODY2NzggICAyLjgyOTgxOSAgNjguNDk2Nzk3ICA3MC40MjE1MzUKIyBSYW5nZXIgUnVzc2V0ICAgICAgMTE0LjAgIDcxLjc5MDY5NyAgIDcuMTI3NTAxICA1MC41MTEzNzcgIDY4LjIyNzQ2MAojKiBSdXNzZXQgQnVyYmFuayAgICAgMzE3LjAgIDUyLjg0NTkzMiAgMTIuNjA2NTQyICAgNS43Nzc2MTQgIDQ2LjM4MzA5NgojIFNoZXBvZHkgICAgICAgICAgICAgNjMuMCAgNzMuMDI4MjA2ICAgNi4xNjMwMzggIDQ5Ljg2ODcwMCAgNzEuMDQ2MDc3CiMqIFVtYXRpbGxhIFJ1c3NldCAgICAxODguMCAgNTIuNzAxMDA1ICAgOC4xNDQ1MTcgIDM0LjMxMjE0NiAgNDYuNTA1NDU2CiMgWXVrb24gR2VtICAgICAgICAgICAgMS4wICA2NS4zMDMyNDMgICAgICAgIE5hTiAgNjUuMzAzMjQzICA2NS4zMDMyNDMKIyAgICAgICAgICAgICAgICAgICAgICAgICAgNTAlICAgICAgICA3NSUgICAgICAgIG1heAojIFJlY2VpdmVyX1ZhcmlldHkKIyBBbHBpbmUgUnVzc2V0ICAgICAgNjcuNjM2NjM0ICA3NS44MTIyNjEgIDc5Ljk1Njc1NwojKiBBbHR1cmFzICAgICAgICAgICAgNTEuNTE1MjI2ICA1Ni4yNDI5MzcgIDYyLjMzMTIwNQojIENoYWxsZW5nZXIgICAgICAgICA0Ny43MDA5ODQgIDQ3LjcwMDk4NCAgNDcuNzAwOTg0CiMgQ2xlYXJ3YXRlciBSdXNzZXQgIDY1LjY3MTYwOSAgNzEuMDcyODc3ICA3OC40MjAxNDgKIyBQcmVtaWVyIFJ1c3NldCAgICAgNzEuOTE4MTg0ICA3My4zODMzMjggIDc1LjIxMzU0OAojIFJhbmdlciBSdXNzZXQgICAgICA3MS40Mzk2NjggIDc2Ljc4NDU4OSAgODYuMTI3NTMzCiMgUnVzc2V0IEJ1cmJhbmsgICAgIDU0LjM5MzY4OSAgNjEuMjAwMDAwICA3NS4zNTg2MzIKIyBTaGVwb2R5ICAgICAgICAgICAgNzIuOTg0ODk5ICA3Ni45Nzc4NTUgIDg0LjA2MTgyOAojIFVtYXRpbGxhIFJ1c3NldCAgICA1My40NDcxODMgIDU4LjQyNDg2MyAgNzMuMjU5NjIxCiMgWXVrb24gR2VtICAgICAgICAgIDY1LjMwMzI0MyAgNjUuMzAzMjQzICA2NS4zMDMyNDMK</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
