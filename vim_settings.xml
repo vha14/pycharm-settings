@@ -402,11 +402,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541556213113">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="20" />
-        <mark key="." line="47" column="20" />
-        <mark key="^" line="47" column="20" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541558387001">
+        <mark key="[" line="37" column="95" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="83" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -679,9 +679,9 @@
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda.py" timestamp="1541556151458">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="35" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda.py" timestamp="1541557679334">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="159" column="24" />
       </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531670686374">
         <mark key="[" line="25" column="53" />
@@ -812,43 +812,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>df</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>df</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBnZW9weS5kaXN0YW5jZSBpbXBvcnQgZ2VvZGVzaWMK</text>
+      <register name="0" type="4">
+        <text>non_ouput_columns = ['Receiver_CropYear', 'Receiver_Supplier', 'Receiver_Field',
+       'Contract_FieldSiteId', 'Contract_FieldLatitude',
+       'Contract_FieldLongitude', 'Receiver_Variety', 'Contract_FieldAcres',
+       'Receiver_ContractType', 'Receiver_Contract', 'Contract_System',
+       'Contract_Region']</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IyUlCm5vbl9vdXB1dF9jb2x1bW5zID0gWydSZWNlaXZlcl9Dcm9wWWVhcicsICdSZWNlaXZlcl9TdXBwbGllcicsICdSZWNlaXZlcl9GaWVsZCcsCiAgICAgICAnQ29udHJhY3RfRmllbGRTaXRlSWQnLCAnQ29udHJhY3RfRmllbGRMYXRpdHVkZScsCiAgICAgICAnQ29udHJhY3RfRmllbGRMb25naXR1ZGUnLCAnUmVjZWl2ZXJfVmFyaWV0eScsICdDb250cmFjdF9GaWVsZEFjcmVzJywKICAgICAgICdSZWNlaXZlcl9Db250cmFjdFR5cGUnLCAnUmVjZWl2ZXJfQ29udHJhY3QnLCAnQ29udHJhY3RfU3lzdGVtJywKICAgICAgICdDb250cmFjdF9SZWdpb24nXQpkZi5kcm9wKG5vbl9vdXB1dF9jb2x1bW5zLCBheGlzPTEpLmNvcnIobWV0aG9kPSdzcGVhcm1hbicpCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyAxIG1pbGUgPSAxLDYwOSBtZXRlcnMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGZbJ1lpZWxkJ10uZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwLmNvbHVtbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGYuY29sdW1ucwo=</text>
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwWydQYXlhYmxlJ10uZGVzY3JpYmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbJ1VTMSddLmRlc2NyaWJlKCkgICMgZ3JhZGUgb2YgcG90YXRvLCBhcyBwZXJjZW50YWdlIG9mIHlpZWxkOiBtZWFuOiA2MywgbWluOiAwLCBtYXg6IDk2Cg==</text>
+        <text encoding="base64">d2hlZWxob3VzZV9sZXNzdGhhbjEwWydZaWVsZCddLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbJ0RhcmtFbmRzJ10uZGVzY3JpYmUoKSAgIyBwY3Qgb2YgeWllbGQ6IG1lYW46IDEuMiwgbWluOiAwLCBtYXg6IDU5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGZbJ0lEJ10uZGVzY3JpYmUoKSAgIyBpbnRlcm5hbCBkaXNjb2xvcmF0aW9uOiBtZWFuOiAwLjM2LCBtaW46IDAsIG1heDogMTEuMgo=</text>
+        <text encoding="base64">c2RmLnNoYXBlICAjICg2NjgwLCA5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGZbJ0Jyc0ZyZWUnXS5kZXNjcmliZSgpICAjIGJydWlzZS1mcmVlLCBhcyBwZXJjZW50YWdlOiBtZWFuOiA2MiwgbWluOiAwLCBtYXg6IDEwMAo=</text>
+        <text encoding="base64">c2RmID0gcGQucmVhZF9jc3YoZiJ7ZGF0YURpcn0ve3N0YXRpb25GaWxlfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGZbJ092ZXIxMG96J10uZGVzY3JpYmUoKSAgIyBtZWFuOiAxMi41LCBtaW46IDAsIG1heDo4Nwo=</text>
+        <text encoding="base64">c3RhdGlvbkZpbGUgPSAnTGFtYldlc3RvbkZpZWxkc1dpdGhTdGF0aW9ucy5jc3YnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
