@@ -418,12 +418,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541610161742">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541611214065">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="147" column="18" />
-        <mark key="]" line="147" column="15" />
-        <mark key="^" line="147" column="15" />
-        <mark key="." line="147" column="15" />
+        <mark key="[" line="147" column="21" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -829,11 +829,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTI4OC83Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[0].__class__</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[0].__class__</text>
       </register>
       <register name="/" type="4">
         <text>query_</text>
