@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1541446122143">
+      <file name="/start_script.py" timestamp="1541609408341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso-scrape/jest.config.js" timestamp="1536301363232">
@@ -418,6 +418,13 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541610161742">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="147" column="18" />
+        <mark key="]" line="147" column="15" />
+        <mark key="^" line="147" column="15" />
+        <mark key="." line="147" column="15" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -720,8 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="95" column="29" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="98" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -820,46 +825,48 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="48" column="18" filename="$USER_HOME$/work/agromo/DEV/data/data_processing/plant_productivity_processing.py" />
       <jump line="51" column="41" filename="$USER_HOME$/work/agromo/DEV/data/data_processing/plant_productivity_processing.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MTc2NjUvMTg1Cg==</text>
+        <text encoding="base64">MTI4OC83Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>daily</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>query_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmX2RhaWx5LnRvX2Nzdihyb290RGlyL2Yie3llYXJ9X2RhaWx5LmNzdiIpCg==</text>
+        <text encoding="base64">ZGF0YURpciA9ICdkYXRhL0xhbWJXZXN0b25GbGlnaHQxLzZZZWFyWWllbGQnCmRhdGFGaWxlID0gJzIwMTItMjAxNyBZaWVsZCAmIFF1YWxpdHkueGxzeCcKCmRmID0gcGQucmVhZF9leGNlbChpbz1mIntkYXRhRGlyfS97ZGF0YUZpbGV9IikgICMgNiw2ODAgcm93cwpkZlsnWWllbGQnXS5kZXNjcmliZSgpICAjIG1lYW46IDMwLjMsIG1pbjogMC4xNywgbWF4OiA5MjA2IChOZXRXdC8jb2YgYWNyZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTc2NjUvMTg1Cg==</text>
+        <text encoding="base64">MTI4OC83Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbJ1lpZWxkJ10uZGVzY3JpYmUoKSAgIyBtZWFuOiAzMC4zLCBtaW46IDAuMTcsIG1heDogOTIwNiAoTmV0V3QvI29mIGFjcmVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChyb290RGlyLyJme3llYXJ9IikubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZfeWVhcmx5ID0gcGQuRGF0YUZyYW1lKCkK</text>
+        <text encoding="base64">ZGF0YURpciA9ICdkYXRhL0xhbWJXZXN0b25GbGlnaHQxLzZZZWFyWWllbGQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTc2NjUvMTg1Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgU2VsZWN0aW5nIENvbnRyYWN0X0ZpZWxkU2l0ZUlkIHRoYXQgYXJlIHdpdGhpbiAxMCBtaWxlcyByYWRpdXMgb2YgV2hlZWxob3VzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2RmLmNvbHVtbnMK</text>
+        <text encoding="base64">ICAgIChyb290RGlyLyJme3llYXJ9IikubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
