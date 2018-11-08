@@ -402,11 +402,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541699719471">
-        <mark key="[" line="147" column="6" />
-        <mark key="]" line="147" column="6" />
-        <mark key="." line="147" column="6" />
-        <mark key="^" line="148" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541719703859">
+        <mark key="'" line="153" column="75" />
+        <mark key="[" line="153" column="76" />
+        <mark key="]" line="153" column="77" />
+        <mark key="." line="153" column="77" />
+        <mark key="^" line="153" column="77" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -709,7 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="9" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="83" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -809,13 +809,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
+      <jump line="153" column="75" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -824,31 +825,31 @@
         <text encoding="base64">ZGYuZ3JvdXBieSgnUmVjZWl2ZXJfQ3JvcFllYXInKVsnUGF5YWJsZSddLm1lYW4oKS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW52X2RmID0gZW52X2RmW2Vudl9kZi5pbmRleC5tYXAobGFtYmRhIHg6IHgueWVhciA8IDIwMTgpXS5jb3VudCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW52X2RmLmlsb2NbMF0K</text>
+        <text encoding="base64">ZW52X2RmLmNvdW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW52X2RmLmxvY1s6ZW52X2RmLmluZGV4WzFdLCBbJ0VUcihtbSknXV0K</text>
+        <text encoding="base64">Zm9yIHllYXIsIHNlYXNvbl8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW52X2RmLmluZGV4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW52X2RmWzA6MV0K</text>
+        <text encoding="base64">ZW52X2RmLmlsb2NbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBVbWF0aWxsYSBoYXMgaGlnaCB5aWVsZCBidXQgYSBiaXQgYmVsb3cgYXZlcmFnZSBQYXlhYmxlCg==</text>
+        <text encoding="base64">ZW52X2RmLmxvY1s6ZW52X2RmLmluZGV4WzFdLCBbJ0VUcihtbSknXV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSdXNzZXQgQnVyYmFuayBpcyBhdmVyYWdlIGluIGJvdGggWWllbGQgYW5kIFBheWFibGUK</text>
+        <text encoding="base64">ZW52X2RmLmluZGV4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSYW5nZXIgaGFzIHRoZSBzZWNvbmQgaGlnaGVzdCBQYXlhYmxlIGJ1dCBhdmVyYWdlIFlpZWxkCg==</text>
+        <text encoding="base64">ZW52X2RmWzA6MV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBXaXRoIFNoZXBvZHksIGl0J3MgcmV2ZXJzZWQ6IGxvdyB5aWVsZCBidXQgaGlnaCBQYXlhYmxlCg==</text>
+        <text encoding="base64">IyBVbWF0aWxsYSBoYXMgaGlnaCB5aWVsZCBidXQgYSBiaXQgYmVsb3cgYXZlcmFnZSBQYXlhYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
