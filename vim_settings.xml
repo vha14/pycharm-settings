@@ -402,12 +402,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541728858979">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541734428732">
         <mark key="'" line="178" column="16" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="223" column="66" />
+        <mark key="[" line="155" column="72" />
+        <mark key="]" line="155" column="73" />
+        <mark key="." line="155" column="73" />
+        <mark key="^" line="155" column="73" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -812,11 +812,11 @@
       <jump line="181" column="16" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZWFyXD4=</text>
