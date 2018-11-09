@@ -402,12 +402,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541721905635">
-        <mark key="'" line="159" column="75" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="162" column="49" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541728858979">
+        <mark key="'" line="178" column="16" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+        <mark key="^" line="223" column="66" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -710,7 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -810,63 +809,61 @@
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="153" column="75" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="181" column="16" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>pdf</text>
+        <text encoding="base64">XDx5ZWFyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>env_df.groupby(season_stage):</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmVzLmF0W3llYXIsIGYic29pbF9oaWdodGVtcHt0cmltZXN0ZXJfaWR4fSJdID0gZ1tnID4gMzBdLmNvdW50KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdyb3VwLnNoYXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>for (year, trimester_idx), group in env_df.groupby(season_stage):
-    print(f&quot;{year}-{trimester_idx}&quot;)
-    print(group.c</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdyb3VwLl9fY2xhc3NfXykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW52X2RmLmdyb3VwYnkoc2Vhc29uX3N0YWdlKS5ncm91cHNbKDIwMTIsIDEpXS5zaGFwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW52X2RmLmtleXMoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW52X2RmID0gZW52X2RmW2Vudl9kZi5pbmRleC5tYXAobGFtYmRhIHg6IHgueWVhciA8IDIwMTgpXS5jb3VudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW52X2RmLmNvdW50KCkK</text>
+        <text encoding="base64">Z3JvdXBbJ0VUbyhtbSknXS5tZWFuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pdf</last-search>
+      <last-search encoding="base64">XDx5ZWFyXD4=</last-search>
       <last-offset />
-      <last-pattern>pdf</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx5ZWFyXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>1024</entry>
         <entry>hex</entry>
         <entry>created</entry>
@@ -886,6 +883,7 @@
         <entry>sql</entry>
         <entry>uuid</entry>
         <entry>pdf</entry>
+        <entry encoding="base64">XDx5ZWFyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
