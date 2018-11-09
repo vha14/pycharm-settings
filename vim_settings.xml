@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1541551819082">
+      <file name="/start_script.py" timestamp="1541788594814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso-scrape/jest.config.js" timestamp="1536301363232">
@@ -176,7 +176,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1541784950453">
+      <file name="/Python Console" timestamp="1541788632434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
@@ -239,11 +239,11 @@
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1541786907982">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1541787768141">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -837,7 +837,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3NlcyA9IHJlYWRfY2xhc3NlcyhwYXRoLydjbGFzc2VzLnR4dCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -849,31 +849,31 @@
         <text encoding="base64">ZGYuZ3JvdXBieSgnUmVjZWl2ZXJfQ3JvcFllYXInKVsnUGF5YWJsZSddLm1lYW4oKS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3NlcyA9IHJlYWRfY2xhc3NlcyhwYXRoLydjbGFzc2VzLnR4dCcpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">dHJhaW5fZHMgPSBUZXh0RGF0YXNldC5mcm9tX2RmKHBhdGgsIGRmLCBjbGFzc2VzPWNsYXNzZXMpCmRhdGFfbG0gPSBUZXh0TE1EYXRhQnVuY2guZnJvbV9jc3YocGF0aCkKZGF0YV9jbGFzID0gVGV4dENsYXNEYXRhQnVuY2guZnJvbV9jc3YocGF0aCwgdm9jYWI9ZGF0YV9sbS50cmFpbl9kcy52b2NhYiwgYnM9MzIpCmxlYXJuID0gUk5OTGVhcm5lci5sYW5ndWFnZV9tb2RlbChkYXRhX2xtLCBwcmV0cmFpbmVkX21vZGVsPVVSTHMuV1QxMDMsIGRyb3BfbXVsdD0wLjUpCmxlYXJuLmZpdF9vbmVfY3ljbGUoMSwgMWUtMikKbGVhcm4uc2F2ZV9lbmNvZGVyKCdmdF9lbmMnKQoKbGVhcm4gPSBSTk5MZWFybmVyLmNsYXNzaWZpZXIoZGF0YV9jbGFzLCBkcm9wX211bHQ9MC41KQpsZWFybi5sb2FkX2VuY29kZXIoJ2Z0X2VuYycpCmxlYXJuLmZpdF9vbmVfY3ljbGUoMSwgMWUtMikK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW52X2RmLmlsb2NbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW52X2RmLmxvY1s6ZW52X2RmLmluZGV4WzFdLCBbJ0VUcihtbSknXV0K</text>
+        <text encoding="base64">ZGYgPSBwZC5yZWFkX2NzdihwYXRoLyd0cmFpbi5jc3YnLCBoZWFkZXI9Tm9uZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW52X2RmLmluZGV4Cg==</text>
+        <text encoding="base64">Y2xhc3NlcyA9IHJlYWRfY2xhc3NlcyhwYXRoLydjbGFzc2VzLnR4dCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW52X2RmWzA6MV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBVbWF0aWxsYSBoYXMgaGlnaCB5aWVsZCBidXQgYSBiaXQgYmVsb3cgYXZlcmFnZSBQYXlhYmxlCg==</text>
+        <text encoding="base64">ZW52X2RmLmlsb2NbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSdXNzZXQgQnVyYmFuayBpcyBhdmVyYWdlIGluIGJvdGggWWllbGQgYW5kIFBheWFibGUK</text>
+        <text encoding="base64">ZW52X2RmLmxvY1s6ZW52X2RmLmluZGV4WzFdLCBbJ0VUcihtbSknXV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBSYW5nZXIgaGFzIHRoZSBzZWNvbmQgaGlnaGVzdCBQYXlhYmxlIGJ1dCBhdmVyYWdlIFlpZWxkCg==</text>
+        <text encoding="base64">ZW52X2RmLmluZGV4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
