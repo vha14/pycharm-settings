@@ -402,12 +402,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541721647818">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541721905635">
         <mark key="'" line="159" column="75" />
-        <mark key="[" line="154" column="21" />
-        <mark key="]" line="154" column="20" />
-        <mark key="." line="154" column="20" />
-        <mark key="^" line="154" column="20" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="162" column="49" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -812,11 +812,11 @@
       <jump line="153" column="75" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>columns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name="-" type="4">
-        <text>columns</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -825,33 +825,33 @@
         <text>env_df.groupby(season_stage):</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGYK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KGdyb3VwLnNoYXBlKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>for (year, trimester_idx), group in env_df.groupby(season_stage):
     print(f&quot;{year}-{trimester_idx}&quot;)
     print(group.c</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KGdyb3VwLl9fY2xhc3NfXykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZlYXR1cmVzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZW52X2RmLmdyb3VwYnkoc2Vhc29uX3N0YWdlKS5ncm91cHNbKDIwMTIsIDEpXS5zaGFwZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZW52X2RmLmtleXMoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZW52X2RmID0gZW52X2RmW2Vudl9kZi5pbmRleC5tYXAobGFtYmRhIHg6IHgueWVhciA8IDIwMTgpXS5jb3VudCgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZW52X2RmLmNvdW50KCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIHllYXIsIHNlYXNvbl8K</text>
+        <text encoding="base64">ZW52X2RmLmNvdW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
