@@ -239,11 +239,11 @@
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1541266524311">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="35" column="18" />
+      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1541786907982">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -836,8 +836,8 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3NlcyA9IHJlYWRfY2xhc3NlcyhwYXRoLydjbGFzc2VzLnR4dCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -849,31 +849,31 @@
         <text encoding="base64">ZGYuZ3JvdXBieSgnUmVjZWl2ZXJfQ3JvcFllYXInKVsnUGF5YWJsZSddLm1lYW4oKS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3NlcyA9IHJlYWRfY2xhc3NlcyhwYXRoLydjbGFzc2VzLnR4dCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW52X2RmLmlsb2NbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW52X2RmLmxvY1s6ZW52X2RmLmluZGV4WzFdLCBbJ0VUcihtbSknXV0K</text>
+        <text encoding="base64">ZW52X2RmLmlsb2NbMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW52X2RmLmluZGV4Cg==</text>
+        <text encoding="base64">ZW52X2RmLmxvY1s6ZW52X2RmLmluZGV4WzFdLCBbJ0VUcihtbSknXV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW52X2RmWzA6MV0K</text>
+        <text encoding="base64">ZW52X2RmLmluZGV4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBVbWF0aWxsYSBoYXMgaGlnaCB5aWVsZCBidXQgYSBiaXQgYmVsb3cgYXZlcmFnZSBQYXlhYmxlCg==</text>
+        <text encoding="base64">ZW52X2RmWzA6MV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSdXNzZXQgQnVyYmFuayBpcyBhdmVyYWdlIGluIGJvdGggWWllbGQgYW5kIFBheWFibGUK</text>
+        <text encoding="base64">IyBVbWF0aWxsYSBoYXMgaGlnaCB5aWVsZCBidXQgYSBiaXQgYmVsb3cgYXZlcmFnZSBQYXlhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSYW5nZXIgaGFzIHRoZSBzZWNvbmQgaGlnaGVzdCBQYXlhYmxlIGJ1dCBhdmVyYWdlIFlpZWxkCg==</text>
+        <text encoding="base64">IyBSdXNzZXQgQnVyYmFuayBpcyBhdmVyYWdlIGluIGJvdGggWWllbGQgYW5kIFBheWFibGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBXaXRoIFNoZXBvZHksIGl0J3MgcmV2ZXJzZWQ6IGxvdyB5aWVsZCBidXQgaGlnaCBQYXlhYmxlCg==</text>
+        <text encoding="base64">IyBSYW5nZXIgaGFzIHRoZSBzZWNvbmQgaGlnaGVzdCBQYXlhYmxlIGJ1dCBhdmVyYWdlIFlpZWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
