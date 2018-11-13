@@ -423,12 +423,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542145125260">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="45" column="45" />
-        <mark key="." line="45" column="45" />
-        <mark key="^" line="45" column="45" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542147018221">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -739,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="12" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -839,61 +838,61 @@
       <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="27" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.7/site-packages/sklearn/datasets/twenty_newsgroups.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z3JvdXBlZC51bnN0YWNrKGxldmVsPTApLmhlYWQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>$columns</text>
       </register>
       <register name="-" type="4">
-        <text>Variety</text>
+        <text>$columns</text>
       </register>
       <register name="/" type="4">
-        <text>codec</text>
+        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYuZ3JvdXBieShbJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ1JlY2VpdmVyX1ZhcmlldHknLCAnUmVjZWl2ZXJfU3VwcGxpZXInXSlbJ1lpZWxkJ10uYXBwbHkobGFtYmRhIHg6ICh4Lm1lYW4oKSwgeC5zdGQoKSwgeC5jb3VudCgpKSkK</text>
+        <text encoding="base64">Z3JvdXBlZCA9IGRmLmdyb3VwYnkoWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbiddKVsnWWllbGQnXS5hcHBseShsYW1iZGEgeDogW3guY291bnQoKSwgeC5taW4oKSwgeC5tYXgoKSwgeC5tZWRpYW4oKV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JvdXBlZC51bnN0YWNrKGxldmVsPTApLmhlYWQoKQo=</text>
+        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXBlZC5oZWFkKCkK</text>
+        <text encoding="base64">Z3JvdXBlZC5jb2x1bW5zID0gWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbicsICdZaWVsZFN0YXRzJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVuKGdyb3VwZWQpCg==</text>
+        <text encoding="base64">Z3JvdXBlZFsnWWllbGRTdGF0cyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVuKGdyb3VwZWQpCg==</text>
+        <text encoding="base64">Z3JvdXBlZC5jb2x1bW5zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JvdXBlZC5oZWFkKCkK</text>
+        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JvdXBlZCA9IGRmLmdyb3VwYnkoWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbiddKVsnWWllbGQnXS5hZ2dyZWdhdGUobnAuc3RhdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JvdXBlZGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3N0YXRpb25bJ1NUQVRJT05fTkFNRSddIGZvciBpZHgsIHN0YXRpb24gaW4gc3RhdGlvbl9pbmZvLml0ZXJyb3dzKCldCg==</text>
+        <text encoding="base64">Z3JvdXBlZC5rZXlzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdGlvbl9pbmZvWydTVEFUSU9OX05BTUUnXQo=</text>
+        <text encoding="base64">Z3JvdXBlZFsnUnVzc2V0IEJ1cmJhbmsnLCAyMDE3LCAnV2hlZWxob3VzZSddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>codec</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
       <last-offset />
-      <last-pattern>codec</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>let</entry>
         <entry>problem.</entry>
         <entry>aop</entry>
         <entry>aops</entry>
@@ -913,6 +912,7 @@
         <entry>labels</entry>
         <entry>query_</entry>
         <entry>codec</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
