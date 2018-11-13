@@ -176,9 +176,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1542079748011">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -367,6 +364,9 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/nlp/classify-sklearn.py" timestamp="1542087362871">
+        <mark key="'" line="37" column="51" />
       </file>
       <file name="$USER_HOME$/work/sonosite/io.py" timestamp="1532192283419">
         <mark key="[" line="11" column="4" />
@@ -704,7 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="95" column="29" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="98" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="101" column="15" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -804,6 +803,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
       <jump line="16" column="93" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
       <jump line="18" column="71" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/text/data.py" />
+      <jump line="37" column="51" filename="$USER_HOME$/work/nlp/classify-sklearn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
