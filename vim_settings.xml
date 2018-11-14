@@ -424,12 +424,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542231167868">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542233775117">
         <mark key="'" line="173" column="0" />
-        <mark key="[" line="297" column="59" />
-        <mark key="]" line="297" column="59" />
-        <mark key="." line="297" column="59" />
-        <mark key="^" line="297" column="57" />
+        <mark key="[" line="210" column="38" />
+        <mark key="]" line="210" column="39" />
+        <mark key="." line="210" column="39" />
+        <mark key="^" line="210" column="39" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -843,46 +843,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Age Mean&quot;</text>
+        <text>39</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Age Mean&quot;</text>
+        <text>39</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
       </register>
-      <register name="0" type="4">
-        <text>drop_columns = ['Receiver_Variety', 'Receiver_CropYear', 'Nearest_Station', 'Entry_Count', 'Min_Yield', 'Median_Yield']
-russet = final_df[final_df['Receiver_Variety'] == 'Russet Burbank']
-russet = russet.drop(drop_columns, axis=1)
-russet.shape  # (65, 29)</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmlkZ2VfbSA9IFJpZGdlKG5vcm1hbGl6ZT1UcnVlKQpyaWRnZV9tLmZpdChydXNzZXQsIG1heF95aWVsZF95KQpyaWRnZV9tLnNjb3JlKHJ1c3NldCwgbWF4X3lpZWxkX3kpICAjIDAuMzkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmlkZ2VfbS5zdW1tYXJ5KCkK</text>
+        <text encoding="base64">cnVzc2V0LnNoYXBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cnVzc2V0W1snTWF4X1lpZWxkJywgJ21heF90ZW1wMiddXQo=</text>
+        <text encoding="base64">bGVuKHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGFzc29fbS5nZXRfcGFyYW1zKCkK</text>
+        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29lZmYK</text>
+        <text encoding="base64">cmlkZ2VfbS5zdW1tYXJ5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmlkZ2VfbS5jb2VmXy50b2xpc3QoKQo=</text>
+        <text encoding="base64">cnVzc2V0W1snTWF4X1lpZWxkJywgJ21heF90ZW1wMiddXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29lZmZbMF1kZAo=</text>
+        <text encoding="base64">bGFzc29fbS5nZXRfcGFyYW1zKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Y29lZmYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVuKG0uY29lZl8pCg==</text>
+        <text encoding="base64">cmlkZ2VfbS5jb2VmXy50b2xpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
