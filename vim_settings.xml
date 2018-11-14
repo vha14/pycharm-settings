@@ -423,12 +423,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542157647934">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542215807396">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="146" column="150" />
-        <mark key="^" line="146" column="150" />
-        <mark key="." line="146" column="150" />
+        <mark key="[" line="147" column="38" />
+        <mark key="]" line="147" column="56" />
+        <mark key="^" line="147" column="56" />
+        <mark key="." line="147" column="56" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -842,10 +842,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>left_on</text>
+        <text>['Receiver_Variety'].nunique()</text>
       </register>
       <register name="-" type="4">
-        <text>left_on</text>
+        <text>['Receiver_Variety'].nunique()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
