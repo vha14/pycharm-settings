@@ -76,9 +76,9 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda-wheelhouse.py" timestamp="1542138882466">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="131" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda-wheelhouse.py" timestamp="1542155145567">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="48" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/.gitignore" timestamp="1537482576771">
         <mark key="[" line="9" column="6" />
@@ -423,12 +423,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542150030429">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="53" column="15" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542155175631">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="70" column="68" />
+        <mark key="]" line="70" column="53" />
+        <mark key="^" line="70" column="53" />
+        <mark key="." line="70" column="53" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -841,44 +841,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$columns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5EYXRhRnJhbWUoaW5kZXg9cmFuZ2UoMjAxMiwgMjAxOCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>$columns</text>
+        <text>STATION_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3JvdXBlZCA9IGRmLmdyb3VwYnkoWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbiddKVsnWWllbGQnXS5hcHBseShsYW1iZGEgeDogW3guY291bnQoKSwgeC5taW4oKSwgeC5tYXgoKSwgeC5tZWRpYW4oKV0pCg==</text>
+        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5EYXRhRnJhbWUoaW5kZXg9cmFuZ2UoMjAxMiwgMjAxOCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
+        <text encoding="base64">ZW52X2RmLnNoYXBlICAjICgxMjg4LCAxNSk6IDcgeWVhcnMgb2YgZGF0YSwgMTg0IHJvd3MgKDYgbW9udGhzIGZvciBlYWNoIHllYXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXBlZC5jb2x1bW5zID0gWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbicsICdZaWVsZFN0YXRzJ10K</text>
+        <text encoding="base64">bGVuKGVudl9kZnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXBlZFsnWWllbGRTdGF0cyddCg==</text>
+        <text encoding="base64">Z3JvdXBlZFsnTmVhcmVzdF9TdGF0aW9uJ10udW5pcXVlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JvdXBlZC5jb2x1bW5zCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3JvdXBlZCA9IGRmLmdyb3VwYnkoWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbiddKVsnWWllbGQnXS5hZ2dyZWdhdGUobnAuc3RhdAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXBlZGRkCg==</text>
+        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3JvdXBlZC5rZXlzKCkK</text>
+        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3JvdXBlZFsnUnVzc2V0IEJ1cmJhbmsnLCAyMDE3LCAnV2hlZWxob3VzZSddCg==</text>
+        <text encoding="base64">Z3JvdXBlZC5jb2x1bW5zID0gWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbicsICdZaWVsZFN0YXRzJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
