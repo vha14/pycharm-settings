@@ -76,9 +76,9 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda-wheelhouse.py" timestamp="1542155145567">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="48" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda-wheelhouse.py" timestamp="1542155470858">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="246" column="61" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/.gitignore" timestamp="1537482576771">
         <mark key="[" line="9" column="6" />
@@ -423,12 +423,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542155175631">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542156160411">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="70" column="68" />
-        <mark key="]" line="70" column="53" />
-        <mark key="^" line="70" column="53" />
-        <mark key="." line="70" column="53" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="77" column="3" />
+        <mark key="^" line="77" column="3" />
+        <mark key="." line="77" column="3" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -841,44 +841,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5EYXRhRnJhbWUoaW5kZXg9cmFuZ2UoMjAxMiwgMjAxOCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>['datetime'].apply(lambda dt: dt.year)</text>
       </register>
       <register name="-" type="4">
-        <text>STATION_NAME</text>
+        <text>['datetime'].apply(lambda dt: dt.year)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5EYXRhRnJhbWUoaW5kZXg9cmFuZ2UoMjAxMiwgMjAxOCkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Zm9yICh5ZWFyLCB0cmltZXN0ZXJfaWR4KSwgZ3JvdXAgaW4gZW52X2RmLmdyb3VwYnkobGFtYmRhIGR0OiAoZHQueWVhciwgKGR0Lm1vbnRoIC0gMSkgLy8gMikpOgogICAgIyBHVFJfZHQKICAgICMgVGFrZSB0aGUgc3VtIG9mIGRlcml2YXRpdmVzIG9mIGRhaWx5IEdUUiB2YWx1ZXMgZm9yIGVhY2ggdGhpcmQgb2YgdGhlIGdyb3cgY3ljbGUKICAgICMgMyBmZWF0dXJlczogR1RSX2R0X3N1bTEsIEdUUl9kdF9zdW0yLCBHVFJfZHRfc3VtMwogICAgZyA9IGdyb3VwWydHVFJfZHQoVy9tMiknXQogICAgZmVhdHVyZXMuYXRbeWVhciwgZiJHVFJfZHRfc3Vte3RyaW1lc3Rlcl9pZHh9Il0gPSBnLnN1bSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW52X2RmLnNoYXBlICAjICgxMjg4LCAxNSk6IDcgeWVhcnMgb2YgZGF0YSwgMTg0IHJvd3MgKDYgbW9udGhzIGZvciBlYWNoIHllYXIpCg==</text>
+        <text encoding="base64">ICAgIGVudl9kZnMuYXBwZW5kKGVudl9kZikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVuKGVudl9kZnMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGVudl9kZi5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXBlZFsnTmVhcmVzdF9TdGF0aW9uJ10udW5pcXVlKCkK</text>
+        <text encoding="base64">ZW52X2RmcyA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5EYXRhRnJhbWUoaW5kZXg9WyhzLCB5KSBmb3IgcyBpbiBzdGF0aW9uX25hbWVzIGZvciB5IGluIHJhbmdlKDIwMTIsIDIwMTgpXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW52X2RmLnNoYXBlICAjICgxMjg4LCAxNSk6IDcgeWVhcnMgb2YgZGF0YSwgMTg0IHJvd3MgKDYgbW9udGhzIGZvciBlYWNoIHllYXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">bGVuKGVudl9kZnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
+        <text encoding="base64">Z3JvdXBlZFsnTmVhcmVzdF9TdGF0aW9uJ10udW5pcXVlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3JvdXBlZC5fX2NsYXNzX18K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3JvdXBlZC5jb2x1bW5zID0gWydSZWNlaXZlcl9WYXJpZXR5JywgJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ05lYXJlc3RfU3RhdGlvbicsICdZaWVsZFN0YXRzJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
