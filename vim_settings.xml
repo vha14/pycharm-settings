@@ -424,12 +424,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542225029429">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542229485186">
         <mark key="'" line="173" column="0" />
-        <mark key="[" line="164" column="42" />
-        <mark key="]" line="165" column="77" />
-        <mark key="." line="165" column="77" />
-        <mark key="^" line="165" column="77" />
+        <mark key="[" line="210" column="32" />
+        <mark key="]" line="210" column="32" />
+        <mark key="." line="210" column="32" />
+        <mark key="^" line="211" column="41" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -842,11 +842,11 @@
       <jump line="170" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cnVzc2V0W1snTWF4X1lpZWxkJywgJ21heF90ZW1wMiddXQo=</text>
+      <register name="&quot;" type="4">
+        <text>.summary()</text>
       </register>
       <register name="-" type="4">
-        <text>.columns</text>
+        <text>.summary()</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
@@ -861,31 +861,31 @@ coeff = list(zip(russet.columns.tolist(), ridge_m.coef_.tolist()))
 coeff = sorted(coeff, key=lambda x: -x[1])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnVzc2V0W1snTWF4X1lpZWxkJywgJ21heF90ZW1wMiddXQo=</text>
+        <text encoding="base64">cmlkZ2VfbS5zdW1tYXJ5KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGFzc29fbS5nZXRfcGFyYW1zKCkK</text>
+        <text encoding="base64">cnVzc2V0W1snTWF4X1lpZWxkJywgJ21heF90ZW1wMiddXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29lZmYK</text>
+        <text encoding="base64">bGFzc29fbS5nZXRfcGFyYW1zKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmlkZ2VfbS5jb2VmXy50b2xpc3QoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29lZmZbMF1kZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Y29lZmYK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmlkZ2VfbS5jb2VmXy50b2xpc3QoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29lZmZbMF1kZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVuKG0uY29lZl8pCg==</text>
+        <text encoding="base64">Y29lZmYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWF4X3lpZWxkX3kubWF4KClkCg==</text>
+        <text encoding="base64">bGVuKG0uY29lZl8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmluYWxfZGZbJ0VudHJ5X0NvdW50J10K</text>
+        <text encoding="base64">bWF4X3lpZWxkX3kubWF4KClkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
