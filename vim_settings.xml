@@ -423,12 +423,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542215807396">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="147" column="38" />
-        <mark key="]" line="147" column="56" />
-        <mark key="^" line="147" column="56" />
-        <mark key="." line="147" column="56" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542217979880">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -739,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="14" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="91" column="10" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="95" column="29" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -839,13 +837,14 @@
       <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
       <jump line="27" column="0" filename="$USER_HOME$/miniconda3/envs/fastai/lib/python3.7/site-packages/sklearn/datasets/twenty_newsgroups.py" />
       <jump line="15" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>['Receiver_Variety'].nunique()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyaWV0eV9jb3VudCA9IGZpbmFsX2RmLmdyb3VwYnkoWydSZWNlaXZlcl9WYXJpZXR5J10pWydSZWNlaXZlcl9Dcm9wWWVhciddLmNvdW50KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>['Receiver_Variety'].nunique()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
@@ -854,31 +853,31 @@
         <text>left_on=['Nearest_Station', 'Receiver_CropYear'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWV0eV9jb3VudCA9IGZpbmFsX2RmLmdyb3VwYnkoWydSZWNlaXZlcl9WYXJpZXR5J10pWydSZWNlaXZlcl9Dcm9wWWVhciddLmNvdW50KCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZW52X2RmLmhlYWQoKQojIFsnZGF0ZXRpbWUnLCAnRVRyKG1tKScsICdFVG8obW0pJywgJ01BWF90ZW1wKEMpJywgJ01JTl90ZW1wKEMpJywKIyAgICAgICAgJ3NvaWxfdGVtcChDKScsICdHVFIoVy9tMiknLCAnaG91cnNfb3V0c2lkZV9HVFIoaHJzKScsCiMgICAgICAgICdhdmdfdGVtcF9vdXRzaWRlX0dUUihDKScsICdhdmdfdGVtcF9pbnNpZGVfR1RSKEMpJywKIyAgICAgICAgJ2F2Z19odW1pX291dHNpZGVfR1RSKCUpJywgJ2F2Z19odW1pX2luc2lkZV9HVFIoJSknLAojICAgICAgICAnY29uc2VjdXRpdmVfZGFuZ2Vyb3VzX2RheXMnLCAnRVRyX2R0KG1tKScsICdFVG9fZHQobW0pJywKIyAgICAgICAgJ0dUUl9kdChXL20yKSddCgojIGxvb2tpbmcgYXQgZGF0YSBvbiBvciBiZWZvcmUgMjAxNyAoZXhjbHVkaW5nIDIwMTgpCmVudl9kZiA9IGVudl9kZltlbnZfZGYuaW5kZXgueWVhciA8IDIwMThdCmVudl9kZi5jb3VudCgpICAjIDExMDQK</text>
+      <register name="2" type="2">
+        <text encoding="base64">dmFyaWV0eV9jb3VudAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZW52X2RmLmhlYWQoKQojIFsnZGF0ZXRpbWUnLCAnRVRyKG1tKScsICdFVG8obW0pJywgJ01BWF90ZW1wKEMpJywgJ01JTl90ZW1wKEMpJywKIyAgICAgICAgJ3NvaWxfdGVtcChDKScsICdHVFIoVy9tMiknLCAnaG91cnNfb3V0c2lkZV9HVFIoaHJzKScsCiMgICAgICAgICdhdmdfdGVtcF9vdXRzaWRlX0dUUihDKScsICdhdmdfdGVtcF9pbnNpZGVfR1RSKEMpJywKIyAgICAgICAgJ2F2Z19odW1pX291dHNpZGVfR1RSKCUpJywgJ2F2Z19odW1pX2luc2lkZV9HVFIoJSknLAojICAgICAgICAnY29uc2VjdXRpdmVfZGFuZ2Vyb3VzX2RheXMnLCAnRVRyX2R0KG1tKScsICdFVG9fZHQobW0pJywKIyAgICAgICAgJ0dUUl9kdChXL20yKSddCgojIGxvb2tpbmcgYXQgZGF0YSBvbiBvciBiZWZvcmUgMjAxNyAoZXhjbHVkaW5nIDIwMTgpCmVudl9kZiA9IGVudl9kZltlbnZfZGYuaW5kZXgueWVhciA8IDIwMThdCmVudl9kZi5jb3VudCgpICAjIDExMDQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdHVyZXMuY29sdW1ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5kZXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudl9kZnMuYXBwZW5kKGVudl9kZikK</text>
+        <text encoding="base64">ZmVhdHVyZXMuY29sdW1ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVudl9kZi5zaGFwZSkK</text>
+        <text encoding="base64">aW5kZXgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
