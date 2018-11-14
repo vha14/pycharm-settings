@@ -179,9 +179,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1542090001654">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -409,11 +406,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1541735783007">
-        <mark key="'" line="240" column="0" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542164455573">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="144" column="127" />
+        <mark key="]" line="144" column="130" />
+        <mark key="^" line="144" column="130" />
+        <mark key="." line="144" column="130" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -818,44 +816,44 @@
       <jump line="153" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlZGQK</text>
+      <register name="&quot;" type="4">
+        <text>Receiver_CropYear</text>
       </register>
       <register name="-" type="4">
-        <text>Yield</text>
+        <text>Receiver_CropYear</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZWFyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGYuZ3JvdXBieShbJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ1JlY2VpdmVyX1ZhcmlldHknXSlbJ1lpZWxkJ10uYXBwbHkobGFtYmRhIHg6ICh4Lm1lYW4oKSwgeC5zdGQoKSwgeC5jb3VudCgpKSkKIyAyMDEyICAgICAgICAgICAgICAgQWxwaW5lIFJ1c3NldCAgICAgICAgICAgICAgICAgICAoMzMuNjEyNTc2LCA1LjE1ODczNDI5MTY5OTA3NywgMikK</text>
+      <register name="0" type="4">
+        <text>geodesic((lat, long), (station['LATITUDE_DEGREE'], station['LONGITUDE_DEGREE']))) for idx, station in station_info.iterrows()]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAyMDEyICAgICAgICAgICAgICAgQWxwaW5lIFJ1c3NldCAgICAgICAgICAgICAgICAgICAoMzMuNjEyNTc2LCA1LjE1ODczNDI5MTY5OTA3NywgMikK</text>
+        <text encoding="base64">c3RhdGlvbl9uYW1lcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgJ3NvaWxfaGlnaHRlbXAzJywgJ2hhcnZlc3Rfc29pbF90ZW1wJ10K</text>
+        <text encoding="base64">eWllbGRfc3RhdHMuY29sdW1ucyAgIyBbJ1JlY2VpdmVyX1ZhcmlldHknLCAnUmVjZWl2ZXJfQ3JvcFllYXInLCAnTmVhcmVzdF9TdGF0aW9uJywgJ0NvdW50JywgJ01pbicsICdNYXgnLCAnTWVkaWFuJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgJ21vZF9hdmdfaHVtaV9vdXRfR1RSMycsICdtb2RfYXZnX2h1bWlfaW5fR1RSMycsICdzb2lsX2xvd3RlbXAzJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgJ21vZF9hdmdfdGVtcF9vdXRfR1RSMycsICdtb2RfYXZnX3RlbXBfaW5fR1RSMycsCg==</text>
+        <text encoding="base64">ZGZbJ05lYXJlc3RfU3RhdGlvbiddID0gbmVhcmVzdF9zdGF0aW9uKGRmWydDb250cmFjdF9GaWVsZExhdGl0dWRlJ10sIGRmWydDb250cmFjdF9GaWVsZExvbmdpdHVkZSddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgJ3NvaWxfaGlnaHRlbXAyJywgJ0dUUl9kdF9zdW0zJywgJ21pbl90ZW1wMycsICdtYXhfdGVtcDMnLAo=</text>
+        <text encoding="base64">IyUlZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgJ21vZF9hdmdfaHVtaV9vdXRfR1RSMicsICdtb2RfYXZnX2h1bWlfaW5fR1RSMicsICdzb2lsX2xvd3RlbXAyJywK</text>
+        <text encoding="base64">IyAyMDEyICAgICAgICAgICAgICAgQWxwaW5lIFJ1c3NldCAgICAgICAgICAgICAgICAgICAoMzMuNjEyNTc2LCA1LjE1ODczNDI5MTY5OTA3NywgMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgJ21heF90ZW1wMicsICdtb2RfYXZnX3RlbXBfb3V0X0dUUjInLCAnbW9kX2F2Z190ZW1wX2luX0dUUjInLAo=</text>
+        <text encoding="base64">IyAgICAgICAgJ3NvaWxfaGlnaHRlbXAzJywgJ2hhcnZlc3Rfc29pbF90ZW1wJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgJ3NvaWxfbG93dGVtcDEnLCAnc29pbF9oaWdodGVtcDEnLCAnR1RSX2R0X3N1bTInLCAnbWluX3RlbXAyJywK</text>
+        <text encoding="base64">IyAgICAgICAgJ21vZF9hdmdfaHVtaV9vdXRfR1RSMycsICdtb2RfYXZnX2h1bWlfaW5fR1RSMycsICdzb2lsX2xvd3RlbXAzJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
