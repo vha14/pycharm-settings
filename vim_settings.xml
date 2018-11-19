@@ -414,11 +414,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542666193602">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542667642211">
+        <mark key="[" line="144" column="18" />
+        <mark key="]" line="144" column="20" />
+        <mark key="." line="144" column="20" />
+        <mark key="^" line="144" column="20" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -831,10 +831,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Contract_FieldLatitude</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>Contract_FieldLatitude</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZWFyXD4=</text>
@@ -843,31 +843,31 @@
         <text encoding="base64">ZGYgPSBkZltkZlsnQ29udHJhY3RfRmllbGRMYXRpdHVkZSddLm5vdG51bGwoKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm5lYXJlc3QgZGlzdGFuY2UgaXMgbGFyZ2U6IHtuZWFyZXN0WzFdfSIpCg==</text>
+        <text encoding="base64">ZGZbJ05lYXJlc3RfU3RhdGlvbiddLmNvdW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5lYXJlc3RbMV0gPiAxMDoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm5lYXJlc3QgZGlzdGFuY2UgaXMgbGFyZ2U6IHtuZWFyZXN0WzFdfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVhZHI6OnR5cGVfY29udmVydAo=</text>
+        <text encoding="base64">ICAgIGlmIG5lYXJlc3RbMV0gPiAxMDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MoZGYpCg==</text>
+        <text encoding="base64">cmVhZHI6OnR5cGVfY29udmVydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b2JqZWN0cyhkZCkK</text>
+        <text encoding="base64">Y2xhc3MoZGYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWVhbihkZiRSZWNlaXZlcl9Dcm9wWWVhcikK</text>
+        <text encoding="base64">b2JqZWN0cyhkZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGRzdHJfZGV0ZWN0KCkK</text>
+        <text encoding="base64">bWVhbihkZiRSZWNlaXZlcl9Dcm9wWWVhcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYK</text>
+        <text encoding="base64">ZGRzdHJfZGV0ZWN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
