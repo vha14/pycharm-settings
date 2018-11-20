@@ -414,11 +414,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542667642211">
-        <mark key="[" line="144" column="18" />
-        <mark key="]" line="144" column="20" />
-        <mark key="." line="144" column="20" />
-        <mark key="^" line="144" column="20" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542673018741">
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="74" column="13" />
+        <mark key="." line="74" column="13" />
+        <mark key="^" line="74" column="13" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -688,12 +688,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542660783188">
+      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="54" column="58" />
-        <mark key="^" line="54" column="58" />
-        <mark key="." line="54" column="58" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
@@ -830,44 +829,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnciA9IGdyb3VwWydFVHIobW0pJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>GTR_dt(W/m2)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZWFyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBkZltkZlsnQ29udHJhY3RfRmllbGRMYXRpdHVkZSddLm5vdG51bGwoKV0K</text>
+        <text encoding="base64">ICAgICAgICBnciA9IGdyb3VwWydFVHIobW0pJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbJ05lYXJlc3RfU3RhdGlvbiddLmNvdW50KCkK</text>
+        <text encoding="base64">ZGV2dG9vbHM6Omluc3RhbGxfZ2l0aHViKCJleHBsb3JhdG9yeS1pby9leHBsb3JhdG9yeV9mdW5jIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm5lYXJlc3QgZGlzdGFuY2UgaXMgbGFyZ2U6IHtuZWFyZXN0WzFdfSIpCg==</text>
+        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygiZGV2dG9vbHMiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5lYXJlc3RbMV0gPiAxMDoK</text>
+        <text encoding="base64">ZGZbJ05lYXJlc3RfU3RhdGlvbiddLmNvdW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVhZHI6OnR5cGVfY29udmVydAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm5lYXJlc3QgZGlzdGFuY2UgaXMgbGFyZ2U6IHtuZWFyZXN0WzFdfSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MoZGYpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5lYXJlc3RbMV0gPiAxMDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b2JqZWN0cyhkZCkK</text>
+        <text encoding="base64">cmVhZHI6OnR5cGVfY29udmVydAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWVhbihkZiRSZWNlaXZlcl9Dcm9wWWVhcikK</text>
+        <text encoding="base64">Y2xhc3MoZGYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRzdHJfZGV0ZWN0KCkK</text>
+        <text encoding="base64">b2JqZWN0cyhkZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYK</text>
+        <text encoding="base64">bWVhbihkZiRSZWNlaXZlcl9Dcm9wWWVhcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
