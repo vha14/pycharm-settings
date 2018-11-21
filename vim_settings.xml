@@ -414,12 +414,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542739690353">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="161" column="24" />
-        <mark key="]" line="161" column="25" />
-        <mark key="^" line="161" column="25" />
-        <mark key="." line="161" column="25" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542824549065">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="8" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -728,8 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="58" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="95" column="29" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="98" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="101" column="15" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="107" column="53" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -828,61 +826,62 @@
       <jump line="153" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" />
       <jump line="46" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>logger.info</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>logger.info</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5ZWFyXD4=</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnID0gZ3JvdXBbJ0dUUihXL20yKSddCiAgICAgICAgZmVhdHVyZXMuYXRbKG5hbWUsIHllYXIpLCBmIkdUUl9zdW17dHJpbWVzdGVyX2lkeH0iXSA9IGcuc3VtKCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGYiUmVhZCBkYXRhIG9mIHNoYXBlOiB7ZGYuc2hhcGV9ICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIDMgZmVhdHVyZXM6IEdUUl9kdF9zdW0xLCBHVFJfZHRfc3VtMiwgR1RSX2R0X3N1bTMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRha2UgdGhlIHN1bSBvZiBkZXJpdmF0aXZlcyBvZiBkYWlseSBHVFIgdmFsdWVzIGZvciBlYWNoIHRoaXJkIG9mIHRoZSBncm93IGN5Y2xlCg==</text>
+        <text encoding="base64">ZGYuY291bnQoKSAgIyA2LDE4MyByb3dzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIEdUUl9kdAo=</text>
+        <text encoding="base64">ZGYgPSBkZltkZlsnUGF5YWJsZSddID4gNzZdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbZGZbJ1BheWFibGUnXSA8IDc2XS5jb3VudCgpICAjIDEzNCByb3dzIHdpdGggUGF5YWJsZSB0b28gbG93IChtb3JlIHRoYW4gMipzdGQgZnJvbSBtZWFuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdQYXlhYmxlJ10uZGVzY3JpYmUoKSAgIyBDb21wb3NpdGUgcGVyY2VudGFnZSBvZiB0b3RhbCBhY2NlcHRlZCBwb3RhdG9lcyB3YXMgcGF5YWJsZTogbWVhbjogODgsIG1pbjogMCwgbWF4OiA5OCwgc3RkOiA2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQgICAgICAgIGFicygtNCkK</text>
+        <text encoding="base64">ZGZbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnYSA9IChnciArIGdvKSAvIDIK</text>
+        <text encoding="base64">ZGYuY291bnQoKSAgIyA2LDMxNyByb3dzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5ZWFyXD4=</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5ZWFyXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>import</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1024</entry>
         <entry>hex</entry>
         <entry>created</entry>
         <entry>let</entry>
@@ -902,6 +901,7 @@
         <entry>uuid</entry>
         <entry>pdf</entry>
         <entry encoding="base64">XDx5ZWFyXD4=</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
