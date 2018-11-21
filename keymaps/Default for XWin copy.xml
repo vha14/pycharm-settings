@@ -106,4 +106,8 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="com.r4intellij.actions.EvalSelectionOrExprAction">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
 </keymap>
