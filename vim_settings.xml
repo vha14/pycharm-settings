@@ -414,12 +414,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542770707632">
-        <mark key="'" line="327" column="0" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="37" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="43" column="37" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542776066595">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="253" column="17" />
+        <mark key="^" line="253" column="17" />
+        <mark key="." line="253" column="17" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -725,7 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="50" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -825,76 +823,80 @@
       <jump line="7268" column="19" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="8054" column="7" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1120" column="6" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
+      <jump line="248" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text># + modET_dt_sum2
+# + GTR_sum2
+# + modET_sum2
+# + GTR_dt_sum2
+# + min_temp2
+# + max_temp2
+# + mod_avg_temp_out_GTR2
+# + mod_avg_temp_in_GTR2
+# + mod_avg_humi_out_GTR2
+# + mod_avg_humi_in_GTR2
+# + soil_lowtemp2
+# + soil_hightemp2</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYkTWF4X1lpZWxkCg==</text>
+        <text encoding="base64">KyBjb25zZWN1dGl2ZV9kYW5nZXJvdXNfZGF5czEK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text># + modET_dt_sum2
+# + GTR_sum2
+# + modET_sum2
+# + GTR_dt_sum2
+# + min_temp2
+# + max_temp2
+# + mod_avg_temp_out_GTR2
+# + mod_avg_temp_in_GTR2
+# + mod_avg_humi_out_GTR2
+# + mod_avg_humi_in_GTR2
+# + soil_lowtemp2
+# + soil_hightemp2</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmVhdHVyZXMuY29sdW1ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmVhdHVyZXMuc2hhcGUK</text>
+      <register name="3" type="4">
+        <text>+ modET_dt_sum2
++ GTR_sum2
++ modET_sum2
++ GTR_dt_sum2
++ min_temp2
++ max_temp2
++ mod_avg_temp_out_GTR2
++ mod_avg_temp_in_GTR2
++ mod_avg_humi_out_GTR2
++ mod_avg_humi_in_GTR2
++ soil_lowtemp2
++ soil_hightemp2</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmVhdHVyZXMuaGVhZCgpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29lZmYgPSBsaXN0KHppcChydXNzZXQuY29sdW1ucy50b2xpc3QoKSwgcmlkZ2VfbS5jb2VmXy50b2xpc3QoKSkpCmNvZWZmID0gc29ydGVkKGNvZWZmLCBrZXk9bGFtYmRhIHg6IC14WzFdKQpjb2VmZgojIFsoJ21vZF9hdmdfdGVtcF9pbl9HVFIxJywgNC41MzQwMjI2NTY5NjcxMzEpLAojICAoJ21vZF9hdmdfdGVtcF9vdXRfR1RSMicsIDQuMTYwNjM3NTQ2MzcxMzU2KSwKIyAgKCdtYXhfdGVtcDEnLCAyLjgyODgxOTA0NjMyMTIwOSksCiMgICgnbW9kX2F2Z190ZW1wX2luX0dUUjMnLCAyLjU1NjM4NTQ1MTA4MzgwNjQpLAojICAoJ21pbl90ZW1wMicsIDEuOTMwNTIyNzIxNzI4MjA3NyksCiMgICgnbW9kX2F2Z19odW1pX2luX0dUUjMnLCAxLjAyNzQyOTg1Mjc4NzcxMzcpLAojICAoJ21vZF9hdmdfaHVtaV9vdXRfR1RSMicsIDAuNDY4MDc0ODU2NTU1Njg0NTQpLAojICAoJ3NvaWxfaGlnaHRlbXAzJywgMC4xNTAxNzg1NTUxODE0MTA4NSksCiMgICgnbW9kX2F2Z19odW1pX2luX0dUUjInLCAwLjEyMDg1ODI2ODM5MTE2NDIyKSwKIyAgKCdtaW5fdGVtcDEnLCAwLjEwNzQ4MDMyNjIxNzgxMTQ2KSwKIyAgKCdtb2RfYXZnX2h1bWlfaW5fR1RSMScsIDAuMTA3MTU2OTg1NTY3MDg2ODUpLAojICAoJ0dUUl9kdF9zdW0yJywgMy40OTU2OTIwNjIzNzM4ODRlLTA1KSwKIyAgKCdzb2lsX2hpZ2h0ZW1wMScsIDAuMCksCiMgICgnbWF4X3RlbXAyJywgMC4wKSwKIyAgKCdtaW5fdGVtcDMnLCAwLjApLAojICAoJ21heF90ZW1wMycsIDAuMCksCiMgICgnaGFydmVzdF9zb2lsX3RlbXAnLCAwLjApLAojICAoJ0dUUl9kdF9zdW0zJywgLTkuNzE1NTAwODU4NjcwNDU3ZS0wNiksCiMgICgnR1RSX2R0X3N1bTEnLCAtMi4wOTU5NTg2ODA4MzIyOTc2ZS0wNSksCiMgICgnc29pbF9sb3d0ZW1wMicsIC0wLjAyOTA2NTEzNTk5NDU3MTAzMiksCiMgICgnbW9kX2F2Z19odW1pX291dF9HVFIxJywgLTAuMDI5NzY3NjMxMjU0ODg4NzYpLAojICAoJ3NvaWxfbG93dGVtcDMnLCAtMC4yODkwMDM4OTg3ODEwNjQ0KSwKIyAgKCdzb2lsX2hpZ2h0ZW1wMicsIC0xLjA0MTI3OTY1MzcxNzUyNDQpLAojICAoJ21vZF9hdmdfaHVtaV9vdXRfR1RSMycsIC0xLjIyNjAzNDE0MTMzOTAwOTIpLAojICAoJ21vZF9hdmdfdGVtcF9vdXRfR1RSMScsIC0xLjI5MDM0NDc4NjU2NjI0ODcpLAojICAoJ3NvaWxfbG93dGVtcDEnLCAtNC40Mzk5NjQwMDA5NTMzNzcpLAojICAoJ21vZF9hdmdfdGVtcF9pbl9HVFIyJywgLTQuNjU3ODcwNzUwNjI0NDI1KSwKIyAgKCdtb2RfYXZnX3RlbXBfb3V0X0dUUjMnLCAtNS41NTkwODQ4OTU5MjAxNCldCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CisgaGFydmVzdF9zb2lsX3RlbXAnJycsIGRhdGE9ZmluYWxfZGYpLmZpdCgpCgojICs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KyBNZWRpYW5fWWllbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KyBNYXhfWWllbGQK</text>
       </register>
-      <register name="8" type="4">
-        <text>coeff = list(zip(russet.columns.tolist(), lasso_m.coef_.tolist()))
-coeff = sorted(coeff, key=lambda x: -x[1])
-coeff
-# [('mod_avg_humi_in_GTR2', 0.3195858683062815),
-#  ('mod_avg_humi_out_GTR1', 0.17173470018808648),
-#  ('min_temp1', 0.11595689057432837),
-#  ('GTR_dt_sum2', 3.6006818895515272e-06),
-#  ('GTR_dt_sum1', 3.2380530165036413e-06),
-#  ('GTR_dt_sum3', 1.4713773642542817e-06),
-#  ('max_temp1', 0.0),
-#  ('mod_avg_temp_out_GTR1', 0.0),
-#  ('mod_avg_temp_in_GTR1', 0.0),
-#  ('mod_avg_humi_in_GTR1', 0.0),
-#  ('soil_lowtemp1', -0.0),
-#  ('soil_hightemp1', 0.0),
-#  ('min_temp2', 0.0),
-#  ('max_temp2', 0.0),
-#  ('mod_avg_temp_out_GTR2', -0.0),
-#  ('mod_avg_humi_out_GTR2', 0.0),
-#  ('soil_hightemp2', -0.0),
-#  ('min_temp3', 0.0),
-#  ('max_temp3', 0.0),
-#  ('mod_avg_temp_out_GTR3', -0.0),
-#  ('mod_avg_temp_in_GTR3', -0.0),
-#  ('mod_avg_humi_in_GTR3', -0.0),
-#  ('soil_lowtemp3', 0.0),
-#  ('soil_hightemp3', 0.0),
-#  ('harvest_soil_temp', 0.0),
-#  ('soil_lowtemp2', -0.07866462768661182),
-#  ('mod_avg_humi_out_GTR3', -0.09224630290669095),
-#  ('mod_avg_temp_in_GTR2', -0.4617545501443874)]</text>
+      <register name="8" type="2">
+        <text encoding="base64">KyBNaW5fWWllbGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmZZaWVsZCRyc3EK</text>
+        <text encoding="base64">KyBFbnRyeV9Db3VudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
