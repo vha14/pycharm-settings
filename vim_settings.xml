@@ -179,9 +179,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1542916046621">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -416,6 +413,13 @@
         <mark key="]" line="11" column="57" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542916947093">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="183" column="22" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -721,7 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="2" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
@@ -821,32 +824,40 @@
       <jump line="8054" column="7" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1120" column="6" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="248" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># + modET_dt_sum2
-# + GTR_sum2
-# + modET_sum2
-# + GTR_dt_sum2
-# + min_temp2
-# + max_temp2
-# + mod_avg_temp_out_GTR2
-# + mod_avg_temp_in_GTR2
-# + mod_avg_humi_out_GTR2
-# + mod_avg_humi_in_GTR2
-# + soil_lowtemp2
-# + soil_hightemp2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KyBjb25zZWN1dGl2ZV9kYW5nZXJvdXNfZGF5czEK</text>
+        <text encoding="base64">ZGVmIGFkZF9uZWFyZXN0X3N0YXRpb24oZGYsIHN0YXRpb25faW5mb19maWxlPSJkYXRhL3dlYXRoZXJfZGF0YS9XU1Vfd2VhdGhlcl9zdGF0aW9uc19pbmZvLmNzdiIpOgogICAgc3RhdGlvbl9pbmZvID0gcGQucmVhZF9jc3Yoc3RhdGlvbl9pbmZvX2ZpbGUpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCBlbnZfZmlsZSwgZmVhdHVyZXMsIG5hbWUsIHRyaW1lc3Rlcl9pZHgK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YWdnX3lpZWxkKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCB5aWVsZF9zdGF0cwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBOb3csIGdyb3VwIHJvd3MgYnkgeWVhciwgdmFyaWV0eSwgYW5kIG5lYXJlc3Qgc3RhdGlvbiwgY29tcHV0aW5nIHRoZSBtaW4vbWF4IGZvciB5aWVsZCBhbmQgcGF5YWJsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAlJQo=</text>
+      </register>
+      <register name="7" type="4">
         <text># + modET_dt_sum2
 # + GTR_sum2
 # + modET_sum2
@@ -860,10 +871,10 @@
 # + soil_lowtemp2
 # + soil_hightemp2</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>+ modET_dt_sum2
 + GTR_sum2
 + modET_sum2
@@ -876,24 +887,6 @@
 + mod_avg_humi_in_GTR2
 + soil_lowtemp2
 + soil_hightemp2</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CisgaGFydmVzdF9zb2lsX3RlbXAnJycsIGRhdGE9ZmluYWxfZGYpLmZpdCgpCgojICs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KyBNZWRpYW5fWWllbGQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KyBNYXhfWWllbGQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">KyBNaW5fWWllbGQK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">KyBFbnRyeV9Db3VudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
