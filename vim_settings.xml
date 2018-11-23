@@ -404,11 +404,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542931171251">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="17" column="13" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542932322357">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -504,6 +504,9 @@
       </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" timestamp="1542931632516">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -736,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="28" column="3" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="11" column="6" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="70" column="2" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -836,46 +838,47 @@
       <jump line="21" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="76" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="28" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, filename='foo'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGxvdGx5Ll9fdmVyc2lvbl9fCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, filename='foo'</text>
+        <text>plotly</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RmLnRvX2NzdigiZGF0YS95aWVsZF9maW5hbF9kZi5jc3YiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsb3RseS5wbG90bHkgYXMgcHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
+        <text encoding="base64">cGxvdGx5Ll9fdmVyc2lvbl9fCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB5aWVsZF9waXBlbGluZSBpbXBvcnQgcnVuX3BpcGVsaW5lCg==</text>
+        <text encoding="base64">aW1wb3J0IHBsb3RseQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmluYWxfZGZbMF0K</text>
+        <text encoding="base64">ZmluYWxfZGZbJ01heF9ZaWVsZCddLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RmLnNoYXBlCg==</text>
+        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RmID0gcnVuX3BpcGVsaW5lKCkK</text>
+        <text encoding="base64">ZnJvbSB5aWVsZF9waXBlbGluZSBpbXBvcnQgcnVuX3BpcGVsaW5lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgcmVydW5fcGlwZWxpbmU6Cg==</text>
+        <text encoding="base64">ZmluYWxfZGZbMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGZpbmFsX2RmLnNoYXBlCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGZyb20gdG9vbHogaW1wb3J0IHBpcGUKICAgIHlpZWxkX3N0YXRzID0gcGlwZShyZWFkX3lpZWxkX2RhdGEoKSwgYWRkX25lYXJlc3Rfc3RhdGlvbiwgYWdnX3lpZWxkKQogICAgZmluYWxfZGYgPSBtZXJnZV95aWVsZF9kYXRhKHlpZWxkX3N0YXRzLCBmZWF0dXJpemVfd3N1X2RhdGEoKSkKICAgIGZpbmFsX2RmLnNoYXBl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZpbmFsX2RmID0gcnVuX3BpcGVsaW5lKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aWYgcmVydW5fcGlwZWxpbmU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
