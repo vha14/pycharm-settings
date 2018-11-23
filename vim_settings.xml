@@ -404,11 +404,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542932322357">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542933667589">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -508,6 +508,7 @@
       <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" timestamp="1542931632516">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/graph_objs/_histogram.py" timestamp="1542933651228" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -841,11 +842,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGxvdGx5Ll9fdmVyc2lvbl9fCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>plotly</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
