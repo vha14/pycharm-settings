@@ -404,11 +404,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542933667589">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="7" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542951042304">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
         <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+        <mark key="." line="21" column="12" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -843,10 +843,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>, auto_open=True</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>, auto_open=True</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
