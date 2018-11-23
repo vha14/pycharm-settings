@@ -34,11 +34,11 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/requirements.txt" timestamp="1542921574320">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/requirements.txt" timestamp="1542925520340">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/work/sonosite/.gitignore" timestamp="1532188661941">
         <mark key="[" line="13" column="0" />
@@ -348,6 +348,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1542925072210">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="16" />
@@ -399,6 +404,12 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1542931171251">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="17" column="13" />
+      </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
       </file>
@@ -414,12 +425,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542921896845">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield-model.py" timestamp="1542923380032">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="46" />
-        <mark key="^" line="50" column="49" />
-        <mark key="." line="213" column="0" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -601,7 +612,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542594350769">
+      <file name="/Dummy.txt" timestamp="1542923577455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1540529509438">
@@ -827,44 +838,44 @@
       <jump line="28" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RmLnRvX2NzdigiZGF0YS95aWVsZF9maW5hbF9kZi5jc3YiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>, filename='foo'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>, filename='foo'</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgaW50ZXJhY3RpdmU6Cg==</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgIGZpbmFsX2RmLnRvX2NzdigiZGF0YS95aWVsZF9maW5hbF9kZi5jc3YiKQo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJOb3QgdGVycmlibHkgZWZmaWNpZW50LCByb29tIGZvciBpbXByb3ZlbWVudCIpCg==</text>
+        <text encoding="base64">ZnJvbSB5aWVsZF9waXBlbGluZSBpbXBvcnQgcnVuX3BpcGVsaW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRmID0gYWRkX25lYXJlc3Rfc3RhdGlvbihkZikK</text>
+        <text encoding="base64">ZmluYWxfZGZbMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRmID0gcmVhZF95aWVsZF9kYXRhKCkK</text>
+        <text encoding="base64">ICAgIGZpbmFsX2RmLnNoYXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsX2RmID0gcnVuX3BpcGVsaW5lKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50ZXJhY3RpdmUK</text>
+        <text encoding="base64">aWYgcmVydW5fcGlwZWxpbmU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBlbnZfZmlsZSwgZmVhdHVyZXMsIG5hbWUsIHRyaW1lc3Rlcl9pZHgK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZpbmFsX2RmLnNoYXBlCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGZyb20gdG9vbHogaW1wb3J0IHBpcGUKICAgIHlpZWxkX3N0YXRzID0gcGlwZShyZWFkX3lpZWxkX2RhdGEoKSwgYWRkX25lYXJlc3Rfc3RhdGlvbiwgYWdnX3lpZWxkKQogICAgZmluYWxfZGYgPSBtZXJnZV95aWVsZF9kYXRhKHlpZWxkX3N0YXRzLCBmZWF0dXJpemVfd3N1X2RhdGEoKSkKICAgIGZpbmFsX2RmLnNoYXBl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
