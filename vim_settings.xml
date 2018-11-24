@@ -404,11 +404,12 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543018515333">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
-        <mark key="^" line="44" column="8" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543037890326">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="10" />
+        <mark key="^" line="56" column="10" />
+        <mark key="." line="56" column="10" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -740,9 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="3" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="11" column="6" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="70" column="2" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="32" column="33" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="43" column="21" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="46" column="22" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -840,46 +838,56 @@
       <jump line="76" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="28" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bG0ucHZhbHVlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>'Max_Yield ~ Receiver_Variety'</text>
       </register>
       <register name="-" type="4">
-        <text>.__class__</text>
+        <text>'Max_Yield ~ Receiver_Variety'</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG0ucHZhbHVlcwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnbW9kRVRfZHRfc3VtMSArICcKICAgICAgICAgICAgICAgICAnR1RSX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ21vZEVUX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ0dUUl9kdF9zdW0xICsgJwogICAgICAgICAgICAgICAgICdtaW5fdGVtcDEgKyAnCiAgICAgICAgICAgICAgICAgJ21heF90ZW1wMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z190ZW1wX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX3RlbXBfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z19odW1pX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX2h1bWlfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9sb3d0ZW1wMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9oaWdodGVtcDEgKyAn</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bG0ubXNlX3RvdGFsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnbW9kRVRfZHRfc3VtMSArICcKICAgICAgICAgICAgICAgICAnR1RSX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ21vZEVUX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ0dUUl9kdF9zdW0xICsgJwogICAgICAgICAgICAgICAgICdtaW5fdGVtcDEgKyAnCiAgICAgICAgICAgICAgICAgJ21heF90ZW1wMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z190ZW1wX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX3RlbXBfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z19odW1pX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX2h1bWlfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9sb3d0ZW1wMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9oaWdodGVtcDEgKyAn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG0uX19kb2NfXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bG0uX19jbGFzc19fCg==</text>
+      <register name="3" type="4">
+        <text>results['Adj R^2']
+results['RMSE']
+results['AIC']
+results['BIC']
+results['F Ratio']
+lm12.params.sort_values(ascending=False)
+lm12.pvalues.sort_values(ascending=False)
+lm12.tvalues.sort_values(ascending=False)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG1bXQo=</text>
+        <text encoding="base64">cmVzdWx0c1snQ29lZmZpY2llbnRzJ10gPSBbbW9kZWwucGFyYW1zIGZvciBtb2RlbCBpbiBtb2RlbHNdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ZGlyKGxtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG0xLnBhcmFtcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzdWx0cy5oZWFkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYie21vZGVsLmJpYzouezN9Zn0iLCBlbmQ9J1xuJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
