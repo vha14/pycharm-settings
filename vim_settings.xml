@@ -146,11 +146,11 @@
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" timestamp="1543042465140">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="26" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" timestamp="1543044136889">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
@@ -410,8 +410,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543041643917">
-        <mark key="'" line="68" column="92" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543044181347">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -743,15 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="21" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="46" column="22" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="49" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="51" column="20" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="52" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="55" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="56" column="41" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="57" column="41" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="60" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="61" column="34" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="62" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -843,61 +837,69 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="1" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="68" column="92" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="32" column="10" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="38" column="16" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="41" column="28" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="43" column="18" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>glm</text>
+        <text>model_df</text>
       </register>
       <register name="0" type="4">
-        <text>f&quot;{base_formula} + {' + '.join([feature_4_trimes(idx) for idx in range(1, 4)])}&quot;</text>
+        <text encoding="base64">ICAgIG9oZV92YXJpZXR5ID0gKCdvaGVfdmFyaWV0eScsIE9uZUhvdEVuY29kZXIoc3BhcnNlPUZhbHNlKSkKICAgIGN0ID0gQ29sdW1uVHJhbnNmb3JtZXIodHJhbnNmb3JtZXJzPVsoJ3ZhcmlldHknLCBQaXBlbGluZShbb2hlX3ZhcmlldHldKSwgWydSZWNlaXZlcl9WYXJpZXR5J10pXSkKICAgIG1vZGVsX3N0ZXAgPSAoJ0xhc3NvJywgTGFzc28oKSkgaWYgc3BhcnNlIGVsc2UgKCdSaWRnZScsIFJpZGdlKCkpCiAgICBtbF9waXBlID0gUGlwZWxpbmUoWygnb2hlX3ZhcmlldHknLCBjdCksIG1vZGVsX3N0ZXBdKQogICAgbWxfcGlwZS5maXQoZGYsIG1heF95aWVsZF95KQogICAgc2NvcmUgPSBtbF9waXBlLnNjb3JlKGRmLCBtYXhfeWllbGRfeSkKICAgIHByaW50KGYiUl4yOiB7c2NvcmV9Iik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heF95aWVsZF95ID0gZGYucG9wKCdNYXhfWWllbGQnKS52YWx1ZXMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bW9kZWxfZGYuZ3JvdXBieSgnUmVjZWl2ZXJfVmFyaWV0eScpLmNvdW50KCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IE9uZUhvdEVuY29kZXIKZnJvbSBza2xlYXJuLmNvbXBvc2UgaW1wb3J0IENvbHVtblRyYW5zZm9ybWVyCmZyb20gc2tsZWFybi5waXBlbGluZSBpbXBvcnQgUGlwZWxpbmUKZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgUmlkZ2UK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cC5zdGVwc1sxXVswXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGlyKHApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVndWxhcl9tb2RlbF9kZi5zaGFwZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBMYXNzbywgUmlkZ2UsIEVsYXN0aWNOZXQK</text>
+        <text encoding="base64">bWF4X3lpZWxkX3kgPSBtb2RlbF9kZlsnTWF4X1lpZWxkJ10udmFsdWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>glm</last-search>
+      <last-search>model_df</last-search>
       <last-offset />
-      <last-pattern>glm</last-pattern>
+      <last-pattern>model_df</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hex</entry>
         <entry>created</entry>
         <entry>let</entry>
         <entry>problem.</entry>
@@ -917,6 +919,7 @@
         <entry>pdf</entry>
         <entry encoding="base64">XDx5ZWFyXD4=</entry>
         <entry>glm</entry>
+        <entry>model_df</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
