@@ -404,11 +404,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543002743331">
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="40" column="12" />
-        <mark key="." line="40" column="12" />
-        <mark key="^" line="40" column="12" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543018515333">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
+        <mark key="^" line="44" column="8" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -842,44 +842,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>model</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG0ucHZhbHVlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>.__class__</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG0ubXNlX3Jlc2lkCg==</text>
+        <text encoding="base64">bG0ucHZhbHVlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG0uX19kb2NfXwo=</text>
+        <text encoding="base64">bG0ubXNlX3RvdGFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG0uX19jbGFzc19fCg==</text>
+        <text encoding="base64">bG0uX19kb2NfXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG1bXQo=</text>
+        <text encoding="base64">bG0uX19jbGFzc19fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG1bXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWU9J2ZvbycsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
