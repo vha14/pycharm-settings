@@ -146,6 +146,12 @@
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" timestamp="1543042465140">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
@@ -404,12 +410,8 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543037890326">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="56" column="11" />
-        <mark key="]" line="56" column="10" />
-        <mark key="^" line="56" column="10" />
-        <mark key="." line="56" column="10" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543041643917">
+        <mark key="'" line="68" column="92" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -741,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="33" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="43" column="21" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="46" column="22" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="49" column="8" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -841,53 +842,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="26" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="1" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="68" column="92" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Max_Yield ~ Receiver_Variety'</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>'Max_Yield ~ Receiver_Variety'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>glm</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAnbW9kRVRfZHRfc3VtMSArICcKICAgICAgICAgICAgICAgICAnR1RSX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ21vZEVUX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ0dUUl9kdF9zdW0xICsgJwogICAgICAgICAgICAgICAgICdtaW5fdGVtcDEgKyAnCiAgICAgICAgICAgICAgICAgJ21heF90ZW1wMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z190ZW1wX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX3RlbXBfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z19odW1pX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX2h1bWlfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9sb3d0ZW1wMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9oaWdodGVtcDEgKyAn</text>
+        <text>f&quot;{base_formula} + {' + '.join([feature_4_trimes(idx) for idx in range(1, 4)])}&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAnbW9kRVRfZHRfc3VtMSArICcKICAgICAgICAgICAgICAgICAnR1RSX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ21vZEVUX3N1bTEgKyAnCiAgICAgICAgICAgICAgICAgJ0dUUl9kdF9zdW0xICsgJwogICAgICAgICAgICAgICAgICdtaW5fdGVtcDEgKyAnCiAgICAgICAgICAgICAgICAgJ21heF90ZW1wMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z190ZW1wX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX3RlbXBfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnbW9kX2F2Z19odW1pX291dF9HVFIxICsgJwogICAgICAgICAgICAgICAgICdtb2RfYXZnX2h1bWlfaW5fR1RSMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9sb3d0ZW1wMSArICcKICAgICAgICAgICAgICAgICAnc29pbF9oaWdodGVtcDEgKyAn</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1heF95aWVsZF95ID0gZGYucG9wKCdNYXhfWWllbGQnKS52YWx1ZXMK</text>
       </register>
-      <register name="3" type="4">
-        <text>results['Adj R^2']
-results['RMSE']
-results['AIC']
-results['BIC']
-results['F Ratio']
-lm12.params.sort_values(ascending=False)
-lm12.pvalues.sort_values(ascending=False)
-lm12.tvalues.sort_values(ascending=False)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzdWx0c1snQ29lZmZpY2llbnRzJ10gPSBbbW9kZWwucGFyYW1zIGZvciBtb2RlbCBpbiBtb2RlbHNdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGlyKGxtKQo=</text>
+        <text encoding="base64">bW9kZWxfZGYuZ3JvdXBieSgnUmVjZWl2ZXJfVmFyaWV0eScpLmNvdW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG0xLnBhcmFtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVzdWx0cy5oZWFkKCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IE9uZUhvdEVuY29kZXIKZnJvbSBza2xlYXJuLmNvbXBvc2UgaW1wb3J0IENvbHVtblRyYW5zZm9ybWVyCmZyb20gc2tsZWFybi5waXBlbGluZSBpbXBvcnQgUGlwZWxpbmUKZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgUmlkZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie21vZGVsLmJpYzouezN9Zn0iLCBlbmQ9J1xuJykK</text>
+        <text encoding="base64">IyBMYXNzbywgUmlkZ2UsIEVsYXN0aWNOZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
