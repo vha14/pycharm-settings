@@ -146,11 +146,10 @@
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" timestamp="1543044136889">
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" timestamp="1543084739208">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
@@ -849,58 +848,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
+        <text encoding="base64">cmVndWxhcl9waXBlLm5hbWVkX3N0ZXBzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>.copy()</text>
       </register>
       <register name="/" type="4">
-        <text>model_df</text>
+        <text>drop</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIG9oZV92YXJpZXR5ID0gKCdvaGVfdmFyaWV0eScsIE9uZUhvdEVuY29kZXIoc3BhcnNlPUZhbHNlKSkKICAgIGN0ID0gQ29sdW1uVHJhbnNmb3JtZXIodHJhbnNmb3JtZXJzPVsoJ3ZhcmlldHknLCBQaXBlbGluZShbb2hlX3ZhcmlldHldKSwgWydSZWNlaXZlcl9WYXJpZXR5J10pXSkKICAgIG1vZGVsX3N0ZXAgPSAoJ0xhc3NvJywgTGFzc28oKSkgaWYgc3BhcnNlIGVsc2UgKCdSaWRnZScsIFJpZGdlKCkpCiAgICBtbF9waXBlID0gUGlwZWxpbmUoWygnb2hlX3ZhcmlldHknLCBjdCksIG1vZGVsX3N0ZXBdKQogICAgbWxfcGlwZS5maXQoZGYsIG1heF95aWVsZF95KQogICAgc2NvcmUgPSBtbF9waXBlLnNjb3JlKGRmLCBtYXhfeWllbGRfeSkKICAgIHByaW50KGYiUl4yOiB7c2NvcmV9Iik=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBSXjIgdmFsdWVzOiBSaWRnZTogMC4zOCwgTGFzc286IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
+        <text encoding="base64">cmVndWxhcl9waXBlLm5hbWVkX3N0ZXBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVXNlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVndWxhcl9waXBlLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cC5zdGVwc1sxXVswXQo=</text>
+        <text encoding="base64">ICAgIGRmWydNYXhfWWllbGQnXSA9IG1heF95aWVsZF95Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGlyKHApCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBSXjIgdmFsdWVzOiBSaWRnZTogMC4zOCwgTGFzc286IDAKIyBTZWUgaHR0cHM6Ly9zY2lraXQtbGVhcm4ub3JnL3N0YWJsZS90dXRvcmlhbC9tYWNoaW5lX2xlYXJuaW5nX21hcC9pbmRleC5odG1sCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVndWxhcl9tb2RlbF9kZi5zaGFwZQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRzbW9kZWxzLmFwaSBhcyBzbQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWF4X3lpZWxkX3kgPSBtb2RlbF9kZlsnTWF4X1lpZWxkJ10udmFsdWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>model_df</last-search>
+      <last-search>drop</last-search>
       <last-offset />
-      <last-pattern>model_df</last-pattern>
+      <last-pattern>drop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>created</entry>
         <entry>let</entry>
         <entry>problem.</entry>
         <entry>aop</entry>
@@ -920,6 +918,7 @@
         <entry encoding="base64">XDx5ZWFyXD4=</entry>
         <entry>glm</entry>
         <entry>model_df</entry>
+        <entry>drop</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
