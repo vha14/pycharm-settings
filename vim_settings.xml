@@ -409,12 +409,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543189061051">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="126" column="68" />
-        <mark key="]" line="126" column="96" />
-        <mark key="^" line="126" column="96" />
-        <mark key="." line="126" column="96" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543193222397">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="137" column="0" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -746,7 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="34" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="62" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -846,43 +844,44 @@
       <jump line="43" column="18" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
       <jump line="44" column="8" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="133" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dots and whiskers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dots and whiskers</text>
+        <text>final_df.columns</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBob3ZlcnRleHQ9W2hvdmVydGV4dChkZiwgaWR4KSBmb3IgaWR4IGluIGRmLmluZGV4XSwK</text>
+        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KHRpdGxlPSdQcmVkaWN0ZWQgVmFsdWUnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG0xLnBhcmFtcwo=</text>
+        <text encoding="base64">cm93X2xhYmVscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG0xLnBhcmFtcyAvIGxtMS50dmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGhvdmVydGV4dD1baG92ZXJ0ZXh0KGRmLCBpZHgpIGZvciBpZHggaW4gZGYuaW5kZXhdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzdWx0cy5sb2NbJ2xtMSddCg==</text>
+        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KCd0aXRsZSc9J1ByZWRpY3RlZCBWYWx1ZScpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJvdyA9IGRhdGEubG9jW2lkeF0K</text>
+        <text encoding="base64">bG0xMi5maXR0ZWR2YWx1ZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kZWwgPSBsbTEyCg==</text>
+        <text encoding="base64">ICAgICAgICB4PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZiJDb25mIGxvdzoge3Jvd1snQ29lZmZpY2llbnRzJ10gLSB6X2NpICogcm93WydTdGRFcnInXX0iCg==</text>
+        <text encoding="base64">ZGlyKGxtMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZiJDb25mIGhpZ2g6IHsK</text>
+        <text encoding="base64">bG0xLnJlc2lkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
