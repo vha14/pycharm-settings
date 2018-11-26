@@ -208,8 +208,8 @@
       <file name="$USER_HOME$/work/agromo/agromomaster/Yield/Yield.r" timestamp="1542581473690">
         <mark key="[" line="41" column="23" />
         <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
@@ -353,10 +353,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1542925072210">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1543268593404">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -409,11 +410,10 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543193222397">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="137" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543269140316">
+        <mark key="[" line="149" column="38" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -436,6 +436,13 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" timestamp="1543269761815">
+        <mark key="'" line="228" column="28" />
+        <mark key="[" line="471" column="12" />
+        <mark key="]" line="471" column="12" />
+        <mark key="." line="471" column="12" />
+        <mark key="^" line="471" column="12" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -513,7 +520,6 @@
       <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" timestamp="1542931632516">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/graph_objs/_histogram.py" timestamp="1542933651228" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -624,7 +630,7 @@
       <file name="/Dummy.txt" timestamp="1542923577455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1540529509438">
+      <file name="/code.py" timestamp="1543266610805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/docker-compose.yml" timestamp="1537482572371">
@@ -712,6 +718,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
       </file>
@@ -745,22 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="25" column="7" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="41" column="7" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="52" column="7" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="120" column="7" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="204" column="18" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="24" column="5" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="72" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="140" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="190" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="332" column="12" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
-      <jump line="413" column="127" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
-      <jump line="5882" column="47" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="5884" column="58" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="6054" column="164" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -845,63 +841,76 @@
       <jump line="44" column="8" filename="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="133" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="471" column="12" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="704" column="4" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="69" column="11" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="13" column="31" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="87" column="13" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="31" column="18" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="123" column="20" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="235" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="202" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="209" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="221" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="228" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
+        <text encoding="base64">ICAgICAgICBob3Zlcm1vZGU9J2Nsb3Nlc3QnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>final_df.columns</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>drop</text>
+        <text>Graph</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KHRpdGxlPSdQcmVkaWN0ZWQgVmFsdWUnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
+        <text encoding="base64">ICAgICAgICBob3Zlcm1vZGU9J2Nsb3Nlc3QnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm93X2xhYmVscwo=</text>
+        <text encoding="base64">ICAgICAgICBob3Zlcm1vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhvdmVydGV4dD1baG92ZXJ0ZXh0KGRmLCBpZHgpIGZvciBpZHggaW4gZGYuaW5kZXhdLAo=</text>
+        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KCd0aXRsZSc9J1ByZWRpY3RlZCBWYWx1ZScpLAo=</text>
+        <text encoding="base64">cm93X2xhYmVscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG0xMi5maXR0ZWR2YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAjIGhvdmVydGV4dD1baG92ZXJ0ZXh0KGRmLCBpZHgpIGZvciBpZHggaW4gZGYuaW5kZXhdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4PQo=</text>
+        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KCd0aXRsZSc9J1ByZWRpY3RlZCBWYWx1ZScpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlyKGxtMSkK</text>
+        <text encoding="base64">bG0xMi5maXR0ZWR2YWx1ZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG0xLnJlc2lkCg==</text>
+        <text encoding="base64">ICAgICAgICB4PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlyKGxtMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>drop</last-search>
+      <last-search>Graph</last-search>
       <last-offset />
-      <last-pattern>drop</last-pattern>
+      <last-pattern>Graph</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>let</entry>
-        <entry>problem.</entry>
-        <entry>aop</entry>
         <entry>aops</entry>
         <entry>info</entry>
         <entry>spacy</entry>
@@ -916,9 +925,12 @@
         <entry>uuid</entry>
         <entry>pdf</entry>
         <entry encoding="base64">XDx5ZWFyXD4=</entry>
-        <entry>glm</entry>
-        <entry>model_df</entry>
-        <entry>drop</entry>
+        <entry>import</entry>
+        <entry>Satellite</entry>
+        <entry>Individual</entry>
+        <entry>html</entry>
+        <entry>render</entry>
+        <entry>Graph</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
