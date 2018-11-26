@@ -437,8 +437,8 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" timestamp="1543269761815">
-        <mark key="'" line="228" column="28" />
+      <file name="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" timestamp="1543271240840">
+        <mark key="'" line="11" column="45" />
         <mark key="[" line="471" column="12" />
         <mark key="]" line="471" column="12" />
         <mark key="." line="471" column="12" />
@@ -757,7 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5884" column="58" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="6054" column="164" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="64" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -844,8 +843,6 @@
       <jump line="471" column="12" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="704" column="4" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="69" column="11" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
-      <jump line="11" column="4" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="13" column="31" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="87" column="13" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="89" column="8" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
@@ -857,6 +854,9 @@
       <jump line="209" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="221" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
       <jump line="228" column="28" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="360" column="0" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
+      <jump line="11" column="45" filename="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -866,7 +866,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>Graph</text>
+        <text>State</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KHRpdGxlPSdQcmVkaWN0ZWQgVmFsdWUnKSwK</text>
@@ -903,15 +903,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Graph</last-search>
+      <last-search>State</last-search>
       <last-offset />
-      <last-pattern>Graph</last-pattern>
+      <last-pattern>State</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aops</entry>
         <entry>info</entry>
         <entry>spacy</entry>
         <entry>allennlp</entry>
@@ -931,6 +930,7 @@
         <entry>html</entry>
         <entry>render</entry>
         <entry>Graph</entry>
+        <entry>State</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
