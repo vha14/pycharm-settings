@@ -411,12 +411,12 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543346630783">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543347362468">
         <mark key="'" line="10" column="18" />
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="171" column="27" />
+        <mark key="[" line="168" column="26" />
+        <mark key="]" line="168" column="38" />
+        <mark key="." line="168" column="38" />
+        <mark key="^" line="168" column="38" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -862,11 +862,11 @@
       <jump line="10" column="18" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoCg==</text>
+      <register name="&quot;" type="4">
+        <text>row_labels</text>
       </register>
       <register name="-" type="4">
-        <text>variety</text>
+        <text>row_labels</text>
       </register>
       <register name="/" type="4">
         <text>State</text>
