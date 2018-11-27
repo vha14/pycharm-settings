@@ -353,10 +353,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1542925072210">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1543295767728">
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -513,7 +514,6 @@
       <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" timestamp="1542931632516">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/graph_objs/_histogram.py" timestamp="1542933651228" />
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -847,17 +847,17 @@
       <jump line="133" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>final_df.columns</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KHRpdGxlPSdQcmVkaWN0ZWQgVmFsdWUnKSwK</text>
+        <text encoding="base64">ICAgIGZpbmFsX2RmLnRvX2NzdigiZGF0YS95aWVsZF9maW5hbF9kZi5jc3YiLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
