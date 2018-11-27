@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1542916058568">
+      <file name="/start_script.py" timestamp="1543345132105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nlp/classify-fasttext.py" timestamp="1542090646698">
@@ -411,11 +411,12 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543277138363">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543346500082">
         <mark key="'" line="10" column="18" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="170" column="29" />
+        <mark key="^" line="170" column="29" />
+        <mark key="." line="170" column="29" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -862,43 +863,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>variety</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>variety</text>
       </register>
       <register name="/" type="4">
         <text>State</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KHRpdGxlPSdQcmVkaWN0ZWQgVmFsdWUnKSwK</text>
+        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3IgaWR4LCByb3cgaW4gZmluYWxfZGYuaXRlcnJvd3MoKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9ybXVsYV80X3RyaW1lcygzKQo=</text>
+        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmFuZ2UoMSwgNCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9ybXVsYV80X3RyaW1lc19pZHgoMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWdnX3lpZWxkKGRmKS5zaGFwZQo=</text>
+        <text encoding="base64">Zm9ybXVsYV80X3RyaW1lcygzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amtrYWdnX3lpZWxkKGRmKS5oZWFkKCkK</text>
+        <text encoding="base64">cmFuZ2UoMSwgNCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -989,6 +990,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
