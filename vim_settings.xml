@@ -143,6 +143,11 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/.gitignore" timestamp="1543385375479">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -353,12 +358,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1543384011927">
-        <mark key="'" line="6" column="39" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="52" column="58" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" timestamp="1543385686322">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -411,12 +416,12 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543383862244">
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543385726414">
         <mark key="'" line="10" column="52" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="164" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -747,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="140" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="190" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="332" column="12" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
@@ -847,13 +851,14 @@
       <jump line="94" column="31" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
       <jump line="0" column="8" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
       <jump line="6" column="39" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;data/weather_data/WSU_weather_stations_info.csv&quot;</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>weather_s</text>
@@ -862,31 +867,31 @@
         <text encoding="base64">WUlFTERfRklOQUxfRklMRSA9ICdkYXRhL3lpZWxkX2ZpbmFsX2RmLmNzdicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmLnNoYXBlICAjICg0MDk3LCAyNCkK</text>
+        <text encoding="base64">L2RhdGEvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgaW50ZXJhY3RpdmU6Cg==</text>
+        <text encoding="base64">YWdnW2FnZ1snUmVjZWl2ZXJfVmFyaWV0eSddID09ICdSdXNzZXQgQnVyYmFuayddWydNYXhfWWllbGQnXS5kZXNjcmliZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWdnID0gYWdnX3lpZWxkKGRmKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm93X2xhYmVscyA9IFtmIntyb3dbJ1JlY2VpdmVyX1ZhcmlldHknXX0ve3Jvd1snUmVjZWl2ZXJfQ3JvcFllYXInXX0ve3Jvd1snTmVhcmVzdF9TdGF0aW9uJ119IgogICAgICAgICAgICAgIGZvciBpZHgsIHJvdyBpbiBmaW5hbF9kZi5pdGVycm93cygpXQo=</text>
+        <text encoding="base64">L2RhdGEvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cm93X2xhYmVscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhvdmVydGV4dD1baG92ZXJ0ZXh0KGRmLCBpZHgpIGZvciBpZHggaW4gZGYuaW5kZXhdLAo=</text>
+        <text encoding="base64">ICAgIGRmLnNoYXBlICAjICg0MDk3LCAyNCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpcz1kaWN0KCd0aXRsZSc9J1ByZWRpY3RlZCBWYWx1ZScpLAo=</text>
+        <text encoding="base64">aWYgaW50ZXJhY3RpdmU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
