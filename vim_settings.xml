@@ -411,12 +411,11 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543451520396">
-        <mark key="'" line="263" column="0" />
-        <mark key="[" line="111" column="41" />
-        <mark key="]" line="114" column="33" />
-        <mark key="." line="114" column="33" />
-        <mark key="^" line="114" column="33" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543454018071">
+        <mark key="[" line="243" column="50" />
+        <mark key="]" line="243" column="50" />
+        <mark key="^" line="261" column="22" />
+        <mark key="." line="243" column="50" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -765,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="14" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="6" column="1" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -865,46 +863,47 @@
       <jump line="21" column="4" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="3" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
       <jump line="214" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="212" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>final_df</text>
+        <text encoding="base64">IHdpdGggZmlyc3QgdHdvIHRyaW1lc3RlciB3ZWF0aGVyIGRhdGE=</text>
       </register>
       <register name="-" type="4">
-        <text>final_df</text>
+        <text encoding="base64">IHdpdGggZmlyc3QgdHdvIHRyaW1lc3RlciB3ZWF0aGVyIGRhdGE=</text>
       </register>
       <register name="/" type="4">
         <text>Treat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dGxpZXJzID0gZGZbZGZbJ01heF9ZaWVsZCddIDwgZmVuY2VzW2RmWydSZWNlaXZlcl9WYXJpZXR5J11dWzBdIF0K</text>
+        <text encoding="base64">ICAgIHBsb3RfY29lZmYoZml0X21vZGVscyhub291dGxpZXJzX3JlZ3VsYXJfZGYsIDMpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZ3VsYXIuc3VtKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZ3VsYXIK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgCg==</text>
+        <text encoding="base64">IyBSZWdyZXNzaW9uIG91dGxpZXIgdGVzdAp0ZXN0ID0gbW9kZWwub3V0bGllcl90ZXN0KCkKbm9vdXRsaWVyc19yZWd1bGFyX2RmWyh0ZXN0Wydib25mKHApJ10gPCAwLjUpXVtbJ1JlY2VpdmVyX0Nyb3BZZWFyJywgJ1JlY2VpdmVyX1ZhcmlldHknLCAnTmVhcmVzdF9TdGF0aW9uJ11dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBbJ0FsdHVyYXMnLCAnQ2xlYXJ3YXRlciBSdXNzZXQnLCAnUmFuZ2VyIFJ1c3NldCcsICdSdXNzZXQgQnVyYmFuaycsICdTaGVwb2R5JywgJ1VtYXRpbGxhIFJ1c3NldCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFyaWV0eV9jb3VudCA9IGZpbmFsX2RmWydSZWNlaXZlcl9WYXJpZXR5J10udmFsdWVfY291bnRzKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICMgZmlsdGVyID0gZmluYWxfZGZbJ1JlY2VpdmVyX1ZhcmlldHknXSA9PSAnUnVzc2V0IEJ1cmJhbmsnCiAgICAjIGZpbHRlciA9IChmaW5hbF9kZlsnUmVjZWl2ZXJfQ3JvcFllYXInXSA9PSAyMDEzKSAmIChmaW5hbF9kZlsnTmVhcmVzdF9TdGF0aW9uJ10gPT0gJ1dhcmRlbiBHb2xmJykKICAgICMgZmlsdGVyID0gKGZpbmFsX2RmWydSZWNlaXZlcl9Dcm9wWWVhciddID09IDIwMTcpCiAgICAjIGZpbHRlciA9IGZpbmFsX2RmWydSZWNlaXZlcl9Dcm9wWWVhciddID4gMjAxMQogICAgIyBmaWx0ZXIgPSAobW9kZWwucmVzaWQgPiAxMCkgfCAobW9kZWwucmVzaWQgPCAtMTAp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVndWxhcl92YXJpZXRpZXMgPSB2YXJpZXR5X2NvdW50W3ZhcmlldHlfY291bnQgPiAzMF0ua2V5cygpLnRvbGlzdCgpCg==</text>
+        <text encoding="base64">bG0xMi5kZl9tb2RlbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
+        <text encoding="base64">ZGlyKGxtMTIpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cmVtb3ZlZC5zaGFwZQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">eWVhcl9jb2xvciA9IGZpbmFsX2RmWydSZWNlaXZlcl9Dcm9wWWVhciddLm1hcChjb2xvcl9tYXApCgp2YXJpZXRpZXMgPSBmaW5hbF9kZlsnUmVjZWl2ZXJfVmFyaWV0eSddLnVuaXF1ZSgpCnN5bWJvbF9tYXAgPSB7eDogeSBmb3IgeCwgeSBpbiB6aXAodmFyaWV0aWVzLCByYW5nZSgxLCBsZW4odmFyaWV0aWVzKSArIDEpKX0KdmFyaWV0eV9zeW1ib2wgPSBmaW5hbF9kZlsnUmVjZWl2ZXJfVmFyaWV0eSddLm1hcChzeW1ib2xfbWFwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
