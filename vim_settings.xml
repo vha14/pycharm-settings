@@ -416,12 +416,12 @@
       <file name="bootstrap_node.js" timestamp="1536176342456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543789831121">
-        <mark key="'" line="10" column="52" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="^" line="178" column="20" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/work/agromo/agromomaster/yield_model.py" timestamp="1543790508459">
+        <mark key="'" line="190" column="66" />
+        <mark key="[" line="171" column="45" />
+        <mark key="]" line="179" column="70" />
+        <mark key="." line="171" column="48" />
+        <mark key="^" line="179" column="70" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1537312358579">
         <mark key="[" line="0" column="0" />
@@ -752,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="190" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="332" column="12" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="413" column="127" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
@@ -852,61 +851,61 @@
       <jump line="0" column="8" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
       <jump line="6" column="39" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
       <jump line="34" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
+      <jump line="184" column="66" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b2QK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>weather_s</text>
+        <text>power</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG0xMi5yc3F1YXJlZF9hZGoK</text>
+        <text encoding="base64">ICAgICAgICAnZGFuZ2VyMic6ICducC5wb3dlcihkYW5nZXIyLCAyKScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b2QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">ICAgIG5vb3V0bGllcnNfcmVndWxhcl9kZiA9IGZpbmFsX2RmW352YXJpZXR5X291dGxpZXJzKGZpbmFsX2RmKSAmIHJlZ3VsYXJfdmFyaWV0aWVzKGZpbmFsX2RmKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">Zm9vID0gImZvbyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG1fYWxsLnJzcXVhcmVkX2Fkago=</text>
+        <text encoding="base64">Zm9vLnJlcGxhY2UoIm8iLCAiYWEiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG0xMi5yc3F1YXJlZF9hZGoK</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG0xLnJzcXVhcmVkX2Fkago=</text>
+        <text encoding="base64">b2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlyKGxtMTIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmluYWxfZGYuc2hhcGUK</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L2RhdGEvCg==</text>
+        <text encoding="base64">bG1fYWxsLnJzcXVhcmVkX2Fkago=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>weather_s</last-search>
+      <last-search>power</last-search>
       <last-offset />
-      <last-pattern>weather_s</last-pattern>
+      <last-pattern>power</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aops</entry>
         <entry>info</entry>
         <entry>spacy</entry>
         <entry>allennlp</entry>
@@ -926,6 +925,7 @@
         <entry>to_</entry>
         <entry>read</entry>
         <entry>weather_s</entry>
+        <entry>power</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
