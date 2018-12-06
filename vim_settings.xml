@@ -253,11 +253,11 @@
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1541266524311">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="18" />
+      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1544125075212">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -870,10 +870,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>_SAMPLE</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_SAMPLE</text>
       </register>
       <register name="/" type="4">
         <text>Treat</text>
