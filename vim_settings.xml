@@ -61,6 +61,12 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
+      <file name="$USER_HOME$/work/fastai/docs_src/data_block.py" timestamp="1544210356992">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/src/scratch.py" timestamp="1532273759708">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -189,6 +195,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1544210027154">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -213,8 +222,8 @@
       <file name="$USER_HOME$/work/agromo/agromomaster/Yield/Yield.r" timestamp="1542581473690">
         <mark key="[" line="41" column="23" />
         <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/containers/Signup.js" timestamp="1527978121884">
         <mark key="[" line="6" column="25" />
@@ -254,12 +263,6 @@
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1541266524311">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
@@ -362,8 +365,8 @@
         <mark key="'" line="34" column="0" />
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -444,6 +447,13 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" timestamp="1543271240840">
+        <mark key="'" line="11" column="45" />
+        <mark key="[" line="471" column="12" />
+        <mark key="]" line="471" column="12" />
+        <mark key="." line="471" column="12" />
+        <mark key="^" line="471" column="12" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso2/.gitignore" timestamp="1524015273187">
         <mark key="[" line="2" column="0" />
@@ -535,6 +545,10 @@
       </file>
       <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/bin/evaluate_signal_model.py" timestamp="1534289133005">
         <mark key="[" line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/agromo/lib/python3.6/site-packages/plotly/colors.py" timestamp="1543349773205">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="66" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" timestamp="1542581572941">
         <mark key="'" line="1120" column="6" />
@@ -631,7 +645,7 @@
       <file name="/Dummy.txt" timestamp="1542923577455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1540529509438">
+      <file name="/code.py" timestamp="1544209925649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/docker-compose.yml" timestamp="1537482572371">
@@ -718,6 +732,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
@@ -906,7 +926,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>spacy</entry>
         <entry>allennlp</entry>
         <entry>wand</entry>
@@ -919,13 +938,14 @@
         <entry>uuid</entry>
         <entry>pdf</entry>
         <entry encoding="base64">XDx5ZWFyXD4=</entry>
-        <entry>glm</entry>
-        <entry>model_df</entry>
-        <entry>drop</entry>
-        <entry>to_</entry>
-        <entry>read</entry>
-        <entry>weather_s</entry>
-        <entry>power</entry>
+        <entry>import</entry>
+        <entry>Satellite</entry>
+        <entry>Individual</entry>
+        <entry>html</entry>
+        <entry>render</entry>
+        <entry>Graph</entry>
+        <entry>State</entry>
+        <entry>Treat</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -982,6 +1002,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
