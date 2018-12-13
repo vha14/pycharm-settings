@@ -261,6 +261,12 @@
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/nlp/classify.py" timestamp="1544739529729">
+        <mark key="[" line="57" column="121" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="58" column="19" />
+        <mark key="." line="58" column="19" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/assets/scss/main.scss" timestamp="1524374278683">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -644,7 +650,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542923577455">
+      <file name="/Dummy.txt" timestamp="1544738686153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1544209925649">
@@ -877,43 +883,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>power</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGFuZ2VyMic6ICducC5wb3dlcihkYW5nZXIyLCAyKScsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR0cyA9IGlucHV0KCJXaGF0IHdvdWxkIHlvdSBsaWtlIHRvIGNvbnZlcnQgdG8gc3BlZWNoOiAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgZGVmIGdldChzZWxmLCBpKS0+QW55Ogo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YS5fX2NsYXNzX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YS5fX2NsYXNzX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhjZXB0IE5hbWVFcnJvcjogcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vb3V0bGllcnNfcmVndWxhcl9kZiA9IGZpbmFsX2RmW352YXJpZXR5X291dGxpZXJzKGZpbmFsX2RmKSAmIHJlZ3VsYXJfdmFyaWV0aWVzKGZpbmFsX2RmKV0K</text>
+        <text encoding="base64">dHJ5OiBpbnB1dCA9IHJhd19pbnB1dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vID0gImZvbyIK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9vLnJlcGxhY2UoIm8iLCAiYWEiKQo=</text>
+        <text encoding="base64">ICAgZGVmIGdldChzZWxmLCBpKS0+QW55Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
