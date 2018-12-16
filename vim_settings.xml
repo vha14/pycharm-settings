@@ -189,9 +189,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1544936321549">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -305,6 +302,12 @@
         <mark key="]" line="273" column="98" />
         <mark key="^" line="273" column="98" />
         <mark key="." line="273" column="98" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1544978878807">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+        <mark key="^" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -857,11 +860,11 @@
       <jump line="184" column="66" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhcmdwYXJzZSBpbXBvcnQgQXJndW1lbnRQYXJzZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">cGF0aC5qb2luKGRhdGFEaXIsIA==</text>
       </register>
       <register name="/" type="4">
         <text>power</text>
@@ -870,31 +873,31 @@
         <text encoding="base64">ICAgICAgICAnZGFuZ2VyMic6ICducC5wb3dlcihkYW5nZXIyLCAyKScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBhcmdwYXJzZSBpbXBvcnQgQXJndW1lbnRQYXJzZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vb3V0bGllcnNfcmVndWxhcl9kZiA9IGZpbmFsX2RmW352YXJpZXR5X291dGxpZXJzKGZpbmFsX2RmKSAmIHJlZ3VsYXJfdmFyaWV0aWVzKGZpbmFsX2RmKV0K</text>
+        <text encoding="base64">ZGVidWcgPSBhcmdzLmRlYnVnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9vID0gImZvbyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Zm9vLnJlcGxhY2UoIm8iLCAiYWEiKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cGFyc2VyID0gQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCItZiIsICItLWZpbGUiLCBkZXN0PSJmaWxlbmFtZSIsIGhlbHA9ImltYWdlIGZpbGUiLCBtZXRhdmFyPSJGSUxFIikKCnBhcnNlci5hZGRfYXJndW1lbnQoIi1kIiwgIi0tZGF0YSIsIGRlc3Q9ImRhdGFEaXIiLCBoZWxwPSJkYXRhIGRpcmVjdG9yeSIsIG1ldGF2YXI9IkRBVEEiKQoKcGFyc2VyLmFkZF9hcmd1bWVudCgiLW8iLCAiLS1vdXQiLCBkZXN0PSJvdXRwdXREaXIiLCBoZWxwPSJvdXRwdXQgZGlyZWN0b3J5IiwgbWV0YXZhcj0iT1VUUFVUIikKCnBhcnNlci5hZGRfYXJndW1lbnQoIi1kZWJ1ZyIsICItLWRlYnVnIiwgZGVzdD0iZGVidWciLCBoZWxwPSJkZWJ1ZyIsIG1ldGF2YXI9IkRFQlVHIikKCmFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b2QK</text>
+        <text encoding="base64">ICAgIG5vb3V0bGllcnNfcmVndWxhcl9kZiA9IGZpbmFsX2RmW352YXJpZXR5X291dGxpZXJzKGZpbmFsX2RmKSAmIHJlZ3VsYXJfdmFyaWV0aWVzKGZpbmFsX2RmKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">Zm9vID0gImZvbyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">Zm9vLnJlcGxhY2UoIm8iLCAiYWEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG1fYWxsLnJzcXVhcmVkX2Fkago=</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
