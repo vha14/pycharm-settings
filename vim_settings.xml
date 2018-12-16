@@ -303,11 +303,11 @@
         <mark key="^" line="273" column="98" />
         <mark key="." line="273" column="98" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1544978878807">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="11" column="2" />
-        <mark key="^" line="11" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1544997658576">
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+        <mark key="^" line="33" column="2" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -606,6 +606,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="45" column="55" />
       </file>
+      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1544998091053">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="40" column="2" />
+        <mark key="." line="40" column="2" />
+        <mark key="^" line="40" column="2" />
+      </file>
       <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1538342675694">
         <mark key="'" line="104" column="53" />
         <mark key="[" line="127" column="70" />
@@ -864,7 +870,7 @@
         <text encoding="base64">ZnJvbSBhcmdwYXJzZSBpbXBvcnQgQXJndW1lbnRQYXJzZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF0aC5qb2luKGRhdGFEaXIsIA==</text>
+        <text encoding="base64">YXJncy5vdXRwdXREaXIgb3Ig</text>
       </register>
       <register name="/" type="4">
         <text>power</text>
@@ -876,28 +882,39 @@
         <text encoding="base64">ZnJvbSBhcmdwYXJzZSBpbXBvcnQgQXJndW1lbnRQYXJzZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVidWcgPSBhcmdzLmRlYnVnCg==</text>
+        <text encoding="base64">I20gPSBtbHAuTUxQKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I20gPSBsci5MUigpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cGFyc2VyID0gQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCItZiIsICItLWZpbGUiLCBkZXN0PSJmaWxlbmFtZSIsIGhlbHA9ImltYWdlIGZpbGUiLCBtZXRhdmFyPSJGSUxFIikKCnBhcnNlci5hZGRfYXJndW1lbnQoIi1kIiwgIi0tZGF0YSIsIGRlc3Q9ImRhdGFEaXIiLCBoZWxwPSJkYXRhIGRpcmVjdG9yeSIsIG1ldGF2YXI9IkRBVEEiKQoKcGFyc2VyLmFkZF9hcmd1bWVudCgiLW8iLCAiLS1vdXQiLCBkZXN0PSJvdXRwdXREaXIiLCBoZWxwPSJvdXRwdXQgZGlyZWN0b3J5IiwgbWV0YXZhcj0iT1VUUFVUIikKCnBhcnNlci5hZGRfYXJndW1lbnQoIi1kZWJ1ZyIsICItLWRlYnVnIiwgZGVzdD0iZGVidWciLCBoZWxwPSJkZWJ1ZyIsIG1ldGF2YXI9IkRFQlVHIikKCmFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">I2RzLmxvYWRfaW1hZ2UoaW1hZ2VOYW1lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1hZ2VOYW1lID0gYXJncy5maWxlbmFtZSBvciAnaVZpelZpZGVvXzE4MDYyMF8xNTM2MjJfUi0wNDQucG5nJwpkYXRhRGlyID0gYXJncy5kYXRhRGlyIG9yICcuL2RhdGEvcHJvY2Vzc2VkL2FpMl9hbm5vdGF0ZWQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vb3V0bGllcnNfcmVndWxhcl9kZiA9IGZpbmFsX2RmW352YXJpZXR5X291dGxpZXJzKGZpbmFsX2RmKSAmIHJlZ3VsYXJfdmFyaWV0aWVzKGZpbmFsX2RmKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Zm9vID0gImZvbyIK</text>
+      <register name="7" type="4">
+        <text>parser = ArgumentParser()
+parser.add_argument(&quot;-f&quot;, &quot;--file&quot;, dest=&quot;filename&quot;, help=&quot;image file&quot;, metavar=&quot;FILE&quot;)
+
+parser.add_argument(&quot;-d&quot;, &quot;--data&quot;, dest=&quot;dataDir&quot;, help=&quot;data directory&quot;, metavar=&quot;DATA&quot;)
+
+parser.add_argument(&quot;-o&quot;, &quot;--out&quot;, dest=&quot;outputDir&quot;, help=&quot;output directory&quot;, metavar=&quot;OUTPUT&quot;)
+
+parser.add_argument(&quot;-debug&quot;, &quot;--debug&quot;, dest=&quot;debug&quot;, help=&quot;debug&quot;, metavar=&quot;DEBUG&quot;)
+
+args = parser.parse_args()
+
+debug = args.debug</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vLnJlcGxhY2UoIm8iLCAiYWEiKQo=</text>
+        <text encoding="base64">ZnJvbSBhcmdwYXJzZSBpbXBvcnQgQXJndW1lbnRQYXJzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">ZGVidWcgPSBhcmdzLmRlYnVnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
