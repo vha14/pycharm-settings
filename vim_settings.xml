@@ -327,6 +327,12 @@
         <mark key="^" line="273" column="98" />
         <mark key="." line="273" column="98" />
       </file>
+      <file name="$USER_HOME$/work/piv/src/detectors/roi_proposer.py" timestamp="1545185626329">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="73" column="1" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
         <mark key="]" line="79" column="19" />
@@ -362,6 +368,13 @@
         <mark key="]" line="5" column="86" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="5" column="86" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/detectors/contour_settings.py" timestamp="1545186150985">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="101" column="70" />
+        <mark key="]" line="101" column="83" />
+        <mark key="^" line="101" column="83" />
+        <mark key="." line="101" column="83" />
       </file>
       <file name="$USER_HOME$/work/rambuta/ml/requirements.txt" timestamp="1527642611290">
         <mark key="[" line="0" column="0" />
@@ -624,11 +637,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1545112983189">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="61" column="48" />
+      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1545184488063">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="." line="66" column="4" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1538342675694">
         <mark key="'" line="104" column="53" />
@@ -746,10 +759,6 @@
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield-eda.py" timestamp="1541560445169">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="92" />
-      </file>
       <file name="$USER_HOME$/work/big-mouth/package.json" timestamp="1531670686374">
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="53" />
@@ -776,11 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="22" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
-      <jump line="332" column="12" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
-      <jump line="413" column="127" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
-      <jump line="5882" column="47" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
-      <jump line="5884" column="58" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="6054" column="164" filename="$USER_HOME$/gitlab/mso/scrape/node_modules/@types/node/index.d.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="64" column="7" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -876,46 +880,51 @@
       <jump line="6" column="39" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
       <jump line="34" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield_pipeline.py" />
       <jump line="184" column="66" filename="$USER_HOME$/work/agromo/agromomaster/yield_model.py" />
+      <jump line="85" column="33" filename="$USER_HOME$/work/piv/src/main.py" />
+      <jump line="83" column="17" filename="$USER_HOME$/work/piv/src/main.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/piv/src/main.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/work/piv/src/main.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/work/piv/src/detectors/contour_settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGlzdChpbWdEaXIuaXRlcmRpcigpKVswXS5uYW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>self.params['final_morph_iterations'])</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>self.params['final_morph_iterations'])</text>
       </register>
       <register name="/" type="4">
         <text>power</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGxvdF9pbWdfbWFzayhsaXN0KGltZ0Rpci5pdGVyZGlyKCkpKQo=</text>
+        <text encoding="base64">ZGVmIGhpc3RvZ3JhbV9lcXVhbGl6ZShpbWcsIGhlOiBPcHRpb25hbFtIaXN0b2dyYW1FcXVhbGl6ZV0pOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGlzdChpbWdEaXIuaXRlcmRpcigpKVswXS5uYW1lCg==</text>
+        <text encoding="base64">aWYgc2VsZi5wYXJhbXNbJ2ZpbmFsX21vcnBoX2VuYWJsZWQnXToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGFyYW1zWyd0aHJlc2hvbGQzX3R5cGUnXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Jwo=</text>
+        <text encoding="base64">ICAgIHJldCwgaW0gPSBjdjIudGhyZXNob2xkKGltLCBzZWxmLnBhcmFtc1sndGhyZXNob2xkM19yYW5nZSddWzBdLCBzZWxmLnBhcmFtc1sndGhyZXNob2xkM19yYW5nZSddWzFdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5cmVmPSJ5IildCg==</text>
+        <text encoding="base64">aWYgc2VsZi5wYXJhbXNbJ3RocmVzaG9sZDNfZW5hYmxlZCddOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5PWhlaWdodCwgc2l6ZXk9aGVpZ2h0LAo=</text>
+        <text encoding="base64">ICAgICMgY3YyLmltc2hvdygnYmx1cicsIGltKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4PXdpZHRoLCBzaXpleD13aWR0aCwgeHJlZj0ieCIsCg==</text>
+        <text encoding="base64">aWYgc2VsZi5wYXJhbXNbJ2JsdXJfZW5hYmxlZCddOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdvLmxheW91dC5JbWFnZShzb3VyY2U9SW1hZ2UuZnJvbWFycmF5KG1hc2spLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5PWhlaWdodCwgc2l6ZXk9aGVpZ2h0LCB5cmVmPSJ5IiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGFyYW1zWyd0aHJlc2hvbGQyX3R5cGUnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4PTAsIHNpemV4PXdpZHRoLCB4cmVmPSJ4IiwK</text>
+        <text encoding="base64">ICAgIHJldCwgaW0gPSBjdjIudGhyZXNob2xkKGltLCBzZWxmLnBhcmFtc1sndGhyZXNob2xkMl9yYW5nZSddWzBdLCBzZWxmLnBhcmFtc1sndGhyZXNob2xkMl9yYW5nZSddWzFdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
