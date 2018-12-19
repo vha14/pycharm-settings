@@ -15,7 +15,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1545111967967">
+      <file name="/a.dummy" timestamp="1545192203360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
@@ -207,9 +207,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1545191714865">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -330,11 +327,11 @@
         <mark key="^" line="273" column="98" />
         <mark key="." line="273" column="98" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/detectors/roi_proposer.py" timestamp="1545191878489">
-        <mark key="[" line="106" column="71" />
-        <mark key="]" line="106" column="71" />
-        <mark key="^" line="106" column="71" />
-        <mark key="." line="106" column="71" />
+      <file name="$USER_HOME$/work/piv/src/detectors/roi_proposer.py" timestamp="1545193083548">
+        <mark key="[" line="133" column="13" />
+        <mark key="]" line="133" column="33" />
+        <mark key="^" line="133" column="33" />
+        <mark key="." line="133" column="33" />
       </file>
       <file name="$USER_HOME$/work/autograd/funkyyak/core.py" timestamp="1533612225507">
         <mark key="[" line="143" column="12" />
@@ -354,11 +351,11 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/types.py" timestamp="1545191997718">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/work/piv/src/types.py" timestamp="1545192077069">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/src/create.ts" timestamp="1537336764497">
         <mark key="[" line="5" column="0" />
@@ -646,12 +643,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1545191822710">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="67" column="87" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="70" column="33" />
+      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1545193677583">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="67" column="13" />
+        <mark key="^" line="67" column="13" />
+        <mark key="." line="67" column="13" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1538342675694">
         <mark key="'" line="104" column="53" />
@@ -897,44 +893,44 @@
       <jump line="115" column="4" filename="$USER_HOME$/work/piv/src/detectors/contour_settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTE1OC5wbmcnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>'iVizVideo_180620_153622_R-044.png'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250b3VyZWRJbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250b3VyZWRJbWFnZSwgY29udG91cnMsIGhpZXJhcmNoeSA9IGN2Mi5maW5kQ29udG91cnMoaW0sIGN2Mi5SRVRSX1RSRUUsIGN2Mi5DSEFJTl9BUFBST1hfU0lNUExFKQoKICAgICAgICByZXR1cm4gW0Jsb2IoaW0sIGMpIGZvciBjIGluIGNvbnRvdXJzXQo=</text>
+        <text encoding="base64">SW1hZ2UuZnJvbWFycmF5KGhlbGl6ZWQpLnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBJbWFnZS5mcm9tYXJyYXkoaW0pLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTE1OC5wbmcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbSA9IEltYWdlLm9wZW4oc3RyKGltZ0Rpci8naVZpelZpZGVvXzE4MDYyMF8xNTM2MjJfUi0wNDQucG5nJykpCg==</text>
+        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MzAyNl9SLTA4NS5wbmcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm9pX3Byb3Bvc2VyID0gQ29udG91clJPSVByb3Bvc2VyKGNvbnRvdXJfb3B0aW1pemVkX3BhcmFtcykK</text>
+        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1NDE0OF9SLTEyNy5wbmcnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
+        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MzYyMl9SLTA0NC5wbmcnLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRvX21hc2soaW1nX2ZpbGUpOiByZXR1cm4gaW1nX2ZpbGUucGFyZW50LnBhcmVudCAvICdsYWJlbCcgLyBpbWdfZmlsZS5uYW1lCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVsaXplZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
