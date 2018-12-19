@@ -643,11 +643,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1545193677583">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="67" column="13" />
-        <mark key="^" line="67" column="13" />
-        <mark key="." line="67" column="13" />
+      <file name="$USER_HOME$/work/piv/src/main.py" timestamp="1545194940887">
+        <mark key="[" line="63" column="55" />
+        <mark key="]" line="63" column="60" />
+        <mark key="." line="63" column="60" />
+        <mark key="^" line="63" column="60" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" timestamp="1538342675694">
         <mark key="'" line="104" column="53" />
@@ -893,44 +893,44 @@
       <jump line="115" column="4" filename="$USER_HOME$/work/piv/src/detectors/contour_settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTE1OC5wbmcnCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>'iVizVideo_180620_153622_R-044.png'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250b3VyZWRJbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SW1hZ2UuZnJvbWFycmF5KGhlbGl6ZWQpLnNob3coKQo=</text>
+        <text encoding="base64">ICAgIGJsID0gcnAuYmx1cihycC5kZWZhdWx0LmJsdXIsIHRocmVzaDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTE1OC5wbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQsIHdpZHRoID0gaW1nLnNoYXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MzAyNl9SLTA4NS5wbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1NDE0OF9SLTEyNy5wbmcnLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdpVml6VmlkZW9fMTgwNjIwXzE1MzYyMl9SLTA0NC5wbmcnLAo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRvX21hc2soaW1nX2ZpbGUpOiByZXR1cm4gaW1nX2ZpbGUucGFyZW50LnBhcmVudCAvICdsYWJlbCcgLyBpbWdfZmlsZS5uYW1lCg==</text>
+        <text encoding="base64">ICAgeC5hcHBlbmQoMykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgeCA9ICBbMSwgMl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGVsaXplZAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXNrID0gY3YyLmltcmVhZChzdHIobGFiZWxEaXIgLyBpbWdfbmFtZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1nCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihpbWdEaXIgLyBpbWdfbmFtZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
