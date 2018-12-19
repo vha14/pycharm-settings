@@ -15,7 +15,13 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1545199841875">
+      <file name="$USER_HOME$/work/piv/src/aliases.py" timestamp="1545200489862">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
+      <file name="/a.dummy" timestamp="1545200681690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
@@ -148,6 +154,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="8" column="64" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/preprocess.py" timestamp="1545201006371">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/test_dataset.py" timestamp="1532498011763">
         <mark key="[" line="7" column="33" />
@@ -539,7 +551,12 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/roi_proposer.py" timestamp="1545199953899" />
+      <file name="$USER_HOME$/work/piv/explore/roi_proposer.py" timestamp="1545201241208">
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+        <mark key="^" line="65" column="25" />
+      </file>
       <file name="$USER_HOME$/work/WellSaid-Labs-Text-To-Speech/src/signal_model/wave_rnn.py" timestamp="1535908108187">
         <mark key="'" line="303" column="8" />
         <mark key="[" line="15" column="9" />
@@ -559,8 +576,10 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1545199961197">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1545199998089">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
@@ -898,10 +917,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, settings: ContourSettings</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, settings: ContourSettings</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250b3VyZWRJbWFnZVw+</text>
@@ -910,31 +929,31 @@
         <text encoding="base64">ICAgIGJsID0gcnAuYmx1cihycC5kZWZhdWx0LmJsdXIsIHRocmVzaDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQsIHdpZHRoID0gaW1nLnNoYXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyAlJQpibG9icyA9IHJwLmdldF9ibG9icyhpbWcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHgK</text>
+        <text encoding="base64">ZGVmIHRvX21hc2soaW1nX2ZpbGUpOiByZXR1cm4gaW1nX2ZpbGUucGFyZW50LnBhcmVudCAvICdsYWJlbCcgLyBpbWdfZmlsZS5uYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgeC5hcHBlbmQoMykK</text>
+        <text encoding="base64">aW1nID0gY3ZpbXJlYWQoaW1nRGlyIC8gc2FtcGxlX2ltZywgY3YyLklNUkVBRF9HUkFZU0NBTEUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgeCA9ICBbMSwgMl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXNrID0gY3YyLmltcmVhZChzdHIobGFiZWxEaXIgLyBpbWdfbmFtZSkpCg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihpbWdEaXIgLyBpbWdfbmFtZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
