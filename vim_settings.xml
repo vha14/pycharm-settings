@@ -135,12 +135,6 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/preprocess.py" timestamp="1545203334016">
-        <mark key="[" line="7" column="63" />
-        <mark key="]" line="7" column="63" />
-        <mark key="^" line="7" column="62" />
-        <mark key="." line="7" column="63" />
-      </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/test_dataset.py" timestamp="1532498011763">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="39" />
@@ -152,8 +146,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1545019264623">
-        <mark key="[" line="1" column="13" />
+      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1545233960310">
+        <mark key="[" line="7" column="8" />
         <mark key="]" line="2" column="5" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
@@ -259,10 +253,10 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545203427903">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545204535775">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -366,6 +360,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/roi_proposer.py" timestamp="1545233808570">
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="101" column="11" />
+        <mark key="." line="101" column="11" />
+        <mark key="^" line="143" column="21" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker-compose.yml" timestamp="1532058501496">
         <mark key="[" line="26" column="0" />
@@ -484,11 +484,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/roi_proposer.py" timestamp="1545202946821">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="63" column="25" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/roi_proposer.py" timestamp="1545204474503">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Footer.js" timestamp="1524201396900">
         <mark key="[" line="4" column="55" />
@@ -833,41 +833,41 @@
       <jump line="115" column="4" filename="$USER_HOME$/work/piv/src/detectors/contour_settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250b3VyZWRJbWFnZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJsID0gcnAuYmx1cihycC5kZWZhdWx0LmJsdXIsIHRocmVzaDIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGltZyA9IHByZXByb2Nlc3MoaW1nLCBzZXR0aW5ncykKICAgIF8sIGNvbnRvdXJzLCBfID0gY3YyLmZpbmRDb250b3VycyhpbWcsIGN2Mi5SRVRSX1RSRUUsIGN2Mi5DSEFJTl9BUFBST1hfU0lNUExFKQoKICAgIHJldHVybiBbQmxvYihpbWcsIGMpIGZvciBjIGluIGNvbnRvdXJzIGlmIGN2Mi5jb250b3VyQXJlYShjKSAhPSAwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cwo=</text>
+        <text encoding="base64">aW1wb3J0IHByZXByb2Nlc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cwo=</text>
+        <text encoding="base64">aW1wb3J0IHByZXByb2Nlc3MK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">IyAlJQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">SW1hZ2UuZnJvbWFycmF5KGltZykuc2hvdygpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nLCBibG9icyA9IHJvaV9wcm9wb3Nlci5nZXRfYmxvYnMoaW1nKQpJbWFnZS5mcm9tYXJyYXkoaW1nKS5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
