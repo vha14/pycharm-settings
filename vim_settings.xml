@@ -21,7 +21,7 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1537325739156">
+      <file name="/a.dummy" timestamp="1545321999721">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
@@ -270,11 +270,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545290485868">
-        <mark key="[" line="39" column="69" />
-        <mark key="]" line="39" column="70" />
-        <mark key="^" line="39" column="70" />
-        <mark key="." line="39" column="70" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545323790690">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -480,6 +481,12 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/label.py" timestamp="1545322646131">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" timestamp="1543271240840">
         <mark key="'" line="11" column="45" />
@@ -805,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="$USER_HOME$/gitlab/mso/problem-api/mysql/scripts/create_tables.sql" />
       <jump line="14" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="6" column="1" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -905,13 +911,14 @@
       <jump line="4138" column="15" filename="$USER_HOME$/.PyCharm2018.2/system/python_stubs/1947791690/cv2/cv2/__init__.py" />
       <jump line="4348" column="54" filename="$USER_HOME$/.PyCharm2018.2/system/python_stubs/1947791690/cv2/cv2/__init__.py" />
       <jump line="5070" column="71" filename="$USER_HOME$/.PyCharm2018.2/system/python_stubs/1947791690/cv2/cv2/__init__.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/work/piv/src/dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZhaWxlZCB0byBmaW5kIHRoZSByaWdodCBjb250b3VyIGluIGltYWdlOiAiLCBpbWdfbmFtZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">PiAx</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
@@ -920,31 +927,31 @@
         <text encoding="base64">ZGVmIGN2aW1yZWFkKHBhdGg6IFBhdGgsIGZsYWdzPU5vbmUpIC0+IE9wZW5jdkltYWdlOgogICAgcmV0dXJuIGN2Mi5pbXJlYWQoc3RyKHBhdGgpLCBmbGFncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5vdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZhaWxlZCB0byBmaW5kIHRoZSByaWdodCBjb250b3VyIGluIGltYWdlOiAiLCBpbWdfbmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm4gPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZm91bmQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbF9maWxlX3BhdGggPSBwYXRoLmpvaW4oc2VsZi5sYWJlbF9kaXIsIGltYWdlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcCA9IDEgaWYgbWF0Y2hlcyA8IG4gZWxzZSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfZmlsZV9wYXRoID0gcGF0aC5qb2luKHNlbGYuaW1hZ2VfZGlyLCBpbWFnZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cCA9IDEgaWYgbWF0Y2hlcyA+IDAgZWxzZSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwID0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVuKGltZ19maWxlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3VuZCA9IFRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFzayA9IG5wLmFzYXJyYXkoSW1hZ2Uub3BlbihpbWdEaXIvaW1hZ2VOYW1lKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cCA9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
