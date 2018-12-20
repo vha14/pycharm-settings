@@ -270,12 +270,11 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545324021690">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545329994733">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+        <mark key="." line="52" column="28" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -482,12 +481,6 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/label.py" timestamp="1545322646131">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-      </file>
       <file name="$USER_HOME$/work/dash-oil-and-gas-demo/app.py" timestamp="1543271240840">
         <mark key="'" line="11" column="45" />
         <mark key="[" line="471" column="12" />
@@ -570,6 +563,12 @@
       </file>
       <file name="$USER_HOME$/miniconda3/envs/agromo/lib/python3.7/site-packages/plotly/api/v1/utils.py" timestamp="1542931632516">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/features.py" timestamp="1545332398477">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -812,8 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="6" column="1" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="97" column="6" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="107" column="10" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -912,13 +909,15 @@
       <jump line="4348" column="54" filename="$USER_HOME$/.PyCharm2018.2/system/python_stubs/1947791690/cv2/cv2/__init__.py" />
       <jump line="5070" column="71" filename="$USER_HOME$/.PyCharm2018.2/system/python_stubs/1947791690/cv2/cv2/__init__.py" />
       <jump line="24" column="16" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="27" column="22" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>count(1)</text>
+        <text>_fp</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
@@ -930,28 +929,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZhaWxlZCB0byBmaW5kIHRoZSByaWdodCBjb250b3VyIGluIGltYWdlOiAiLCBpbWdfbmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm4gPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZm91bmQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcCA9IDEgaWYgbWF0Y2hlcyA8IG4gZWxzZSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cCA9IDEgaWYgbWF0Y2hlcyA+IDAgZWxzZSAwCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIGZlYXR1cml6ZShiKToKICAgIGZlYXR1cmVzID0gWwogICAgICAgIGIuYXJlYSwgYi5tZWFuX3ZhbCwgYi5jeCwgYi5jeSwgYi5sZWZ0bW9zdFswXSwgYi5sZWZ0bW9zdFsxXSwgYi5yaWdodG1vc3RbMF0sIGIucmlnaHRtb3N0WzFdLCBiLnRvcG1vc3RbMF0sCiAgICAgICAgYi50b3Btb3N0WzFdLCBiLmJvdHRvbW1vc3RbMF0sIGIuYm90dG9tbW9zdFsxXSwgYi5odWxsQXJlYQogICAgXQoKICAgIGFzc2VydCBsZW4oZmVhdHVyZXMpID09IGFsaWFzZXMuTlVNX0ZFQVRVUkVTCiAgICByZXR1cm4gZmVhdHVyZXMKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwID0gMQo=</text>
+        <text encoding="base64">YXJlYV90aHJlc2hvbGQgPSAwLjUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3VuZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VOYW1lID0gaW1hZ2VGaWxlc1tpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
