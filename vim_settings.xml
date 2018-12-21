@@ -85,6 +85,11 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545352079552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="34" />
@@ -270,12 +275,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545351645634">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="56" column="95" />
-        <mark key="]" line="57" column="42" />
-        <mark key="^" line="57" column="42" />
-        <mark key="." line="57" column="42" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545351964377">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="52" column="36" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -292,11 +297,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545350050857">
-        <mark key="'" line="111" column="21" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545352091522">
+        <mark key="'" line="81" column="45" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="81" column="21" />
       </file>
       <file name="/mso.problem_author [mso@localhost]" timestamp="1538323072711">
         <mark key="[" line="0" column="0" />
@@ -765,6 +771,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1545353813075">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="11" column="66" />
@@ -782,12 +794,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
@@ -818,17 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="54" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="40" column="26" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="78" column="28" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="125" column="32" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="39" column="26" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="124" column="33" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="42" column="55" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="77" column="36" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="80" column="100" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="102" column="30" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="105" column="55" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="126" column="70" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="41" column="49" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -918,43 +913,89 @@
       <jump line="78" column="25" filename="$USER_HOME$/work/piv/src/blob.py" />
       <jump line="18" column="25" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="111" column="21" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="94" column="12" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="26" column="9" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="54" column="28" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="55" column="35" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="56" column="55" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="57" column="42" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="60" column="57" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="64" column="28" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="82" column="45" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/work/piv/explore/blob.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGVkX3NpemUgPSBzbWFsbGVyX2NsYXNzX2NvdW50ICogbXVsdGlwbGllcgo=</text>
+        <text encoding="base64">Yi5fX2NsYXNzX18K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMSk=</text>
+        <text>len(blobs)</text>
       </register>
       <register name="/" type="4">
-        <text>255</text>
+        <text>label</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYXJlYT1zZWxmLmFyZWEsCiAgICAgICAgICAgIG1lYW5fdmFsPXNlbGYubWVhbl92YWwsCiAgICAgICAgICAgIGN4PXNlbGYuY3gsCiAgICAgICAgICAgIGN5PXNlbGYuY3ksCiAgICAgICAgICAgIGwwPXNlbGYubGVmdG1vc3RbMF0sCiAgICAgICAgICAgIGwxPSBzZWxmLmxlZnRtb3N0WzFdLAogICAgICAgICAgICByMD1zZWxmLnJpZ2h0bW9zdFswXSwKICAgICAgICAgICAgcjE9c2VsZi5yaWdodG1vc3RbMV0sCiAgICAgICAgICAgIHQwPXNlbGYudG9wbW9zdFswXSwKICAgICAgICAgICAgdDE9c2VsZi50b3Btb3N0WzFdLAogICAgICAgICAgICBiMD1zZWxmLmJvdHRvbW1vc3RbMF0sCiAgICAgICAgICAgIGIxPXNlbGYuYm90dG9tbW9zdFsxXSwKICAgICAgICAgICAgaHVsbF9hcmVhPXNlbGYuaHVsbEFyZWE=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJsb2JiZWRfaW1nLCBfID0gYmxvYi5nZXRfYmxvYnMoYmxvYi5vcHRpbWl6ZWQsIGltZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGVkX3NpemUgPSBzbWFsbGVyX2NsYXNzX2NvdW50ICogbXVsdGlwbGllcgo=</text>
+        <text encoding="base64">Yi5fX2NsYXNzX18K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYXJnZXJfY2xhc3NfY291bnQgLyBzbWFsbGVyX2NsYXNzX2NvdW50IDwgCg==</text>
+        <text encoding="base64">aW1wb3J0IGV2YWx1YXRvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXQgPSBtYXQuc2h1ZmZsZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIEhZUEVSIFBBUkFNRVRFUjogVGhpcyBuZWVkcyB0byBiZSB0dW5lZAogICAgICAgIG11bHRpcGxpZXIgPSAzCiAgICAgICAgc2FtcGxlZF9zaXplID0gc21hbGxlcl9jbGFzc19jb3VudCAqIChtdWx0aXBsaWVyICsgMSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>ds = dataset.Dataset(roi_proposer, imgDir, labelDir, outputDir)
+ds.load_n(40)
+
+_X, _y = ds.sample()
+
+m = rf.RandomForest()
+m.train(_X, np.ravel(_y))
+print('Classification model accuracy: ', m.eval(_X, _y))
+
+# %%
+
+# TEST
+# HYPER PARAMETER: the threshold passed to the predictor here is a very critical hyper param
+pred = predictor.Predictor(roi_proposer, m, 0.97)
+imgFilePath = path.join(imgDir, 'iVizVideo_180620_153622_R-044.png')
+testImage = cv2.imread(imgFilePath, cv2.IMREAD_GRAYSCALE)
+
+predictions = pred.run(testImage)
+
+# %%
+
+# Evaluate
+evaluator = evaluator.Evaluator(imgDir, labelDir, outputDir)
+print('Overall accuracy ', evaluator.evaluate(pred))
+
+cv2.drawContours(testImage, predictions, -1, (255, 0, 0), 3)
+'''
+input_dir = 'data/raw/unlabeled_data/initial_sample_videos_and_frames'
+video_filename = 'iVizVideo_180620_151459_R.mp4'
+video_filename = 'iVizVideo_180620_151657_R.mp4'
+output_dir = 'data/output/video_predictions'
+run_model_on_video(pred, input_dir, video_filename, output_dir)
+'''
+
+cv2.imshow(&quot;Test&quot;, testImage)
+cv2.waitKey(0)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WzEsMl0gKyBbM10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -964,15 +1005,14 @@
       </register>
     </registers>
     <search>
-      <last-search>255</last-search>
+      <last-search>label</last-search>
       <last-offset />
-      <last-pattern>255</last-pattern>
+      <last-pattern>label</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>allennlp</entry>
         <entry>wand</entry>
         <entry>PIL</entry>
         <entry>image</entry>
@@ -992,6 +1032,7 @@
         <entry>State</entry>
         <entry>Treat</entry>
         <entry>255</entry>
+        <entry>label</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
