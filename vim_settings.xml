@@ -270,12 +270,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545343405477">
-        <mark key="'" line="48" column="7" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545351645634">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="56" column="95" />
+        <mark key="]" line="57" column="42" />
+        <mark key="^" line="57" column="42" />
+        <mark key="." line="57" column="42" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -292,12 +292,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545344514304">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545350050857">
+        <mark key="'" line="111" column="21" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/mso.problem_author [mso@localhost]" timestamp="1538323072711">
         <mark key="[" line="0" column="0" />
@@ -784,6 +783,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
       </file>
@@ -813,10 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="26" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="50" column="26" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="81" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="106" column="30" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="127" column="54" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="40" column="26" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
@@ -913,46 +914,50 @@
       <jump line="57" column="7" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="248" column="8" filename="$USER_HOME$/miniconda3/envs/piv/lib/python3.7/random.py" />
       <jump line="61" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="78" column="25" filename="$USER_HOME$/work/piv/src/blob.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="111" column="21" filename="$USER_HOME$/work/piv/src/blob.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2NpcHkK</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGVkX3NpemUgPSBzbWFsbGVyX2NsYXNzX2NvdW50ICogbXVsdGlwbGllcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICsgMSk=</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbyA9IHsnYSc6IDEsICdiJzoyfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgYXJlYT1zZWxmLmFyZWEsCiAgICAgICAgICAgIG1lYW5fdmFsPXNlbGYubWVhbl92YWwsCiAgICAgICAgICAgIGN4PXNlbGYuY3gsCiAgICAgICAgICAgIGN5PXNlbGYuY3ksCiAgICAgICAgICAgIGwwPXNlbGYubGVmdG1vc3RbMF0sCiAgICAgICAgICAgIGwxPSBzZWxmLmxlZnRtb3N0WzFdLAogICAgICAgICAgICByMD1zZWxmLnJpZ2h0bW9zdFswXSwKICAgICAgICAgICAgcjE9c2VsZi5yaWdodG1vc3RbMV0sCiAgICAgICAgICAgIHQwPXNlbGYudG9wbW9zdFswXSwKICAgICAgICAgICAgdDE9c2VsZi50b3Btb3N0WzFdLAogICAgICAgICAgICBiMD1zZWxmLmJvdHRvbW1vc3RbMF0sCiAgICAgICAgICAgIGIxPXNlbGYuYm90dG9tbW9zdFsxXSwKICAgICAgICAgICAgaHVsbF9hcmVhPXNlbGYuaHVsbEFyZWE=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NpcHkK</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGVkX3NpemUgPSBzbWFsbGVyX2NsYXNzX2NvdW50ICogbXVsdGlwbGllcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWVzdHMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYXJnZXJfY2xhc3NfY291bnQgLyBzbWFsbGVyX2NsYXNzX2NvdW50IDwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnVtcHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW92aWVweQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXQgPSBtYXQuc2h1ZmZsZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWdfbGFiZWwgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEhZUEVSIFBBUkFNRVRFUjogVGhpcyBuZWVkcyB0byBiZSB0dW5lZAogICAgICAgIG11bHRpcGxpZXIgPSAzCiAgICAgICAgc2FtcGxlZF9zaXplID0gc21hbGxlcl9jbGFzc19jb3VudCAqIChtdWx0aXBsaWVyICsgMSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvby5rZXlzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbyA9IGRpY3QoYT0xLCBiPTIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbyA9IHsnYSc6IDEsICdiJzoyfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
