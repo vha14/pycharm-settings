@@ -85,12 +85,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545357558728">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545361370421">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -267,12 +267,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545357982696">
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545360948307">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="41" />
-        <mark key="^" line="33" column="41" />
-        <mark key="." line="33" column="41" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -817,7 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="9" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="151" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="12" column="11" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
@@ -917,86 +916,47 @@
       <jump line="35" column="13" filename="$USER_HOME$/work/piv/explore/dataset.py" />
       <jump line="47" column="20" filename="$USER_HOME$/work/piv/explore/blob.py" />
       <jump line="19" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Reading</text>
+        <text>label</text>
       </register>
       <register name="-" type="4">
-        <text>Reading</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
-      <register name="0" type="4">
-        <text>dataDir = pathlib.Path('./data/processed/ai2_annotated')
-outputDir = './data/processed/ai2_annotated/output'
-imgDir = dataDir / 'img'
-labelDir = dataDir / 'label'
-sample_img = 'iVizVideo_180620_151459_R-158.png'
-img = cvimread(imgDir / sample_img, cv2.IMREAD_GRAYSCALE)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGYubGFiZWwuZGVzY3JpYmUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJwYXRoOiB7aW1nX2xhYmVsX3BhdGh9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zi5rZXlzKCkgPT0gc2V0KGJsb2IuRkVBVFVSRVNfTEFCRUwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Yi5fX2NsYXNzX18K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImxhYmVscyBjcmVhdGVkOiB7cmV0LmxhYmVsLnN1bSgpfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGV2YWx1YXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJsYWJlbCBzaGFwZToge2ltZ19sYWJlbC5zaGFwZX0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImxhYmVsIHNoYXBlOiB7aW1nX2xhYmVsLnNoYXBlfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJyZXQgc2hhcGUgaXMge3JldC5zaGFwZX0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJMb2FkaW5nIHtpbWdfcGF0aC5uYW1lfSIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ds = dataset.Dataset(roi_proposer, imgDir, labelDir, outputDir)
-ds.load_n(40)
-
-_X, _y = ds.sample()
-
-m = rf.RandomForest()
-m.train(_X, np.ravel(_y))
-print('Classification model accuracy: ', m.eval(_X, _y))
-
-# %%
-
-# TEST
-# HYPER PARAMETER: the threshold passed to the predictor here is a very critical hyper param
-pred = predictor.Predictor(roi_proposer, m, 0.97)
-imgFilePath = path.join(imgDir, 'iVizVideo_180620_153622_R-044.png')
-testImage = cv2.imread(imgFilePath, cv2.IMREAD_GRAYSCALE)
-
-predictions = pred.run(testImage)
-
-# %%
-
-# Evaluate
-evaluator = evaluator.Evaluator(imgDir, labelDir, outputDir)
-print('Overall accuracy ', evaluator.evaluate(pred))
-
-cv2.drawContours(testImage, predictions, -1, (255, 0, 0), 3)
-'''
-input_dir = 'data/raw/unlabeled_data/initial_sample_videos_and_frames'
-video_filename = 'iVizVideo_180620_151459_R.mp4'
-video_filename = 'iVizVideo_180620_151657_R.mp4'
-output_dir = 'data/output/video_predictions'
-run_model_on_video(pred, input_dir, video_filename, output_dir)
-'''
-
-cv2.imshow(&quot;Test&quot;, testImage)
-cv2.waitKey(0)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WzEsMl0gKyBbM10K</text>
+        <text encoding="base64">Zi5rZXlzKCkgPT0gc2V0KGJsb2IuRkVBVFVSRVNfTEFCRUwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
