@@ -15,11 +15,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/aliases.py" timestamp="1545290710472">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="36" />
+      <file name="$USER_HOME$/work/piv/src/aliases.py" timestamp="1545357195234">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1545332578486">
         <mark key="[" line="0" column="0" />
@@ -85,10 +85,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545352079552">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545357558728">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -160,11 +162,6 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/.gitignore" timestamp="1543385375479">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1545344555515">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="3" column="5" />
@@ -173,11 +170,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1522112757471">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/yield_sklearn.py" timestamp="1543084739208">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/src/tests/nn/test_unet.py" timestamp="1532499376446">
         <mark key="[" line="36" column="4" />
@@ -275,12 +267,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545351964377">
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545357982696">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="52" column="36" />
-        <mark key="." line="4" column="28" />
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -771,11 +763,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1545353813075">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1545357033255">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
         <mark key="[" line="11" column="54" />
@@ -824,16 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="55" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="126" column="70" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="41" column="49" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="79" column="78" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="104" column="53" filename="$USER_HOME$/gitlab/mso/scrape/src/upload.ts" />
-      <jump line="5" column="39" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
-      <jump line="82" column="4" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
-      <jump line="100" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
-      <jump line="162" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
-      <jump line="58" column="2" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="128" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="9" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
       <jump line="151" column="6" filename="$USER_HOME$/work/Ann/backend/environment.yml" />
@@ -924,36 +907,57 @@
       <jump line="64" column="28" filename="$USER_HOME$/work/piv/src/blob.py" />
       <jump line="82" column="45" filename="$USER_HOME$/work/piv/src/blob.py" />
       <jump line="55" column="0" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="58" column="20" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="59" column="22" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="61" column="28" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="35" column="13" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="47" column="20" filename="$USER_HOME$/work/piv/explore/blob.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Yi5fX2NsYXNzX18K</text>
+      <register name="&quot;" type="4">
+        <text>Reading</text>
       </register>
       <register name="-" type="4">
-        <text>len(blobs)</text>
+        <text>Reading</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJsb2JiZWRfaW1nLCBfID0gYmxvYi5nZXRfYmxvYnMoYmxvYi5vcHRpbWl6ZWQsIGltZykK</text>
+      <register name="0" type="4">
+        <text>dataDir = pathlib.Path('./data/processed/ai2_annotated')
+outputDir = './data/processed/ai2_annotated/output'
+imgDir = dataDir / 'img'
+labelDir = dataDir / 'label'
+sample_img = 'iVizVideo_180620_151459_R-158.png'
+img = cvimread(imgDir / sample_img, cv2.IMREAD_GRAYSCALE)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Yi5fX2NsYXNzX18K</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV2YWx1YXRvcgo=</text>
+        <text encoding="base64">Zi5rZXlzKCkgPT0gc2V0KGJsb2IuRkVBVFVSRVNfTEFCRUwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
+        <text encoding="base64">Yi5fX2NsYXNzX18K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV2YWx1YXRvcgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>ds = dataset.Dataset(roi_proposer, imgDir, labelDir, outputDir)
 ds.load_n(40)
 
@@ -991,14 +995,8 @@ run_model_on_video(pred, input_dir, video_filename, output_dir)
 cv2.imshow(&quot;Test&quot;, testImage)
 cv2.waitKey(0)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">WzEsMl0gKyBbM10K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WzEsMl0gKyBbM10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
