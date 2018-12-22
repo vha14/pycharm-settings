@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1544113662035">
+      <file name="/start_script.py" timestamp="1545436869765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nlp/classify-fasttext.py" timestamp="1542090646698">
@@ -84,12 +84,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545361370421">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545451922224">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -269,12 +269,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545360948307">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="51" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545437285706">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="39" column="47" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -306,6 +306,10 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/classifiers/mlp.py" timestamp="1545451682211">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="48" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
@@ -459,6 +463,10 @@
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/classifiers/lr.py" timestamp="1545451760650">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="51" />
       </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
@@ -618,6 +626,10 @@
       <file name="/Dummy.txt" timestamp="1545036158637">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/src/classifiers/rf.py" timestamp="1545451833949">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="92" />
+      </file>
       <file name="/code.py" timestamp="1540529509438">
         <mark key="[" line="0" column="0" />
       </file>
@@ -639,11 +651,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/predictor.py" timestamp="1545362249668">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/work/piv/src/predictor.py" timestamp="1545436054043">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
         <mark key="[" line="3" column="13" />
@@ -752,10 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
-      <jump line="181" column="16" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="153" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="1121" column="32" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1171" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -852,46 +860,50 @@
       <jump line="159" column="12" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="9" column="21" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="237" column="33" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJvaV9wcm9wb3Nlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>objects[]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stochastic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYubGFiZWwuZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJmID0gUmFuZG9tRm9yZXN0Q2xhc3NpZmllcigKICAgICAgICAgICAgbWF4X2RlcHRoPTUsIG5fZXN0aW1hdG9ycz0xMCwgbWF4X2ZlYXR1cmVzPWFsaWFzZXMuTlVNX0ZFQVRVUkVTLCByYW5kb21fc3RhdGU9MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJvaV9wcm9wb3Nlcgo=</text>
+        <text encoding="base64">ZnJvbSBjbGFzc2lmaWVycy5tbHAgaW1wb3J0IE1MUAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZlYXR1cmVzCmltcG9ydCBmZWVhdHVyZXMKaW1wb3J0IGxhYmVsCg==</text>
+        <text encoding="base64">WC5zaGFwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZlYXR1cmVzCg==</text>
+        <text encoding="base64">eSA9IHNhbXBsZVtMQUJFTF0udmFsdWVzCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJwYXRoOiB7aW1nX2xhYmVsX3BhdGh9IikK</text>
+        <text encoding="base64">eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGZbMDozMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImxhYmVscyBjcmVhdGVkOiB7cmV0LmxhYmVsLnN1bSgpfSIpCg==</text>
+        <text encoding="base64">ZGYuaW5kZXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJsYWJlbCBzaGFwZToge2ltZ19sYWJlbC5zaGFwZX0iKQo=</text>
+        <text encoding="base64">ZGZbMDoyXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImxhYmVsIHNoYXBlOiB7aW1nX2xhYmVsLnNoYXBlfSIpCg==</text>
+        <text encoding="base64">bGVuKGRmLmluZGV4KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJyZXQgc2hhcGUgaXMge3JldC5zaGFwZX0iKQo=</text>
+        <text encoding="base64">c2FtcGxlID0gZGF0YXNldC5iYWxhbmNlX3NhbXBsZShkZikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
