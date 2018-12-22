@@ -84,12 +84,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545451922224">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545453316282">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="68" column="55" />
+        <mark key="^" line="68" column="55" />
+        <mark key="." line="68" column="55" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -269,12 +269,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545437285706">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="39" column="47" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="39" column="47" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545452961600">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -879,31 +879,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnJmID0gUmFuZG9tRm9yZXN0Q2xhc3NpZmllcigKICAgICAgICAgICAgbWF4X2RlcHRoPTUsIG5fZXN0aW1hdG9ycz0xMCwgbWF4X2ZlYXR1cmVzPWFsaWFzZXMuTlVNX0ZFQVRVUkVTLCByYW5kb21fc3RhdGU9MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjbGFzc2lmaWVycy5tbHAgaW1wb3J0IE1MUAo=</text>
+        <text encoding="base64">IyBURVNUCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WC5zaGFwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eSA9IHNhbXBsZVtMQUJFTF0udmFsdWVzCgo=</text>
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbMDozMF0K</text>
+        <text encoding="base64">cHJpbnQoJ0NsYXNzaWZpY2F0aW9uIG1vZGVsIGFjY3VyYWN5OiAnLCBtLmV2YWwoX1gsIF95KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuaW5kZXgK</text>
+        <text encoding="base64">bS50cmFpbihfWCwgbnAucmF2ZWwoX3kpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGZbMDoyXQo=</text>
+        <text encoding="base64">bSA9IHJmLlJhbmRvbUZvcmVzdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVuKGRmLmluZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2FtcGxlID0gZGF0YXNldC5iYWxhbmNlX3NhbXBsZShkZikK</text>
+        <text encoding="base64">ICAgIFsxLDIsM11bOjJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
