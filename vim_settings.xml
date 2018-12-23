@@ -206,6 +206,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1545540382854">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -542,6 +545,9 @@
       <file name="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" timestamp="1542581572941">
         <mark key="'" line="1120" column="6" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" timestamp="1545543713189">
+        <mark key="'" line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="35" />
@@ -764,8 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
-      <jump line="1121" column="32" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1171" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1205" column="63" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="2304" column="37" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -864,6 +868,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="42" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
       <jump line="58" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" />
+      <jump line="2" column="48" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -873,7 +879,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DataSet</text>
+        <text>collate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJmID0gUmFuZG9tRm9yZXN0Q2xhc3NpZmllcigKICAgICAgICAgICAgbWF4X2RlcHRoPTUsIG5fZXN0aW1hdG9ycz0xMCwgbWF4X2ZlYXR1cmVzPWFsaWFzZXMuTlVNX0ZFQVRVUkVTLCByYW5kb21fc3RhdGU9MCkK</text>
@@ -910,15 +916,14 @@
       </register>
     </registers>
     <search>
-      <last-search>DataSet</last-search>
+      <last-search>collate</last-search>
       <last-offset />
-      <last-pattern>DataSet</last-pattern>
+      <last-pattern>collate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pdfminer</entry>
         <entry>flask</entry>
         <entry>sql</entry>
         <entry>uuid</entry>
@@ -938,6 +943,7 @@
         <entry>ParameterGrid</entry>
         <entry>stochastic</entry>
         <entry>DataSet</entry>
+        <entry>collate</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
