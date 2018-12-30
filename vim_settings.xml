@@ -27,11 +27,12 @@
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
         <mark key="'" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/optimizer.py" timestamp="1545364303255">
-        <mark key="'" line="237" column="33" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/piv/src/optimizer.py" timestamp="1546147556316">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="234" column="39" />
+        <mark key="]" line="234" column="45" />
+        <mark key="." line="234" column="45" />
+        <mark key="^" line="234" column="45" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -292,11 +293,11 @@
         <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545352091522">
-        <mark key="'" line="81" column="45" />
+        <mark key="'" line="80" column="45" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
-        <mark key="^" line="81" column="21" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="/mso.problem_author [mso@localhost]" timestamp="1538323072711">
         <mark key="[" line="0" column="0" />
@@ -732,12 +733,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
       </file>
@@ -767,11 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1171" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
-      <jump line="1205" column="63" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
-      <jump line="2304" column="37" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
-      <jump line="3068" column="9" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
-      <jump line="3956" column="8" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="5569" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="7268" column="19" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="8054" column="7" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -867,16 +857,21 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
       <jump line="1" column="8" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" />
       <jump line="2" column="48" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" />
+      <jump line="85" column="32" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="233" column="26" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/work/piv/src/optimizer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hull_area</text>
+        <text>contour_default_params</text>
       </register>
       <register name="-" type="4">
-        <text>hull_area</text>
+        <text>contour_default_params</text>
       </register>
       <register name="/" type="4">
-        <text>collate</text>
+        <text>enabled</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJmID0gUmFuZG9tRm9yZXN0Q2xhc3NpZmllcigKICAgICAgICAgICAgbWF4X2RlcHRoPTUsIG5fZXN0aW1hdG9ycz0xMCwgbWF4X2ZlYXR1cmVzPWFsaWFzZXMuTlVNX0ZFQVRVUkVTLCByYW5kb21fc3RhdGU9MCkK</text>
@@ -913,15 +908,14 @@
       </register>
     </registers>
     <search>
-      <last-search>collate</last-search>
+      <last-search>enabled</last-search>
       <last-offset />
-      <last-pattern>collate</last-pattern>
+      <last-pattern>enabled</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>flask</entry>
         <entry>sql</entry>
         <entry>uuid</entry>
         <entry>pdf</entry>
@@ -941,6 +935,7 @@
         <entry>stochastic</entry>
         <entry>DataSet</entry>
         <entry>collate</entry>
+        <entry>enabled</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
