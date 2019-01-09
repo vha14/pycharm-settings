@@ -89,12 +89,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547062035831">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547071239538">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="55" column="1" />
+        <mark key="^" line="74" column="1" />
+        <mark key="." line="55" column="1" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -516,12 +516,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547069308076">
+      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547071218489">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="95" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
@@ -711,11 +711,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547069437377">
-        <mark key="'" line="44" column="20" />
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547070907794">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="74" />
+        <mark key="." line="47" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
@@ -873,11 +873,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/explore/overview.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ago=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-013.png</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>alias</text>
@@ -886,31 +886,31 @@
         <text encoding="base64">cGxvdF90cmFucyhpbWcxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ZGYxLnNoYXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1nMiA9IGN2aW1yZWFkKGltZ19kaXIoUGF0aCgnLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpKSAvICdpVml6VmlkZW9fMTgwNjIwXzE1MzMyNl9SLTEzOC5wbmcnLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJ2lWaXpWaWRlb18xODA2MjBfMTUzMzI2X1ItMTM4LnBuZyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
+        <text encoding="base64">aW1nID0gY3ZpbXJlYWQoaW1nX2RpcihQYXRoKGRhdGFfZGlyKSkgLyBzYW1wbGVfaW1nLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhbGlhc2VzIGltcG9ydCBjdmltcmVhZAo=</text>
+        <text encoding="base64">aW1nMiA9IGN2aW1yZWFkKGltZ19kaXIoUGF0aCgnLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpKSAvICdpVml6VmlkZW9fMTgwNjIwXzE1MzMyNl9SLTEzOC5wbmcnLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJ2lWaXpWaWRlb18xODA2MjBfMTUzMzI2X1ItMTM4LnBuZyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
+        <text encoding="base64">ZnJvbSBhbGlhc2VzIGltcG9ydCBjdmltcmVhZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0IGltcG9ydCBpbWdfZGlyLCBsYWJlbF9kaXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
