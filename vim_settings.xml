@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1544113662035">
+      <file name="/start_script.py" timestamp="1547052210889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nlp/classify-fasttext.py" timestamp="1542090646698">
@@ -84,12 +84,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545361370421">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547051555147">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -269,12 +269,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545360948307">
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1547051356362">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="51" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="4" column="59" />
+        <mark key="." line="8" column="50" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -360,6 +360,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/piv/explore/sample.py" timestamp="1547049974049">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="2" column="44" />
       </file>
       <file name="$USER_HOME$/gitlab/mso-scrape/tests/scrape.test.ts" timestamp="1536299188981">
         <mark key="[" line="4" column="0" />
@@ -504,6 +510,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547050216733">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
@@ -692,12 +704,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1545357033255">
-        <mark key="'" line="47" column="20" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547050870738">
+        <mark key="'" line="41" column="20" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
         <mark key="[" line="11" column="54" />
@@ -854,44 +866,44 @@
       <jump line="237" column="33" filename="$USER_HOME$/work/piv/src/optimizer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJvaV9wcm9wb3Nlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>initial_sample</text>
       </register>
       <register name="-" type="4">
-        <text>objects[]</text>
+        <text>initial_sample</text>
       </register>
       <register name="/" type="4">
         <text>stochastic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYubGFiZWwuZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">ZHMgPSBkYXRhc2V0LkRhdGFzZXQoJ2RhdGEvcHJvY2Vzc2VkL2luaXRpYWxfc2FtcGxlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJvaV9wcm9wb3Nlcgo=</text>
+        <text encoding="base64">ZnJvbSBhbGlhc2VzIGltcG9ydCBjdmltcmVhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZlYXR1cmVzCmltcG9ydCBmZWVhdHVyZXMKaW1wb3J0IGxhYmVsCg==</text>
+        <text encoding="base64">aW1wb3J0IGJsb2IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZlYXR1cmVzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJwYXRoOiB7aW1nX2xhYmVsX3BhdGh9IikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBsb3RseS5wbG90bHkgYXMgcHkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImxhYmVscyBjcmVhdGVkOiB7cmV0LmxhYmVsLnN1bSgpfSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJsYWJlbCBzaGFwZToge2ltZ19sYWJlbC5zaGFwZX0iKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImxhYmVsIHNoYXBlOiB7aW1nX2xhYmVsLnNoYXBlfSIpCg==</text>
+        <text encoding="base64">bGlzdChpbWdEaXIuaXRlcmRpcigpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJyZXQgc2hhcGUgaXMge3JldC5zaGFwZX0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
