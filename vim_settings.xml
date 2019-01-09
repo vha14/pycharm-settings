@@ -21,7 +21,7 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1545332578486">
+      <file name="/a.dummy" timestamp="1547052477033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
@@ -78,18 +78,22 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/work/piv/src/visualize.py" timestamp="1547052593857">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="64" />
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547051555147">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547056086037">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="61" column="2" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -269,12 +273,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1547051356362">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
-        <mark key="^" line="4" column="59" />
-        <mark key="." line="8" column="50" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1547053297570">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="12" column="67" />
+        <mark key="^" line="12" column="67" />
+        <mark key="." line="12" column="67" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -291,12 +295,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545352091522">
+      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1547052526287">
         <mark key="'" line="81" column="45" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="81" column="21" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="/mso.problem_author [mso@localhost]" timestamp="1538323072711">
         <mark key="[" line="0" column="0" />
@@ -651,11 +655,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/predictor.py" timestamp="1545362249668">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/work/piv/src/predictor.py" timestamp="1547052583692">
+        <mark key="'" line="14" column="36" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
         <mark key="[" line="3" column="13" />
@@ -764,12 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield.py" />
-      <jump line="181" column="16" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
-      <jump line="1121" column="32" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1171" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1205" column="63" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="2304" column="37" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -827,7 +826,6 @@
       <jump line="74" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="14" column="13" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="30" column="57" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="57" column="7" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="248" column="8" filename="$USER_HOME$/miniconda3/envs/piv/lib/python3.7/random.py" />
       <jump line="61" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
       <jump line="50" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
@@ -864,61 +862,67 @@
       <jump line="159" column="12" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="9" column="21" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="237" column="33" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="3" column="8" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="34" column="18" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="36" column="24" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/work/piv/src/predictor.py" />
+      <jump line="14" column="36" filename="$USER_HOME$/work/piv/src/predictor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>initial_sample</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
       </register>
       <register name="-" type="4">
-        <text>initial_sample</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>stochastic</text>
+        <text>alias</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZHMgPSBkYXRhc2V0LkRhdGFzZXQoJ2RhdGEvcHJvY2Vzc2VkL2luaXRpYWxfc2FtcGxlJykK</text>
+        <text encoding="base64">cGxvdF9oaXN0KCdjeCcsIDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhbGlhc2VzIGltcG9ydCBjdmltcmVhZAo=</text>
+        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJsb2IK</text>
+        <text encoding="base64">Y3YyLmltc2hvdygiVGVzdCIsIHRlc3RJbWFnZSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5wbG90bHkgYXMgcHkK</text>
+        <text encoding="base64">cnVuX21vZGVsX29uX3ZpZGVvKHByZWQsIGlucHV0X2RpciwgdmlkZW9fZmlsZW5hbWUsIG91dHB1dF9kaXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3V0cHV0X2RpciA9ICdkYXRhL291dHB1dC92aWRlb19wcmVkaWN0aW9ucycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
+        <text encoding="base64">dmlkZW9fZmlsZW5hbWUgPSAnaVZpelZpZGVvXzE4MDYyMF8xNTE2NTdfUi5tcDQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGlzdChpbWdEaXIuaXRlcmRpcigpKQo=</text>
+        <text encoding="base64">dmlkZW9fZmlsZW5hbWUgPSAnaVZpelZpZGVvXzE4MDYyMF8xNTE0NTlfUi5tcDQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5wdXRfZGlyID0gJ2RhdGEvcmF3L3VubGFiZWxlZF9kYXRhL2luaXRpYWxfc2FtcGxlX3ZpZGVvc19hbmRfZnJhbWVzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stochastic</last-search>
+      <last-search>alias</last-search>
       <last-offset />
-      <last-pattern>stochastic</last-pattern>
+      <last-pattern>alias</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pyocr</entry>
         <entry>pdfminer</entry>
         <entry>flask</entry>
         <entry>sql</entry>
@@ -938,6 +942,7 @@
         <entry>partial</entry>
         <entry>ParameterGrid</entry>
         <entry>stochastic</entry>
+        <entry>alias</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
