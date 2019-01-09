@@ -274,12 +274,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1547062141531">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="51" column="61" />
-        <mark key="^" line="12" column="67" />
-        <mark key="." line="12" column="67" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1547068066339">
+        <mark key="'" line="47" column="69" />
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="31" />
+        <mark key="^" line="47" column="25" />
+        <mark key="." line="46" column="31" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -516,11 +516,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547062901720">
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547068145990">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="42" column="44" />
       </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
@@ -770,7 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1205" column="63" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="2304" column="37" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="3068" column="9" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="3956" column="8" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -870,19 +869,20 @@
       <jump line="0" column="10" filename="$USER_HOME$/work/piv/src/predictor.py" />
       <jump line="14" column="36" filename="$USER_HOME$/work/piv/src/predictor.py" />
       <jump line="29" column="4" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="42" column="69" filename="$USER_HOME$/work/piv/src/dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>alias</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YV9kaXIgPSAnZGF0YS9wcm9jZXNzZWQvaW5pdGlhbF9zYW1wbGUnCmRzID0gZGF0YXNldC5EYXRhc2V0KGRhdGFfZGlyKQo=</text>
+        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJ2lWaXpWaWRlb18xODA2MjBfMTUyNzEzX1ItMDEzLnBuZyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
