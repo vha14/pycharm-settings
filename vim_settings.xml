@@ -89,10 +89,10 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547073624847">
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547075310882">
         <mark key="'" line="46" column="4" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="7" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="22" column="35" />
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
       </file>
@@ -711,12 +711,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547074510424">
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547075799052">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="68" column="50" />
-        <mark key="]" line="68" column="51" />
-        <mark key="^" line="70" column="66" />
-        <mark key="." line="68" column="51" />
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="6" />
+        <mark key="^" line="85" column="5" />
+        <mark key="." line="86" column="6" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
         <mark key="[" line="11" column="54" />
@@ -874,43 +874,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>sample</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>sample</text>
       </register>
       <register name="/" type="4">
         <text>alias</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1nMSA9IGN2aW1yZWFkKGltZ19kaXIoUGF0aCgnLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpKSAvICdpVml6VmlkZW9fMTgwNjIwXzE1MjcxM19SLTAxMy5wbmcnLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
+      <register name="0" type="4">
+        <text>for path in img_dir(Path('./data/processed/initial_sample')).iterdir():
+    img = cvimread(path, cv2.IMREAD_GRAYSCALE)
+    print(f&quot;Path: {path}, detected blobs: {len(run(img, simple_clf))}&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2aQo=</text>
+        <text encoding="base64">c2FtcGxlLnNoYXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVuKGJzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnMgPSBydW4oaW1nLCBzaW1wbGVfY2xmKQo=</text>
+        <text encoding="base64">bGVuKHNhbXBsZSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBibG9iIGltcG9ydCBGRUFUVVJFUwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgYgo=</text>
+        <text encoding="base64">ZGYxID0gZGZbZGZbJ2xhYmVsJ10gPT0gMV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
