@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1547052210889">
+      <file name="/start_script.py" timestamp="1547070299291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nlp/classify-fasttext.py" timestamp="1542090646698">
@@ -516,11 +516,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547068145990">
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="42" column="45" />
-        <mark key="^" line="42" column="44" />
+      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547069308076">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="95" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
@@ -635,7 +636,7 @@
       <file name="/Dummy.txt" timestamp="1546898470215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1540529509438">
+      <file name="/code.py" timestamp="1547070262759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/docker-compose.yml" timestamp="1537482572371">
@@ -710,12 +711,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547050870738">
-        <mark key="'" line="41" column="20" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="13" column="47" />
-        <mark key="." line="19" column="34" />
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547069437377">
+        <mark key="'" line="44" column="20" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
         <mark key="[" line="11" column="54" />
@@ -770,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2304" column="37" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="3068" column="9" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="3956" column="8" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="5569" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -870,46 +870,47 @@
       <jump line="14" column="36" filename="$USER_HOME$/work/piv/src/predictor.py" />
       <jump line="29" column="4" filename="$USER_HOME$/work/piv/explore/dataset.py" />
       <jump line="42" column="69" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/explore/overview.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ago=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>-013.png</text>
       </register>
       <register name="/" type="4">
         <text>alias</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJ2lWaXpWaWRlb18xODA2MjBfMTUyNzEzX1ItMDEzLnBuZyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
+        <text encoding="base64">cGxvdF90cmFucyhpbWcxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nMiA9IGN2aW1yZWFkKGltZ19kaXIoUGF0aCgnLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpKSAvICdpVml6VmlkZW9fMTgwNjIwXzE1MzMyNl9SLTEzOC5wbmcnLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
+        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJ2lWaXpWaWRlb18xODA2MjBfMTUzMzI2X1ItMTM4LnBuZyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0IGltcG9ydCBpbWdfZGlyLCBsYWJlbF9kaXIK</text>
+        <text encoding="base64">cGxvdF9pbWdfbWFzayhbJyddLCBkYXRhX2Rpcj0nLi9kYXRhL3Byb2Nlc3NlZC9pbml0aWFsX3NhbXBsZScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGFiZWxEaXIgPSBsYWJlbF9kaXIoZGF0YV9kaXIpCg==</text>
+        <text encoding="base64">ZnJvbSBhbGlhc2VzIGltcG9ydCBjdmltcmVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGFiZWxEaXIgPSBsYWJlbF9kaXIoZGF0YV9kaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1nRGlyID0gaW1nX2RpcihkYXRhX2RpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmVhdHVyZXMK</text>
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhc2V0IGltcG9ydCBpbWdfZGlyLCBsYWJlbF9kaXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
