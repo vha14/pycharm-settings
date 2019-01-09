@@ -89,11 +89,12 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547056086037">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="61" column="2" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547056315896">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="64" column="75" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -769,7 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1171" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1205" column="63" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="2304" column="37" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="3068" column="9" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -869,13 +869,14 @@
       <jump line="57" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="0" column="10" filename="$USER_HOME$/work/piv/src/predictor.py" />
       <jump line="14" column="36" filename="$USER_HOME$/work/piv/src/predictor.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/work/piv/explore/dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>aliases</text>
       </register>
       <register name="/" type="4">
         <text>alias</text>
@@ -884,31 +885,31 @@
         <text encoding="base64">cGxvdF9oaXN0KCdjeCcsIDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y3YyLmltc2hvdygiVGVzdCIsIHRlc3RJbWFnZSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnCg==</text>
+        <text encoding="base64">Y3YyLmltc2hvdygiVGVzdCIsIHRlc3RJbWFnZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVuX21vZGVsX29uX3ZpZGVvKHByZWQsIGlucHV0X2RpciwgdmlkZW9fZmlsZW5hbWUsIG91dHB1dF9kaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3V0cHV0X2RpciA9ICdkYXRhL291dHB1dC92aWRlb19wcmVkaWN0aW9ucycK</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmlkZW9fZmlsZW5hbWUgPSAnaVZpelZpZGVvXzE4MDYyMF8xNTE2NTdfUi5tcDQnCg==</text>
+        <text encoding="base64">cnVuX21vZGVsX29uX3ZpZGVvKHByZWQsIGlucHV0X2RpciwgdmlkZW9fZmlsZW5hbWUsIG91dHB1dF9kaXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmlkZW9fZmlsZW5hbWUgPSAnaVZpelZpZGVvXzE4MDYyMF8xNTE0NTlfUi5tcDQnCg==</text>
+        <text encoding="base64">b3V0cHV0X2RpciA9ICdkYXRhL291dHB1dC92aWRlb19wcmVkaWN0aW9ucycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5wdXRfZGlyID0gJ2RhdGEvcmF3L3VubGFiZWxlZF9kYXRhL2luaXRpYWxfc2FtcGxlX3ZpZGVvc19hbmRfZnJhbWVzJwo=</text>
+        <text encoding="base64">dmlkZW9fZmlsZW5hbWUgPSAnaVZpelZpZGVvXzE4MDYyMF8xNTE2NTdfUi5tcDQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
