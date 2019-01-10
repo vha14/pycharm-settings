@@ -3,21 +3,121 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1547111673005">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1547113612266">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/tests/opencv/overview.py" timestamp="1547113193635">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/paths.py" timestamp="1547110376208">
+        <mark key="[" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1547114907425">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547115123342">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="8" />
+        <mark key="." line="54" column="8" />
+        <mark key="^" line="206" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/tests/opencv/blob.py" timestamp="1547114015385">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="2" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1547112974498">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="33" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547110302252">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/paths.py" timestamp="1547112436915">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/explore/sample.py" timestamp="1547109412380" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoZGF0YV9kaXIsIFBhdGgpOgogICAgICAgIHJldHVybiBkYXRhX2RpciAvICdpbWcnCiAgICBlbGlmIGlzaW5zdGFuY2UoZGF0YV9kaXIsIHN0cik6CiAgICAgICAgcmV0dXJuIFBhdGgoZGF0YV9kaXIpIC8gJ2ltZycKICAgIGVsc2U6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYie2RhdGFfZGlyfSBpcyBuZWl0aGVyIHN0ciBub3IgUGF0aCIp</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KHR5cGUoY29udG91cnMpKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1nCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBvcGVuY3YucGF0aHMgaW1wb3J0IFBhdGhzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbWcuc2hhcGUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZiJ7ZGF0YV9kaXJ9IGlzIG5laXRoZXIgc3RyIG5vciBQYXRoIikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUGF0aChkYXRhX2RpcikgLyAnbGFiZWwnCg==</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
