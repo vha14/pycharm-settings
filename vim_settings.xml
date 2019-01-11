@@ -680,6 +680,12 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547233068056">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="51" column="20" />
+      </file>
       <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="4" column="8" />
@@ -884,10 +890,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contour_default_params</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>contour_default_params</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>enabled</text>
