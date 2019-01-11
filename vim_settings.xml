@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1547070299291">
+      <file name="/start_script.py" timestamp="1545436869765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nlp/classify-fasttext.py" timestamp="1542090646698">
@@ -21,17 +21,18 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1547062417073">
+      <file name="/a.dummy" timestamp="1545332578486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/serv-offline/node_modules/serverless-offline/src/index.js" timestamp="1537121610708">
         <mark key="'" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/optimizer.py" timestamp="1545364303255">
-        <mark key="'" line="237" column="33" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/piv/src/optimizer.py" timestamp="1546147556316">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="234" column="39" />
+        <mark key="]" line="234" column="45" />
+        <mark key="." line="234" column="45" />
+        <mark key="^" line="234" column="45" />
       </file>
       <file name="$USER_HOME$/work/halsvision/src/components/Footer.js" timestamp="1524173070362">
         <mark key="[" line="4" column="45" />
@@ -78,23 +79,18 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/visualize.py" timestamp="1547052593857">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/work/halsvision/gatsby-config.js" timestamp="1524172821457">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="64" />
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1547075310882">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="35" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="25" column="7" />
+      <file name="$USER_HOME$/work/piv/explore/dataset.py" timestamp="1545647349787">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/sonosite/docker/dev.Dockerfile" timestamp="1532145597190">
         <mark key="[" line="9" column="31" />
@@ -211,6 +207,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="/Python Console" timestamp="1546898470161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/gatsby-config.js" timestamp="1524201274715">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="66" />
@@ -274,12 +273,12 @@
       <file name="timers.js" timestamp="1537312382311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1547068066339">
-        <mark key="'" line="47" column="69" />
-        <mark key="[" line="46" column="30" />
-        <mark key="]" line="46" column="31" />
-        <mark key="^" line="47" column="25" />
-        <mark key="." line="46" column="31" />
+      <file name="$USER_HOME$/work/piv/src/dataset.py" timestamp="1545452961600">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="/a.sql" timestamp="1538322999232">
         <mark key="[" line="0" column="0" />
@@ -296,12 +295,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1547073049236">
-        <mark key="'" line="82" column="45" />
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="55" />
-        <mark key="." line="81" column="55" />
-        <mark key="^" line="81" column="11" />
+      <file name="$USER_HOME$/work/piv/src/blob.py" timestamp="1545352091522">
+        <mark key="'" line="80" column="45" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="/mso.problem_author [mso@localhost]" timestamp="1538323072711">
         <mark key="[" line="0" column="0" />
@@ -311,6 +310,10 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/piv/src/classifiers/mlp.py" timestamp="1545451682211">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="48" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1531679388493">
         <mark key="[" line="0" column="0" />
@@ -365,12 +368,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/piv/explore/sample.py" timestamp="1547062853454">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso-scrape/tests/scrape.test.ts" timestamp="1536299188981">
         <mark key="[" line="4" column="0" />
@@ -471,6 +468,10 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/src/classifiers/lr.py" timestamp="1545451760650">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="51" />
+      </file>
       <file name="$USER_HOME$/gitlab/serverless-stack-2-api/.test" timestamp="1529243664684">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="28" column="58" />
@@ -516,13 +517,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/overview.py" timestamp="1547071218489">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="1" />
-        <mark key="]" line="41" column="1" />
-        <mark key="." line="41" column="1" />
-        <mark key="^" line="42" column="0" />
-      </file>
       <file name="/mso.solution_author [mso@localhost]" timestamp="1538342754758">
         <mark key="[" line="0" column="0" />
       </file>
@@ -551,6 +545,9 @@
       </file>
       <file name="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" timestamp="1542581572941">
         <mark key="'" line="1120" column="6" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" timestamp="1545543713189">
+        <mark key="'" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/work/serverless-stack-2-api/create.js" timestamp="1527989197726">
         <mark key="[" line="7" column="15" />
@@ -636,7 +633,11 @@
       <file name="/Dummy.txt" timestamp="1546898470215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1547070262759">
+      <file name="$USER_HOME$/work/piv/src/classifiers/rf.py" timestamp="1545451833949">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="92" />
+      </file>
+      <file name="/code.py" timestamp="1540529509438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitlab/mso/problem-api/mysql/docker-compose.yml" timestamp="1537482572371">
@@ -657,12 +658,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/src/predictor.py" timestamp="1547052583692">
-        <mark key="'" line="14" column="36" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
+      <file name="$USER_HOME$/work/piv/src/predictor.py" timestamp="1545436054043">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/work/agromo/agromomaster/environment.yaml" timestamp="1529443017064">
         <mark key="[" line="3" column="13" />
@@ -711,12 +711,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1547075799052">
-        <mark key="'" line="43" column="20" />
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="86" column="6" />
-        <mark key="^" line="85" column="5" />
-        <mark key="." line="86" column="6" />
+      <file name="$USER_HOME$/work/piv/explore/blob.py" timestamp="1545357033255">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/work/mathsolvers/mso/src/components/Header.js" timestamp="1524201247436">
         <mark key="[" line="11" column="54" />
@@ -735,12 +735,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/agromo/agromomaster/R/Yield.r" timestamp="1542668348135">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/work/Ann/backend/pdf/text_converter.py" timestamp="1539903564395">
         <mark key="'" line="9" column="0" />
@@ -771,8 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3068" column="9" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
-      <jump line="3956" column="8" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="5569" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="7268" column="19" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="8054" column="7" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
@@ -825,6 +817,7 @@
       <jump line="74" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="14" column="13" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="30" column="57" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="57" column="7" filename="$USER_HOME$/work/piv/src/dataset.py" />
       <jump line="248" column="8" filename="$USER_HOME$/miniconda3/envs/piv/lib/python3.7/random.py" />
       <jump line="61" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
       <jump line="50" column="0" filename="$USER_HOME$/work/piv/src/blob.py" />
@@ -861,76 +854,71 @@
       <jump line="159" column="12" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="9" column="21" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="237" column="33" filename="$USER_HOME$/work/piv/src/optimizer.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="25" column="16" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="34" column="18" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="36" column="24" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/work/piv/src/predictor.py" />
-      <jump line="14" column="36" filename="$USER_HOME$/work/piv/src/predictor.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/work/piv/explore/dataset.py" />
-      <jump line="42" column="69" filename="$USER_HOME$/work/piv/src/dataset.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/explore/overview.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/piv/src/dataset.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/piv/explore/dataset.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" />
+      <jump line="2" column="48" filename="$USER_HOME$/miniconda3/envs/nlp/lib/python3.7/site-packages/fastai/basic_data.py" />
+      <jump line="85" column="32" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="233" column="26" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/work/piv/src/optimizer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sample</text>
+        <text>contour_default_params</text>
       </register>
       <register name="-" type="4">
-        <text>sample</text>
+        <text>contour_default_params</text>
       </register>
       <register name="/" type="4">
-        <text>alias</text>
+        <text>enabled</text>
       </register>
-      <register name="0" type="4">
-        <text>for path in img_dir(Path('./data/processed/initial_sample')).iterdir():
-    img = cvimread(path, cv2.IMREAD_GRAYSCALE)
-    print(f&quot;Path: {path}, detected blobs: {len(run(img, simple_clf))}&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJmID0gUmFuZG9tRm9yZXN0Q2xhc3NpZmllcigKICAgICAgICAgICAgbWF4X2RlcHRoPTUsIG5fZXN0aW1hdG9ycz0xMCwgbWF4X2ZlYXR1cmVzPWFsaWFzZXMuTlVNX0ZFQVRVUkVTLCByYW5kb21fc3RhdGU9MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2FtcGxlLnNoYXBlCg==</text>
+        <text encoding="base64">ICAgIHRleHQ9cm93X2xhYmVscyhkZiksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
+        <text encoding="base64">IyBURVNUCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVuKHNhbXBsZSkK</text>
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoJ0NsYXNzaWZpY2F0aW9uIG1vZGVsIGFjY3VyYWN5OiAnLCBtLmV2YWwoX1gsIF95KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bS50cmFpbihfWCwgbnAucmF2ZWwoX3kpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">bSA9IHJmLlJhbmRvbUZvcmVzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYxID0gZGZbZGZbJ2xhYmVsJ10gPT0gMV0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>alias</last-search>
+      <last-search>enabled</last-search>
       <last-offset />
-      <last-pattern>alias</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>alias</last-substitute>
+      <last-pattern>enabled</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pdfminer</entry>
-        <entry>flask</entry>
         <entry>sql</entry>
         <entry>uuid</entry>
         <entry>pdf</entry>
@@ -948,7 +936,9 @@
         <entry>partial</entry>
         <entry>ParameterGrid</entry>
         <entry>stochastic</entry>
-        <entry>alias</entry>
+        <entry>DataSet</entry>
+        <entry>collate</entry>
+        <entry>enabled</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
