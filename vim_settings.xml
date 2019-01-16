@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1547248145042">
+      <file name="/start_script.py" timestamp="1547667983949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/nlp/classify-fasttext.py" timestamp="1542090646698">
@@ -525,6 +525,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547668391582">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="58" column="48" />
+        <mark key="^" line="58" column="48" />
+        <mark key="." line="58" column="48" />
+      </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -587,6 +594,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1547668087413">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/work/notes-app-client/src/config.js" timestamp="1527980588744">
         <mark key="[" line="7" column="69" />
@@ -762,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5569" column="49" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
-      <jump line="7268" column="19" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="8054" column="7" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="1120" column="6" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="248" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
@@ -862,19 +872,21 @@
       <jump line="247" column="0" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="145" column="12" filename="$USER_HOME$/work/piv/src/optimizer.py" />
       <jump line="18" column="4" filename="$USER_HOME$/work/piv/src/optimizer.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contour_default_params</text>
+        <text>INITIAL_SAMPLE</text>
       </register>
       <register name="-" type="4">
-        <text>contour_default_params</text>
+        <text>INITIAL_SAMPLE</text>
       </register>
       <register name="/" type="4">
         <text>enabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJmID0gUmFuZG9tRm9yZXN0Q2xhc3NpZmllcigKICAgICAgICAgICAgbWF4X2RlcHRoPTUsIG5fZXN0aW1hdG9ycz0xMCwgbWF4X2ZlYXR1cmVzPWFsaWFzZXMuTlVNX0ZFQVRVUkVTLCByYW5kb21fc3RhdGU9MCkK</text>
+        <text encoding="base64">ZnJvbSBtb3ZpZXB5LnZpZGVvLmlvLlZpZGVvRmlsZUNsaXAgaW1wb3J0IFZpZGVvRmlsZUNsaXAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRleHQ9cm93X2xhYmVscyhkZiksCg==</text>
