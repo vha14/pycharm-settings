@@ -525,12 +525,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547671733977">
-        <mark key="'" line="59" column="5" />
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="62" column="5" />
-        <mark key="^" line="62" column="5" />
-        <mark key="." line="62" column="5" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547675656044">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="15" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -774,7 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1120" column="6" filename="$USER_HOME$/.PyCharm2018.2/system/r_skeletons/1245177105/exploratory.R" />
       <jump line="248" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="76" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
@@ -874,10 +873,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="21" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" />
       <jump line="59" column="5" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MzIvMTgK</text>
+        <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
       </register>
       <register name="-" type="4">
         <text>INITIAL_SAMPLE</text>
@@ -886,7 +886,7 @@
         <text>enabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtb3ZpZXB5LnZpZGVvLmlvLlZpZGVvRmlsZUNsaXAgaW1wb3J0IFZpZGVvRmlsZUNsaXAK</text>
+        <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MzIvMTgK</text>
