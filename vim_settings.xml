@@ -525,12 +525,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547675675695">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="32" column="24" />
-        <mark key="^" line="32" column="24" />
-        <mark key="." line="32" column="24" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547748899641">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/work/eye-of-sauron/frontend/package.json" timestamp="1524608379888">
         <mark key="[" line="2" column="17" />
@@ -774,7 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="76" column="3" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
       <jump line="28" column="0" filename="$USER_HOME$/work/agromo/agromomaster/yield-model.py" />
@@ -874,10 +872,11 @@
       <jump line="21" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" />
       <jump line="59" column="5" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="28" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
+        <text encoding="base64">MzUyLzM3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>INITIAL_SAMPLE</text>
@@ -889,31 +888,31 @@
         <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MzIvMTgK</text>
+        <text encoding="base64">MzUyLzM3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTI4LzcyCg==</text>
+        <text encoding="base64">dmlkZW8uZnBzICogNS44Nwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHQ9cm93X2xhYmVscyhkZiksCg==</text>
+        <text encoding="base64">dmlkZW8gPSBWaWRlb0ZpbGVDbGlwKHN0cih2aWRlb19wYXRoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBURVNUCg==</text>
+        <text encoding="base64">dmlkZW9fcGF0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmlkZW9fcGF0aCA9IHN1Yl9kaXIoUGF0aHMuRGF0YURpcnMuVEVTVCwgVklEX0RJUikvUGF0aHMuU0FNUExFX1ZJRAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAlJQo=</text>
+        <text encoding="base64">ZnJvbSBtb3ZpZXB5LnZpZGVvLmlvLlZpZGVvRmlsZUNsaXAgaW1wb3J0IFZpZGVvRmlsZUNsaXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoJ0NsYXNzaWZpY2F0aW9uIG1vZGVsIGFjY3VyYWN5OiAnLCBtLmV2YWwoX1gsIF95KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bS50cmFpbihfWCwgbnAucmF2ZWwoX3kpKQo=</text>
+        <text encoding="base64">IyBjUHJvZmlsZS5ydW4oJ3Rlc3RfcGVyZigpJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
