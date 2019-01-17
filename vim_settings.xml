@@ -128,12 +128,12 @@
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547751976432">
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547754270130">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="10" column="94" />
-        <mark key="]" line="10" column="92" />
-        <mark key="^" line="10" column="92" />
-        <mark key="." line="10" column="92" />
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="40" column="28" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1547185981315">
         <mark key="'" line="2" column="0" />
@@ -173,11 +173,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/work/piv/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">V2UgaGF2ZSBhbHNvIHNlZ21lbnRlZCB0aGUgdmVpbiBhbmQgY3JlYXRlZCBhIG1hc2sgaW4gIVtsYWJlbCBtYXNrXSguL21vZGVsaW5nL3NyYy90ZXN0cy9kYXRhX3NhbXBsZS9sYWJlbC9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmcgfCB3aWR0aD0yMDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>by installing miniconda3 and then c</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>by installing miniconda3 and then c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYWNoaW5lXD4=</text>
@@ -186,33 +186,33 @@
         <text encoding="base64">V2UgaGF2ZSBjYXB0dXJlZCBvbmUgZnJhbWUgZnJvbSB0aGUgYWJvdmUgY2xpcCBpbiAhW3NuYXBzaG90IGltYWdlXSguL21vZGVsaW5nL3NyYy90ZXN0cy9kYXRhX3NhbXBsZS9pbWcvaVZpelZpZGVvXzE4MDYyMF8xNTE0NTlfUi0yODAucG5nKS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V2UgaGF2ZSBhbHNvIHNlZ21lbnRlZCB0aGUgdmVpbiBhbmQgY3JlYXRlZCBhIG1hc2sgaW4gIVtsYWJlbCBtYXNrXSguL21vZGVsaW5nL3NyYy90ZXN0cy9kYXRhX3NhbXBsZS9sYWJlbC9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmcgfCB3aWR0aD0yMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PC9pbWc+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PGltZyBzcmM9Ii9tb2RlbGluZy9zcmMvdGVzdHMvZGF0YV9zYW1wbGUvaW1nL2lWaXpWaWRlb18xODA2MjBfMTUxNDU5X1ItMjgwLnBuZyIgd2lkdGg9IjIwMCI+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">V2UgaGF2ZSBjYXB0dXJlZCBvbmUgZnJhbWUgZnJvbSB0aGUgYWJvdmUgY2xpcCBpbiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">V2UgaGF2ZSBhbHNvIHNlZ21lbnRlZCB0aGUgdmVpbiBhbmQgY3JlYXRlZCBhIG1hc2sgaW4gIVtsYWJlbCBtYXNrXSguL21vZGVsaW5nL3NyYy90ZXN0cy9kYXRhX3NhbXBsZS9sYWJlbC9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmcgfCB3aWR0aD0yMDApCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">V2UgaGF2ZSBjYXB0dXJlZCBvbmUgZnJhbWUgZnJvbSB0aGUgYWJvdmUgY2xpcCBpbiAhW3NuYXBzaG90IGltYWdlXSguL21vZGVsaW5nL3NyYy90ZXN0cy9kYXRhX3NhbXBsZS9pbWcvaVZpelZpZGVvXzE4MDYyMF8xNTE0NTlfUi0yODAucG5nKS4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>g across the image frame from left to right.
 
 We have captured one frame from the above clip in ![snapshot image](h</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">WC5sb2NbMF0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bHIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlBhdGg6IHtpbWdfZmlsZX0sIGRldGVjdGVkIGJsb2JzOiB7bGVuKHJ1bih0ZXN0X2ltZywgbHJfY2xmKSl9IikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZm9vKCk6Cg==</text>
+        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
       </register>
     </registers>
     <search>
