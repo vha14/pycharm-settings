@@ -13,9 +13,6 @@
         <mark key="^" line="15" column="49" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1547699492141">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1547581280963">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,7 +66,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547699704151">
+      <file name="/Dummy.txt" timestamp="1547702550773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547579873756">
@@ -100,11 +97,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547620823271">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547702675626">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_blob.py" timestamp="1547177759876">
         <mark key="'" line="6" column="16" />
@@ -139,8 +137,11 @@
       <file name="$USER_HOME$/work/piv/.gitignore" timestamp="1547187782477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547699464688">
-        <mark key="[" line="25" column="24" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547702147823">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -169,16 +170,17 @@
       <jump line="4" column="24" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="14" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>noop_get_blobs</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>featur</text>
+        <text>mean</text>
       </register>
       <register name="0" type="4">
         <text>optimized2 = ContourSettings(
@@ -228,9 +230,9 @@
       </register>
     </registers>
     <search>
-      <last-search>featur</last-search>
+      <last-search>mean</last-search>
       <last-offset />
-      <last-pattern>featur</last-pattern>
+      <last-pattern>mean</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -240,6 +242,7 @@
         <entry>interac</entry>
         <entry>optimi</entry>
         <entry>featur</entry>
+        <entry>mean</entry>
       </history-search>
       <history-cmd />
       <history-expr />
