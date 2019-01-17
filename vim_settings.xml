@@ -96,12 +96,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547443809080">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="33" />
-        <mark key="." line="54" column="33" />
-        <mark key="^" line="54" column="33" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547620823271">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_blob.py" timestamp="1547177759876">
         <mark key="'" line="6" column="16" />
@@ -133,12 +132,6 @@
       <file name="$USER_HOME$/work/piv/.gitignore" timestamp="1547187782477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547581799275">
-        <mark key="[" line="55" column="50" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-        <mark key="^" line="55" column="51" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/tests/opencv/dataset.py" />
@@ -160,52 +153,74 @@
       <jump line="94" column="55" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="69" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="68" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="6" column="31" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="34" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="4" column="24" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>simple</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>simple</text>
+        <text>noop_get_blobs</text>
       </register>
       <register name="/" type="4">
-        <text>interac</text>
+        <text>featur</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9wYXRoID0gKFBhdGguY3dkKCkpL291dHB1dF92aWRlb19wYXRoKCJzaW1wbGUiKQo=</text>
+      <register name="0" type="4">
+        <text>optimized2 = ContourSettings(
+    histogram_equalize=HistogramEqualize(4, (11, 11)),
+    threshold1=Threshold((67, 221), 1),
+    erosion=Erosion((9, 9), 3),
+    threshold2=None,
+    blur=Blur((30, 30)),
+    threshold3=Threshold((3, 141), 0),
+    final_morph=None,
+)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9wYXRoID0gKFBhdGguY3dkKCkpL1BhdGhzLlNBTVBMRV9WSUQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZl9iID0gZGZfYi5kcm9wKFtMQUJFTF0sIGF4aXM9MSkK</text>
+      <register name="2" type="4">
+        <text>noop = ContourSettings(
+    histogram_equalize=None,
+    threshold1=None,
+    erosion=None,
+    threshold2=None,
+    blur=None,
+    threshold3=None,
+    final_morph=None,
+)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bm9vcF9nZXRfYmxvYnMgPSBwYXJ0aWFsKGdldF9ibG9icywgbm9vcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gNTAgPD0gcm93WydjeSddIDw9IDE5MyBhbmQgMTM2NC41IDw9IHJvd1snYXJlYSddIDw9IDExMzI1LjUK</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9kZWJ1ZygpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW2IuY29udG91ciBmb3IgYiBpbiBibG9icyBpZiBscl9jbGYoYildCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9wYXRoID0gKFBhdGguY3dkKCkpL1BhdGhzLlNBTVBMRV9WSUQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfLCBibG9icyA9IGJsb2Iub3B0aW1pemVkX2dldF9ibG9icyhpbWcpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZl9iID0gZGZfYi5kcm9wKFtMQUJFTF0sIGF4aXM9MSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW2IuY29udG91ciBmb3IgYiBpbiBibG9icyBpZiBscl9jbGYoYikK</text>
+        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
-      <last-search>interac</last-search>
+      <last-search>featur</last-search>
       <last-offset />
-      <last-pattern>interac</last-pattern>
+      <last-pattern>featur</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -213,6 +228,8 @@
       <history-search>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>interac</entry>
+        <entry>optimi</entry>
+        <entry>featur</entry>
       </history-search>
       <history-cmd />
       <history-expr />
