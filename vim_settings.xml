@@ -70,12 +70,12 @@
       <file name="/Dummy.txt" timestamp="1547517285942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547852187180">
-        <mark key="'" line="22" column="17" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="10" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547853340248">
+        <mark key="'" line="83" column="22" />
+        <mark key="[" line="78" column="30" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -196,52 +196,65 @@
       <jump line="60" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
       <jump line="22" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="0" column="9" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="5" column="41" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="14" column="14" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="16" column="26" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="17" column="51" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="18" column="65" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="81" column="8" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="82" column="33" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="83" column="22" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09IA==</text>
+        <text>bool</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IA==</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYWNoaW5lXD4=</text>
+        <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
+        <text encoding="base64">ZGVmIGxyX2NsZihyb3c6IHBkLlNlcmllcykgLT4gYm9vbDoKICAgIHJldHVybiBsci5wcmVkaWN0KHBkLkRhdGFGcmFtZShbcm93LmRyb3AobGFiZWxzPVtMQUJFTF0pXSkpWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbmV3X3ZpZGVvLndyaXRlX3ZpZGVvZmlsZSgiL3RtcC9waXZfdGVzdF9kcmF3Lm1wNCIpCg==</text>
+        <text encoding="base64">ICAgIGludCgzLjApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbmV3X3ZpZGVvOiBWaWRlb0ZpbGVDbGlwID0gdmlkZW8uZmwocGFydGlhbChfcHJvY2Vzc19mcmFtZSwgVHJ1ZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgT24gYSByZWNlbnQgbGFwdG9wLCB3ZSBzaG91bGQgZ2V0IGp1c3QgYmVsb3cgNjBmcHMgd2l0aCBkcmF3aW5nCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA1MCA8PSByb3dbJ2N5J10gPD0gMTkzIGFuZCAxMzY0LjUgPD0gcm93WydhcmVhJ10gPD0gMTEzMjUuNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lYW5fdmFsID0gMAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBkZjEuYXJlYS5tYXgoKSA9PSAxMTMyNS41Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ld192aWRlbzogVmlkZW9GaWxlQ2xpcCA9IHZpZGVvLmZsKHBhcnRpYWwoX3Byb2Nlc3NfZnJhbWUsIEZhbHNlKSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBkZjEuYXJlYS5taW4oKSA9PSAxMzY0LjUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBkZjEuY3kubWF4KCkgPT0gMTkzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5ld192aWRlby5mcHMpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBkZjEuY3kubWluKCkgPT0gNTAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNpbXBsZV9jbGYocm93OiBwZC5TZXJpZXMpIC0+IGJvb2w6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYWNoaW5lXD4=</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYWNoaW5lXD4=</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -250,6 +263,8 @@
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>interac</entry>
         <entry encoding="base64">XDxNYWNoaW5lXD4=</entry>
+        <entry>test_i</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd />
       <history-expr />
