@@ -116,6 +116,12 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/.travis.yml" timestamp="1547787239821">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1547503430537">
         <mark key="[" line="26" column="79" />
         <mark key="]" line="31" column="43" />
@@ -128,9 +134,9 @@
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547786311412">
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547786450879">
         <mark key="'" line="53" column="44" />
-        <mark key="[" line="25" column="64" />
+        <mark key="[" line="58" column="68" />
         <mark key="]" line="25" column="65" />
         <mark key="." line="25" column="65" />
         <mark key="^" line="25" column="62" />
@@ -179,11 +185,11 @@
       <jump line="54" column="44" filename="$USER_HOME$/work/piv/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>trusty</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
@@ -192,39 +198,31 @@
         <text encoding="base64">ICFbc25hcHNob3QgaW1hZ2VdKC4vbW9kZWxpbmcvc3JjL3Rlc3RzL2RhdGFfc2FtcGxlL2ltZy9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmcpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcGVyZjIoKToK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcGVyZigpOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KiBNTCB3b3JrIHdpbGwgYmUgcHJpbWFyaWx5IGluIFB5dGhvbi4gV2UgdXNlIHRoZSBsYXRlc3QgdmVyc2lvbjogMy43Lgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KiAqKkNvbnRpbnVvdXMgaW50ZWdyYXRpb24qKjogaXMgaGFuZGxlZCBieSB0cmF2aXMuY29tLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gSWYgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>noop = ContourSettings(
-    histogram_equalize=None,
-    threshold1=None,
-    erosion=None,
-    threshold2=None,
-    blur=None,
-    threshold3=None,
-    final_morph=None,
-)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfcGVyZjIoKToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfcGVyZigpOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiBNTCB3b3JrIHdpbGwgYmUgcHJpbWFyaWx5IGluIFB5dGhvbi4gV2UgdXNlIHRoZSBsYXRlc3QgdmVyc2lvbjogMy43Lgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KiAqKkNvbnRpbnVvdXMgaW50ZWdyYXRpb24qKjogaXMgaGFuZGxlZCBieSB0cmF2aXMuY29tLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gSWYgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
