@@ -45,7 +45,6 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1547701324352">
-        <mark key="[" line="44" column="24" />
         <mark key="^" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1547443682077">
@@ -129,11 +128,12 @@
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547784527333">
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="30" column="2" />
-        <mark key="." line="30" column="2" />
-        <mark key="^" line="30" column="2" />
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547786311412">
+        <mark key="'" line="53" column="44" />
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="62" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1547185981315">
         <mark key="'" line="2" column="0" />
@@ -143,11 +143,10 @@
       <file name="$USER_HOME$/work/piv/.gitignore" timestamp="1547187782477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547702147823">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="34" column="16" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="34" column="16" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1547785263012">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -177,44 +176,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="14" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="25" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="54" column="44" filename="$USER_HOME$/work/piv/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
       </register>
-      <register name="0" type="4">
-        <text>optimized2 = ContourSettings(
-    histogram_equalize=HistogramEqualize(4, (11, 11)),
-    threshold1=Threshold((67, 221), 1),
-    erosion=Erosion((9, 9), 3),
-    threshold2=None,
-    blur=Blur((30, 30)),
-    threshold3=Threshold((3, 141), 0),
-    final_morph=None,
-)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICFbc25hcHNob3QgaW1hZ2VdKC4vbW9kZWxpbmcvc3JjL3Rlc3RzL2RhdGFfc2FtcGxlL2ltZy9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmcpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">KiBNTCB3b3JrIHdpbGwgYmUgcHJpbWFyaWx5IGluIFB5dGhvbi4gV2UgdXNlIHRoZSBsYXRlc3QgdmVyc2lvbjogMy43Lgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">KiAqKkNvbnRpbnVvdXMgaW50ZWdyYXRpb24qKjogaXMgaGFuZGxlZCBieSB0cmF2aXMuY29tLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gSWYgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfcGVyZjIoKToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfcGVyZigpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KiBNTCB3b3JrIHdpbGwgYmUgcHJpbWFyaWx5IGluIFB5dGhvbi4gV2UgdXNlIHRoZSBsYXRlc3QgdmVyc2lvbjogMy43Lgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiAqKkNvbnRpbnVvdXMgaW50ZWdyYXRpb24qKjogaXMgaGFuZGxlZCBieSB0cmF2aXMuY29tLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0gSWYgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>noop = ContourSettings(
     histogram_equalize=None,
     threshold1=None,
@@ -224,15 +225,6 @@
     threshold3=None,
     final_morph=None,
 )</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bm9vcF9nZXRfYmxvYnMgPSBwYXJ0aWFsKGdldF9ibG9icywgbm9vcCkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9kZWJ1ZygpOgo=</text>
       </register>
     </registers>
     <search>
