@@ -70,12 +70,12 @@
       <file name="/Dummy.txt" timestamp="1547517285942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547853340248">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547853585425">
         <mark key="'" line="83" column="22" />
-        <mark key="[" line="78" column="30" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
+        <mark key="[" line="89" column="44" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="51" />
+        <mark key="^" line="89" column="51" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -212,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bool</text>
+        <text>detected</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>detected</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
