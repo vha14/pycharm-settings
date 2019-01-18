@@ -60,6 +60,12 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/work/piv/pre-commit" timestamp="1547784259040">
+        <mark key="[" line="2" column="74" />
+        <mark key="]" line="2" column="74" />
+        <mark key="^" line="2" column="74" />
+        <mark key="." line="2" column="74" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547702550773">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,11 +129,11 @@
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547781902846">
-        <mark key="[" line="16" column="186" />
-        <mark key="]" line="16" column="185" />
-        <mark key="." line="16" column="185" />
-        <mark key="^" line="16" column="185" />
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1547784527333">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="2" />
+        <mark key="." line="30" column="2" />
+        <mark key="^" line="30" column="2" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1547185981315">
         <mark key="'" line="2" column="0" />
@@ -173,11 +179,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
@@ -194,9 +200,21 @@
 )</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">KiBEZXBsb3ltZW50IHdvcmsgd2lsbCBwcm9iYWJseSBhIG1peCBvZiBDKysgYW5kIEphdmEgKGZvciBBbmRyb2lkKS4gCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">KiBNTCB3b3JrIHdpbGwgYmUgcHJpbWFyaWx5IGluIFB5dGhvbi4gV2UgdXNlIHRoZSBsYXRlc3QgdmVyc2lvbjogMy43Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">KiAqKkNvbnRpbnVvdXMgaW50ZWdyYXRpb24qKjogaXMgaGFuZGxlZCBieSB0cmF2aXMuY29tLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gSWYgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>noop = ContourSettings(
     histogram_equalize=None,
     threshold1=None,
@@ -207,26 +225,14 @@
     final_morph=None,
 )</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">bm9vcF9nZXRfYmxvYnMgPSBwYXJ0aWFsKGdldF9ibG9icywgbm9vcCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9kZWJ1ZygpOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9wYXRoID0gKFBhdGguY3dkKCkpL1BhdGhzLlNBTVBMRV9WSUQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZl9iID0gZGZfYi5kcm9wKFtMQUJFTF0sIGF4aXM9MSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9kZWJ1ZygpOgo=</text>
       </register>
     </registers>
     <search>
