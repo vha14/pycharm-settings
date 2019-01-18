@@ -37,12 +37,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1547850725283">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1547851132380">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="142" column="70" />
-        <mark key="]" line="142" column="70" />
-        <mark key="^" line="142" column="70" />
-        <mark key="." line="142" column="70" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="151" column="59" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1547845586277">
         <mark key="[" line="21" column="0" />
@@ -70,12 +70,12 @@
       <file name="/Dummy.txt" timestamp="1547517285942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547576880520">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="131" column="36" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="134" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1547852187180">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -98,12 +98,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547850704197">
-        <mark key="'" line="247" column="15" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547850901459">
+        <mark key="'" line="246" column="15" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_blob.py" timestamp="1547177759876">
         <mark key="'" line="6" column="16" />
@@ -118,12 +117,12 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1547845863094">
-        <mark key="'" line="41" column="37" />
-        <mark key="[" line="26" column="79" />
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="31" column="43" />
-        <mark key="." line="31" column="43" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1547851992142">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="25" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="25" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
@@ -157,7 +156,6 @@
       <jump line="6" column="16" filename="$USER_HOME$/work/piv/modeling/tests/opencv/test_blob.py" />
       <jump line="2" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" />
       <jump line="31" column="13" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="38" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="0" column="3" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="5" column="34" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
@@ -195,46 +193,46 @@
       <jump line="246" column="15" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="154" column="73" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cv2.mean(img, mask=mask)[0]</text>
+        <text encoding="base64">ID09IA==</text>
       </register>
       <register name="-" type="4">
-        <text>cv2.mean(img, mask=mask)[0]</text>
+        <text encoding="base64">ID09IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYWNoaW5lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lYW5fdmFsID0gY3YyLm1lYW4oaW1nLCBtYXNrPW1hc2spWzBdCg==</text>
+        <text encoding="base64">ICAgIGRmMSA9IGRmW2RmWydsYWJlbCddID09IDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ld192aWRlbzogVmlkZW9GaWxlQ2xpcCA9IHZpZGVvLmZsKHBhcnRpYWwoX3Byb2Nlc3NfZnJhbWUsIEZhbHNlKSkK</text>
+        <text encoding="base64">ICAgICMgbmV3X3ZpZGVvLndyaXRlX3ZpZGVvZmlsZSgiL3RtcC9waXZfdGVzdF9kcmF3Lm1wNCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgbmV3X3ZpZGVvOiBWaWRlb0ZpbGVDbGlwID0gdmlkZW8uZmwocGFydGlhbChfcHJvY2Vzc19mcmFtZSwgVHJ1ZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5ld192aWRlby5mcHMpCg==</text>
+        <text encoding="base64">ICAgICMgT24gYSByZWNlbnQgbGFwdG9wLCB3ZSBzaG91bGQgZ2V0IGp1c3QgYmVsb3cgNjBmcHMgd2l0aCBkcmF3aW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1lYW5fdmFsID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ld192aWRlbzogVmlkZW9GaWxlQ2xpcCA9IHZpZGVvLmZsKHBhcnRpYWwoX3Byb2Nlc3NfZnJhbWUsIEZhbHNlKSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>def test_featurize():
-    _, blobs = blob.optimized_get_blobs(test_img)
-    img_label = common.cvimread(label_path(test_img_path))
-    assert sum([b.featurize(img_label)['label'] for b in blobs]) == 1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5ld192aWRlby5mcHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlIEJsb2IgZmVhdHVyaXphdGlvbiBhbmQgbGFiZWwgY29tcHV0YXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
