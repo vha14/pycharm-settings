@@ -59,12 +59,12 @@
       <file name="/code.py" timestamp="1547926008589">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548027792655">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="75" column="11" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548028461080">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="35" />
+        <mark key="^" line="70" column="47" />
+        <mark key="." line="79" column="35" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -181,46 +181,47 @@
       <jump line="47" column="8" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="47" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbHMgPSBsaXN0KGRmLmNvbHVtbnMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>cols</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGlzdChkZi5jb2x1bW5zKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNsYXNzaWZpY2F0aW9uX3JlcG9ydCh5LCBsci5wcmVkaWN0KFgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbHMgPSBsaXN0KGRmLmNvbHVtbnMpCg==</text>
+        <text encoding="base64">ICAgIHIuc2NvcmUoWCwgeSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHkuc2hhcGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRmMS5jeS5kZXNjcmliZSgpCg==</text>
+        <text encoding="base64">ICAgIFguc2hhcGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlbihsci5wcmVkaWN0KFgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuY29ycigpLnZhbHVlcwo=</text>
+        <text encoding="base64">aWYgaW50ZXJhY3RpdmVfbW9kZSgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YSA9IFtnby5IZWF0bWFwKHo9Y29yciwgeD1jb2xzLCB5PWNvbHMpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29scyA9IGxpc3QoZGYuY29sdW1ucykK</text>
+        <text encoding="base64">IyUlIENvbmZ1c2lvbiBtYXRyaXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29yciA9IGRmLmNvcnIoKS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgIGxyLnNjb3JlKFgsIHkpCg==</text>
       </register>
     </registers>
     <search>
@@ -257,6 +258,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
