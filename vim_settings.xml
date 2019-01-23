@@ -90,12 +90,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1547876797653">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="229" column="51" />
-        <mark key="]" line="229" column="49" />
-        <mark key="^" line="229" column="49" />
-        <mark key="." line="229" column="49" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548280835466">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="64" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/blob.py" timestamp="1547114015385">
         <mark key="[" line="48" column="0" />
@@ -128,12 +128,12 @@
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1548276748779">
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1548279356144">
         <mark key="'" line="65" column="32" />
         <mark key="[" line="70" column="92" />
-        <mark key="]" line="70" column="89" />
-        <mark key="." line="70" column="89" />
-        <mark key="^" line="70" column="89" />
+        <mark key="]" line="72" column="20" />
+        <mark key="." line="72" column="20" />
+        <mark key="^" line="72" column="20" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1547960193596">
         <mark key="'" line="2" column="0" />
@@ -184,10 +184,11 @@
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="24" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
       <jump line="102" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="233" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Feb2019.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Feb2019.html</text>
@@ -199,31 +200,31 @@
         <text encoding="base64">ICAgICAgICBoZWlnaHQsIHdpZHRoID0gaGVpZ2h0KnJhdGlvLCB3aWR0aCpyYXRpbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
+        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGhlaWdodAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBpbWFnZXMgKz0gWwogICAgICAgICAgICBnby5sYXlvdXQuSW1hZ2UoCiAgICAgICAgICAgICAgICBzb3VyY2U9SW1hZ2UuZnJvbWFycmF5KGltZyksIHg9MCwgc2l6ZXg9d2lkdGgsIHhyZWY9IngiLCB5PShjbnQgLSBpZHgpKmhlaWdodCwgc2l6ZXk9aGVpZ2h0LCB5cmVmPSJ5IiksCiAgICAgICAgICAgIGdvLmxheW91dC5JbWFnZSgKICAgICAgICAgICAgICAgIHNvdXJjZT1JbWFnZS5mcm9tYXJyYXkobWFzayksCiAgICAgICAgICAgICAgICB4PXdpZHRoLAogICAgICAgICAgICAgICAgc2l6ZXg9d2lkdGgsCiAgICAgICAgICAgICAgICB4cmVmPSJ4IiwKICAgICAgICAgICAgICAgIHk9KGNudCAtIGlkeCkqaGVpZ2h0LAogICAgICAgICAgICAgICAgc2l6ZXk9aGVpZ2h0LAogICAgICAgICAgICAgICAgeXJlZj0ieSIpCiAgICAgICAgXQoKICAgIGZpZyA9IGdvLkZpZ3VyZSgKICAgICAgICBsYXlvdXQ9Z28uTGF5b3V0KAogICAgICAgICAgICB4YXhpcz1nby5sYXlvdXQuWEF4aXModmlzaWJsZT1GYWxzZSwgcmFuZ2U9WzAsIDIqd2lkdGhdKSwKICAgICAgICAgICAgeWF4aXM9Z28ubGF5b3V0LllBeGlzKHZpc2libGU9RmFsc2UsIHJhbmdlPVswLCBjbnQqaGVpZ2h0XSksCiAgICAgICAgICAgIHdpZHRoPTIqd2lkdGgsCiAgICAgICAgICAgIGhlaWdodD1jbnQqaGVpZ2h0LAogICAgICAgICAgICBpbWFnZXM9aW1hZ2VzKSkKICAgIHBsb3RfZm4oZmlnKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQsIHdpZHRoID0gaGVpZ2h0KnJhdGlvLCB3aWR0aCpyYXRpbwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQsIHdpZHRoID0gaGVpZ2h0KnJhdGlvLCB3aWR0aCpyYXRpbwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNudCA9IGxlbihpbWdfbmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIGNudCA9IGxlbihpbWdfbmFtZXMpCg==</text>
       </register>
     </registers>
     <search>
@@ -260,6 +261,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
