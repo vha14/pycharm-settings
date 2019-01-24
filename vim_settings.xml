@@ -29,11 +29,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548363350147">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="112" column="47" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548365416142">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="136" column="36" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="115" column="41" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548363893440">
         <mark key="'" line="21" column="0" />
@@ -196,7 +197,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="111" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="130" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="47" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="110" column="3" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="44" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" />
@@ -206,13 +206,16 @@
       <jump line="19" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="29" column="19" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="149" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1nID0gYmxvYi50aHJlc2hvbGQoYmxvYi5vcHRpbWl6ZWQudGhyZXNob2xkMSwgaW1nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>histogram_equalize(blob.optimized.histogram_equalize, img)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZlw+</text>
@@ -221,31 +224,31 @@
         <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5vZmZsaW5lIGFzIHBvCg==</text>
+        <text encoding="base64">aW1nID0gYmxvYi50aHJlc2hvbGQoYmxvYi5vcHRpbWl6ZWQudGhyZXNob2xkMSwgaW1nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5maWd1cmVfZmFjdG9yeSBhcyBmZgo=</text>
+        <text encoding="base64">aW1wb3J0IHBsb3RseS5vZmZsaW5lIGFzIHBvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsb3RseS5maWd1cmVfZmFjdG9yeSBhcyBmZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG8ucGxvdChmaWcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmlnID0gZmYuY3JlYXRlX2Rpc3RwbG90KFtpbWcuZmxhdHRlbigpXSwgWydpbWcnXSwgYmluX3NpemU9MTApCg==</text>
+        <text encoding="base64">cG8ucGxvdChmaWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1nID0gdGVzdF9pbWcK</text>
+        <text encoding="base64">ZmlnID0gZmYuY3JlYXRlX2Rpc3RwbG90KFtpbWcuZmxhdHRlbigpXSwgWydpbWcnXSwgYmluX3NpemU9MTApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCA9IG5wLnJhbmRvbS5yYW5kbig1MDApCg==</text>
+        <text encoding="base64">aW1nID0gdGVzdF9pbWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVuKGltZy5mbGF0dGVuKCkpCg==</text>
+        <text encoding="base64">eCA9IG5wLnJhbmRvbS5yYW5kbig1MDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSA9IFtpbWddCg==</text>
+        <text encoding="base64">bGVuKGltZy5mbGF0dGVuKCkpCg==</text>
       </register>
     </registers>
     <search>
