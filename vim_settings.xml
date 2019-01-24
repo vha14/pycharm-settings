@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1547517130224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548365791081">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1547581280963">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,10 +18,10 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1548363817201">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1548367020310">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
         <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_overview.py" timestamp="1547932886863">
@@ -32,21 +29,19 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548365463547">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="136" column="36" />
-        <mark key="]" line="137" column="43" />
-        <mark key="^" line="137" column="43" />
-        <mark key="." line="137" column="43" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548366681823">
+        <mark key="'" line="106" column="17" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548363893440">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1547962683672">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-        <mark key="^" line="16" column="55" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548367098661">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/.style.yapf" timestamp="1547924646340">
         <mark key="[" line="3" column="45" />
@@ -191,7 +186,6 @@
       <jump line="81" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="25" column="60" filename="$USER_HOME$/work/piv/README.md" />
       <jump line="236" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
-      <jump line="106" column="16" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="59" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="28" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" />
       <jump line="61" column="7" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
@@ -212,10 +206,11 @@
       <jump line="99" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="114" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="16" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="106" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1nID0gYmxvYi50aHJlc2hvbGQoYmxvYi5vcHRpbWl6ZWQudGhyZXNob2xkMSwgaW1nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>histogram_equalize(blob.optimized.histogram_equalize, img)</text>
@@ -227,31 +222,31 @@
         <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1nID0gYmxvYi50aHJlc2hvbGQoYmxvYi5vcHRpbWl6ZWQudGhyZXNob2xkMSwgaW1nKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5vZmZsaW5lIGFzIHBvCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsb3RseS5maWd1cmVfZmFjdG9yeSBhcyBmZgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZyb20gY3YyIGltcG9ydCBjdjIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cG8ucGxvdChmaWcpCg==</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmlnID0gZmYuY3JlYXRlX2Rpc3RwbG90KFtpbWcuZmxhdHRlbigpXSwgWydpbWcnXSwgYmluX3NpemU9MTApCg==</text>
+        <text encoding="base64">IyB0aGlzIGlzIGp1c3QgdG8gdW5jb25mdXNlIHB5Y2hhcm0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1nID0gdGVzdF9pbWcK</text>
+        <text encoding="base64">Y3YyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eCA9IG5wLnJhbmRvbS5yYW5kbig1MDApCg==</text>
+        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVuKGltZy5mbGF0dGVuKCkpCg==</text>
+        <text encoding="base64">Y3YyLgo=</text>
       </register>
     </registers>
     <search>
