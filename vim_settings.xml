@@ -90,12 +90,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548280835466">
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548283470020">
         <mark key="'" line="236" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="96" column="64" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="86" column="44" />
+        <mark key="]" line="86" column="110" />
+        <mark key="^" line="86" column="110" />
+        <mark key="." line="86" column="110" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/blob.py" timestamp="1547114015385">
         <mark key="[" line="48" column="0" />
@@ -187,11 +187,11 @@
       <jump line="233" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, then .apply</text>
       </register>
       <register name="-" type="4">
-        <text>Feb2019.html</text>
+        <text>, then .apply</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
