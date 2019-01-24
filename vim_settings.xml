@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1548368410615">
+      <file name="/start_script.py" timestamp="1548369420650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547581280963">
@@ -29,19 +29,20 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548368432003">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548369733631">
         <mark key="'" line="106" column="17" />
-        <mark key="[" line="120" column="29" />
-        <mark key="]" line="120" column="30" />
-        <mark key="." line="120" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548363893440">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548368830587">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="8" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548368867384">
+        <mark key="]" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="44" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/.style.yapf" timestamp="1547924646340">
         <mark key="[" line="3" column="45" />
@@ -209,8 +210,8 @@
       <jump line="106" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y3YyIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y3YyIA==</text>
@@ -222,31 +223,31 @@
         <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB0aGlzIGlzIGp1c3QgdG8gdW5jb25mdXNlIHB5Y2hhcm0K</text>
+        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGN2Mi5TaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">IyB0aGlzIGlzIGp1c3QgdG8gdW5jb25mdXNlIHB5Y2hhcm0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyb20gY3YyIGltcG9ydCBjdjIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZyb20gY3YyIGltcG9ydCBjdjIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dHJ5Ogo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
     </registers>
     <search>
