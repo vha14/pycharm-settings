@@ -29,12 +29,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548333168390">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548335068774">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="136" column="30" />
-        <mark key="]" line="136" column="41" />
-        <mark key="." line="136" column="41" />
-        <mark key="^" line="136" column="41" />
+        <mark key="[" line="107" column="6" />
+        <mark key="]" line="107" column="6" />
+        <mark key="." line="107" column="6" />
+        <mark key="^" line="109" column="45" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1547962683672">
         <mark key="[" line="15" column="4" />
@@ -60,12 +60,12 @@
       <file name="/code.py" timestamp="1547926008589">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548028461080">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="79" column="35" />
-        <mark key="^" line="70" column="47" />
-        <mark key="." line="79" column="35" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548334693013">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -88,12 +88,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548175821458">
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548334577002">
         <mark key="'" line="236" column="0" />
-        <mark key="[" line="229" column="51" />
-        <mark key="]" line="229" column="49" />
-        <mark key="^" line="229" column="49" />
-        <mark key="." line="229" column="49" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="10" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="53" column="10" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/blob.py" timestamp="1547114015385">
         <mark key="[" line="48" column="0" />
@@ -197,43 +197,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>im_with_keypoints</text>
+        <text>255 - test_img</text>
       </register>
       <register name="-" type="4">
-        <text>im_with_keypoints</text>
+        <text>255 - test_img</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBwbG90bHkgaW1wb3J0IGdyYXBoX29ianMgYXMgZ28sIG9mZmxpbmUgYXMgcG8K</text>
+        <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtleXBvaW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGtleXBvaW50cyA9IGRldGVjdG9yLmRldGVjdCgyNTUtdGVzdF9pbWcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGtleXBvaW50cwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN2Mi5nZXRWZXJzaW9uU3RyaW5nKCkK</text>
+        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgRmlsdGVyIGJ5IEluZXJ0aWEK</text>
+        <text encoding="base64">Y3YyLmdldFZlcnNpb25TdHJpbmcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgRmlsdGVyIGJ5IENvbnZleGl0eQo=</text>
+        <text encoding="base64">ICAgIGN2Mi5nZXRWZXJzaW9uU3RyaW5nKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgRmlsdGVyIGJ5IENpcmN1bGFyaXR5Cg==</text>
+        <text encoding="base64">ICAgICMgRmlsdGVyIGJ5IEluZXJ0aWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgRmlsdGVyIGJ5IEFyZWEuCg==</text>
+        <text encoding="base64">ICAgICMgRmlsdGVyIGJ5IENvbnZleGl0eQo=</text>
       </register>
     </registers>
     <search>
