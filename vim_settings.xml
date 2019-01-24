@@ -29,11 +29,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548342164599">
-        <mark key="[" line="114" column="24" />
-        <mark key="]" line="114" column="25" />
-        <mark key="^" line="114" column="25" />
-        <mark key="." line="114" column="25" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548351409022">
+        <mark key="[" line="112" column="46" />
+        <mark key="]" line="112" column="46" />
+        <mark key="^" line="113" column="47" />
+        <mark key="." line="112" column="46" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1547962683672">
         <mark key="[" line="15" column="4" />
@@ -198,10 +198,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>img</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZlw+</text>
