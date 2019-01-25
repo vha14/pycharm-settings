@@ -61,10 +61,12 @@
       <file name="/code.py" timestamp="1548375769517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548338535358">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="30" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548385254314">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -208,25 +210,37 @@
       <jump line="136" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>leftmost</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>leftmost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZlw+</text>
+        <text encoding="base64">XDxsZWZ0bW9zdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRmLnNoYXBlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9wdGltaXplZDJfZ2V0X2Jsb2JzID0gcGFydGlhbChibG9iLmdldF9ibG9icywgYmxvYi5kZWZhdWx0LCBGYWxzZSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDM0LzQwCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>#%% Simple blob detection
 
 import numpy as np
@@ -271,29 +285,17 @@ if interactive_mode():
 
     plot_img_2cols([img, im_with_keypoints], height, width, po.plot)</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gY3YyIGltcG9ydCBjdjIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZlw+</last-search>
+      <last-search encoding="base64">XDxsZWZ0bW9zdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZlw+</last-pattern>
+      <last-pattern encoding="base64">XDxsZWZ0bW9zdFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -305,6 +307,7 @@ if interactive_mode():
         <entry>featur</entry>
         <entry>mean</entry>
         <entry encoding="base64">XDxkZlw+</entry>
+        <entry encoding="base64">XDxsZWZ0bW9zdFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
