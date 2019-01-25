@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548442150383">
-        <mark key="'" line="70" column="20" />
-        <mark key="[" line="70" column="15" />
-        <mark key="]" line="71" column="7" />
-        <mark key="^" line="71" column="7" />
-        <mark key="." line="71" column="7" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548442904387">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/Python Console" timestamp="1548441230366">
         <mark key="[" line="0" column="0" />
@@ -19,37 +19,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRyYWNraW5nIGZhaWx1cmUK</text>
+        <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRyYWNraW5nIGZhaWx1cmUK</text>
+        <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRyYWNraW5nIHN1Y2Nlc3MK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgQ2FsY3VsYXRlIEZyYW1lcyBwZXIgc2Vjb25kIChGUFMpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVXBkYXRlIHRyYWNrZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgU3RhcnQgdGltZXIK</text>
+        <text encoding="base64">ICAgICMgVXBkYXRlIHRyYWNrZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbml0aWFsaXplIHRyYWNrZXIgd2l0aCBmaXJzdCBmcmFtZSBhbmQgYm91bmRpbmcgYm94Cg==</text>
+        <text encoding="base64">ICAgICMgRGlzcGxheSByZXN1bHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSZWFkIGZpcnN0IGZyYW1lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBEZWZpbmUgYW4gaW5pdGlhbCBib3VuZGluZyBib3gK</text>
+        <text encoding="base64">ICAgICMgRGlzcGxheSBGUFMgb24gZnJhbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;videos/chaplin.mp4&quot;</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
