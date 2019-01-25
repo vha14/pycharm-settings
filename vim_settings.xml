@@ -29,12 +29,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548372503684">
-        <mark key="'" line="137" column="4" />
-        <mark key="[" line="125" column="22" />
-        <mark key="]" line="125" column="22" />
-        <mark key="." line="125" column="22" />
-        <mark key="^" line="119" column="25" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548374997128">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548363893440">
         <mark key="'" line="21" column="0" />
@@ -64,11 +62,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548338535358">
-        <mark key="'" line="47" column="4" />
+        <mark key="'" line="45" column="4" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="30" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -129,12 +125,12 @@
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1547109437098">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1548124246923">
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1548375127842">
         <mark key="'" line="32" column="60" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="5" column="0" />
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="110" />
+        <mark key="." line="43" column="110" />
+        <mark key="^" line="43" column="110" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548330997254">
         <mark key="'" line="28" column="12" />
@@ -212,8 +208,8 @@
       <jump line="136" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -225,31 +221,73 @@
         <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="3" type="4">
+        <text>#%% Simple blob detection
+
+import numpy as np
+import plotly.graph_objs as go
+
+img = test_img
+
+# po.plot([go.Histogram(x=img.flatten(), nbinsx=32)])
+# he = blob.histogram_equalize(blob.optimized.histogram_equalize, img)
+# po.plot([go.Histogram(x=he.flatten())])
+
+img = blob.preprocess(blob.optimized, img)
+if interactive_mode():
+    height, width = SHAPE
+    params = cv2.SimpleBlobDetector_Params()
+    params.blobColor = 255
+
+    # params.minThreshold = 10
+    # params.maxThreshold = 200
+
+    params.filterByArea = True
+    params.minArea = 100
+
+    # params.filterByCircularity = True
+    # params.minCircularity = 0.1
+
+    # params.filterByConvexity = True
+    # params.minConvexity = 0.87
+
+    # params.filterByInertia = True
+    # params.minInertiaRatio = 0.01
+
+    detector = cv2.SimpleBlobDetector_create(params)
+    keypoints = detector.detect(img)
+    print(f&quot;{len(keypoints)} keypoints found&quot;)
+
+    cv2.getVersionString()
+    # Draw detected blobs as red circles.
+    # cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS ensures the size of the circle corresponds to the size of blob
+    im_with_keypoints = cv2.drawKeypoints(
+        img, keypoints, np.array([]), (0, 0, 255), flags=cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
+
+    plot_img_2cols([img, im_with_keypoints], height, width, po.plot)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gY3YyIGltcG9ydCBjdjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB0aGlzIGlzIGp1c3QgdG8gdW5jb25mdXNlIHB5Y2hhcm0K</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
+        <text encoding="base64">ICAgIGZyb20gY3YyIGltcG9ydCBjdjIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
     </registers>
     <search>
