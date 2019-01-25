@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1548372086630">
+      <file name="/start_script.py" timestamp="1548386019543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547581280963">
@@ -29,13 +29,26 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548374997128">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548388373841">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="111" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/mask.py" timestamp="1548388205817">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548363893440">
         <mark key="'" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_mask.py" timestamp="1548388672067">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548372081080">
         <mark key="[" line="3" column="0" />
@@ -61,12 +74,11 @@
       <file name="/code.py" timestamp="1548375769517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548385254314">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548385987179">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tests/opencv/test_none.py" timestamp="1547117123065">
         <mark key="[" line="0" column="0" />
@@ -89,10 +101,10 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548363988802">
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548386830912">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="10" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="85" />
         <mark key="^" line="53" column="10" />
         <mark key="." line="53" column="10" />
       </file>
@@ -134,7 +146,7 @@
         <mark key="." line="59" column="61" />
         <mark key="^" line="59" column="61" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548330997254">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548387288313">
         <mark key="'" line="28" column="12" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="50" />
@@ -208,94 +220,54 @@
       <jump line="106" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="136" column="4" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>leftmost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>leftmost</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWZ0bW9zdFw+</text>
+        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1nID0gYmxvYi5oaXN0b2dyYW1fZXF1YWxpemUoYmxvYi5vcHRpbWl6ZWQuaGlzdG9ncmFtX2VxdWFsaXplLCBpbWcpCg==</text>
+        <text encoding="base64">ICAgIHJlY3QgPSBib3VuZF9yZWN0KHRlc3RfbWFzaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmLnNoYXBlCg==</text>
+        <text encoding="base64">dGVzdF9tYXNrX3BhdGggPSBsYWJlbF9wYXRoKGltYWdlX3BhdGgoKSkKdGVzdF9tYXNrID0gY3ZpbXJlYWQodGVzdF9tYXNrX3BhdGgsIGN2Mi5JTVJFQURfR1JBWVNDQUxFKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplZDJfZ2V0X2Jsb2JzID0gcGFydGlhbChibG9iLmdldF9ibG9icywgYmxvYi5kZWZhdWx0LCBGYWxzZSkK</text>
+        <text encoding="base64">ZnJvbSBwbG90bHkgaW1wb3J0IGdyYXBoX29ianMgYXMgZ28sIG9mZmxpbmUgYXMgcG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDM0LzQwCg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5vcGVuY3YudXRpbHMgaW1wb3J0IHBsb3RfaW1nXzJjb2xzLCBpbWFnZV9wYXRoLCBpbnRlcmFjdGl2ZV9tb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RfbWFzayA9IGN2aW1yZWFkKHRlc3RfbWFza19wYXRoLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RfbWFza19wYXRoID0gbGFiZWxfcGF0aChpbWFnZV9wYXRoKCkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>#%% Simple blob detection
-
-import numpy as np
-import plotly.graph_objs as go
-
-img = test_img
-
-# po.plot([go.Histogram(x=img.flatten(), nbinsx=32)])
-# he = blob.histogram_equalize(blob.optimized.histogram_equalize, img)
-# po.plot([go.Histogram(x=he.flatten())])
-
-img = blob.preprocess(blob.optimized, img)
-if interactive_mode():
-    height, width = SHAPE
-    params = cv2.SimpleBlobDetector_Params()
-    params.blobColor = 255
-
-    # params.minThreshold = 10
-    # params.maxThreshold = 200
-
-    params.filterByArea = True
-    params.minArea = 100
-
-    # params.filterByCircularity = True
-    # params.minCircularity = 0.1
-
-    # params.filterByConvexity = True
-    # params.minConvexity = 0.87
-
-    # params.filterByInertia = True
-    # params.minInertiaRatio = 0.01
-
-    detector = cv2.SimpleBlobDetector_create(params)
-    keypoints = detector.detect(img)
-    print(f&quot;{len(keypoints)} keypoints found&quot;)
-
-    cv2.getVersionString()
-    # Draw detected blobs as red circles.
-    # cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS ensures the size of the circle corresponds to the size of blob
-    im_with_keypoints = cv2.drawKeypoints(
-        img, keypoints, np.array([]), (0, 0, 255), flags=cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
-
-    plot_img_2cols([img, im_with_keypoints], height, width, po.plot)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHgsIHksIHcsIGggPSByZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3YyLl9fdmVyc2lvbl9fCg==</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWZ0bW9zdFw+</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWZ0bW9zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -308,6 +280,7 @@ if interactive_mode():
         <entry>mean</entry>
         <entry encoding="base64">XDxkZlw+</entry>
         <entry encoding="base64">XDxsZWZ0bW9zdFw+</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -331,6 +304,9 @@ if interactive_mode():
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
