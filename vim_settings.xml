@@ -36,10 +36,11 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="111" column="41" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/mask.py" timestamp="1548388205817">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/mask.py" timestamp="1548390357481">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548363893440">
         <mark key="'" line="21" column="0" />
@@ -228,40 +229,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlY3QgPSBib3VuZF9yZWN0KHRlc3RfbWFzaykK</text>
+        <text encoding="base64">ICAgIF8sIGNvbnRvdXJzLCBfID0gY3YyLmZpbmRDb250b3VycyhtYXNrLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdF9tYXNrX3BhdGggPSBsYWJlbF9wYXRoKGltYWdlX3BhdGgoKSkKdGVzdF9tYXNrID0gY3ZpbXJlYWQodGVzdF9tYXNrX3BhdGgsIGN2Mi5JTVJFQURfR1JBWVNDQUxFKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwbG90bHkgaW1wb3J0IGdyYXBoX29ianMgYXMgZ28sIG9mZmxpbmUgYXMgcG8K</text>
+        <text encoding="base64">dGVzdF9tYXNrX3BhdGggPSBsYWJlbF9wYXRoKGltYWdlX3BhdGgoKSkKdGVzdF9tYXNrID0gY3ZpbXJlYWQodGVzdF9tYXNrX3BhdGgsIGN2Mi5JTVJFQURfR1JBWVNDQUxFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5vcGVuY3YudXRpbHMgaW1wb3J0IHBsb3RfaW1nXzJjb2xzLCBpbWFnZV9wYXRoLCBpbnRlcmFjdGl2ZV9tb2RlCg==</text>
+        <text encoding="base64">ZnJvbSBwbG90bHkgaW1wb3J0IGdyYXBoX29ianMgYXMgZ28sIG9mZmxpbmUgYXMgcG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbWFzayA9IGN2aW1yZWFkKHRlc3RfbWFza19wYXRoLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5vcGVuY3YudXRpbHMgaW1wb3J0IHBsb3RfaW1nXzJjb2xzLCBpbWFnZV9wYXRoLCBpbnRlcmFjdGl2ZV9tb2RlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbWFza19wYXRoID0gbGFiZWxfcGF0aChpbWFnZV9wYXRoKCkpCg==</text>
+        <text encoding="base64">ICAgIHRlc3RfbWFzayA9IGN2aW1yZWFkKHRlc3RfbWFza19wYXRoLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHgsIHksIHcsIGggPSByZWN0Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RfbWFza19wYXRoID0gbGFiZWxfcGF0aChpbWFnZV9wYXRoKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgIHgsIHksIHcsIGggPSByZWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
     </registers>
     <search>
