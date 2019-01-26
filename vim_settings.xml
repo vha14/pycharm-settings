@@ -6,14 +6,14 @@
       <file name="/start_script.py" timestamp="1548461839691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548461831410">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548461900441">
         <mark key="'" line="68" column="17" />
-        <mark key="[" line="69" column="47" />
-        <mark key="]" line="69" column="47" />
-        <mark key="^" line="69" column="47" />
-        <mark key="." line="69" column="47" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="3" />
+        <mark key="^" line="70" column="3" />
+        <mark key="." line="70" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1548461760841">
+      <file name="/Python Console" timestamp="1548461850292">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -23,31 +23,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'chaplin.mp4'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJFcnJvciBvcGVuaW5nIHZpZGVvIHN0cmVhbSBvciBmaWxlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQ2FsY3VsYXRlIEZyYW1lcyBwZXIgc2Vjb25kIChGUFMpCg==</text>
+        <text encoding="base64">aWYgKGNhcC5pc09wZW5lZCgpID09IEZhbHNlKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDaGVjayBpZiBjYW1lcmEgb3BlbmVkIHN1Y2Nlc3NmdWxseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVXBkYXRlIHRyYWNrZXIK</text>
+        <text encoding="base64">Y2FwLmlzT3BlbmVkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgRGlzcGxheSByZXN1bHQK</text>
+        <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgRGlzcGxheSBGUFMgb24gZnJhbWUK</text>
+        <text encoding="base64">ICAgICMgQ2FsY3VsYXRlIEZyYW1lcyBwZXIgc2Vjb25kIChGUFMpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
