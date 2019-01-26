@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548442904387">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548461757627">
         <mark key="'" line="59" column="20" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="60" column="7" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="47" />
+        <mark key="^" line="69" column="47" />
+        <mark key="." line="69" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1548441230366">
+      <file name="/Python Console" timestamp="1548461760841">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -21,8 +21,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
+      <register name="&quot;" type="4">
+        <text>'chaplin.mp4'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -49,7 +49,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'chaplin.mp4'</text>
       </register>
     </registers>
     <search>
@@ -65,6 +65,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
