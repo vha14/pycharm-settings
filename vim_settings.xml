@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548461757627">
-        <mark key="'" line="59" column="20" />
+      <file name="/start_script.py" timestamp="1548461839691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548461831410">
+        <mark key="'" line="68" column="17" />
         <mark key="[" line="69" column="47" />
         <mark key="]" line="69" column="47" />
         <mark key="^" line="69" column="47" />
@@ -16,6 +19,7 @@
     </filemarks>
     <jumps>
       <jump line="83" column="20" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="68" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
