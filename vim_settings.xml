@@ -6,54 +6,62 @@
       <file name="/start_script.py" timestamp="1548461839691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548461900441">
-        <mark key="'" line="68" column="17" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="3" />
-        <mark key="^" line="70" column="3" />
-        <mark key="." line="70" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548527841380">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="54" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1548461850292">
+      <file name="/Dummy.txt" timestamp="1548527096290">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1548527271543">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/test_track" timestamp="1548527848301">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="83" column="20" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
       <jump line="68" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="30" column="20" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJFcnJvciBvcGVuaW5nIHZpZGVvIHN0cmVhbSBvciBmaWxlIikK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgKGNhcC5pc09wZW5lZCgpID09IEZhbHNlKToK</text>
+        <text encoding="base64">ICAgIGlmIGsgPT0gMjc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDaGVjayBpZiBjYW1lcmEgb3BlbmVkIHN1Y2Nlc3NmdWxseQo=</text>
+        <text encoding="base64">ICAgIGsgPSBjdjIud2FpdEtleSgxKSAmIDB4ZmYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FwLmlzT3BlbmVkKCkK</text>
+        <text encoding="base64">ICAgICMgRXhpdCBpZiBFU0MgcHJlc3NlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgRHJhdyBib3VuZGluZyBib3gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQ2FsY3VsYXRlIEZyYW1lcyBwZXIgc2Vjb25kIChGUFMpCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IyBDcmVhdGUgYSBWaWRlb0NhcHR1cmUgb2JqZWN0IGFuZCByZWFkIGZyb20gaW5wdXQgZmlsZQojIElmIHRoZSBpbnB1dCBpcyB0aGUgY2FtZXJhLCBwYXNzIDAgaW5zdGVhZCBvZiB0aGUgdmlkZW8gZmlsZSBuYW1lCmNhcCA9IGN2Mi5WaWRlb0NhcHR1cmUoc3RyKHNhbXBsZV92aWRlb19wYXRoKCkpKQoKY250ID0gMAojIFJlYWQgdW50aWwgdmlkZW8gaXMgY29tcGxldGVkCndoaWxlIGNhcC5pc09wZW5lZCgpOgogICAgIyBDYXB0dXJlIGZyYW1lLWJ5LWZyYW1lCiAgICByZXQsIGZyYW1lID0gY2FwLnJlYWQoKQogICAgaWYgcmV0OgogICAgICAgIGNudCArPSAxCgogICAgICAgICMgRGlzcGxheSB0aGUgcmVzdWx0aW5nIGZyYW1lCiAgICAgICAgIyBjdjIuaW1zaG93KCdGcmFtZScsIGZyYW1lKQogICAgICAgICMKICAgICAgICAjIFByZXNzIFEgb24ga2V5Ym9hcmQgdG8gIGV4aXQKICAgICAgICAjIGlmIGN2Mi53YWl0S2V5KDI1KSAmIDB4RkYgPT0gb3JkKCdxJyk6CiAgICAgICAgIyAgICAgYnJlYWsKCiAgICAjIEJyZWFrIHRoZSBsb29wCiAgICBlbHNlOgogICAgICAgIGJyZWFrCgojIFdoZW4gZXZlcnl0aGluZyBkb25lLCByZWxlYXNlIHRoZSB2aWRlbyBjYXB0dXJlIG9iamVjdApjYXAucmVsZWFzZSgpCnByaW50KGYiY250OiB7Y250fSIpCgojIENsb3NlcyBhbGwgdGhlIGZyYW1lcwojIGN2Mi5kZXN0cm95QWxsV2luZG93cygp</text>
       </register>
       <register name="-" type="4">
-        <text>'chaplin.mp4'</text>
+        <text>cnt</text>
       </register>
     </registers>
     <search>
@@ -72,6 +80,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
