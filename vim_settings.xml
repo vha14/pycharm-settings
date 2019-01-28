@@ -6,11 +6,12 @@
       <file name="/start_script.py" timestamp="1548655090893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548696194017">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548696911224">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="102" column="62" />
+        <mark key="]" line="102" column="70" />
+        <mark key="." line="102" column="70" />
+        <mark key="^" line="102" column="70" />
       </file>
       <file name="/Dummy.txt" timestamp="1548527096290">
         <mark key="[" line="0" column="0" />
@@ -83,44 +84,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYWNrXzJ3YXlzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>(width, height))</text>
       </register>
       <register name="-" type="4">
-        <text>script_mode():</text>
+        <text>(width, height))</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="4">
-        <text>__name__ == &quot;__main__&quot;:</text>
+        <text>0x7634706d</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYWNrXzJ3YXlzKCkK</text>
+        <text encoding="base64">d2lkdGgsIGhlaWdodCA9IDEyODAsIDcyMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZV9pZHggKz0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgIFBZVEhPTlBBVEg9Li9zcmMgcHl0aG9uIHNyYy90ZXN0cy9vcGVuY3YvdGVzdF90cmFjay5weQo=</text>
+        <text encoding="base64">ICAgIGZyYW1lX2lkeCA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlIFRvIHJ1biBvbiBjb21tYW5kIGxpbmUgaW4gdGhlIC4vbW9kZWxpbmcgZGlyZWN0b3J5LCB1c2UgdGhlIGNvbW1hbmQ6Cg==</text>
+        <text encoding="base64">ICAgIHRyYWNrXzJ3YXlzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYWNrKCkK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiVHJhY2tpbmchISEhISEhISEhISEhISIpCg==</text>
+        <text encoding="base64">IyAgIFBZVEhPTlBBVEg9Li9zcmMgcHl0aG9uIHNyYy90ZXN0cy9vcGVuY3YvdGVzdF90cmFjay5weQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlIFRvIHJ1biBvbiBjb21tYW5kIGxpbmUgaW4gdGhlIC4vbW9kZWxpbmcgZGlyZWN0b3J5LCB1c2UgdGhlIGNvbW1hbmQ6Cg==</text>
       </register>
     </registers>
     <search>
@@ -151,6 +152,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
