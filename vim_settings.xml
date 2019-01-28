@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1548461839691">
+      <file name="/start_script.py" timestamp="1548655090893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548650902938">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="132" column="22" />
-        <mark key="]" line="132" column="22" />
-        <mark key="^" line="120" column="5" />
-        <mark key="." line="132" column="22" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548655302145">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="61" column="22" />
+        <mark key="]" line="61" column="22" />
+        <mark key="^" line="35" column="114" />
+        <mark key="." line="61" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1548527096290">
         <mark key="[" line="0" column="0" />
@@ -78,31 +78,31 @@
         <text>frame</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0X2ZyYW1lID0gZnJhbWUuY29weSgpCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgaW5pdGlhbF9iYm94PSgyOTEsIDE0MywgMzk1IC0gMjkxLCAyMzggLSAxNDMpKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXRfZnJhbWUgPSBmcmFtZS5jb3B5KCkK</text>
+        <text encoding="base64">ICAgICAgICByZXRfZnJhbWUgPSBuZXh0X2ZyYW1lLmNvcHkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0X2ZyYW1lID0gZnJhbWUuY29weSgpCg==</text>
+        <text encoding="base64">ICAgIG91dC5yZWxlYXNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWNrZXIgPSBnZXRhdHRyKGN2MiwgZiJUcmFja2Vye3RyYWNrZXJfdHlwZX1fY3JlYXRlIikoKQo=</text>
+        <text encoding="base64">ICAgIHZpZGVvLnJlbGVhc2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYid3JpdGluZyB7bGVuKHRyYWNrZWRfYmFja3dhcmQpfSBmcmFtZXMgLi4uICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICgyLCAzKSArICgxLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIzOCAtIDE0MykpOgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICB2aWRlby5yZWxlYXNlKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGN1cl9mcmFtZSA9IE5vbmUKICAgIGZyYW1lX2lkeCA9IDY5CiAgICBmb3IgaSBpbiByYW5nZShmcmFtZV9pZHgpOgogICAgICAgIG9rLCBjdXJfZnJhbWUgPSBmcmFtZV9pdGVyYXRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbCBmb3J3YXJkCg==</text>
+        <text encoding="base64">ICAgIG91dCA9IGN2Mi5WaWRlb1dyaXRlcihvdXRfbmFtZSwgMHg3NjM0NzA2ZCwgMzAsICh3aWR0aCwgaGVpZ2h0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbCBiYWNrd2FyZAo=</text>
+        <text encoding="base64">dmlkZW8gPSBjdjIuVmlkZW9DYXB0dXJlKHN0cihzYW1wbGVfdmlkZW9fcGF0aCgpKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -132,6 +132,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
