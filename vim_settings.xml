@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1548461839691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548647130366">
-        <mark key="'" line="70" column="3" />
-        <mark key="[" line="66" column="33" />
-        <mark key="]" line="66" column="31" />
-        <mark key="." line="66" column="31" />
-        <mark key="^" line="66" column="31" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548649609942">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="135" column="18" />
+        <mark key="]" line="135" column="16" />
+        <mark key="^" line="135" column="16" />
+        <mark key="." line="135" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1548527096290">
         <mark key="[" line="0" column="0" />
@@ -31,6 +31,10 @@
         <mark key="]" line="6" column="90" />
         <mark key="^" line="6" column="90" />
         <mark key="." line="6" column="90" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548647655129">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="57" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548638652826">
         <mark key="[" line="13" column="21" />
@@ -56,46 +60,49 @@
       <jump line="13" column="16" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
       <jump line="48" column="29" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" />
       <jump line="62" column="3" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="81" column="14" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="97" column="75" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>frame</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICB2aWRlby5yZWxlYXNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>frame</text>
+        <text>read_ok</text>
       </register>
       <register name="/" type="4">
         <text>frame</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpZGVvID0gY3YyLlZpZGVvQ2FwdHVyZShzdHIoc2FtcGxlX3ZpZGVvX3BhdGgoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXQud3JpdGUoZnJhbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB2aWRlby5yZWxlYXNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhYmVsZWRfZnJhbWVfaWR4Cg==</text>
+        <text encoding="base64">ICAgIGRlbCBmb3J3YXJkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZpZGVvX3BhdGggPSBzYW1wbGVfdmlkZW9fcGF0aCgpCg==</text>
+        <text encoding="base64">ICAgIGRlbCBiYWNrd2FyZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhYmVsZWRfZnJhbWVfaWR4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCB0cmFja2VyX3R5cGUgaW4gdHJhY2tlcl90eXBlcwo=</text>
+        <text encoding="base64">ICAgIGRlbCB0cmFja2VkX2ZvcndhcmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tlZF9mb3J3YXJkID0gdHJhY2tlZF9iYWNrd2FyZC5hcHBlbmQoZnJhbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGYiT3BlbiB2aWRlbyBmaWxlIHtpbnB1dF9wYXRoLm5hbWV9IikK</text>
+        <text encoding="base64">ICAgIHRyYWNrZWRfZm9yd2FyZCA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXQud3JpdGUoZnJhbWUpCg==</text>
       </register>
     </registers>
     <search>
