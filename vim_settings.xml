@@ -6,20 +6,17 @@
       <file name="/start_script.py" timestamp="1548655090893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548696911224">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="102" column="62" />
-        <mark key="]" line="102" column="70" />
-        <mark key="." line="102" column="70" />
-        <mark key="^" line="102" column="70" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548702616897">
+        <mark key="'" line="86" column="18" />
+        <mark key="[" line="118" column="19" />
+        <mark key="]" line="101" column="34" />
+        <mark key="." line="101" column="34" />
+        <mark key="^" line="101" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1548527096290">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548696218877">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1548650312552">
+      <file name="/a.dummy" timestamp="1548701039310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1548638712241">
@@ -28,31 +25,42 @@
         <mark key="^" line="6" column="90" />
         <mark key="." line="6" column="90" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548647655129">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="57" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1548701700870">
+        <mark key="'" line="76" column="3" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="3" />
+        <mark key="." line="77" column="3" />
+        <mark key="^" line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548639945155">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="52" />
-        <mark key="^" line="16" column="52" />
-        <mark key="." line="16" column="52" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548701183947">
+        <mark key="'" line="221" column="57" />
+        <mark key="[" line="221" column="50" />
+        <mark key="]" line="218" column="72" />
+        <mark key="." line="221" column="56" />
+        <mark key="^" line="218" column="72" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1548637937754">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="36" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/visualize.py" timestamp="1548701317861">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548696096245">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1548698166771">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548638652826">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548701633724">
+        <mark key="[" line="56" column="61" />
+        <mark key="]" line="56" column="61" />
+        <mark key="^" line="56" column="61" />
+        <mark key="." line="56" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548701272134">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+        <mark key="^" line="36" column="3" />
       </file>
       <file name="/test_track" timestamp="1548696063916">
         <mark key="[" line="0" column="0" />
@@ -82,52 +90,58 @@
       <jump line="30" column="8" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
       <jump line="68" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="85" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
+      <jump line="11" column="44" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="218" column="73" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="221" column="57" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
+      <jump line="76" column="3" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(width, height))</text>
+        <text>f&quot;{out_dir}/{video_name_from_image(img_name)}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>(width, height))</text>
+        <text>f&quot;{out_dir}/{video_name_from_image(img_name)}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>assert</text>
+        <text>WHITE</text>
       </register>
-      <register name="0" type="4">
-        <text>0x7634706d</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgID4+PiBzdWJfZGlyKFBhdGhzLkRhdGFEaXJzLlNBTVBMRSwgTEFCRUxfRElSKQogICAgUG9zaXhQYXRoKCdzcmMvdGVzdHMvZGF0YV9zYW1wbGUvbGFiZWwnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2lkdGgsIGhlaWdodCA9IDEyODAsIDcyMAo=</text>
+        <text encoding="base64">ICAgIGZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZV9pZHggKz0gMQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyYW1lX2lkeCA9IDAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWNrXzJ3YXlzKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgIFBZVEhPTlBBVEg9Li9zcmMgcHl0aG9uIHNyYy90ZXN0cy9vcGVuY3YvdGVzdF90cmFjay5weQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyUlIFRvIHJ1biBvbiBjb21tYW5kIGxpbmUgaW4gdGhlIC4vbW9kZWxpbmcgZGlyZWN0b3J5LCB1c2UgdGhlIGNvbW1hbmQ6Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBkYXRhX2RpcjogCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBpbWdfbmFtZTogCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ZGVmIGxhYmVsX3BhdGhfZnJvbV9pbWdfcGF0aChpbWdfcGF0aDogUGF0aCkgLT4gUGF0aDoKICAgICIiIkdpdmVuIHRoZSBwYXRoIHRvIHRoZSBpbWFnZSwgcmV0dXJuIHRoZSBwYXRoIHRvIGl0cyBsYWJlbCBpbWFnZQoKICAgID4+PiBsYWJlbF9wYXRoX2Zyb21faW1nX3BhdGgoUGF0aChQYXRocy5EYXRhRGlycy5TQU1QTEUpL1BhdGhzLlNBTVBMRV9JTUcpCiAgICBQb3NpeFBhdGgoJ3NyYy90ZXN0cy9sYWJlbC9pVml6VmlkZW9fMTgwNjIwXzE1MTQ1OV9SLTI4MC5wbmcnKQogICAgIiIiCiAgICByZXR1cm4gaW1nX3BhdGgucGFyZW50LnBhcmVudC9MQUJFTF9ESVIvaW1nX3BhdGgubmFtZQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>assert</last-search>
+      <last-search>WHITE</last-search>
       <last-offset />
-      <last-pattern>assert</last-pattern>
+      <last-pattern>WHITE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -135,6 +149,7 @@
       <history-search>
         <entry>frame</entry>
         <entry>assert</entry>
+        <entry>WHITE</entry>
       </history-search>
       <history-cmd />
       <history-expr />
