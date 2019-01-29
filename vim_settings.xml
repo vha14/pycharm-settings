@@ -48,11 +48,11 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_mask.py" timestamp="1548779004668">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="22" />
-        <mark key="^" line="62" column="22" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_mask.py" timestamp="1548780078727">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="79" column="11" />
+        <mark key="^" line="79" column="11" />
+        <mark key="." line="79" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1548698166771">
         <mark key="[" line="16" column="0" />
@@ -108,43 +108,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgIGZpbmRfZnJhbWUoaW1nLm5hbWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGF0aCgpIA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>WHITE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZSA9IGNyb3BfaW1nKGZyYW1lKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYibmFtZToge2ltZ19uYW1lfSwgdHJ1ZToge3RydWVfbGFiZWx9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgIGZpbmRfZnJhbWUoaW1nLm5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhhbGYgPSBsYWJlbF9mcmFtZSAvLyAyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1pbl9pZHggPSAwCg==</text>
+        <text encoding="base64">ICAgIHZhbCwgaWR4ID0gbWluKCh2YWwsIGlkeCkgZm9yIChpZHgsIHZhbCkgaW4gZW51bWVyYXRlKGRpZmZzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5wLmFic29sdXRlKGltZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlmZnMuYXBwZW5kKGRpZmYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1nX25hbWUgPSAnaVZpelZpZGVvXzE4MDYyMF8xNTI4NTZfUi0wOTMucG5nJwo=</text>
+        <text encoding="base64">ICAgICAgICBpZHggKz0gMQo=</text>
       </register>
     </registers>
     <search>
