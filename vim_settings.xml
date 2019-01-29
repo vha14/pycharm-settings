@@ -48,6 +48,12 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_mask.py" timestamp="1548741322695">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="26" column="93" />
+        <mark key="." line="26" column="93" />
+        <mark key="^" line="26" column="93" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1548698166771">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -110,8 +116,8 @@
       <register name="/" type="4">
         <text>WHITE</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2FsbChbJ3hkZy1vcGVuJywgdnBdKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIG1hc2tfY29weSA9IHRlc3RfbWFzay5jb3B5KCkKICAgIHgsIHksIHcsIGggPSBib3VuZF9yZWN0KHRlc3RfbWFzaykKICAgIGN2Mi5yZWN0YW5nbGUobWFza19jb3B5LCAoeCwgeSksICh4ICsgdywgeSArIGgpLCBjb2xvcj0xMjcpCiAgICBoZWlnaHQsIHdpZHRoID0gdGVzdF9tYXNrLnNoYXBlCiAgICBwbG90X2ltZ18yY29scyhbdGVzdF9tYXNrLCBtYXNrX2NvcHldLCBoZWlnaHQsIHdpZHRoLCBwbG90X2ZuPXBvLnBsb3Qp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGFiZWxfcGF0aChpbWcubmFtZSkK</text>
