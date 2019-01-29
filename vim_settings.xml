@@ -90,8 +90,8 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548803178966">
-        <mark key="'" line="188" column="46" />
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548804370718">
+        <mark key="'" line="9" column="16" />
       </file>
       <file name="/test_track" timestamp="1548696063916">
         <mark key="[" line="0" column="0" />
@@ -151,6 +151,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="189" column="37" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="188" column="46" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="128" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="130" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="134" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="137" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="151" column="41" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="8" column="21" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="238" column="28" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -160,7 +169,7 @@
         <text>66</text>
       </register>
       <register name="/" type="4">
-        <text>variance</text>
+        <text>logn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsb3RfdHJhbnModGVzdF9pbWcpCg==</text>
@@ -194,9 +203,9 @@
       </register>
     </registers>
     <search>
-      <last-search>variance</last-search>
+      <last-search>logn</last-search>
       <last-offset />
-      <last-pattern>variance</last-pattern>
+      <last-pattern>logn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,6 +220,11 @@
         <entry>loss</entry>
         <entry>true_loss</entry>
         <entry>variance</entry>
+        <entry>hp</entry>
+        <entry>stochas</entry>
+        <entry>sample</entry>
+        <entry>pyll</entry>
+        <entry>logn</entry>
       </history-search>
       <history-cmd />
       <history-expr />
