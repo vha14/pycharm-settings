@@ -15,6 +15,9 @@
       <file name="/Dummy.txt" timestamp="1548527096290">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1548802692390">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548799286491">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="20" column="56" />
@@ -87,6 +90,9 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548803178966">
+        <mark key="'" line="188" column="46" />
+      </file>
       <file name="/test_track" timestamp="1548696063916">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +147,10 @@
       <jump line="2" column="7" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="3" column="7" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="4" column="7" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="189" column="37" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="188" column="46" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -150,7 +160,7 @@
         <text>66</text>
       </register>
       <register name="/" type="4">
-        <text>plot</text>
+        <text>variance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsb3RfdHJhbnModGVzdF9pbWcpCg==</text>
@@ -184,9 +194,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plot</last-search>
+      <last-search>variance</last-search>
       <last-offset />
-      <last-pattern>plot</last-pattern>
+      <last-pattern>variance</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -197,6 +207,10 @@
         <entry>WHITE</entry>
         <entry>return</entry>
         <entry>plot</entry>
+        <entry>status</entry>
+        <entry>loss</entry>
+        <entry>true_loss</entry>
+        <entry>variance</entry>
       </history-search>
       <history-cmd />
       <history-expr />
