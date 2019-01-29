@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1548655090893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548723292256">
-        <mark key="[" line="140" column="13" />
-        <mark key="]" line="141" column="2" />
-        <mark key="." line="141" column="2" />
-        <mark key="^" line="141" column="2" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548726375942">
+        <mark key="[" line="155" column="48" />
+        <mark key="]" line="155" column="13" />
+        <mark key="." line="155" column="13" />
+        <mark key="^" line="155" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1548527096290">
         <mark key="[" line="0" column="0" />
@@ -101,11 +101,11 @@
       <jump line="76" column="3" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGFiZWxfcGF0aChpbWcubmFtZSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>VID_DIR</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>WHITE</text>
