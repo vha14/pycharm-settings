@@ -19,12 +19,12 @@
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548882073239">
-        <mark key="'" line="4" column="24" />
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="43" column="9" />
-        <mark key="." line="43" column="9" />
-        <mark key="^" line="43" column="9" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548883662002">
+        <mark key="'" line="37" column="50" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="3" />
+        <mark key="^" line="59" column="3" />
+        <mark key="." line="59" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -46,55 +46,57 @@
       <jump line="24" column="28" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="29" column="63" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="31" column="41" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="33" column="35" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="35" column="49" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="4" column="24" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="83" column="16" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="37" column="50" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2V0YXR0cihyZXQsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>clip_limit</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>clip_limit</text>
       </register>
-      <register name="0" type="4">
-        <text>'histogram_equalize_clip_limit'],</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlcm9zaW9uPU5vbmUgaWYgZXJvID09IDAgZWxzZSBibG9iLkVyb3Npb24oCiAgICAgICAgICAgIGtlcm5lbF9zaXplPXNhbXBsZVsnZXJvc2lvbl9rZXJuZWxfc2l6ZSddLAogICAgICAgICAgICBpdGVyYXRpb25zPXNhbXBsZVsnZXJvc2lvbl9pdGVyYXRpb25zJ10KICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0YXR0cihyZXQsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmV0Ll9fZGljdF9fCg==</text>
+        <text encoding="base64">Q29udG91clNldHRpbmdzLl9fZGljdF9fWydfX2RhdGFjbGFzc19maWVsZHNfXyddLmtleXMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cmV0Ll9fZGljdF9fLmtleXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0aWxlPXNhbXBsZVsiaGlzdG9ncmFtX2VxdWFsaXplX2NsaXBfbGltaXQiXSwK</text>
+        <text encoding="base64">aGVfdHlwZS5fX2RpY3RfXy5rZXlzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0ID0gaGVfdHlwZS5fX25ld19fKGhlX3R5cGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoMSA9IHNtcGxlCg==</text>
+        <text encoding="base64">aGVfdHlwZSA9IGJsb2IuSGlzdG9ncmFtRXF1YWxpemUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldCA9IENvbnRvdXJTZXR0aW5ncygK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2VybmVsX3NpemU9c2FtcGxlWydlcm9zaW9uX2tlcm5lbF9zaXplJ10sCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>clip_limit</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>clip_limit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -102,6 +104,8 @@
       <history-search>
         <entry>iterations</entry>
         <entry>default</entry>
+        <entry encoding="base64">XDxmblw+</entry>
+        <entry>clip_limit</entry>
       </history-search>
       <history-cmd />
       <history-expr />
