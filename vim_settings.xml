@@ -93,11 +93,11 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548825645981">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="5" />
-        <mark key="." line="60" column="5" />
-        <mark key="^" line="60" column="5" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548826349397">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="8" />
+        <mark key="." line="56" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548797349749">
         <mark key="[" line="115" column="4" />
@@ -180,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>erosion</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>erosion</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>tpe</text>
