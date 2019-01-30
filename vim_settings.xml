@@ -22,7 +22,7 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="/a.dummy" timestamp="1548701039310">
+      <file name="/a.dummy" timestamp="1548806283745">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1548796110414">
@@ -75,11 +75,11 @@
         <mark key="." line="44" column="25" />
         <mark key="^" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/scratch.py" timestamp="1548806090856">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="23" column="2" />
-        <mark key="^" line="23" column="2" />
-        <mark key="." line="23" column="2" />
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/scratch.py" timestamp="1548806856660">
+        <mark key="[" line="70" column="34" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548799072562">
         <mark key="[" line="21" column="45" />
@@ -93,7 +93,7 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548806076277">
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548806701076">
         <mark key="'" line="211" column="14" />
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="5" />
@@ -170,50 +170,50 @@
       <jump line="211" column="14" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>66</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
       </register>
       <register name="-" type="4">
-        <text>66</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Dataset</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsb3RfdHJhbnModGVzdF9pbWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlbigoMiwgMykpCg==</text>
+        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBpbWcuc2hhcGUK</text>
+        <text encoding="base64">c3MuX19jbGFzc19fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
+        <text encoding="base64">dHlwZShUSFJFU0hPTERfUkFOR0VTKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSAwLCAwCg==</text>
+        <text encoding="base64">ICAgIGxlbigoMiwgMykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBpbWcuc2hhcGUK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBjb2xfcG9zID09IDA6CiAgICAgICAgICAgIGltYWdlcy5hcHBlbmQoCiAgICAgICAgICAgICAgICBnby5sYXlvdXQuSW1hZ2UoCiAgICAgICAgICAgICAgICAgICAgc291cmNlPUltYWdlLmZyb21hcnJheShpbWFnZSksCiAgICAgICAgICAgICAgICAgICAgeD0wLAogICAgICAgICAgICAgICAgICAgIHNpemV4PXdpZHRoLAogICAgICAgICAgICAgICAgICAgIHhyZWY9IngiLAogICAgICAgICAgICAgICAgICAgIHk9cm93X3BvcypoZWlnaHQsCiAgICAgICAgICAgICAgICAgICAgc2l6ZXk9aGVpZ2h0LAogICAgICAgICAgICAgICAgICAgIHlyZWY9InkiKSkKICAgICAgICBlbHNlOg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNudCA9IChsZW4oaW1ncykgKyAxKS8yCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSAwLCAwCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Dataset</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>Dataset</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -235,6 +235,7 @@
         <entry>logn</entry>
         <entry>hp.</entry>
         <entry>Dataset</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd />
       <history-expr />
