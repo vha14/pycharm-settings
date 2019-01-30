@@ -13,18 +13,24 @@
       <file name="/Dummy.txt" timestamp="1548866757141">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1548884046617">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1548883761858">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/interlaced_images.py" timestamp="1548874548387">
         <mark key="[" line="31" column="39" />
         <mark key="]" line="31" column="49" />
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548883662002">
-        <mark key="'" line="37" column="50" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="3" />
-        <mark key="^" line="59" column="3" />
-        <mark key="." line="59" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548884985186">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -46,51 +52,52 @@
       <jump line="24" column="28" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="29" column="63" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="31" column="41" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="35" column="49" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="4" column="24" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="83" column="16" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="33" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="37" column="50" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="35" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>clip_limit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcm9zaW9uPU5vbmUgaWYgZXJvID09IDAgZWxzZSBibG9iLkVyb3Npb24oCiAgICAgICAgICAgIGtlcm5lbF9zaXplPXNhbXBsZVsnZXJvc2lvbl9rZXJuZWxfc2l6ZSddLAogICAgICAgICAgICBpdGVyYXRpb25zPXNhbXBsZVsnZXJvc2lvbl9pdGVyYXRpb25zJ10KICAgICAgICApLAo=</text>
+        <text encoding="base64">Y2xzID0gZGVmYXVsdC5fX2dldGF0dHJpYnV0ZV9fKCdlcm9zaW9uJykuX19jbGFzc19fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YWNsYXNzZXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q29udG91clNldHRpbmdzLl9fZGljdF9fWydfX2RhdGFjbGFzc19maWVsZHNfXyddLmtleXMoKQo=</text>
+        <text encoding="base64">YmxvYi5Fcm9zaW9uKCoqZXJfYXJncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmV0Ll9fZGljdF9fLmtleXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVfdHlwZS5fX2RpY3RfXy5rZXlzKCkK</text>
+        <text encoding="base64">Z2V0YXR0cihkZWZhdWx0LCAnZXJvc2lvbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmV0ID0gaGVfdHlwZS5fX25ld19fKGhlX3R5cGUpCg==</text>
+        <text encoding="base64">Y2xzKCoqZXJfYXJncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGVfdHlwZSA9IGJsb2IuSGlzdG9ncmFtRXF1YWxpemUK</text>
+        <text encoding="base64">ZXJfYXJncyA9IHsnaXRlcmF0aW9ucyc6Mi4wLCAna2VybmVsX3NpemUnOjIuMH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xzID0gZGVmYXVsdC5fX2dldGF0dHJpYnV0ZV9fKCdlcm9zaW9uJykuX19jbGFzc19fCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXJfYXJncyA9IHsnaXRlcmF0aW9ucyc6Mi4wLCAna2VybmVsX3NpemUnOjIuMH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2VybmVsX3NpemU9c2FtcGxlWydlcm9zaW9uX2tlcm5lbF9zaXplJ10sCg==</text>
+        <text encoding="base64">YmxvYi5Db250b3VyU2V0dGluZ3MuX19kaWN0X18K</text>
       </register>
     </registers>
     <search>
