@@ -93,8 +93,8 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548806701076">
-        <mark key="'" line="211" column="14" />
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548820225006">
+        <mark key="'" line="8" column="27" />
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="5" />
         <mark key="^" line="13" column="5" />
@@ -161,13 +161,13 @@
       <jump line="238" column="28" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="151" column="41" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="8" column="21" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="128" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="130" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="134" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="137" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="13" column="20" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="211" column="14" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="8" column="27" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -177,7 +177,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text>tpe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlYXJjaF9zcGFjZSA9IHtrOiBnZXRfc2VhcmNoX3NwYWNlX3ZhbHVlKGssIHYpIGZvciBrLCB2IGluIGluaXRpYWxfcGFyYW1zLml0ZW1zKCl9Cg==</text>
@@ -211,9 +211,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search>tpe</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern>tpe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -236,6 +236,7 @@
         <entry>hp.</entry>
         <entry>Dataset</entry>
         <entry>self</entry>
+        <entry>tpe</entry>
       </history-search>
       <history-cmd />
       <history-expr />
