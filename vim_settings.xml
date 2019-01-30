@@ -44,6 +44,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1548824453692">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548701183947">
         <mark key="'" line="221" column="57" />
         <mark key="[" line="221" column="50" />
@@ -87,24 +93,27 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548824692572">
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="96" />
+        <mark key="." line="8" column="96" />
+        <mark key="^" line="8" column="96" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548797349749">
         <mark key="[" line="115" column="4" />
         <mark key="]" line="121" column="18" />
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548820225006">
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548824554522">
         <mark key="'" line="8" column="27" />
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="42" />
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
       <file name="/test_track" timestamp="1548696063916">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_visualize.py" timestamp="1548639953886">
-        <mark key="'" line="48" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -170,8 +179,8 @@
       <jump line="8" column="27" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, tracker_type='KCF'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, tracker_type='KCF'</text>
@@ -180,34 +189,34 @@
         <text>tpe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0cmFja2luZyBiYWNrd2FyZCIpCg==</text>
+        <text encoding="base64">ZnJvbSBoeXBlcm9wdCBpbXBvcnQgaHAsIHRwZSwgZm1pbiwgVHJpYWxzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdHJhY2sgZm9yd2FyZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHAK</text>
+        <text encoding="base64">ICAgICMgdHJhY2sgZm9yd2FyZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
+        <text encoding="base64">dHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3MuX19jbGFzc19fCg==</text>
+        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">c3MuX19jbGFzc19fCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZShUSFJFU0hPTERfUkFOR0VTKQo=</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxlbigoMiwgMykpCg==</text>
+        <text encoding="base64">dHlwZShUSFJFU0hPTERfUkFOR0VTKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBpbWcuc2hhcGUK</text>
+        <text encoding="base64">ICAgIGxlbigoMiwgMykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBoZWlnaHQqcmF0aW8sIHdpZHRoKnJhdGlvCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBpbWcuc2hhcGUK</text>
       </register>
     </registers>
     <search>
