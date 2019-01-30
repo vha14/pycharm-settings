@@ -81,7 +81,7 @@
         <mark key="." line="44" column="25" />
         <mark key="^" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/scratch.py" timestamp="1548810602979">
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/scratch.py" timestamp="1548825075502">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -93,11 +93,11 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548824692572">
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="8" column="96" />
-        <mark key="." line="8" column="96" />
-        <mark key="^" line="8" column="96" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548825645981">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="5" />
+        <mark key="." line="60" column="5" />
+        <mark key="^" line="60" column="5" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548797349749">
         <mark key="[" line="115" column="4" />
@@ -105,7 +105,7 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548824554522">
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548825142291">
         <mark key="'" line="8" column="27" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="42" />
@@ -179,44 +179,44 @@
       <jump line="8" column="27" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>erosion</text>
       </register>
       <register name="-" type="4">
-        <text>, tracker_type='KCF'</text>
+        <text>erosion</text>
       </register>
       <register name="/" type="4">
         <text>tpe</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBoeXBlcm9wdCBpbXBvcnQgaHAsIHRwZSwgZm1pbiwgVHJpYWxzCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICdlcic6IGhwLmNob2ljZSgnZXInLCBbCiAgICAgICAgRmFsc2UsCiAgICAgICAgewogICAgICAgICAgICAna2VybmVsX3NoYXBlJzogaHAucXVuaWZvcm0oJ2tlcm5lbF9zaGFwZScsIDAsIDIqZGVmYXVsdC5lcm9zaW9uLmtlcm5lbF9zaGFwZVswXSwgMSksCiAgICAgICAgICAgICdpdGVyYXRpb25zJzogaHAucXVuaWZvcm0oJ2l0ZXJhdGlvbnMnLCAwLCAyKmRlZmF1bHQuZXJvc2lvbi5pdGVyYXRpb25zLCAxKQogICAgICAgIH0KICAgIF0pLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2l0ZXJhdGlvbnMnOiBocC5xdW5pZm9ybSgnaXRlcmF0aW9ucycsIDAsIDIqZGVmYXVsdC5lcm9zaW9uLml0ZXJhdGlvbnMsIDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHJhY2sgZm9yd2FyZAo=</text>
+        <text encoding="base64">ICAgICd0aDInOiBocC5jaG9pY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3MuX19jbGFzc19fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICMgdHJhY2sgZm9yd2FyZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZShUSFJFU0hPTERfUkFOR0VTKQo=</text>
+        <text encoding="base64">dHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlbigoMiwgMykpCg==</text>
+        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCwgd2lkdGggPSBpbWcuc2hhcGUK</text>
+        <text encoding="base64">c3MuX19jbGFzc19fCg==</text>
       </register>
     </registers>
     <search>
@@ -269,6 +269,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
