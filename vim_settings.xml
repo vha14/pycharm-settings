@@ -13,10 +13,13 @@
       <file name="/Dummy.txt" timestamp="1548866757141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548885715182">
+      <file name="/Python Console" timestamp="1548890504316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548883761858">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1548889449907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/interlaced_images.py" timestamp="1548874548387">
@@ -25,11 +28,12 @@
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548886635038">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="^" line="37" column="22" />
-        <mark key="." line="45" column="23" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548890373515">
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -57,52 +61,54 @@
       <jump line="37" column="50" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="34" column="11" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="35" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="38" column="26" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>field_name.startswith('threshold'):</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>field_name.startswith('threshold'):</text>
       </register>
       <register name="/" type="4">
-        <text>clip_limit</text>
+        <text>len</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xzID0gZGVmYXVsdC5fX2dldGF0dHJpYnV0ZV9fKCdlcm9zaW9uJykuX19jbGFzc19fCg==</text>
+      <register name="0" type="4">
+        <text>threshold_space(field_name) if field_name.startswith('threshold') else standard_space(field_name, field_value)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlyKGRlZmF1bHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ZGVmYXVsdC5fX2RpY3RfXwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q29udG91clNldHRpbmdzKCoqZGF0YWNsYXNzZXMuYXNkaWN0KGRlZmF1bHQpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFjbGFzc2VzCg==</text>
+        <text encoding="base64">c3BhY2UgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YWNsYXNzZXMuCg==</text>
+        <text encoding="base64">ICAgIHNwYWNlW2ZpZWxkX25hbWVdID0gdGhyZXNob2xkX3NwYWNlKGZpZWxkX25hbWUpIGlmIGZpZWxkX25hbWUuc3RhcnRzd2l0aCgndGhyZXNob2xkJykgZWxzZSBzdGFuZGFyZF9zcGFjZShmaWVsZF9uYW1lLCBmaWVsZF92YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmxvYi5Fcm9zaW9uKCoqZXJfYXJncykK</text>
+        <text encoding="base64">Zm9yIGZpZWxkX25hbWUsIGZpZWxkX3ZhbHVlIGluIGRlZmF1bHQuX19kaWN0X18uaXRlbXMoKToK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>clip_limit</last-search>
+      <last-search>len</last-search>
       <last-offset />
-      <last-pattern>clip_limit</last-pattern>
+      <last-pattern>len</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -112,6 +118,7 @@
         <entry>default</entry>
         <entry encoding="base64">XDxmblw+</entry>
         <entry>clip_limit</entry>
+        <entry>len</entry>
       </history-search>
       <history-cmd />
       <history-expr />
