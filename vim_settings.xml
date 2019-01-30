@@ -19,12 +19,12 @@
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548877275394">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="43" column="72" />
-        <mark key="^" line="43" column="72" />
-        <mark key="." line="43" column="72" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548882073239">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -38,63 +38,70 @@
       <jump line="114" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="164" column="62" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="69" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="22" column="64" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="113" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
       <jump line="41" column="30" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="44" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="13" column="44" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="29" column="63" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="31" column="41" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="33" column="35" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="35" column="49" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="4" column="24" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>blur</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2V0YXR0cihyZXQsICkK</text>
       </register>
       <register name="-" type="4">
-        <text>blur</text>
+        <text>clip_limit</text>
       </register>
       <register name="/" type="4">
-        <text>iterations</text>
+        <text>default</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdibHVyJzogc3RhbmRhcmRfc3BhY2UoJ2JsdXInLCBkZWZhdWx0LmJsdXIpLAo=</text>
+      <register name="0" type="4">
+        <text>'histogram_equalize_clip_limit'],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0YXR0cihyZXQsICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0Ll9fZGljdF9fCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICB0aWxlPXNhbXBsZVsiaGlzdG9ncmFtX2VxdWFsaXplX2NsaXBfbGltaXQiXSwK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">c3BhY2UgPSB7CiAgICAnaGVxJzoKICAgIGhwLmNob2ljZSgnaGVxJywgWwogICAgICAgIE5vbmUsCiAgICAgICAgewogICAgICAgICAgICAnY2xpcF9saW1pdCc6IGhwLnF1bmlmb3JtKCdjbGlwX2xpbWl0JywgMCwgMipkZWZhdWx0Lmhpc3RvZ3JhbV9lcXVhbGl6ZS5jbGlwX2xpbWl0LCAxKSwKICAgICAgICAgICAgJ3RpbGVfZ3JpZF9zaXplJzogaHAucXVuaWZvcm0oJ3RpbGVfZ3JpZF9zaXplJywgMCwgMipkZWZhdWx0Lmhpc3RvZ3JhbV9lcXVhbGl6ZS50aWxlX2dyaWRfc2l6ZSwgMSkKICAgICAgICB9CiAgICBdKSwKICAgICd0aDEnOgogICAgaHAuY2hvaWNlKCd0aDEnLAogICAgICAgICAgICAgIFtOb25lLCB7CiAgICAgICAgICAgICAgICAgICdyYW5nZSc6IGhwLnF1bmlmb3JtKCdyYW5nZTMnLCAwLCBsZW4oVEhSRVNIT0xEX1JBTkdFUyksIDEpLAogICAgICAgICAgICAgICAgICAndHlwZSc6IGRlZmF1bHQudGhyZXNob2xkMS50eXBlCiAgICAgICAgICAgICAgfV0pLAogICAgJ2Vybyc6CiAgICBocC5jaG9pY2UoJ2VybycsIFsKICAgICAgICBOb25lLAogICAgICAgIHsKICAgICAgICAgICAgJ2tlcm5lbF9zaGFwZSc6IGhwLnF1bmlmb3JtKCdrZXJuZWxfc2hhcGUnLCAwLCAyKmRlZmF1bHQuZXJvc2lvbi5rZXJuZWxfc2l6ZSwgMSksCiAgICAgICAgICAgICdpdGVyYXRpb25zJzogaHAucXVuaWZvcm0oJ2l0ZXJhdGlvbnMnLCAwLCAyKmRlZmF1bHQuZXJvc2lvbi5pdGVyYXRpb25zLCAxKQogICAgICAgIH0KICAgIF0pLAogICAgJ3RoMic6CiAgICBocC5jaG9pY2UoJ3RoMicsCiAgICAgICAgICAgICAgW05vbmUsIHsKICAgICAgICAgICAgICAgICAgJ3JhbmdlJzogaHAucXVuaWZvcm0oJ3JhbmdlJywgMCwgbGVuKFRIUkVTSE9MRF9SQU5HRVMpLCAxKSwKICAgICAgICAgICAgICAgICAgJ3R5cGUnOiBkZWZhdWx0LnRocmVzaG9sZDIudHlwZQogICAgICAgICAgICAgIH1dKSwKICAgICdibHUnOgogICAgaHAuY2hvaWNlKCdibHUnLCBbTm9uZSwgewogICAgICAgICdrc2l6ZSc6IGhwLnF1bmlmb3JtKCdrc2l6ZScsIDAsIDIqZGVmYXVsdC5ibHVyLmtzaXplLCAxKQogICAgfV0pLAogICAgJ3RoMyc6CiAgICBocC5jaG9pY2UoJ3RoMycsCiAgICAgICAgICAgICAgW05vbmUsIHsKICAgICAgICAgICAgICAgICAgJ3JhbmdlJzogaHAucXVuaWZvcm0oJ3JhbmdlMicsIDAsIGxlbihUSFJFU0hPTERfUkFOR0VTKSwgMSksCiAgICAgICAgICAgICAgICAgICd0eXBlJzogZGVmYXVsdC50aHJlc2hvbGQzLnR5cGUKICAgICAgICAgICAgICB9XSksCiAgICAnbW9yJzoKICAgIGhwLmNob2ljZSgnbW9yJywgWwogICAgICAgIE5vbmUsCiAgICAgICAgewogICAgICAgICAgICAnc2hhcGUnOiBocC5xdW5pZm9ybSgnc2hhcGUnLCAwLCAyKmRlZmF1bHQuZmluYWxfbW9ycGgua2VybmVsX3NpemUsIDEpLAogICAgICAgICAgICAnaXRlcmF0aW9ucyc6IGhwLnF1bmlmb3JtKCdpdGVyYXRpb25zMicsIDAsIDIqZGVmYXVsdC5maW5hbF9tb3JwaC5pdGVyYXRpb25zLCAxKQogICAgICAgIH0KICAgIF0pCn0K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">c3BhY2UgPSB7CiAgICAnaGVxJzoKICAgIGhwLmNob2ljZSgnaGVxJywgWwogICAgICAgIE5vbmUsCiAgICAgICAgewogICAgICAgICAgICAnY2xpcF9saW1pdCc6IGhwLnF1bmlmb3JtKCdjbGlwX2xpbWl0JywgMCwgMipkZWZhdWx0Lmhpc3RvZ3JhbV9lcXVhbGl6ZS5jbGlwX2xpbWl0LCAxKSwKICAgICAgICAgICAgJ3RpbGVfZ3JpZF9zaXplJzogaHAucXVuaWZvcm0oJ3RpbGVfZ3JpZF9zaXplJywgMCwgMipkZWZhdWx0Lmhpc3RvZ3JhbV9lcXVhbGl6ZS50aWxlX2dyaWRfc2l6ZSwgMSkKICAgICAgICB9CiAgICBdKSwKICAgICd0aDEnOgogICAgaHAuY2hvaWNlKCd0aDEnLAogICAgICAgICAgICAgIFtOb25lLCB7CiAgICAgICAgICAgICAgICAgICdyYW5nZSc6IGhwLnF1bmlmb3JtKCdyYW5nZTMnLCAwLCBsZW4oVEhSRVNIT0xEX1JBTkdFUyksIDEpLAogICAgICAgICAgICAgICAgICAndHlwZSc6IGRlZmF1bHQudGhyZXNob2xkMS50eXBlCiAgICAgICAgICAgICAgfV0pLAogICAgJ2Vybyc6CiAgICBocC5jaG9pY2UoJ2VybycsIFsKICAgICAgICBOb25lLAogICAgICAgIHsKICAgICAgICAgICAgJ2tlcm5lbF9zaGFwZSc6IGhwLnF1bmlmb3JtKCdrZXJuZWxfc2hhcGUnLCAwLCAyKmRlZmF1bHQuZXJvc2lvbi5rZXJuZWxfc2l6ZSwgMSksCiAgICAgICAgICAgICdpdGVyYXRpb25zJzogaHAucXVuaWZvcm0oJ2l0ZXJhdGlvbnMnLCAwLCAyKmRlZmF1bHQuZXJvc2lvbi5pdGVyYXRpb25zLCAxKQogICAgICAgIH0KICAgIF0pLAogICAgJ3RoMic6CiAgICBocC5jaG9pY2UoJ3RoMicsCiAgICAgICAgICAgICAgW05vbmUsIHsKICAgICAgICAgICAgICAgICAgJ3JhbmdlJzogaHAucXVuaWZvcm0oJ3JhbmdlJywgMCwgbGVuKFRIUkVTSE9MRF9SQU5HRVMpLCAxKSwKICAgICAgICAgICAgICAgICAgJ3R5cGUnOiBkZWZhdWx0LnRocmVzaG9sZDIudHlwZQogICAgICAgICAgICAgIH1dKSwKICAgICdibHUnOgogICAgaHAuY2hvaWNlKCdibHUnLCBbTm9uZSwgewogICAgICAgICdrc2l6ZSc6IGhwLnF1bmlmb3JtKCdrc2l6ZScsIDAsIDIqZGVmYXVsdC5ibHVyLmtzaXplLCAxKQogICAgfV0pLAogICAgJ3RoMyc6CiAgICBocC5jaG9pY2UoJ3RoMycsCiAgICAgICAgICAgICAgW05vbmUsIHsKICAgICAgICAgICAgICAgICAgJ3JhbmdlJzogaHAucXVuaWZvcm0oJ3JhbmdlMicsIDAsIGxlbihUSFJFU0hPTERfUkFOR0VTKSwgMSksCiAgICAgICAgICAgICAgICAgICd0eXBlJzogZGVmYXVsdC50aHJlc2hvbGQzLnR5cGUKICAgICAgICAgICAgICB9XSksCiAgICAnbW9yJzoKICAgIGhwLmNob2ljZSgnbW9yJywgWwogICAgICAgIE5vbmUsCiAgICAgICAgewogICAgICAgICAgICAnc2hhcGUnOiBocC5xdW5pZm9ybSgnc2hhcGUnLCAwLCAyKmRlZmF1bHQuZmluYWxfbW9ycGgua2VybmVsX3NpemUsIDEpLAogICAgICAgICAgICAnaXRlcmF0aW9ucyc6IGhwLnF1bmlmb3JtKCdpdGVyYXRpb25zMicsIDAsIDIqZGVmYXVsdC5maW5hbF9tb3JwaC5pdGVyYXRpb25zLCAxKQogICAgICAgIH0KICAgIF0pCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoMSA9IHNtcGxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldCA9IENvbnRvdXJTZXR0aW5ncygK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vID0gc3RhbmRhcmRfc3BhY2UoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>iterations</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>iterations</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>iterations</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd />
       <history-expr />
