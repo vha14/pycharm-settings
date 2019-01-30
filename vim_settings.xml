@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1548655090893">
+      <file name="/start_script.py" timestamp="1548806128092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548797449031">
@@ -13,9 +13,6 @@
         <mark key="." line="19" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1548527096290">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1548802692390">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1548799286491">
@@ -78,6 +75,12 @@
         <mark key="." line="44" column="25" />
         <mark key="^" line="44" column="23" />
       </file>
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/scratch.py" timestamp="1548806090856">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1548799072562">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="22" column="9" />
@@ -90,8 +93,12 @@
         <mark key="." line="121" column="18" />
         <mark key="^" line="121" column="18" />
       </file>
-      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548804370718">
-        <mark key="'" line="9" column="16" />
+      <file name="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" timestamp="1548806076277">
+        <mark key="'" line="211" column="14" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
       </file>
       <file name="/test_track" timestamp="1548696063916">
         <mark key="[" line="0" column="0" />
@@ -148,18 +155,19 @@
       <jump line="3" column="7" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="4" column="7" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="54" column="12" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="189" column="37" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="188" column="46" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="13" column="12" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="238" column="28" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="151" column="41" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="8" column="21" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="128" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="130" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="134" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
       <jump line="137" column="23" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="151" column="41" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="8" column="21" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="238" column="28" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
-      <jump line="9" column="16" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
+      <jump line="211" column="14" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -169,7 +177,7 @@
         <text>66</text>
       </register>
       <register name="/" type="4">
-        <text>logn</text>
+        <text>Dataset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsb3RfdHJhbnModGVzdF9pbWcpCg==</text>
@@ -203,9 +211,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logn</last-search>
+      <last-search>Dataset</last-search>
       <last-offset />
-      <last-pattern>logn</last-pattern>
+      <last-pattern>Dataset</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -225,6 +233,8 @@
         <entry>sample</entry>
         <entry>pyll</entry>
         <entry>logn</entry>
+        <entry>hp.</entry>
+        <entry>Dataset</entry>
       </history-search>
       <history-cmd />
       <history-expr />
