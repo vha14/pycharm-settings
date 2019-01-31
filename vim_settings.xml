@@ -3,17 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1548960247852">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1548962826092" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548963196361">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
+        <mark key="[" line="33" column="83" />
+        <mark key="]" line="34" column="46" />
+        <mark key="^" line="34" column="46" />
+        <mark key="." line="34" column="46" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBUaGlzIHMK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBUaGlzIHMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgVGhpcyBzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KGltZy5zaGFwZSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIGZuYW1lLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIGZuYW1lLmVuZHMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">U0VDT05EX0JBVENIID0gJy4vZGF0YS9yYXcvc2Vjb25kX2JhdGNoJwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
