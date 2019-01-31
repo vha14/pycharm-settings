@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1548806128092">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/test_hyperopt" timestamp="1548901124115">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1548823755116">
         <mark key="[" line="119" column="83" />
         <mark key="]" line="119" column="83" />
@@ -93,11 +96,11 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548826349397">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="8" />
-        <mark key="." line="56" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1548901192189">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548797349749">
         <mark key="[" line="115" column="4" />
@@ -112,7 +115,7 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="/test_track" timestamp="1548696063916">
+      <file name="/test_track" timestamp="1548900552589">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -179,11 +182,11 @@
       <jump line="8" column="27" filename="$USER_HOME$/work/sonosite/src/OpenCV/optimizer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>field_name</text>
       </register>
       <register name="/" type="4">
         <text>tpe</text>
@@ -192,31 +195,31 @@
         <text encoding="base64">ICAgICdlcic6IGhwLmNob2ljZSgnZXInLCBbCiAgICAgICAgRmFsc2UsCiAgICAgICAgewogICAgICAgICAgICAna2VybmVsX3NoYXBlJzogaHAucXVuaWZvcm0oJ2tlcm5lbF9zaGFwZScsIDAsIDIqZGVmYXVsdC5lcm9zaW9uLmtlcm5lbF9zaGFwZVswXSwgMSksCiAgICAgICAgICAgICdpdGVyYXRpb25zJzogaHAucXVuaWZvcm0oJ2l0ZXJhdGlvbnMnLCAwLCAyKmRlZmF1bHQuZXJvc2lvbi5pdGVyYXRpb25zLCAxKQogICAgICAgIH0KICAgIF0pLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2l0ZXJhdGlvbnMnOiBocC5xdW5pZm9ybSgnaXRlcmF0aW9ucycsIDAsIDIqZGVmYXVsdC5lcm9zaW9uLml0ZXJhdGlvbnMsIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICd0aDInOiBocC5jaG9pY2UK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c3BhY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BhY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2l0ZXJhdGlvbnMnOiBocC5xdW5pZm9ybSgnaXRlcmF0aW9ucycsIDAsIDIqZGVmYXVsdC5lcm9zaW9uLml0ZXJhdGlvbnMsIDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdHJhY2sgZm9yd2FyZAo=</text>
+        <text encoding="base64">ICAgICd0aDInOiBocC5jaG9pY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHAuX19jbGFzc19fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3MuX19jbGFzc19fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
