@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548885709204">
-        <mark key="'" line="113" column="4" />
-        <mark key="[" line="122" column="51" />
-        <mark key="]" line="127" column="41" />
-        <mark key="." line="122" column="57" />
-        <mark key="^" line="127" column="41" />
-      </file>
       <file name="/Dummy.txt" timestamp="1548866757141">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,13 +12,30 @@
       <file name="/fragment.py" timestamp="1548883761858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1549044381214">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1549044472036">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549044548835">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548885709204">
+        <mark key="'" line="113" column="4" />
+        <mark key="[" line="122" column="51" />
+        <mark key="]" line="127" column="41" />
+        <mark key="." line="122" column="57" />
+        <mark key="^" line="127" column="41" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1549042376552">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1548889449907">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/interlaced_images.py" timestamp="1548874548387">
         <mark key="[" line="31" column="39" />
@@ -33,11 +43,11 @@
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549042936210">
-        <mark key="[" line="33" column="50" />
-        <mark key="]" line="33" column="52" />
-        <mark key="." line="33" column="52" />
-        <mark key="^" line="33" column="52" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549044401140">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -70,16 +80,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>interactive_mode()</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>interactive_mode()</text>
       </register>
       <register name="/" type="4">
         <text>len</text>
       </register>
       <register name="0" type="4">
-        <text>threshold_space(field_name) if field_name.startswith('threshold') else standard_space(field_name, field_value)</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgppbXBvcnQgY3YyCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSBvcGVuY3YuY29tbW9uIGltcG9ydCBQYXRocywgY3ZpbXJlYWQKZnJvbSB0ZXN0cy5vcGVuY3YudXRpbHMgaW1wb3J0IHBsb3RfaW1nX25jb2xzLCBpbnRlcmFjdGl2ZV9tb2RlCgppZiBpbnRlcmFjdGl2ZV9tb2RlKCk6CiAgICBzaGFwZXMgPSBkZWZhdWx0ZGljdChsaXN0KQoKICAgIGZvciBmbmFtZSBpbiBQYXRoKFBhdGhzLkRhdGFEaXJzLlNFQ09ORF9CQVRDSF9SQVcpLmdsb2IoJyouanBnJyk6CiAgICAgICAgaW1nID0gY3ZpbXJlYWQoZm5hbWUpCiAgICAgICAgc2hhcGVzW2ltZy5zaGFwZV0uYXBwZW5kKGZuYW1lKQoKICAgIGZvciBzaGFwZSwgbmFtZXMgaW4gc2hhcGVzLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiJ7c2hhcGV9OiB7bGVuKG5hbWVzKX0iKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IiIiCkNvbnZlbnRpb25zOiBlYWNoIGRhdGFzZXQgaGFzIGltZywgbGFiZWwsIGFuZCB2aWQgc3ViZGlyZWN0b3JpZXMKICAgIGltZzogZGlyZWN0b3J5IG9mIGltYWdlcy9mcmFtZXMKICAgIGxhYmVsOiBkaXJlY3Rvcnkgb2YgbGFiZWxzIG1hc2tzIChuYW1lcyBhcmUgdGhlIHNhbWUgYXMgaW4gaW1nIGRpcmVjdG9yeSkKICAgIHZpZDogdmlkZW9zCiIiIgo=</text>
