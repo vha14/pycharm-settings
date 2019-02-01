@@ -3,203 +3,76 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1549049902661">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1548962826092" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548974857625">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
-      <file name="/process_second_batch" timestamp="1549045383504">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/ai2website/app/html/incubator.html" timestamp="1548975299517">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="248" column="685" />
+        <mark key="." line="167" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1549057077317">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-      </file>
-      <file name="/a.dummy" timestamp="1549044381214">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1549046611907">
-        <mark key="[" line="8" column="78" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_overview.py" timestamp="1549051730568">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="92" />
-        <mark key="." line="16" column="92" />
-        <mark key="^" line="16" column="92" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/mask.py" timestamp="1549057493529">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="83" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549045644849">
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="1" column="63" />
-        <mark key="^" line="1" column="63" />
-        <mark key="." line="1" column="63" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548885709204">
-        <mark key="'" line="113" column="4" />
-        <mark key="[" line="122" column="51" />
-        <mark key="]" line="127" column="41" />
-        <mark key="." line="122" column="57" />
-        <mark key="^" line="127" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_mask.py" timestamp="1549057532249">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="12" />
-        <mark key="^" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1549042376552">
-        <mark key="[" line="46" column="14" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/interlaced_images.py" timestamp="1548874548387">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="49" />
-        <mark key="^" line="31" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1549046778771">
-        <mark key="[" line="68" column="92" />
-        <mark key="]" line="69" column="26" />
-        <mark key="^" line="69" column="26" />
-        <mark key="." line="69" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1549046596992">
-        <mark key="[" line="57" column="41" />
-        <mark key="]" line="57" column="77" />
-        <mark key="^" line="57" column="77" />
-        <mark key="." line="57" column="77" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549050826652">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="78" column="52" />
-        <mark key="]" line="78" column="81" />
-        <mark key="^" line="78" column="81" />
-        <mark key="." line="78" column="81" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549047023902">
-        <mark key="'" line="69" column="6" />
-        <mark key="[" line="157" column="27" />
-        <mark key="]" line="157" column="35" />
-        <mark key="." line="157" column="35" />
-        <mark key="^" line="157" column="35" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
+        <mark key="[" line="33" column="83" />
+        <mark key="]" line="34" column="46" />
+        <mark key="^" line="34" column="46" />
+        <mark key="." line="34" column="46" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="83" column="20" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="2" column="8" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="32" column="73" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="56" column="13" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
-      <jump line="164" column="62" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="22" column="64" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="113" column="4" filename="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" />
-      <jump line="41" column="30" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="13" column="44" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="24" column="28" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="29" column="63" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="31" column="41" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="4" column="24" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="83" column="16" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="37" column="50" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="34" column="11" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="35" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="38" column="26" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="19" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="69" column="6" filename="$USER_HOME$/work/piv/modeling/src/opencv/common.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF8sIGNvbnRvdXJzLCBfID0gY3YyLmZpbmRDb250b3VycyhtYXNrLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-      <register name="/" type="4">
-        <text>len</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIF8sIGNvbnRvdXJzLCBfID0gY3YyLmZpbmRDb250b3VycyhtYXNrLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgIDxsaT4KICAgICAgICA8aW1nIGNsYXNzPSJpbmN1YmF0b3JfX3RlYW1fX2xpc3RfX3Bob3RvIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgc3JjPSJ7e2NhY2hlLWJyZWFrOi4uL2ltYWdlcy9pbmN1YmF0b3IvZW1hZC5qcGd9fSIgYWx0PSJFbWFkIEVsd2FueSdzIFByb2ZpbGUgUGhvdG8iPgogICAgICAgIDxoMyBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19uYW1lIj5FbWFkIEVsd2FueTwvaDM+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJpbmN1YmF0b3JfX3RlYW1fX2xpc3RfX3RpdGxlIj5DVE8gaW4gUmVzaWRlbmNlPC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzPSJpbmN1YmF0b3JfX3RlYW1fX2xpc3RfX2Rlc2MiPgogICAgICAgICAgICBFbWFkIGlzIGEgQ1RPLWluLVJlc2lkZW5jZSBhdCB0aGUgQWxsZW4gSW5zdGl0dXRlIGZvciBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBJbmN1YmF0b3IuIEhlIHJlY2VpdmVkIGhpcyBNYXN0ZXLigJlzIGRlZ3JlZSBpbiBDb21wdXRlciBTY2llbmNlIGZyb20gU3RhbmZvcmQgVW5pdmVyc2l0eSBhbmQgaGlzIEJhY2hlbG9y4oCZcyBkZWdyZWUgaW4gQ29tcHV0ZXIgRW5naW5lZXJpbmcgZnJvbSBBbGV4YW5kcmlhIFVuaXZlcnNpdHkgaW4gRWd5cHQuIEhlIGhhcyBtb3JlIHRoYW4gYSBkZWNhZGUgb2YgaW5kdXN0cnkgZXhwZXJpZW5jZSBpbiBidWlsZGluZyBzb2Z0d2FyZSBhbmQgbGVhZGluZyBlbmdpbmVlcmluZyB0ZWFtcy4gRW1hZOKAmXMgYXJlYSBvZiBpbnRlcmVzdHMgYXJlIG1hY2hpbmUgbGVhcm5pbmcsIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIGFuZCBkaXN0cmlidXRlZCBzeXN0ZW1zLiBCZXNpZGVzIGVuZ2luZWVyaW5nLCBFbWFkIGVuam95cyBiZWluZyBvdXRkb29ycyB3aXRoIGhpcyBmYW1pbHkgYW5kIGZyaWVuZHMsIHBsYXlpbmcgYmFzcyBndWl0YXIsIHRyYXZlbGluZyBhbmQgcmVhZGluZy4KICAgICAgICA8L2Rpdj4KICAgICAgPC9saT4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICAgIDxpbWcgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fcGhvdG8iIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzcmM9Int7Y2FjaGUtYnJlYWs6Li4vaW1hZ2VzL2luY3ViYXRvci9sYXVyZW5rLmpwZ319IiBhbHQ9IkxhdXJlbiBLcmFpbnNraSdzIFByb2ZpbGUgUGhvdG8iPgogICAgICAgIDxoMyBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19uYW1lIj5MYXVyZW4gS3JhaW5za2k8L2gzPgogICAgICAgIDxsYWJlbCBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X190aXRsZSI+SW5jdWJhdG9yIFRlYW08L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fZGVzYyI+CiAgICAgICAgICAgIExhdXJlbiBoYXMgZWlnaHQgeWVhcnMgb2YgdGVjaG5pY2FsLCBzdHJhdGVneSwgYW5kIG1hcmtldGluZyBjb25zdWx0aW5nIGV4cGVyaWVuY2Ugd29ya2luZyBmb3IgYm90aCBlbnRlcnByaXNlcyBhbmQgc3RhcnQtdXBzLiBTaGUgaGFzIGFuIE1CQSBmcm9tIHRoZSBVVyBGb3N0ZXIgU2Nob29sIG9mIEJ1c2luZXNzLCB3aGVyZSBzaGUgY29uY2VudHJhdGVkIG9uIEVudHJlcHJlbmV1cnNoaXAgYW5kIEFuYWx5dGljcy4KICAgICAgICA8L2Rpdj4KICAgICAgPC9saT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICAgIDxpbWcgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fcGhvdG8iIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzcmM9Int7Y2FjaGUtYnJlYWs6Li4vaW1hZ2VzL2luY3ViYXRvci9mb3J0aWVyLmpwZ319IiBhbHQ9IlN0ZXdhcnQgRm9ydGllcidzIFByb2ZpbGUgUGhvdG8iPgogICAgICAgIDxoMyBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19uYW1lIj5TdGV3YXJ0IEZvcnRpZXI8L2gzPgogICAgICAgIDxsYWJlbCBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X190aXRsZSI+Q1RPIGluIFJlc2lkZW5jZTwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19kZXNjIj4KICAgICAgICAgICAgU3Rld2FydCBGb3J0aWVyIGlzIGFuIGVudHJlcHJlbmV1ciBhbmQgYW5nZWwgaW52ZXN0b3IuIEhlIHNlcnZlZCBhcyB0aGUgY28tZm91bmRlciAmYW1wOyBDVE8gYXQgTWFzc1Jvb3RzCiAgICAgICAgICAgIChub3cgYSBwdWJsaWMgY29tcGFueSkgYW5kIGhhcyBpbnZlc3RlZCBpbiBvciBhZHZpc2VkIG92ZXIgYSBkb3plbiBzdGFydHVwcywgcHJpbWFyaWx5IGluIHRoZSBTZWF0dGxlCiAgICAgICAgICAgIGFuZCBCYXkgYXJlYXMuIEhlIGhhcyBidWlsdCBhbmQgbGVkIHdvcmxkLWNsYXNzIGVuZ2luZWVyaW5nIHRlYW1zIGZyb20gdGhlIGZpcnN0IGxpbmUgb2YgY29kZSB0aHJvdWdoCiAgICAgICAgICAgIGEgc3VjY2Vzc2Z1bCBleGl0LgogICAgICAgIDwvZGl2PgogICAgICA8L2xpPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICAgIDxpbWcgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fcGhvdG8iIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzcmM9Int7Y2FjaGUtYnJlYWs6Li4vaW1hZ2VzL2luY3ViYXRvci9sYXVyZW5rLmpwZ319IiBhbHQ9IkxhdXJlbiBLcmFpbnNraSdzIFByb2ZpbGUgUGhvdG8iPgogICAgICAgIDxoMyBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19uYW1lIj5MYXVyZW4gS3JhaW5za2k8L2gzPgogICAgICAgIDxsYWJlbCBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X190aXRsZSI+SW5jdWJhdG9yIFRlYW08L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fZGVzYyI+CiAgICAgICAgICAgIExhdXJlbiBoYXMgZWlnaHQgeWVhcnMgb2YgdGVjaG5pY2FsLCBzdHJhdGVneSwgYW5kIG1hcmtldGluZyBjb25zdWx0aW5nIGV4cGVyaWVuY2Ugd29ya2luZyBmb3IgYm90aCBlbnRlcnByaXNlcyBhbmQgc3RhcnQtdXBzLiBTaGUgaGFzIGFuIE1CQSBmcm9tIHRoZSBVVyBGb3N0ZXIgU2Nob29sIG9mIEJ1c2luZXNzLCB3aGVyZSBzaGUgY29uY2VudHJhdGVkIG9uIEVudHJlcHJlbmV1cnNoaXAgYW5kIEFuYWx5dGljcy4KICAgICAgICA8L2Rpdj4KICAgICAgPC9saT4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICAgIDxpbWcgY2xhc3M9ImluY3ViYXRvcl9fdGVhbV9fbGlzdF9fcGhvdG8iIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzcmM9Int7Y2FjaGUtYnJlYWs6Li4vaW1hZ2VzL2luY3ViYXRvci9mb3J0aWVyLmpwZ319IiBhbHQ9IlN0ZXdhcnQgRm9ydGllcidzIFByb2ZpbGUgUGhvdG8iPgogICAgICAgIDxoMyBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19uYW1lIj5TdGV3YXJ0IEZvcnRpZXI8L2gzPgogICAgICAgIDxsYWJlbCBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X190aXRsZSI+Q1RPIGluIFJlc2lkZW5jZTwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iaW5jdWJhdG9yX190ZWFtX19saXN0X19kZXNjIj4KICAgICAgICAgICAgU3Rld2FydCBGb3J0aWVyIGlzIGFuIGVudHJlcHJlbmV1ciBhbmQgYW5nZWwgaW52ZXN0b3IuIEhlIHNlcnZlZCBhcyB0aGUgY28tZm91bmRlciAmYW1wOyBDVE8gYXQgTWFzc1Jvb3RzCiAgICAgICAgICAgIChub3cgYSBwdWJsaWMgY29tcGFueSkgYW5kIGhhcyBpbnZlc3RlZCBpbiBvciBhZHZpc2VkIG92ZXIgYSBkb3plbiBzdGFydHVwcywgcHJpbWFyaWx5IGluIHRoZSBTZWF0dGxlCiAgICAgICAgICAgIGFuZCBCYXkgYXJlYXMuIEhlIGhhcyBidWlsdCBhbmQgbGVkIHdvcmxkLWNsYXNzIGVuZ2luZWVyaW5nIHRlYW1zIGZyb20gdGhlIGZpcnN0IGxpbmUgb2YgY29kZSB0aHJvdWdoCiAgICAgICAgICAgIGEgc3VjY2Vzc2Z1bCBleGl0LgogICAgICAgIDwvZGl2PgogICAgICA8L2xpPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBUaGlzIHMK</text>
+      </register>
+      <register name="-" type="4">
+        <text>Emad is a CTO-in-Residence at the Allen Institute for Artificial Intelligence Incubator. He received his Master’s degree in Computer Science from Stanford University and his Bachelor’s degree in Computer Engineering from Alexandria University in Egypt. He has more than a decade of industry experience in building software and leading engineering teams. Emad’s area of interests are machine learning, artificial intelligence and distributed systems. Besides engineering, Emad enjoys being outdoors with his family and friends, playing bass guitar, traveling and reading.</text>
       </register>
     </registers>
     <search>
-      <last-search>len</last-search>
-      <last-offset />
-      <last-pattern>len</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>iterations</entry>
-        <entry>default</entry>
-        <entry encoding="base64">XDxmblw+</entry>
-        <entry>clip_limit</entry>
-        <entry>len</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
