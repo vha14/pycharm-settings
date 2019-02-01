@@ -19,6 +19,11 @@
       <file name="/fragment.py" timestamp="1548883761858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1549042376552">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1548889449907">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,6 +32,12 @@
         <mark key="]" line="31" column="49" />
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549042936210">
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="33" column="52" />
+        <mark key="." line="33" column="52" />
+        <mark key="^" line="33" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -59,10 +70,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>field_name.startswith('threshold'):</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>field_name.startswith('threshold'):</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>len</text>
@@ -70,32 +81,32 @@
       <register name="0" type="4">
         <text>threshold_space(field_name) if field_name.startswith('threshold') else standard_space(field_name, field_value)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IiIiCkNvbnZlbnRpb25zOiBlYWNoIGRhdGFzZXQgaGFzIGltZywgbGFiZWwsIGFuZCB2aWQgc3ViZGlyZWN0b3JpZXMKICAgIGltZzogZGlyZWN0b3J5IG9mIGltYWdlcy9mcmFtZXMKICAgIGxhYmVsOiBkaXJlY3Rvcnkgb2YgbGFiZWxzIG1hc2tzIChuYW1lcyBhcmUgdGhlIHNhbWUgYXMgaW4gaW1nIGRpcmVjdG9yeSkKICAgIHZpZDogdmlkZW9zCiIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlyKGRlZmF1bHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmYXVsdC5fX2RpY3RfXwo=</text>
+        <text encoding="base64">ZGlyKGRlZmF1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmYXVsdC5fX2RpY3RfXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3BhY2UgPSB7fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNwYWNlW2ZpZWxkX25hbWVdID0gdGhyZXNob2xkX3NwYWNlKGZpZWxkX25hbWUpIGlmIGZpZWxkX25hbWUuc3RhcnRzd2l0aCgndGhyZXNob2xkJykgZWxzZSBzdGFuZGFyZF9zcGFjZShmaWVsZF9uYW1lLCBmaWVsZF92YWx1ZSkK</text>
+        <text encoding="base64">c3BhY2UgPSB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGZpZWxkX25hbWUsIGZpZWxkX3ZhbHVlIGluIGRlZmF1bHQuX19kaWN0X18uaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgIHNwYWNlW2ZpZWxkX25hbWVdID0gdGhyZXNob2xkX3NwYWNlKGZpZWxkX25hbWUpIGlmIGZpZWxkX25hbWUuc3RhcnRzd2l0aCgndGhyZXNob2xkJykgZWxzZSBzdGFuZGFyZF9zcGFjZShmaWVsZF9uYW1lLCBmaWVsZF92YWx1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGZpZWxkX25hbWUsIGZpZWxkX3ZhbHVlIGluIGRlZmF1bHQuX19kaWN0X18uaXRlbXMoKToK</text>
       </register>
     </registers>
     <search>
