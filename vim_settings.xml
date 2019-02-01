@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548992360057">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548994758597">
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="52" column="5" />
+        <mark key="^" line="52" column="5" />
+        <mark key="." line="52" column="5" />
       </file>
       <file name="$USER_HOME$/work/ai2website/app/html/incubator.html" timestamp="1548975299517">
         <mark key="[" line="167" column="0" />
@@ -30,35 +30,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[img, mask]</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZ3MuYXBwZW5kKCkK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAoNDc2LCA4NzgpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9pbnRzID0gZm9vWydzaGFwZXMnXVswXVsncG9pbnRzJ10K</text>
+        <text encoding="base64">IyAoNjA1LCA4ODEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1nLnNoYXBlCg==</text>
+        <text encoding="base64">IyBUaGUgYmVsb3cgc2hvdWxkIHByb2R1Y2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGxvdF9pbWdfbmNvbHMoW2ltZ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1nID0gY3ZpbXJlYWQoajEud2l0aF9zdWZmaXgoJy5qcGcnKSkK</text>
+        <text encoding="base64">ICAgIGltZ3MuYXBwZW5kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vWydpbWFnZVBhdGgnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9vWydmaWxsQ29sb3InXQo=</text>
+        <text encoding="base64">cG9pbnRzID0gZm9vWydzaGFwZXMnXVswXVsncG9pbnRzJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>[img, mask]</text>
+        <text>name</text>
       </register>
     </registers>
     <search>
@@ -72,6 +72,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
