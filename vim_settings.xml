@@ -33,6 +33,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549063671695">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="82" column="29" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
         <mark key="[" line="33" column="83" />
         <mark key="]" line="34" column="46" />
@@ -52,34 +58,34 @@
         <text encoding="base64">ICAgICAgICBfLCBsYWJlbF9pbV9jb250b3VycywgXyA9IGN2Mi5maW5kQ29udG91cnMoaW1nX2xhYmVsLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsb3RfaW1nX21hc2soWydpVml6VmlkZW9fMTgwNzE3XzExNDIxNV9SLTA1MS5qcGcnXSwgZGF0YV9kaXI9UGF0aHMuRGF0YURpcnMuU0VDT05EX0JBVENIKQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cG9pbnRzID0gbnAuYXJyYXkocG9pbnRzLCAnaW50MzInKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFzazIuc3VtKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWFzay5zdW0oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bnAuYXJyYXlfZXF1YWwobWFzaywgbWFzazIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBsb2dnaW5nCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBsb3RfaW1nX21hc2soWydpVml6VmlkZW9fMTgwNzE3XzExNDIxNV9SLTA1MS5qcGcnXSwgZGF0YV9kaXI9UGF0aHMuRGF0YURpcnMuU0VDT05EX0JBVENIKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cG9pbnRzID0gbnAuYXJyYXkocG9pbnRzLCAnaW50MzInKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bWFzazIuc3VtKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bWFzay5zdW0oKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3YyLmZpbGxDb252ZXhQb2x5KG1hc2syLCBucC5hcnJheShwb2ludHMpLCAyNTUpCg==</text>
+        <text encoding="base64">bnAuYXJyYXlfZXF1YWwobWFzaywgbWFzazIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cG9pbnRzLl9fY2xhc3NfXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cG9pbnRzLnNoYXBlCg==</text>
+        <text encoding="base64">Y3YyLmZpbGxDb252ZXhQb2x5KG1hc2syLCBucC5hcnJheShwb2ludHMpLCAyNTUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
