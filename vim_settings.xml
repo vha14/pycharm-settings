@@ -9,8 +9,10 @@
       <file name="/process_second_batch" timestamp="1549045383504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1549051510558">
+      <file name="/fragment.py" timestamp="1549057077317">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1549044381214">
         <mark key="[" line="0" column="0" />
@@ -27,6 +29,10 @@
         <mark key="." line="16" column="92" />
         <mark key="^" line="16" column="92" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/mask.py" timestamp="1549057493529">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="83" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549045644849">
         <mark key="[" line="1" column="63" />
         <mark key="]" line="1" column="63" />
@@ -39,6 +45,12 @@
         <mark key="]" line="127" column="41" />
         <mark key="." line="122" column="57" />
         <mark key="^" line="127" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_mask.py" timestamp="1549057532249">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/dataset.py" timestamp="1549042376552">
         <mark key="[" line="46" column="14" />
@@ -108,17 +120,17 @@
       <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Paths.SAMPLE_IMG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF8sIGNvbnRvdXJzLCBfID0gY3YyLmZpbmRDb250b3VycyhtYXNrLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Paths.SAMPLE_IMG</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>len</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsb3RfaW1nX21hc2soW1BhdGhzLlNBTVBMRV9JTUddKQo=</text>
+        <text encoding="base64">ICAgIF8sIGNvbnRvdXJzLCBfID0gY3YyLmZpbmRDb250b3VycyhtYXNrLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
