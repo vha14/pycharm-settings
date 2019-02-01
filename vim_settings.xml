@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1549045402972">
+      <file name="/Dummy.txt" timestamp="1549049902661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/process_second_batch" timestamp="1549045383504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1548883761858">
+      <file name="/fragment.py" timestamp="1549051510558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1549044381214">
@@ -21,9 +21,11 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_overview.py" timestamp="1549046365683">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="36" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_overview.py" timestamp="1549051730568">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="92" />
+        <mark key="." line="16" column="92" />
+        <mark key="^" line="16" column="92" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549045644849">
         <mark key="[" line="1" column="63" />
@@ -61,6 +63,13 @@
         <mark key="^" line="57" column="77" />
         <mark key="." line="57" column="77" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549050826652">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="78" column="52" />
+        <mark key="]" line="78" column="81" />
+        <mark key="^" line="78" column="81" />
+        <mark key="." line="78" column="81" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549047023902">
         <mark key="'" line="69" column="6" />
         <mark key="[" line="157" column="27" />
@@ -72,7 +81,6 @@
     <jumps>
       <jump line="83" column="20" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" />
       <jump line="10" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="65" column="17" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="2" column="8" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="32" column="73" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
@@ -97,13 +105,14 @@
       <jump line="38" column="26" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="19" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
       <jump line="69" column="6" filename="$USER_HOME$/work/piv/modeling/src/opencv/common.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Path</text>
+        <text>Paths.SAMPLE_IMG</text>
       </register>
       <register name="-" type="4">
-        <text>Path</text>
+        <text>Paths.SAMPLE_IMG</text>
       </register>
       <register name="/" type="4">
         <text>len</text>
