@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1548866757141">
+      <file name="/Dummy.txt" timestamp="1549045402972">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/process_second_batch" timestamp="1549045383504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1548890504316">
@@ -15,15 +18,15 @@
       <file name="/a.dummy" timestamp="1549044381214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1549044472036">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="18" column="39" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1549045151049">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="51" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549044548835">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549045644849">
+        <mark key="[" line="1" column="63" />
+        <mark key="]" line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+        <mark key="." line="1" column="63" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1548885709204">
         <mark key="'" line="113" column="4" />
@@ -43,11 +46,11 @@
         <mark key="." line="31" column="49" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549044401140">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="39" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549044944916">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -79,44 +82,44 @@
       <jump line="19" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>interactive_mode()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>interactive_mode()</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>len</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgppbXBvcnQgY3YyCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSBvcGVuY3YuY29tbW9uIGltcG9ydCBQYXRocywgY3ZpbXJlYWQKZnJvbSB0ZXN0cy5vcGVuY3YudXRpbHMgaW1wb3J0IHBsb3RfaW1nX25jb2xzLCBpbnRlcmFjdGl2ZV9tb2RlCgppZiBpbnRlcmFjdGl2ZV9tb2RlKCk6CiAgICBzaGFwZXMgPSBkZWZhdWx0ZGljdChsaXN0KQoKICAgIGZvciBmbmFtZSBpbiBQYXRoKFBhdGhzLkRhdGFEaXJzLlNFQ09ORF9CQVRDSF9SQVcpLmdsb2IoJyouanBnJyk6CiAgICAgICAgaW1nID0gY3ZpbXJlYWQoZm5hbWUpCiAgICAgICAgc2hhcGVzW2ltZy5zaGFwZV0uYXBwZW5kKGZuYW1lKQoKICAgIGZvciBzaGFwZSwgbmFtZXMgaW4gc2hhcGVzLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiJ7c2hhcGV9OiB7bGVuKG5hbWVzKX0iKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hc2sgPSBucC56ZXJvcyhzaXplLCBkdHlwZT1ucC51aW50OCkKICAgIGN2Mi5maWxsQ29udmV4UG9seShtYXNrLCBucC5hcnJheShwb2ludHMpLCAyNTUpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IiIiCkNvbnZlbnRpb25zOiBlYWNoIGRhdGFzZXQgaGFzIGltZywgbGFiZWwsIGFuZCB2aWQgc3ViZGlyZWN0b3JpZXMKICAgIGltZzogZGlyZWN0b3J5IG9mIGltYWdlcy9mcmFtZXMKICAgIGxhYmVsOiBkaXJlY3Rvcnkgb2YgbGFiZWxzIG1hc2tzIChuYW1lcyBhcmUgdGhlIHNhbWUgYXMgaW4gaW1nIGRpcmVjdG9yeSkKICAgIHZpZDogdmlkZW9zCiIiIgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIntzaGFwZX06IHtsZW4obmFtZXMpfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGlyKGRlZmF1bHQpCg==</text>
+        <text encoding="base64">ICAgIGZvciBzaGFwZSwgbmFtZXMgaW4gc2hhcGVzLml0ZW1zKCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmYXVsdC5fX2RpY3RfXwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXNrID0gbWFza19mcm9tX3BvaW50cyhwb2ludHMsIGltZy5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzaGFwZXNbaW1nLnNoYXBlXS5hcHBlbmQoZm5hbWUpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3BhY2UgPSB7fQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IiIiCkNvbnZlbnRpb25zOiBlYWNoIGRhdGFzZXQgaGFzIGltZywgbGFiZWwsIGFuZCB2aWQgc3ViZGlyZWN0b3JpZXMKICAgIGltZzogZGlyZWN0b3J5IG9mIGltYWdlcy9mcmFtZXMKICAgIGxhYmVsOiBkaXJlY3Rvcnkgb2YgbGFiZWxzIG1hc2tzIChuYW1lcyBhcmUgdGhlIHNhbWUgYXMgaW4gaW1nIGRpcmVjdG9yeSkKICAgIHZpZDogdmlkZW9zCiIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNwYWNlW2ZpZWxkX25hbWVdID0gdGhyZXNob2xkX3NwYWNlKGZpZWxkX25hbWUpIGlmIGZpZWxkX25hbWUuc3RhcnRzd2l0aCgndGhyZXNob2xkJykgZWxzZSBzdGFuZGFyZF9zcGFjZShmaWVsZF9uYW1lLCBmaWVsZF92YWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIGZpZWxkX25hbWUsIGZpZWxkX3ZhbHVlIGluIGRlZmF1bHQuX19kaWN0X18uaXRlbXMoKToK</text>
+        <text encoding="base64">ZGlyKGRlZmF1bHQpCg==</text>
       </register>
     </registers>
     <search>
@@ -156,6 +159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
