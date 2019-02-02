@@ -3,6 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1549086969056">
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+      </file>
+      <file name="/test_hyperopt" timestamp="1549087683457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1549104876243">
+        <mark key="[" line="127" column="16" />
+        <mark key="]" line="127" column="40" />
+        <mark key="^" line="127" column="40" />
+        <mark key="." line="127" column="40" />
+      </file>
+      <file name="/a.dummy" timestamp="1549105135476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548994758597">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="52" column="5" />
@@ -15,17 +33,17 @@
         <mark key="^" line="248" column="685" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549085651778">
-        <mark key="[" line="97" column="30" />
-        <mark key="]" line="98" column="15" />
-        <mark key="^" line="98" column="15" />
-        <mark key="." line="98" column="15" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549105324796">
+        <mark key="[" line="103" column="26" />
+        <mark key="]" line="103" column="23" />
+        <mark key="^" line="103" column="22" />
+        <mark key="." line="103" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
-        <mark key="[" line="33" column="83" />
-        <mark key="]" line="34" column="46" />
-        <mark key="^" line="34" column="46" />
-        <mark key="." line="34" column="46" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549105241459">
+        <mark key="[" line="151" column="91" />
+        <mark key="]" line="151" column="104" />
+        <mark key="^" line="151" column="104" />
+        <mark key="." line="151" column="104" />
       </file>
     </filemarks>
     <jumps />
@@ -34,37 +52,37 @@
         <text encoding="base64">ICAgIGltZ3MuYXBwZW5kKGltZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggdHFkbSh0b3RhbD1uX2V2YWxzKSBhcyBwYmFyOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiYmVzdCByZWNhbGw6IHtyZWNhbGwoUGF0aHMuRGF0YURpcnMuU0VDT05EX0JBVENILCB0cGVfYmVzdCl9IikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggdHFkbSh0b3RhbD1uX2V2YWxzKSBhcyBwYmFyOgo=</text>
+      <register name="&quot;" type="4">
+        <text>loss</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5fZXZhbHMgPSAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRwZV9yZXN1bHRzLmhlYWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAoNDc2LCA4NzgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAoNjA1LCA4ODEpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBUaGUgYmVsb3cgc2hvdWxkIHByb2R1Y2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAneCc6IHRyaWFscy5pZHhzX3ZhbHNbMV1bJ3gnXX0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaXRlcmF0aW9uJzogdHJpYWxzLmlkeHNfdmFsc1swXVsneCddLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRwZV9yZXN1bHRzID0gcGQuRGF0YUZyYW1lKHsnbG9zcyc6IFt4Wydsb3NzJ10gZm9yIHggaW4gdHJpYWxzLnJlc3VsdHNdLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltZ3MuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwYW5kYXMgYXMgcGQK</text>
       </register>
       <register name="-" type="4">
-        <text>max_evals</text>
+        <text>loss</text>
       </register>
     </registers>
     <search>
