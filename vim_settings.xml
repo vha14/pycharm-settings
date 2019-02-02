@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1549148465987">
-        <mark key="[" line="162" column="15" />
-        <mark key="]" line="162" column="38" />
-        <mark key="^" line="162" column="38" />
-        <mark key="." line="162" column="38" />
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1549149914373">
+        <mark key="[" line="162" column="46" />
+        <mark key="]" line="162" column="50" />
+        <mark key="^" line="162" column="50" />
+        <mark key="." line="162" column="50" />
       </file>
       <file name="/test_hyperopt" timestamp="1549087683457">
         <mark key="[" line="0" column="0" />
@@ -17,6 +17,12 @@
         <mark key="]" line="127" column="40" />
         <mark key="^" line="127" column="40" />
         <mark key="." line="127" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1549149888327">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="11" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1549105135476">
         <mark key="[" line="0" column="0" />
@@ -33,12 +39,11 @@
         <mark key="^" line="248" column="685" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549148380625">
-        <mark key="'" line="145" column="29" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="17" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549151084850">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549105241459">
         <mark key="[" line="151" column="91" />
@@ -49,46 +54,47 @@
     </filemarks>
     <jumps>
       <jump line="144" column="29" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyByZWNhbGwgPSAwLjgxCg==</text>
+        <text encoding="base64">ICAgICAgICBldmFsX2lkeCA9IGV2YWxfaWR4ICsgMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYicmVjYWxsOiB7cmN9IikK</text>
+        <text encoding="base64">ICAgIGRmID0gbG9hZF9kaXIoZ2JfMmIsIFBhdGhzLkRhdGFEaXJzLlNBTVBMRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyByZWNhbGwgPSAwLjgxCg==</text>
+        <text encoding="base64">ICAgICAgICBldmFsX2lkeCA9IGV2YWxfaWR4ICsgMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3RocmVzaG9sZDEnOiAwLCAndGhyZXNob2xkMic6IDAsIAo=</text>
+        <text encoding="base64">ICAgIGV2YWxfaWR4ID0gMCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">J2ZpbmFsX21vcnBoJzogMSwgJ2ZpbmFsX21vcnBoX2l0ZXJhdGlvbnMnOiAyLjAsICdmaW5hbF9tb3JwaF9rZXJuZWxfc2l6ZSc6IDEwLjAsIAo=</text>
+        <text encoding="base64">ZXZhbF9pZHggPSAwIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICkgMTA1OTEuMCwgJ3RocmVzaG9sZDNfdHlwZSc6IDB9Cg==</text>
+        <text encoding="base64">ICAgIGV2YWxfaWR4ID0gMCAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">J3RocmVzaG9sZDMnOiAxLCAndGhyZXNob2xkM19yYW5nZSc6IDEwNTkxLjAsICd0aHJlc2hvbGQzX3R5cGUnOiAwfQo=</text>
+        <text encoding="base64">ICAgIG5fZXZhbHMgPSAyMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZDI9Tm9uZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZDE9Tm9uZSwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRlZiBsYWJlbF9tYXRjaChjb250b3VyLCBpbWdfbGFiZWwsIGxhYmVsX2FyZWEpOgogICAgICAgIGFyZWFfdGhyZXNob2xkID0gMC41CiAgICAgICAgbW9tZW50cyA9IGN2Mi5tb21lbnRzKGNvbnRvdXIpCgogICAgICAgIGlmIG1vbWVudHNbJ20wMCddID09IDA6CiAgICAgICAgICAgIGN4ID0gMAogICAgICAgICAgICBjeSA9IDAKICAgICAgICBlbHNlOgogICAgICAgICAgICBjeCA9IGludChtb21lbnRzWydtMTAnXS9tb21lbnRzWydtMDAnXSkKICAgICAgICAgICAgY3kgPSBpbnQobW9tZW50c1snbTAxJ10vbW9tZW50c1snbTAwJ10pCgogICAgICAgIGlmIGltZ19sYWJlbFtjeSwgY3hdIDw9IDEyNzoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgICAgIGFyZWEgPSBjdjIuY29udG91ckFyZWEoY29udG91cikKICAgICAgICByZXR1cm4gYXJlYV90aHJlc2hvbGQgPCAoYXJlYS9sYWJlbF9hcmVhKSA8ICgxL2FyZWFfdGhyZXNob2xkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J2Vyb3Npb24nOiAwLCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
