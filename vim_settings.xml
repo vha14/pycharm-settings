@@ -3,15 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1549061591841">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="101" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549062628442">
+      <file name="/Dummy.txt" timestamp="1549069773206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1549061699518">
+      <file name="/fragment.py" timestamp="1549069319393">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1549071428356">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="40" column="3" />
+        <mark key="." line="40" column="3" />
+        <mark key="^" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548974857625">
         <mark key="[" line="11" column="11" />
@@ -33,11 +35,22 @@
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1549066833345">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549067642884">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="3" />
-        <mark key="^" line="96" column="3" />
-        <mark key="." line="96" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549062468819">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1549070361418">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="101" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549071218645">
+        <mark key="'" line="28" column="55" />
+        <mark key="[" line="74" column="54" />
+        <mark key="]" line="74" column="54" />
+        <mark key="^" line="74" column="54" />
+        <mark key="." line="74" column="54" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
         <mark key="[" line="33" column="83" />
@@ -45,60 +58,64 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549062468819">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="23" column="42" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
+      <jump line="28" column="55" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDgwMi8xMTE0Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>df.shape[0]</text>
+      </register>
+      <register name="/" type="4">
+        <text>0</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfLCBsYWJlbF9pbV9jb250b3VycywgXyA9IGN2Mi5maW5kQ29udG91cnMoaW1nX2xhYmVsLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
+        <text encoding="base64">ICAgIGRmID0gbG9hZF9kaXIob3B0aW1pemVkX2dldF9ibG9icywgUGF0aHMuRGF0YURpcnMuU0FNUExFKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDgwMi8xMTE0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGYgPSBsb2FkX2RpcihvcHRpbWl6ZWRfZ2V0X2Jsb2JzLCBQYXRocy5EYXRhRGlycy5TRUNPTkRfQkFUQ0gpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiZXN0ID0gZm1pbihmbj1mbiwgc3BhY2U9c2VsZi5zcGFjZSwgYWxnbz10cGUuc3VnZ2VzdCwgdHJpYWxzPXNlbGYudHJpYWxzLCBtYXhfZXZhbHM9c2VsZi5tYXhfZXZhbHMpCg==</text>
+        <text encoding="base64">ICAgIGRmMS5zaGFwZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmLnNoYXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbiA9IHBhcnRpYWwoc2VsZi5oeXBlcm9wdF9vYmplY3RpdmVfZnVuYywgcGJhcj1wYmFyKQo=</text>
+        <text encoding="base64">ICAgIDIvMwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLldBUk5JTkcpCg==</text>
+        <text encoding="base64">dGVzdF9sb2FkX2RpcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5hZGRIYW5kbGVyKGhkbHIpCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhkbHIuc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikK</text>
-      </register>
-      <register name="-" type="4">
-        <text>self.max_evals</text>
+        <text encoding="base64">c2V0dGluZ3MgPSBDb250b3VyU2UgCg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>0</last-search>
+      <last-offset />
+      <last-pattern>0</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>0</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
