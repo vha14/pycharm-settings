@@ -10,9 +10,6 @@
       <file name="/Dummy.txt" timestamp="1549062628442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549061884490">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1549061699518">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,11 +30,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549063671695">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="82" column="29" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1549066833345">
+        <mark key="'" line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549067642884">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="3" />
+        <mark key="^" line="96" column="3" />
+        <mark key="." line="96" column="3" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
         <mark key="[" line="33" column="83" />
@@ -52,7 +52,9 @@
         <mark key="^" line="23" column="42" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="101" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfLCBsYWJlbF9pbV9jb250b3VycywgXyA9IGN2Mi5maW5kQ29udG91cnMoaW1nX2xhYmVsLCBjdjIuUkVUUl9UUkVFLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkK</text>
@@ -64,31 +66,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBsb2dnaW5nCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsb3RfaW1nX21hc2soWydpVml6VmlkZW9fMTgwNzE3XzExNDIxNV9SLTA1MS5qcGcnXSwgZGF0YV9kaXI9UGF0aHMuRGF0YURpcnMuU0VDT05EX0JBVENIKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cG9pbnRzID0gbnAuYXJyYXkocG9pbnRzLCAnaW50MzInKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bWFzazIuc3VtKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bWFzay5zdW0oKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bnAuYXJyYXlfZXF1YWwobWFzaywgbWFzazIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBiZXN0ID0gZm1pbihmbj1mbiwgc3BhY2U9c2VsZi5zcGFjZSwgYWxnbz10cGUuc3VnZ2VzdCwgdHJpYWxzPXNlbGYudHJpYWxzLCBtYXhfZXZhbHM9c2VsZi5tYXhfZXZhbHMpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmbiA9IHBhcnRpYWwoc2VsZi5oeXBlcm9wdF9vYmplY3RpdmVfZnVuYywgcGJhcj1wYmFyKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLldBUk5JTkcpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5hZGRIYW5kbGVyKGhkbHIpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3YyLmZpbGxDb252ZXhQb2x5KG1hc2syLCBucC5hcnJheShwb2ludHMpLCAyNTUpCg==</text>
+        <text encoding="base64">ICAgIGhkbHIuc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikK</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>self.max_evals</text>
       </register>
     </registers>
     <search>
