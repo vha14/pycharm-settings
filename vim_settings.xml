@@ -2,140 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="/test_hyperopt" timestamp="1549153415743">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1549213554271">
-        <mark key="[" line="129" column="57" />
-        <mark key="]" line="129" column="57" />
-        <mark key="^" line="129" column="40" />
-        <mark key="." line="129" column="57" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549154728725">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" timestamp="1549149888327">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1549153295375">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1549105135476">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/eda.py" timestamp="1548994758597">
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="52" column="5" />
-        <mark key="^" line="52" column="5" />
-        <mark key="." line="52" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/ai2website/app/html/incubator.html" timestamp="1548975299517">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="248" column="685" />
-        <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_overview.py" timestamp="1549213783891">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1549153510960">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="24" />
-        <mark key="^" line="162" column="50" />
-        <mark key="." line="45" column="24" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" timestamp="1549212605063">
-        <mark key="'" line="67" column="0" />
-        <mark key="]" line="137" column="42" />
-        <mark key="." line="137" column="42" />
-        <mark key="^" line="137" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1549105241459">
-        <mark key="[" line="151" column="91" />
-        <mark key="]" line="151" column="104" />
-        <mark key="^" line="151" column="104" />
-        <mark key="." line="151" column="104" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="144" column="29" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>2713</text>
-      </register>
-      <register name="-" type="4">
-        <text>2713</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxiXD4=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsb3RfaW1nX21hc2soW1BhdGhzLlNBTVBMRV9JTUddKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhbGwoWyd4ZGctb3BlbicsIHZpZGVvX3BhdGhfZnJvbV9pbWFnZShQYXRocy5JTUdfMTUyNzEzKV0pCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Zm9yIHggaW4gYmVzdHNbMDoxMF06IHByaW50KHhbJ3NhbXBsZSddWydibHVyJ10pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Zm9yIHggaW4gYmVzdHNbMDoxMF06IHByaW50KHhbJ3NhbXBsZSddWydoaXN0b2dyYW1fZXF1YWxpemUnXSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Zm9yIHggaW4gYmVzdHMyWzA6MTBdOiBwcmludCh4WydzYW1wbGUnXVsnZmluYWxfbW9ycGgnXSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVuKGJlc3RzMSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aSArPSA3NSAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoaSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bGVuKGJlc3RzKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoYmVzdHNbMDoxMF0pCg==</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search encoding="base64">XDxiXD4=</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxiXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxiXD4=</entry>
-      </history-search>
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
