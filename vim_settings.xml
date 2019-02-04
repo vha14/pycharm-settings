@@ -8,14 +8,14 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549254304988">
+      <file name="/Python Console" timestamp="1549255188043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549254376172">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549255213068">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
     </filemarks>
     <jumps />
@@ -43,6 +43,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
