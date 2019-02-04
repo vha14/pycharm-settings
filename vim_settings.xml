@@ -11,25 +11,46 @@
       <file name="/Python Console" timestamp="1549255188043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549255213068">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549256020008">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="68" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">dGYuX192ZXJzaW9uX18K</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGYuX192ZXJzaW9uX18K</text>
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGYuX192ZXJzaW9uX18K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dGYuX192ZXJzaW9uX18K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
