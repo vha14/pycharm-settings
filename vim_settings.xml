@@ -11,11 +11,12 @@
       <file name="/Dummy.txt" timestamp="1549383086157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549391169297">
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="65" column="7" />
-        <mark key="." line="65" column="7" />
-        <mark key="^" line="65" column="7" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="130" column="18" />
+        <mark key="]" line="130" column="26" />
+        <mark key="^" line="130" column="26" />
+        <mark key="." line="130" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1549385956545">
         <mark key="[" line="0" column="0" />
@@ -55,58 +56,67 @@
       <jump line="10" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="442" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="62" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="2" column="34" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="341" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="141" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="139" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="353" column="13" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TGVhcm5lciA=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">TGVhcm5lciA=</text>
       </register>
       <register name="/" type="4">
-        <text>doil</text>
+        <text>loss_func</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZpbHRlcl9zIGluIGZpbHRlcnM6CiAgICAgICAgICAgICAgICBmb3IgcGFkIGluIHBhZHM6CiAgICAgICAgICAgICAgICAgICAgZm9yIHN0cmlkZSBpbiBzdHJpZGVzOgogICAgICAgICAgICAgICAgICAgICAgICBpZiAob3V0X3NpemUgLSAxKSpzdHJpZGUgPT0gKGluX3NpemUgLSBmaWx0ZXJfcykgKyAyKnBhZDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzdHJpZGUsIHBhZCwgZmlsdGVyX3NpemU=</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3NkLmxlYXJuLmxyX2ZpbmQoKQpjbGVhcl9vdXRwdXQoKQpzc2QubGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2JvbmUgPSBtb2RlbHMucmVzbmV0MzQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVycyA9IFszLCAyLCA1LCA0XQogICAgICAgICAgICBzdHJpZGVzID0gWzEsIDIsIDNdICAjIG1heF9zdHJpZGUgPSAzCiAgICAgICAgICAgIHBhZHMgPSBbMCwgMSwgMiwgM10gICMgbWF4IHBhZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBiYWNrYm9uZSBpcyBOb25lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaXQoc2VsZiwgZXBvY2hzPTEwLCBscj1zbGljZSgxZS00LCAzZS0zKSk6CiAgICAgICAgc2VsZi5sZWFybi5maXQoZXBvY2hzLCBscikKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB1bmZyZWV6ZShzZWxmKToKICAgICAgICBzZWxmLmxlYXJuLnVuZnJlZXplKCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmlkZSwgcGFkLCBmaWx0ZXJfc2l6ZSA9IGNvbnZfcGFyYW1zKGdyaWRzW2kgLSAxXSwgZ3JpZHNbaV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>doil</last-search>
+      <last-search>loss_func</last-search>
       <last-offset />
-      <last-pattern>doil</last-pattern>
+      <last-pattern>loss_func</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>doil</entry>
+        <entry>resnet</entry>
+        <entry>loss_func</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -127,6 +137,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
