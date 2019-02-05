@@ -11,15 +11,21 @@
       <file name="/Dummy.txt" timestamp="1549383086157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549386084560">
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549389061811">
         <mark key="'" line="388" column="0" />
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="0" />
-        <mark key="^" line="204" column="20" />
-        <mark key="." line="388" column="0" />
+        <mark key="[" line="394" column="3" />
+        <mark key="]" line="418" column="0" />
+        <mark key="." line="418" column="0" />
+        <mark key="^" line="418" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1549385956545">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1549388062937">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="11" />
+        <mark key="^" line="51" column="11" />
+        <mark key="." line="51" column="11" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549349225925">
         <mark key="[" line="369" column="41" />
@@ -52,7 +58,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAjIyMgU1NECg==</text>
+        <text encoding="base64">JSV0aW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -64,31 +70,31 @@
         <text encoding="base64">cGF0aCA9IHVudGFyX2RhdGEoVVJMcy5DT0NPX1RJTlkpCmltYWdlcywgYmJveCA9IGdldF9hbm5vdGF0aW9ucyhwYXRoLyd0cmFpbi5qc29uJykKaW1nMmJib3ggPSBkaWN0KHppcChpbWFnZXMsIGJib3gpKQpkYXRhID0gKE9iamVjdEl0ZW1MaXN0LmZyb21fZm9sZGVyKHBhdGgpCiAgICAgICAgLnJhbmRvbV9zcGxpdF9ieV9wY3QoKQogICAgICAgIC5sYWJlbF9mcm9tX2Z1bmMobGFtYmRhIG86IGltZzJiYm94W28ubmFtZV0pCiAgICAgICAgIyAudHJhbnNmb3JtKGdldF90cmFuc2Zvcm1zKCksIHRmbV95PVRydWUpCiAgICAgICAgLmRhdGFidW5jaChicz0xNiwgY29sbGF0ZV9mbj1iYl9wYWRfY29sbGF0ZSkKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAjIyMgU1NECg==</text>
+        <text encoding="base64">JSV0aW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NkLnJlY29yZGVyLnBsb3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAjIyMgU1NECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBJbls3XToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJbls3XToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBJbls1XToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJbls1XToK</text>
       </register>
     </registers>
     <search>
@@ -118,6 +124,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
