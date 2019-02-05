@@ -8,14 +8,11 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549329253465">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549331331995">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549333310667">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -39,40 +36,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">eDogSW1hZ2VJdGVtTGlzdCA9IGRhdGEudHJhaW5fZHMueAo=</text>
+        <text encoding="base64">alsnY2F0ZWdvcmllcyddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVuKHgpCg==</text>
+        <text encoding="base64">eSA9IGRhdGEudHJhaW5fZHMueQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGVuKHgpCg==</text>
+        <text encoding="base64">eSA9IGRhdGEudHJhaW5fZHMueQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVuKHkpCg==</text>
+        <text encoding="base64">bGVuKGJib3gpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eTogSW1hZ2VJdGVtTGlzdCA9IGRhdGEudHJhaW5fZHMueQo=</text>
+        <text encoding="base64">YmJveFswXS5fX2NsYXNzX18K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eDogSW1hZ2VJdGVtTGlzdCA9IGRhdGEudHJhaW5fZHMueAo=</text>
+        <text encoding="base64">alsnYW5ub3RhdGlvbnMnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGlyKGRhdGEpCg==</text>
+        <text encoding="base64">bGVuKGpbJ2ltYWdlcyddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVuKGltYWdlcykK</text>
+        <text encoding="base64">alsnY2F0ZWdvcmllcyddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBsZWFybi5maXQoMSkK</text>
+        <text encoding="base64">ai5rZXlzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBsZWFybiA9IGNyZWF0ZV9jbm4oZGF0YSwgbW9kZWxzLnJlc25ldDE4LCBtZXRyaWNzPWFjY3VyYWN5KQo=</text>
+        <text encoding="base64">aiA9IGpzb24ubG9hZHMoKHBhdGgvJ3RyYWluLmpzb24nKS5yZWFkX3RleHQoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eS5jbGFzc2VzCg==</text>
+        <text encoding="base64">cGx0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>MNIST digit</text>
       </register>
     </registers>
     <search>
