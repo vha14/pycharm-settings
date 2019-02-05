@@ -8,14 +8,11 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549378948802">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549349013345">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="7" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549380089397">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549349225925">
         <mark key="[" line="369" column="41" />
@@ -48,34 +45,34 @@
         <text encoding="base64">alsnY2F0ZWdvcmllcyddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bC5zaG93KGZpZ3NpemU9KDIsMikpCg==</text>
+        <text encoding="base64">bGVuKGltYWdlcykK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bC5zaG93KGZpZ3NpemU9KDIsMikpCg==</text>
+        <text encoding="base64">bGVuKGltYWdlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi5fX3ZlcnNpb25fXwo=</text>
+        <text encoding="base64">bC5zaG93KGZpZ3NpemU9KDIsMikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+        <text encoding="base64">bWF0cGxvdGxpYi5fX3ZlcnNpb25fXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZShsYWIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">dHlwZShsYWIpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">YAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZShsYWIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGFiLl9fY2xhc3NfXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVuKGRhdGEudmFsaWRfZHMpCg==</text>
+        <text encoding="base64">bGFiLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="-" type="4">
         <text>px == img</text>

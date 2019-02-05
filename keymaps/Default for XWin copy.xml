@@ -70,14 +70,14 @@
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
