@@ -11,12 +11,15 @@
       <file name="/Dummy.txt" timestamp="1549383086157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549383101206">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="429" column="5" />
-        <mark key="]" line="429" column="10" />
-        <mark key="." line="429" column="10" />
-        <mark key="^" line="429" column="10" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549386084560">
+        <mark key="'" line="388" column="0" />
+        <mark key="[" line="388" column="0" />
+        <mark key="]" line="388" column="0" />
+        <mark key="^" line="204" column="20" />
+        <mark key="." line="388" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1549385956545">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549349225925">
         <mark key="[" line="369" column="41" />
@@ -45,10 +48,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="412" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="10" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="442" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAjIyMgU1NECg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -60,7 +64,7 @@
         <text encoding="base64">cGF0aCA9IHVudGFyX2RhdGEoVVJMcy5DT0NPX1RJTlkpCmltYWdlcywgYmJveCA9IGdldF9hbm5vdGF0aW9ucyhwYXRoLyd0cmFpbi5qc29uJykKaW1nMmJib3ggPSBkaWN0KHppcChpbWFnZXMsIGJib3gpKQpkYXRhID0gKE9iamVjdEl0ZW1MaXN0LmZyb21fZm9sZGVyKHBhdGgpCiAgICAgICAgLnJhbmRvbV9zcGxpdF9ieV9wY3QoKQogICAgICAgIC5sYWJlbF9mcm9tX2Z1bmMobGFtYmRhIG86IGltZzJiYm94W28ubmFtZV0pCiAgICAgICAgIyAudHJhbnNmb3JtKGdldF90cmFuc2Zvcm1zKCksIHRmbV95PVRydWUpCiAgICAgICAgLmRhdGFidW5jaChicz0xNiwgY29sbGF0ZV9mbj1iYl9wYWRfY29sbGF0ZSkKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzc2RvaWwgaW1wb3J0IFNTRE9iamVjdEl0ZW1MaXN0Cg==</text>
+        <text encoding="base64">IyAjIyMgU1NECg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -68,17 +72,17 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cGF0aCA9IHVudGFyX2RhdGEoVVJMcy5DT0NPX1RJTlkpCmltYWdlcywgYmJveCA9IGdldF9hbm5vdGF0aW9ucyhwYXRoLyd0cmFpbi5qc29uJykKaW1nMmJib3ggPSBkaWN0KHppcChpbWFnZXMsIGJib3gpKQpkYXRhID0gKE9iamVjdEl0ZW1MaXN0LmZyb21fZm9sZGVyKHBhdGgpCiAgICAgICAgLnJhbmRvbV9zcGxpdF9ieV9wY3QoKQogICAgICAgIC5sYWJlbF9mcm9tX2Z1bmMobGFtYmRhIG86IGltZzJiYm94W28ubmFtZV0pCiAgICAgICAgIyAudHJhbnNmb3JtKGdldF90cmFuc2Zvcm1zKCksIHRmbV95PVRydWUpCiAgICAgICAgLmRhdGFidW5jaChicz0xNiwgY29sbGF0ZV9mbj1iYl9wYWRfY29sbGF0ZSkKICAgICAgICApCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">IyBJbls3XToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAjIyMgU1NECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2V0X2lweXRob24oKS5ydW5fY2VsbF9tYWdpYygndGltZScsICcnLCAnZGF0YS5zaG93X2JhdGNoKCknKQo=</text>
+        <text encoding="base64">IyBJbls1XToK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
