@@ -6,9 +6,6 @@
       <file name="/Dummy.txt" timestamp="1549069773206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549400065242">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1549069319393">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,11 +54,12 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="101" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549400042226">
-        <mark key="'" line="338" column="0" />
-        <mark key="[" line="68" column="56" />
-        <mark key="]" line="68" column="56" />
-        <mark key="." line="68" column="56" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549400182497">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="100" column="53" />
+        <mark key="]" line="100" column="54" />
+        <mark key="." line="100" column="54" />
+        <mark key="^" line="100" column="54" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1548962495077">
         <mark key="[" line="33" column="83" />
@@ -74,8 +72,9 @@
       <jump line="101" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_blob.py" />
       <jump line="40" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_dataset.py" />
       <jump line="28" column="55" filename="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_hyperopt.py" />
-      <jump line="23" column="41" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" />
       <jump line="338" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" />
+      <jump line="314" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -85,7 +84,7 @@
         <text>ize</text>
       </register>
       <register name="/" type="4">
-        <text>bb_pad</text>
+        <text>eye</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRmID0gbG9hZF9kaXIob3B0aW1pemVkX2dldF9ibG9icywgUGF0aHMuRGF0YURpcnMuU0FNUExFKQo=</text>
@@ -119,9 +118,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bb_pad</last-search>
+      <last-search>eye</last-search>
       <last-offset />
-      <last-pattern>bb_pad</last-pattern>
+      <last-pattern>eye</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -130,6 +129,7 @@
         <entry>0</entry>
         <entry>filter_size</entry>
         <entry>bb_pad</entry>
+        <entry>eye</entry>
       </history-search>
       <history-cmd />
       <history-expr />
