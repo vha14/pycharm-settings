@@ -11,6 +11,12 @@
       <file name="/Dummy.txt" timestamp="1549383086157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549391169297">
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+        <mark key="^" line="65" column="7" />
+      </file>
       <file name="/a.dummy" timestamp="1549385956545">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,37 +54,38 @@
       <jump line="412" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="10" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="442" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JSV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>doil</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGF0aCA9IHVudGFyX2RhdGEoVVJMcy5DT0NPX1RJTlkpCmltYWdlcywgYmJveCA9IGdldF9hbm5vdGF0aW9ucyhwYXRoLyd0cmFpbi5qc29uJykKaW1nMmJib3ggPSBkaWN0KHppcChpbWFnZXMsIGJib3gpKQpkYXRhID0gKE9iamVjdEl0ZW1MaXN0LmZyb21fZm9sZGVyKHBhdGgpCiAgICAgICAgLnJhbmRvbV9zcGxpdF9ieV9wY3QoKQogICAgICAgIC5sYWJlbF9mcm9tX2Z1bmMobGFtYmRhIG86IGltZzJiYm94W28ubmFtZV0pCiAgICAgICAgIyAudHJhbnNmb3JtKGdldF90cmFuc2Zvcm1zKCksIHRmbV95PVRydWUpCiAgICAgICAgLmRhdGFidW5jaChicz0xNiwgY29sbGF0ZV9mbj1iYl9wYWRfY29sbGF0ZSkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZpbHRlcl9zIGluIGZpbHRlcnM6CiAgICAgICAgICAgICAgICBmb3IgcGFkIGluIHBhZHM6CiAgICAgICAgICAgICAgICAgICAgZm9yIHN0cmlkZSBpbiBzdHJpZGVzOgogICAgICAgICAgICAgICAgICAgICAgICBpZiAob3V0X3NpemUgLSAxKSpzdHJpZGUgPT0gKGluX3NpemUgLSBmaWx0ZXJfcykgKyAyKnBhZDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzdHJpZGUsIHBhZCwgZmlsdGVyX3NpemU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JSV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3NkLnJlY29yZGVyLnBsb3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAjIyMgU1NECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbls3XToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVycyA9IFszLCAyLCA1LCA0XQogICAgICAgICAgICBzdHJpZGVzID0gWzEsIDIsIDNdICAjIG1heF9zdHJpZGUgPSAzCiAgICAgICAgICAgIHBhZHMgPSBbMCwgMSwgMiwgM10gICMgbWF4IHBhZAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -87,7 +94,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBJbls1XToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmlkZSwgcGFkLCBmaWx0ZXJfc2l6ZSA9IGNvbnZfcGFyYW1zKGdyaWRzW2kgLSAxXSwgZ3JpZHNbaV0pCg==</text>
       </register>
     </registers>
     <search>
