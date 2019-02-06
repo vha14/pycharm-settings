@@ -3,18 +3,70 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549487769762" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549491910933">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1549487846448">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1549491766847">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHR5cGUobGVhcm4pCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHR5cGUobGVhcm4pCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zy4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZDAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZDAgPSBkYXRhLnRyYWluX2RzWzBdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBKdXB5dGVyIE5vdGVib29rIHJlbmRlcnMgaXQgYXV0b21hdGljYWxseQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBCdWlsZCBIaWRkZW5MYXllciBncmFwaAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBWR0cxNiB3aXRoIEJhdGNoTm9ybQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>vgg16()</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
