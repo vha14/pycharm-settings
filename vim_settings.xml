@@ -11,14 +11,7 @@
       <file name="/Dummy.txt" timestamp="1549383086157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="26" />
-        <mark key="^" line="130" column="26" />
-        <mark key="." line="130" column="26" />
-      </file>
-      <file name="/a.dummy" timestamp="1549385956545">
+      <file name="/a.dummy" timestamp="1549393282102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1549388062937">
@@ -27,14 +20,11 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549349225925">
-        <mark key="[" line="369" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1549393223397">
+        <mark key="[" line="6" column="112" />
+        <mark key="]" line="6" column="133" />
+        <mark key="^" line="6" column="111" />
+        <mark key="." line="6" column="112" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549256020008">
         <mark key="[" line="0" column="0" />
@@ -47,6 +37,28 @@
         <mark key="]" line="48" column="26" />
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="130" column="18" />
+        <mark key="]" line="130" column="26" />
+        <mark key="^" line="130" column="26" />
+        <mark key="." line="130" column="26" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549349225925">
+        <mark key="[" line="369" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549393581232">
+        <mark key="[" line="300" column="15" />
+        <mark key="]" line="300" column="37" />
+        <mark key="^" line="300" column="37" />
+        <mark key="." line="300" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -66,10 +78,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGVhcm5lciA=</text>
+        <text>--exclude src/scripts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGVhcm5lciA=</text>
+        <text>--exclude src/scripts</text>
       </register>
       <register name="/" type="4">
         <text>loss_func</text>
