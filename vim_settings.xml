@@ -44,12 +44,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549465953237">
-        <mark key="'" line="86" column="14" />
-        <mark key="[" line="377" column="7" />
-        <mark key="]" line="377" column="22" />
-        <mark key="^" line="377" column="22" />
-        <mark key="." line="377" column="22" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549467987779">
+        <mark key="'" line="96" column="14" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="85" column="82" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
         <mark key="'" line="130" column="0" />
@@ -100,8 +100,8 @@
       <jump line="86" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>foo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="-" type="4">
         <text>foo</text>
@@ -113,31 +113,31 @@
         <text encoding="base64">c3NkLmxlYXJuLmxyX2ZpbmQoKQpjbGVhcl9vdXRwdXQoKQpzc2QubGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mX3Njb3JlcywgY2xhc19pZHMgPSBiX2NsYXNbOiwgMTpdLm1heCgxKQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBncmlkX3NpemVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzY3JpcHRzLnNzZG9pbCBpbXBvcnQgU1NET2JqZWN0SXRlbUxpc3QsIGFjdG5fdG9fYmIsIGh3MmNvcm5lcnMK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhbmNob3JzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uLmRhdGEgaW1wb3J0IE9iamVjdENhdGVnb3J5TGlzdCwgT2JqZWN0SXRlbUxpc3QsIGltYWdlbmV0X3N0YXRzCmZyb20gZmFzdGFpLnZpc2lvbi5pbWFnZSBpbXBvcnQgSW1hZ2VCQm94CmltcG9ydCB0b3JjaAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhY3RuOiBhY3RpdmF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9odzJjb3JuZXJzKGN0ciwgaHcpOgogICAgcmV0dXJuIHRvcmNoLmNhdChbY3RyIC0gaHcvMiwgY3RyICsgaHcvMl0sIGRpbT0xKQoK</text>
+        <text encoding="base64">ICAgICAgICBjb25mX3Njb3JlcywgY2xhc19pZHMgPSBiX2NsYXNbOiwgMTpdLm1heCgxKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGVmIF9hY3RuX3RvX2JiKGFjdG4sIGFuY2hvcnMsIGdyaWRfc2l6ZXMpOgogICAgYWN0bl9iYnMgPSB0b3JjaC50YW5oKGFjdG4pCiAgICBhY3RuX2NlbnRlcnMgPSAoYWN0bl9iYnNbOiwgOjJdLzIqZ3JpZF9zaXplcykgKyBhbmNob3JzWzosIDoyXQogICAgYWN0bl9odyA9IChhY3RuX2Jic1s6LCAyOl0vMiArIDEpKmFuY2hvcnNbOiwgMjpdCiAgICByZXR1cm4gX2h3MmNvcm5lcnMoYWN0bl9jZW50ZXJzLCBhY3RuX2h3KQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY3JpcHRzLnNzZG9pbCBpbXBvcnQgU1NET2JqZWN0SXRlbUxpc3QsIGFjdG5fdG9fYmIsIGh3MmNvcm5lcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uLmRhdGEgaW1wb3J0IE9iamVjdENhdGVnb3J5TGlzdCwgT2JqZWN0SXRlbUxpc3QsIGltYWdlbmV0X3N0YXRzCmZyb20gZmFzdGFpLnZpc2lvbi5pbWFnZSBpbXBvcnQgSW1hZ2VCQm94CmltcG9ydCB0b3JjaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9odzJjb3JuZXJzKGN0ciwgaHcpOgogICAgcmV0dXJuIHRvcmNoLmNhdChbY3RyIC0gaHcvMiwgY3RyICsgaHcvMl0sIGRpbT0xKQoK</text>
       </register>
     </registers>
     <search>
