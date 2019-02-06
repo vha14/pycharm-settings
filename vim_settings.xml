@@ -20,18 +20,43 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="26" />
-        <mark key="^" line="130" column="26" />
-        <mark key="." line="130" column="26" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="15" />
+        <mark key="." line="69" column="15" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1549393223397">
         <mark key="[" line="6" column="112" />
         <mark key="]" line="6" column="133" />
         <mark key="^" line="6" column="111" />
         <mark key="." line="6" column="112" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549256020008">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="68" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549313667157">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549431617946">
+        <mark key="'" line="86" column="14" />
+        <mark key="[" line="377" column="7" />
+        <mark key="]" line="377" column="22" />
+        <mark key="^" line="377" column="22" />
+        <mark key="." line="377" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="130" column="18" />
+        <mark key="]" line="130" column="26" />
+        <mark key="^" line="130" column="26" />
+        <mark key="." line="130" column="26" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549349225925">
         <mark key="[" line="369" column="41" />
@@ -42,23 +67,11 @@
         <mark key="^" line="299" column="37" />
         <mark key="." line="299" column="37" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549256020008">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="68" />
-        <mark key="^" line="0" column="68" />
-        <mark key="." line="0" column="68" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549313667157">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="48" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -75,52 +88,62 @@
       <jump line="139" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="353" column="13" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="130" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="210" column="28" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="16" column="9" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="216" column="15" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="265" column="46" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="103" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="432" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="85" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
+      <jump line="86" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>--exclude src/scripts</text>
+        <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>--exclude src/scripts</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
-        <text>loss_func</text>
+        <text>analyze</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3NkLmxlYXJuLmxyX2ZpbmQoKQpjbGVhcl9vdXRwdXQoKQpzc2QubGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mX3Njb3JlcywgY2xhc19pZHMgPSBiX2NsYXNbOiwgMTpdLm1heCgxKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY3JpcHRzLnNzZG9pbCBpbXBvcnQgU1NET2JqZWN0SXRlbUxpc3QsIGFjdG5fdG9fYmIsIGh3MmNvcm5lcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uLmRhdGEgaW1wb3J0IE9iamVjdENhdGVnb3J5TGlzdCwgT2JqZWN0SXRlbUxpc3QsIGltYWdlbmV0X3N0YXRzCmZyb20gZmFzdGFpLnZpc2lvbi5pbWFnZSBpbXBvcnQgSW1hZ2VCQm94CmltcG9ydCB0b3JjaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2JvbmUgPSBtb2RlbHMucmVzbmV0MzQK</text>
+        <text encoding="base64">ZGVmIF9odzJjb3JuZXJzKGN0ciwgaHcpOgogICAgcmV0dXJuIHRvcmNoLmNhdChbY3RyIC0gaHcvMiwgY3RyICsgaHcvMl0sIGRpbT0xKQoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiYWNrYm9uZSBpcyBOb25lOgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIF9hY3RuX3RvX2JiKGFjdG4sIGFuY2hvcnMsIGdyaWRfc2l6ZXMpOgogICAgYWN0bl9iYnMgPSB0b3JjaC50YW5oKGFjdG4pCiAgICBhY3RuX2NlbnRlcnMgPSAoYWN0bl9iYnNbOiwgOjJdLzIqZ3JpZF9zaXplcykgKyBhbmNob3JzWzosIDoyXQogICAgYWN0bl9odyA9IChhY3RuX2Jic1s6LCAyOl0vMiArIDEpKmFuY2hvcnNbOiwgMjpdCiAgICByZXR1cm4gX2h3MmNvcm5lcnMoYWN0bl9jZW50ZXJzLCBhY3RuX2h3KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaXQoc2VsZiwgZXBvY2hzPTEwLCBscj1zbGljZSgxZS00LCAzZS0zKSk6CiAgICAgICAgc2VsZi5sZWFybi5maXQoZXBvY2hzLCBscikKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB1bmZyZWV6ZShzZWxmKToKICAgICAgICBzZWxmLmxlYXJuLnVuZnJlZXplKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>loss_func</last-search>
+      <last-search>analyze</last-search>
       <last-offset />
-      <last-pattern>loss_func</last-pattern>
+      <last-pattern>analyze</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -129,6 +152,11 @@
         <entry>doil</entry>
         <entry>resnet</entry>
         <entry>loss_func</entry>
+        <entry>h2</entry>
+        <entry>hw2</entry>
+        <entry>act</entry>
+        <entry>ssdo</entry>
+        <entry>analyze</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -152,6 +180,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
