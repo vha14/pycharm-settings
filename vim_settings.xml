@@ -44,12 +44,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549467987779">
-        <mark key="'" line="96" column="14" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="85" column="82" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549469141966">
+        <mark key="'" line="103" column="14" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
         <mark key="'" line="130" column="0" />
@@ -100,11 +100,11 @@
       <jump line="86" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
         <text>analyze</text>
