@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549491987678">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549497282002">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="46" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1549487846448">
         <mark key="[" line="0" column="0" />
@@ -14,14 +15,22 @@
       <file name="/code.py" timestamp="1549491766847">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549496660290">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2N1ZGEnKSBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSBlbHNlIHRvcmNoLmRldmljZSgnY3B1JykK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Zwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zwo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGhpZGRlbmxheWVyIGFzIGhsCg==</text>
@@ -48,7 +57,7 @@
         <text encoding="base64">IyBCdWlsZCBIaWRkZW5MYXllciBncmFwaAo=</text>
       </register>
       <register name="-" type="4">
-        <text>vgg16()</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
