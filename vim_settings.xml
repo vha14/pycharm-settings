@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549557466155">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549558589781">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="47" column="54" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1549254241933">
         <mark key="[" line="137" column="0" />
@@ -50,11 +50,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549556126611">
-        <mark key="'" line="64" column="91" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549558561449">
+        <mark key="'" line="66" column="91" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+        <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -149,43 +150,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGhpZGRlbmxheWVyIGFzIGhsCnNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.models.vgg16()</text>
+        <text encoding="base64">IGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlIGVsc2UgdG9yY2guZGV2aWNlKCdjcHUnKQ==</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQogICAgbGVhcm4gPSBzc2QubGVhcm4K</text>
+        <text encoding="base64">aW1wb3J0IGhpZGRlbmxheWVyIGFzIGhsCnNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVhZC5ldmFsKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBKdXB5dGVyIE5vdGVib29rIHJlbmRlcnMgaXQgYXV0b21hdGljYWxseQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBCdWlsZCBIaWRkZW5MYXllciBncmFwaAo=</text>
+        <text encoding="base64">IyBKdXB5dGVyIE5vdGVib29rIHJlbmRlcnMgaXQgYXV0b21hdGljYWxseQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4gPSBzc2QubGVhcm4K</text>
+        <text encoding="base64">IyBCdWlsZCBIaWRkZW5MYXllciBncmFwaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
+        <text encoding="base64">bGVhcm4gPSBzc2QubGVhcm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hbmNob3JfY25yID0gaHcyY29ybmVycyhzZWxmLmFuY2hvcnNbOiwgOjJdLCBzZWxmLmFuY2hvcnNbOiwgMjpdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hbmNob3JfY25yID0gaHcyY29ybmVycyhzZWxmLmFuY2hvcnNbOiwgOjJdLCBzZWxmLmFuY2hvcnNbOiwgMjpdKQo=</text>
       </register>
     </registers>
     <search>
