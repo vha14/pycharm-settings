@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549472902309">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="20" column="65" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549556607794">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="41" column="24" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1549254241933">
         <mark key="[" line="137" column="0" />
@@ -38,11 +38,11 @@
         <mark key="^" line="6" column="111" />
         <mark key="." line="6" column="112" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549477007195">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549556481887">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549313667157">
         <mark key="[" line="48" column="15" />
@@ -50,11 +50,11 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549474075994">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549556126611">
+        <mark key="'" line="64" column="91" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -85,6 +85,9 @@
         <mark key="]" line="299" column="37" />
         <mark key="^" line="299" column="37" />
         <mark key="." line="299" column="37" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
+        <mark key="'" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1549472399044">
         <mark key="[" line="11" column="0" />
@@ -127,37 +130,53 @@
       <jump line="13" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" />
       <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
       <jump line="44" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" />
+      <jump line="50" column="26" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="219" column="55" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="1" column="47" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="2" column="42" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="10" column="6" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="26" column="41" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="32" column="44" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="63" column="64" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="65" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
+      <jump line="243" column="44" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
+      <jump line="27" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.models.vgg16()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZcPg==</text>
+        <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1hZ2VzLmV4dGVuZChpbWFnZXNfdikK</text>
+        <text encoding="base64">ICAgIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQogICAgbGVhcm4gPSBzc2QubGVhcm4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBKdXB5dGVyIE5vdGVib29rIHJlbmRlcnMgaXQgYXV0b21hdGljYWxseQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hbmNob3JfY25yID0gaHcyY29ybmVycyhzZWxmLmFuY2hvcnNbOiwgOjJdLCBzZWxmLmFuY2hvcnNbOiwgMjpdKQo=</text>
+        <text encoding="base64">IyBCdWlsZCBIaWRkZW5MYXllciBncmFwaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4gPSBzc2QubGVhcm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1cGVyKCkuX19pbml0X18oKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZiBhbmFseXplX3ByZWQocHJlZCwgYW5jaG9ycywgZ3JpZF9zaXplcywgdGhyZXNoPTAuNSwgbm1zX292ZXJsYXA9MC4xLCBzc2Q9Tm9uZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -170,10 +189,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZcPg==</last-search>
+      <last-search>pdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>pdf</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -188,6 +207,10 @@
         <entry>analyze</entry>
         <entry>reconstr</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry>unsqu</entry>
+        <entry>.to</entry>
+        <entry>to(</entry>
+        <entry>pdf</entry>
       </history-search>
       <history-cmd />
       <history-expr />
