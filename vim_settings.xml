@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549653482949">
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="50" column="20" />
-        <mark key="^" line="50" column="20" />
-        <mark key="." line="50" column="20" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549659352375">
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549653491065">
         <mark key="[" line="0" column="0" />
@@ -46,12 +46,17 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549656396350">
-        <mark key="'" line="83" column="66" />
-        <mark key="[" line="29" column="70" />
-        <mark key="]" line="29" column="73" />
-        <mark key="^" line="29" column="73" />
-        <mark key="." line="29" column="73" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/loss.py" timestamp="1549657497460">
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549657713261">
+        <mark key="'" line="72" column="91" />
+        <mark key="[" line="83" column="71" />
+        <mark key="]" line="83" column="71" />
+        <mark key="." line="83" column="71" />
+        <mark key="^" line="83" column="101" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -156,57 +161,60 @@
       <jump line="28" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="29" column="52" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="57" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="70" column="64" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="351" column="31" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" />
       <jump line="50" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="83" column="66" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="64" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="30" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="70" column="64" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="72" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.custom_head</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxlYXJuLmRhdGEuZGV2aWNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.custom_head</text>
+        <text>.to(self.device)</text>
       </register>
       <register name="/" type="4">
-        <text>cuda</text>
+        <text>to(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuLmxvc3NfZnVuYyA9IHNlbGYuc3NkX2xvc3MK</text>
+        <text encoding="base64">ICAgIGxlYXJuLmRhdGEuZGV2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsLmRldmljZSgpCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YS5kZXZpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuLm1vZGVsID0gc2VsZi5sZWFybi5tb2RlbC50byhkYXRhLmRldmljZSkK</text>
+        <text encoding="base64">ZmFzdGFpLnV0aWxzLmNvbGxlY3RfZW52LmNoZWNrX3BlcmYoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
+        <text encoding="base64">aW1wb3J0IGZhc3RhaS51dGlscy5jb2xsZWN0X2Vudgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNzZC5kZXZpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmJfYm94Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuLmxvc3NfZnVuYyA9IHNlbGYuc3NkX2xvc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsLmRldmljZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YS5kZXZpY2UK</text>
       </register>
     </registers>
     <search>
-      <last-search>cuda</last-search>
+      <last-search>to(</last-search>
       <last-offset />
-      <last-pattern>cuda</last-pattern>
+      <last-pattern>to(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,8 +235,8 @@
         <entry>hw2</entry>
         <entry>actn_to</entry>
         <entry>device</entry>
-        <entry>to(</entry>
         <entry>cuda</entry>
+        <entry>to(</entry>
       </history-search>
       <history-cmd />
       <history-expr />
