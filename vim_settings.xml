@@ -50,10 +50,10 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549579481462">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="21" />
-        <mark key="." line="36" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549595978535">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
@@ -156,7 +156,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZW4oKDEsMikpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvc3NfZiA9IGxvc3NfY2xzKGRhdGEuYykK</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -168,31 +168,31 @@
         <text encoding="base64">aW1wb3J0IGhpZGRlbmxheWVyIGFzIGhsCnNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZW4oKDEsMikpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvc3NfZiA9IGxvc3NfY2xzKGRhdGEuYykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZW4oKDEsMikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlzdCh6aXAoKDEsMiksICgzLDQpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlzdCh6aXAoKDEsMiksICgzLDQpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgcHJldHJhaW5lZF9wYXRoIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmxvYWQocHJldHJhaW5lZF9wYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhID0gZGF0YQo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgcHJldHJhaW5lZF9wYXRoIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmxvYWQocHJldHJhaW5lZF9wYXRoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU1NESGVhZChncmlkcywgc2VsZi5fYW5jaG9yc19wZXJfY2VsbCwgZGF0YS5jLCBkcm9wPWRyb3AsIGJpYXM9YmlhcykpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhID0gZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU1NESGVhZChncmlkcywgc2VsZi5fYW5jaG9yc19wZXJfY2VsbCwgZGF0YS5jLCBkcm9wPWRyb3AsIGJpYXM9YmlhcykpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
     </registers>
     <search>
