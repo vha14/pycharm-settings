@@ -46,8 +46,8 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549654303750">
-        <mark key="'" line="70" column="64" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549656396350">
+        <mark key="'" line="83" column="66" />
         <mark key="[" line="29" column="70" />
         <mark key="]" line="29" column="73" />
         <mark key="^" line="29" column="73" />
@@ -136,9 +136,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" />
       <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
       <jump line="44" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" />
-      <jump line="50" column="26" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="219" column="55" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="1" column="47" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="2" column="42" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="6" column="6" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
@@ -160,6 +158,9 @@
       <jump line="57" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="70" column="64" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="351" column="31" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" />
+      <jump line="50" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="83" column="66" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -169,7 +170,7 @@
         <text>self.custom_head</text>
       </register>
       <register name="/" type="4">
-        <text>to(</text>
+        <text>cuda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
@@ -203,9 +204,9 @@
       </register>
     </registers>
     <search>
-      <last-search>to(</last-search>
+      <last-search>cuda</last-search>
       <last-offset />
-      <last-pattern>to(</last-pattern>
+      <last-pattern>cuda</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,6 +228,7 @@
         <entry>actn_to</entry>
         <entry>device</entry>
         <entry>to(</entry>
+        <entry>cuda</entry>
       </history-search>
       <history-cmd />
       <history-expr />
