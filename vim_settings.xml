@@ -9,11 +9,6 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1549254241933">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1549428916172">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,11 +45,17 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549595978535">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="38" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="36" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/loss.py" timestamp="1549601424628">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="34" column="82" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549601673116">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="7" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="49" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -156,8 +157,8 @@
       <jump line="12" column="45" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -169,31 +170,31 @@
         <text encoding="base64">aW1wb3J0IGhpZGRlbmxheWVyIGFzIGhsCnNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvc3NfZiA9IGxvc3NfY2xzKGRhdGEuYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZW4oKDEsMikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGlzdCh6aXAoKDEsMiksICgzLDQpKSkK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYW5jX3JhdGlvczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgcHJldHJhaW5lZF9wYXRoIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmxvYWQocHJldHJhaW5lZF9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYW5jX3pvb21zOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhID0gZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYW5jX2dyaWRzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU1NESGVhZChncmlkcywgc2VsZi5fYW5jaG9yc19wZXJfY2VsbCwgZGF0YS5jLCBkcm9wPWRyb3AsIGJpYXM9YmlhcykpKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
     </registers>
     <search>
