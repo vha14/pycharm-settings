@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549659352375">
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549659783763">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549653491065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1549661227991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1549471952395">
@@ -46,17 +49,18 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/loss.py" timestamp="1549657497460">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="47" />
-        <mark key="." line="42" column="47" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/loss.py" timestamp="1549661570253">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549657713261">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549659754240">
         <mark key="'" line="72" column="91" />
-        <mark key="[" line="83" column="71" />
-        <mark key="]" line="83" column="71" />
-        <mark key="." line="83" column="71" />
-        <mark key="^" line="83" column="101" />
+        <mark key="[" line="73" column="79" />
+        <mark key="]" line="73" column="93" />
+        <mark key="." line="73" column="93" />
+        <mark key="^" line="73" column="93" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -171,50 +175,50 @@
       <jump line="72" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLmRhdGEuZGV2aWNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>, device=targ.device</text>
       </register>
       <register name="-" type="4">
-        <text>.to(self.device)</text>
+        <text>, device=targ.device</text>
       </register>
       <register name="/" type="4">
-        <text>to(</text>
+        <text>eye</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLmRhdGEuZGV2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICB4LmlzX2N1ZGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEubG9zc19mdW5jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmFzdGFpLnV0aWxzLmNvbGxlY3RfZW52LmNoZWNrX3BlcmYoKQo=</text>
+        <text encoding="base64">ICAgIGxlYXJuLmxvc3NfZnVuYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZhc3RhaS51dGlscy5jb2xsZWN0X2Vudgo=</text>
+        <text encoding="base64">ZGF0YS5sb3NzX2Z1bmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmJfYm94Cg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLmRhdGEuZGV2aWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuLmxvc3NfZnVuYyA9IHNlbGYuc3NkX2xvc3MK</text>
+        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsLmRldmljZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YS5kZXZpY2UK</text>
+        <text encoding="base64">ZmFzdGFpLnV0aWxzLmNvbGxlY3RfZW52LmNoZWNrX3BlcmYoKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>to(</last-search>
+      <last-search>eye</last-search>
       <last-offset />
-      <last-pattern>to(</last-pattern>
+      <last-pattern>eye</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -237,6 +241,8 @@
         <entry>device</entry>
         <entry>cuda</entry>
         <entry>to(</entry>
+        <entry>nesor</entry>
+        <entry>eye</entry>
       </history-search>
       <history-cmd />
       <history-expr />
