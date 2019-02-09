@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549671097937">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549671721693">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1549653491065">
         <mark key="[" line="0" column="0" />
@@ -175,11 +175,11 @@
       <jump line="72" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.to(targ.device)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vZGVscy5yZXNuZXQzNCgpLmV2YWwoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.to(targ.device)</text>
+        <text>18</text>
       </register>
       <register name="/" type="4">
         <text>eye</text>
@@ -188,31 +188,31 @@
         <text encoding="base64">ICAgIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhKQogICAgbGVhcm4gPSBzc2QubGVhcm4KCiAgICBkYXRhLnNob3dfYmF0Y2goKQoKICAgIGxlYXJuLmxyX2ZpbmQoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxyX2ZpbmQoKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVscy5yZXNuZXQzNCgpLmV2YWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsWzBdLmV2YWwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gdG9yY2h2aXNpb24gaW1wb3J0IG1vZGVscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3NkID0gU2luZ2xlU2hvdERldGVjdG9yKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLm1vZGVsWy0xXSAgPT0gbW9kZWxzLnJlc25ldDM0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLnJlY29yZGVyLnBsb3QoKQo=</text>
+        <text encoding="base64">c3NkLmxlYXJuLmxyX2ZpbmQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YS5kZXZpY2UK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGV2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">c3NkID0gU2luZ2xlU2hvdERldGVjdG9yKGRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">c3NkLmxlYXJuLnJlY29yZGVyLnBsb3QoKQo=</text>
       </register>
     </registers>
     <search>
