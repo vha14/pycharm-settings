@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549729512620">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549733979374">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="55" />
+        <mark key="^" line="49" column="55" />
+        <mark key="." line="49" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1549653491065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1549733826541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1549690390422">
@@ -180,44 +183,44 @@
       <jump line="72" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBodHRwOi8vaG9zdC5yb2JvdHMub3guYWMudWsvcGFzY2FsL1ZPQy92b2MyMDA3L1ZPQ3Rlc3RfMDYtTm92LTIwMDcudGFyCg==</text>
+      <register name="&quot;" type="4">
+        <text>lst.split_by_files(images_v)</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>lst.split_by_files(images_v)</text>
       </register>
       <register name="/" type="4">
         <text>eye</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBUZXN0OiBodHRwOi8vaG9zdC5yb2JvdHMub3guYWMudWsvcGFzY2FsL1ZPQy92b2MyMDA3L1ZPQ3Rlc3RfMDYtTm92LTIwMDcudGFyCg==</text>
+        <text encoding="base64">bHN0X3ZhID0gbHN0LmZpbHRlcl9ieV9mdW5jKGxhbWJkYSBpdGVtOiBpdGVtLm5hbWUgaW4gaW1hZ2VzX3ZhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBodHRwOi8vaG9zdC5yb2JvdHMub3guYWMudWsvcGFzY2FsL1ZPQy92b2MyMDA3L1ZPQ3Rlc3RfMDYtTm92LTIwMDcudGFyCg==</text>
+        <text encoding="base64">bHN0LmZpbHRlcl9ieV9mdW5jKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVuKGltYWdlc190KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nMmJib3ggPSBkaWN0KHppcChpbWFnZXMsIGxibF9iYm94KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGJsX2Jib3guZXh0ZW5kKGxibF9iYm94X3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGJsX2Jib3guZXh0ZW5kKGxibF9iYm94X3YpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1hZ2VzLmV4dGVuZChpbWFnZXNfdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1hZ2VzLmV4dGVuZChpbWFnZXNfdikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uLmltYWdlIGltcG9ydCBJbWFnZQo=</text>
+        <text encoding="base64">aW1hZ2VzX3ZbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uLmRhdGEgaW1wb3J0IEltYWdlQkJveAo=</text>
+        <text encoding="base64">IyBodHRwOi8vaG9zdC5yb2JvdHMub3guYWMudWsvcGFzY2FsL1ZPQy92b2MyMDA3L1ZPQ3Rlc3RfMDYtTm92LTIwMDcudGFyCg==</text>
       </register>
     </registers>
     <search>
