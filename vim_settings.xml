@@ -12,12 +12,12 @@
       <file name="/fragment.py" timestamp="1549737760797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ssd_keras/ssd300_training.py" timestamp="1549846209827">
+      <file name="$USER_HOME$/work/ssd_keras/ssd300_training.py" timestamp="1549846982783">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="155" />
-        <mark key="]" line="234" column="82" />
-        <mark key="^" line="236" column="67" />
-        <mark key="." line="234" column="82" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1549734246559">
         <mark key="[" line="0" column="0" />
@@ -234,8 +234,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -247,31 +247,31 @@
         <text encoding="base64">Vk9DXzIwMDdfdHJhaW5faW1hZ2Vfc2V0X2ZpbGVuYW1lICAgID0gZiJ7Vk9DXzIwMDdfUk9PVERJUn0vSW1hZ2VTZXRzL01haW4vdHJhaW4udHh0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Vk9DXzIwMDdfdGVzdF9pbWFnZV9zZXRfZmlsZW5hbWUgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3Rlc3QudHh0Jwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
+        <text encoding="base64">Sy50ZW5zb3JmbG93X2JhY2tlbmQuX2dldF9hdmFpbGFibGVfZ3B1cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Vk9DXzIwMDdfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
+        <text encoding="base64">Vk9DXzIwMDdfdGVzdF9pbWFnZV9zZXRfZmlsZW5hbWUgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3Rlc3QudHh0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Vk9DXzIwMDdfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
+        <text encoding="base64">Vk9DXzIwMTJfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfdHJhaW5faW1hZ2Vfc2V0X2ZpbGVuYW1lICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3RyYWluLnR4dCcK</text>
+        <text encoding="base64">Vk9DXzIwMDdfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfYW5ub3RhdGlvbnNfZGlyICAgICAgPSAnLi4vLi4vZGF0YXNldHMvVk9DZGV2a2l0L1ZPQzIwMTIvQW5ub3RhdGlvbnMvJwo=</text>
+        <text encoding="base64">Vk9DXzIwMTJfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfaW1hZ2VzX2RpciAgICAgID0gZiJWT0MyMDEyL0pQRUdJbWFnZXMvIgo=</text>
+        <text encoding="base64">Vk9DXzIwMDdfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
       </register>
     </registers>
     <search>
