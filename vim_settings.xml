@@ -12,8 +12,8 @@
       <file name="/fragment.py" timestamp="1549737760797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ssd_keras/ssd300_training.py" timestamp="1549850060776">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/ssd_keras/ssd300_training.py" timestamp="1549851611952">
+        <mark key="'" line="87" column="115" />
         <mark key="[" line="138" column="24" />
         <mark key="]" line="138" column="27" />
         <mark key="^" line="138" column="27" />
@@ -66,7 +66,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549845401906">
+      <file name="/Dummy.txt" timestamp="1549851253098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
@@ -136,12 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="8" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
-      <jump line="412" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
-      <jump line="442" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="110" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="2" column="34" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="341" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
@@ -232,6 +226,16 @@
       <jump line="129" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="415" column="11" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="398" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="143" column="37" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="144" column="59" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="342" column="195" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="363" column="49" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="367" column="35" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="368" column="35" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="393" column="605" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="395" column="362" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="87" column="115" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -241,7 +245,7 @@
         <text>sgd</text>
       </register>
       <register name="/" type="4">
-        <text>cuda</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Vk9DXzIwMDdfdHJhaW5faW1hZ2Vfc2V0X2ZpbGVuYW1lICAgID0gZiJ7Vk9DXzIwMDdfUk9PVERJUn0vSW1hZ2VTZXRzL01haW4vdHJhaW4udHh0Igo=</text>
@@ -275,15 +279,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cuda</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>cuda</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>act</entry>
         <entry>ssdo</entry>
         <entry>analyze</entry>
         <entry>reconstr</entry>
@@ -303,6 +306,7 @@
         <entry>gpu</entry>
         <entry>GPU</entry>
         <entry>cuda</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd />
       <history-expr />
