@@ -100,8 +100,8 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549669916885">
-        <mark key="'" line="72" column="91" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549911086808">
+        <mark key="'" line="60" column="0" />
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="40" />
         <mark key="." line="20" column="40" />
@@ -136,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="34" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="341" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="141" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="139" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
@@ -236,6 +235,7 @@
       <jump line="395" column="362" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="87" column="115" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="2208" column="86" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -245,7 +245,7 @@
         <text>TINY</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>nms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YTogSW1hZ2VEYXRhQnVuY2ggPSAoT2JqZWN0SXRlbUxpc3QuZnJvbV9mb2xkZXIoY29jbykK</text>
@@ -279,15 +279,14 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>nms</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>nms</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ssdo</entry>
         <entry>analyze</entry>
         <entry>reconstr</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
@@ -307,6 +306,7 @@
         <entry>GPU</entry>
         <entry>cuda</entry>
         <entry>save</entry>
+        <entry>nms</entry>
       </history-search>
       <history-cmd />
       <history-expr />
