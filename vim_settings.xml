@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549863729604">
-        <mark key="'" line="130" column="12" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1549863717747">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549897930639">
+        <mark key="'" line="154" column="12" />
+        <mark key="[" line="47" column="2" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1549737760797">
         <mark key="[" line="0" column="0" />
@@ -240,11 +238,11 @@
       <jump line="2208" column="86" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhc19yZXRpbmFuZXQgaW1wb3J0IG1vZGVscwo=</text>
+      <register name="&quot;" type="4">
+        <text>.__class__</text>
       </register>
       <register name="-" type="4">
-        <text>sgd</text>
+        <text>.__class__</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -253,31 +251,31 @@
         <text encoding="base64">Vk9DXzIwMDdfdHJhaW5faW1hZ2Vfc2V0X2ZpbGVuYW1lICAgID0gZiJ7Vk9DXzIwMDdfUk9PVERJUn0vSW1hZ2VTZXRzL01haW4vdHJhaW4udHh0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhc19yZXRpbmFuZXQgaW1wb3J0IG1vZGVscwo=</text>
+        <text encoding="base64">ZGF0YS5zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
+        <text encoding="base64">bGVuKGltYWdlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Sy50ZW5zb3JmbG93X2JhY2tlbmQuX2dldF9hdmFpbGFibGVfZ3B1cygpCg==</text>
+        <text encoding="base64">ZnJvbSBrZXJhc19yZXRpbmFuZXQgaW1wb3J0IG1vZGVscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Vk9DXzIwMDdfdGVzdF9pbWFnZV9zZXRfZmlsZW5hbWUgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3Rlc3QudHh0Jwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
+        <text encoding="base64">Sy50ZW5zb3JmbG93X2JhY2tlbmQuX2dldF9hdmFpbGFibGVfZ3B1cygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Vk9DXzIwMDdfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
+        <text encoding="base64">Vk9DXzIwMDdfdGVzdF9pbWFnZV9zZXRfZmlsZW5hbWUgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3Rlc3QudHh0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Vk9DXzIwMTJfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
