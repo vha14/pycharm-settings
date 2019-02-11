@@ -9,11 +9,15 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549842695696">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1549737760797">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ssd_keras/ssd300_training.py" timestamp="1549846209827">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="155" />
+        <mark key="]" line="234" column="82" />
+        <mark key="^" line="236" column="67" />
+        <mark key="." line="234" column="82" />
       </file>
       <file name="/a.dummy" timestamp="1549734246559">
         <mark key="[" line="0" column="0" />
@@ -62,7 +66,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549653491065">
+      <file name="/Dummy.txt" timestamp="1549845401906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
@@ -226,59 +230,59 @@
       <jump line="107" column="37" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="212" column="51" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="129" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="415" column="11" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>simple_ssd</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>tf</text>
+        <text>cuda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiU3RhcnRpbmcgZXhwZXJpbWVudCB3aXRoIHtzaW1wbGVfc3NkLmRldmljZX0iKQo=</text>
+        <text encoding="base64">Vk9DXzIwMDdfdHJhaW5faW1hZ2Vfc2V0X2ZpbGVuYW1lICAgID0gZiJ7Vk9DXzIwMDdfUk9PVERJUn0vSW1hZ2VTZXRzL01haW4vdHJhaW4udHh0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vk9DXzIwMDdfdGVzdF9pbWFnZV9zZXRfZmlsZW5hbWUgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3Rlc3QudHh0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5vcAo=</text>
+        <text encoding="base64">Vk9DXzIwMTJfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNpbXBsZV9sZWFybi5tZXRyaWNzCg==</text>
+        <text encoding="base64">Vk9DXzIwMDdfdHJhaW52YWxfaW1hZ2Vfc2V0X2ZpbGVuYW1lID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3RyYWludmFsLnR4dCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vk9DXzIwMTJfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vk9DXzIwMDdfdmFsX2ltYWdlX3NldF9maWxlbmFtZSAgICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDA3L0ltYWdlU2V0cy9NYWluL3ZhbC50eHQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTY0LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
+        <text encoding="base64">Vk9DXzIwMTJfdHJhaW5faW1hZ2Vfc2V0X2ZpbGVuYW1lICAgID0gJy4uLy4uL2RhdGFzZXRzL1ZPQ2RldmtpdC9WT0MyMDEyL0ltYWdlU2V0cy9NYWluL3RyYWluLnR4dCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVmlzdWFsaXplCiAgICBzaW1wbGVfbGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MTYsIHRocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSwgc3NkPXNpbXBsZV9zc2QpCgo=</text>
+        <text encoding="base64">Vk9DXzIwMTJfYW5ub3RhdGlvbnNfZGlyICAgICAgPSAnLi4vLi4vZGF0YXNldHMvVk9DZGV2a2l0L1ZPQzIwMTIvQW5ub3RhdGlvbnMvJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vk9DXzIwMTJfaW1hZ2VzX2RpciAgICAgID0gZiJWT0MyMDEyL0pQRUdJbWFnZXMvIgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>tf</last-search>
+      <last-search>cuda</last-search>
       <last-offset />
-      <last-pattern>tf</last-pattern>
+      <last-pattern>cuda</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loss_func</entry>
-        <entry>h2</entry>
         <entry>act</entry>
         <entry>ssdo</entry>
         <entry>analyze</entry>
@@ -290,13 +294,15 @@
         <entry>hw2</entry>
         <entry>actn_to</entry>
         <entry>device</entry>
-        <entry>cuda</entry>
         <entry>to(</entry>
         <entry>nesor</entry>
         <entry>eye</entry>
         <entry>def pro</entry>
         <entry>pad_idx</entry>
         <entry>tf</entry>
+        <entry>gpu</entry>
+        <entry>GPU</entry>
+        <entry>cuda</entry>
       </history-search>
       <history-cmd />
       <history-expr />
