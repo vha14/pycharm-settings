@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549953177082">
-        <mark key="'" line="88" column="39" />
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="33" />
-        <mark key="^" line="90" column="29" />
-        <mark key="." line="90" column="33" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549987994288">
+        <mark key="'" line="86" column="39" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+      </file>
+      <file name="/Python Console" timestamp="1549954013282">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1549950596786">
         <mark key="[" line="0" column="0" />
@@ -115,12 +117,11 @@
         <mark key="." line="65" column="15" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549951341674">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549987983888">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="115" column="89" />
-        <mark key="]" line="116" column="19" />
-        <mark key="." line="116" column="19" />
-        <mark key="^" line="116" column="19" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549738853552">
         <mark key="'" line="355" column="75" />
@@ -240,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if torch.cuda.is_available() else torch.device('cpu')</text>
+        <text>, bb_pad_collate</text>
       </register>
       <register name="-" type="4">
-        <text>if torch.cuda.is_available() else torch.device('cpu')</text>
+        <text>, bb_pad_collate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -252,31 +253,45 @@
         <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZiJTdGFydGluZyBleHBlcmltZW50IHdpdGgge3NzZC5kZXZpY2V9IikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>def bb_pad_collate(samples: BatchSamples, pad_idx: int = 0):
+    &quot;Function that collect `samples` of labelled bboxes and adds padding with `pad_idx`.&quot;
+    print(&quot;collating&quot;)
+    if isinstance(samples[0][1], int): return data_collate(samples)
+    max_len = max([len(s[1].data[1]) for s in samples])
+    bboxes = torch.zeros(len(samples), max_len, 4)
+    labels = torch.zeros(len(samples), max_len).long() + pad_idx
+    imgs = []
+    for i, s in enumerate(samples):
+        imgs.append(s[0].data[None])
+        bbs, lbls = s[1].data
+        if not (bbs.nelement() == 0):
+            bboxes[i, -len(lbls):] = bbs
+            labels[i, -len(lbls):] = tensor(lbls)
+    return torch.cat(imgs, 0), (bboxes, labels)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBUaGlzIG9uZSBoYXMgYSBidWcgaW4gdjEuMC40MiBvciBlYXJsaWVyLCBzbyBmaXggaGVyZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVhcm4gPSBzc2QubGVhcm4K</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3NkID0gU2luZ2xlU2hvdERldGVjdG9yKGRhdGEsIGJhY2tib25lPW1vZGVscy5yZXNuZXQzNCkK</text>
+        <text encoding="base64">bGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jX2xvc3MsIGNsYXNfbG9zcyA9IHNlbGYuc3NkXzFfbG9zcyhiX2MsIGJfYmIsIGJib3gsIGNsYXMsIHByaW50X2l0KQo=</text>
+        <text encoding="base64">cHJpbnQoZiJTdGFydGluZyBleHBlcmltZW50IHdpdGgge3NzZC5kZXZpY2V9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcmludF9pdDogcHJpbnQoZidsb2M6IHtsbHN9LCBjbGFzOiB7bGNzfScpICAjQ0hBTkdFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
