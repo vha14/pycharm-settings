@@ -100,12 +100,11 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549989886705">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="93" column="56" />
-        <mark key="." line="93" column="56" />
-        <mark key="^" line="93" column="56" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549990419515">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="96" column="37" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -241,7 +240,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>, normalize bbox (why?)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -253,42 +252,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYm94LCBjbGFzID0gZ2V0X3koYmJveCwgY2xhcykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYm94W2tlZXBdLCBjbGFzW2tlZXBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkudG9yY2hfY29yZSBpbXBvcnQgZGF0YV9jb2xsYXRlLCB0ZW5zb3IK</text>
+        <text encoding="base64">ICAgIGtlZXAgPSBiYm94WzosIDJdID4gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuY29yZSBpbXBvcnQgQmF0Y2hTYW1wbGVzCg==</text>
+        <text encoding="base64">ZGVmIGdldF95KGJib3gsIGNsYXMpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3B1JykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>def bb_pad_collate(samples: BatchSamples, pad_idx: int = 0):
-    &quot;Function that collect `samples` of labelled bboxes and adds padding with `pad_idx`.&quot;
-    print(&quot;collating&quot;)
-    if isinstance(samples[0][1], int): return data_collate(samples)
-    max_len = max([len(s[1].data[1]) for s in samples])
-    bboxes = torch.zeros(len(samples), max_len, 4)
-    labels = torch.zeros(len(samples), max_len).long() + pad_idx
-    imgs = []
-    for i, s in enumerate(samples):
-        imgs.append(s[0].data[None])
-        bbs, lbls = s[1].data
-        if not (bbs.nelement() == 0):
-            bboxes[i, -len(lbls):] = bbs
-            labels[i, -len(lbls):] = tensor(lbls)
-    return torch.cat(imgs, 0), (bboxes, labels)</text>
+      <register name="6" type="2">
+        <text encoding="base64">IiIiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ym94ZXMgdGhhdCBhcmUganVzdCBwYWRkaW5nLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dGhlbiBoYXZlIHRvIG1ha2Ugc3VyZSB0aGF0IHlvdSBnZXQgcmlkIG9mIHRob3NlIHplcm9zLiBTbyBnZXRfeSBnZXRzIHJpZCBvZiBhbnkgb2YgdGhlIGJvdW5kaW5nIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">WzE6MTE6MDhdLiBUaGlzIHdhcyBzb21ldGhpbmcgdGhhdCB3YXMgYWRkZWQgcmVjZW50bHkgYW5kIHN1cGVyIGhhbmR5LCBidXQgdGhhdCBkb2VzIG1lYW4gdGhhdCB5b3UgCg==</text>
       </register>
     </registers>
     <search>
