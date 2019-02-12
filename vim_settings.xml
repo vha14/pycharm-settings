@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549988826915">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549994615606">
         <mark key="'" line="86" column="39" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1549990725639">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="98" column="19" />
+        <mark key="]" line="97" column="82" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="100" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1549992299947">
         <mark key="[" line="0" column="0" />
@@ -240,7 +238,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpbXBsZV9zc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
       </register>
       <register name="-" type="4">
         <text>, normalize bbox (why?)</text>
@@ -249,34 +247,34 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGtlZXAgPSBiYm94WzosIDJdID4gMAogICAgcmV0dXJuIGJib3hba2VlcF0sIGNsYXNba2VlcF0K</text>
+        <text encoding="base64">ICAgIHNpbXBsZV9zc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4ubW9kZWxbLTFdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYm94W2tlZXBdLCBjbGFzW2tlZXBdCg==</text>
+        <text encoding="base64">c3NkLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtlZXAgPSBiYm94WzosIDJdID4gMAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF95KGJib3gsIGNsYXMpOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBiYm94W2tlZXBdLCBjbGFzW2tlZXBdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGtlZXAgPSBiYm94WzosIDJdID4gMAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ZGVmIGdldF95KGJib3gsIGNsYXMpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ym94ZXMgdGhhdCBhcmUganVzdCBwYWRkaW5nLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGhlbiBoYXZlIHRvIG1ha2Ugc3VyZSB0aGF0IHlvdSBnZXQgcmlkIG9mIHRob3NlIHplcm9zLiBTbyBnZXRfeSBnZXRzIHJpZCBvZiBhbnkgb2YgdGhlIGJvdW5kaW5nIAo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WzE6MTE6MDhdLiBUaGlzIHdhcyBzb21ldGhpbmcgdGhhdCB3YXMgYWRkZWQgcmVjZW50bHkgYW5kIHN1cGVyIGhhbmR5LCBidXQgdGhhdCBkb2VzIG1lYW4gdGhhdCB5b3UgCg==</text>
+        <text encoding="base64">Ym94ZXMgdGhhdCBhcmUganVzdCBwYWRkaW5nLgo=</text>
       </register>
     </registers>
     <search>
