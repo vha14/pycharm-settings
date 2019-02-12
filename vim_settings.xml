@@ -9,11 +9,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549931678483">
+      <file name="/fragment.py" timestamp="1549934733626">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1549932604863">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ssd_keras/ssd300_training.py" timestamp="1549851611952">
         <mark key="'" line="87" column="115" />
@@ -102,12 +101,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549932601618">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549936181255">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="20" column="40" />
+        <mark key="[" line="136" column="41" />
+        <mark key="]" line="138" column="31" />
+        <mark key="." line="138" column="31" />
+        <mark key="^" line="138" column="31" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -240,11 +239,11 @@
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuZGF0YXNldHMgaW1wb3J0IHVudGFyX2RhdGEsIFVSTHMK</text>
+      <register name="&quot;" type="4">
+        <text>clas[bbox[:,2].nonzero()].squeeze(0)</text>
       </register>
       <register name="-" type="4">
-        <text>TINY</text>
+        <text>clas[bbox[:,2].nonzero()].squeeze(0)</text>
       </register>
       <register name="/" type="4">
         <text>nms</text>
