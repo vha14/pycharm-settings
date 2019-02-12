@@ -3,12 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549950813353">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549953177082">
         <mark key="'" line="88" column="39" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="114" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="90" column="33" />
+        <mark key="]" line="90" column="33" />
+        <mark key="^" line="90" column="29" />
+        <mark key="." line="90" column="33" />
+      </file>
+      <file name="/Python Console" timestamp="1549953194380">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1549950596786">
         <mark key="[" line="0" column="0" />
@@ -240,17 +243,17 @@
       <jump line="87" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>if torch.cuda.is_available() else torch.device('cpu')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>if torch.cuda.is_available() else torch.device('cpu')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBiYWNrYm9uZT1tb2RlbHMucmVzbmV0MzQpCiAgICBsZWFybiA9IHNzZC5sZWFybgoKICAgICMgVHJhaW5pbmcKICAgIHByaW50KGYiU3RhcnRpbmcgZXhwZXJpbWVudCB3aXRoIHtzc2QuZGV2aWNlfSIpCiAgICBsZWFybi5scl9maW5kKCkKICAgIGxlYXJuLnJlY29yZGVyLnBsb3QoKQogICAgbGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
