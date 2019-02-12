@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549938691138">
-        <mark key="'" line="134" column="12" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="94" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549949162046">
+        <mark key="'" line="88" column="39" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="114" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1549938080265">
+      <file name="/fragment.py" timestamp="1549949771492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -25,10 +25,10 @@
       <file name="/a.dummy" timestamp="1549734246559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1549654598206">
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1549948780240">
         <mark key="'" line="351" column="31" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="11" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="52" column="44" />
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
@@ -102,12 +102,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549938630423">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549942668855">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="156" column="29" />
-        <mark key="]" line="156" column="34" />
-        <mark key="." line="156" column="34" />
-        <mark key="^" line="156" column="34" />
+        <mark key="[" line="83" column="71" />
+        <mark key="]" line="83" column="71" />
+        <mark key="." line="83" column="71" />
+        <mark key="^" line="90" column="67" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -116,7 +116,7 @@
         <mark key="." line="65" column="15" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549473899203">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549949769377">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -138,7 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="141" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="139" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="353" column="13" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
@@ -238,58 +237,58 @@
       <jump line="87" column="115" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="2208" column="86" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="87" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>nms</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBiYWNrYm9uZT1tb2RlbHMucmVzbmV0MzQpCiAgICBsZWFybiA9IHNzZC5sZWFybgoKICAgICMgVHJhaW5pbmcKICAgIHByaW50KGYiU3RhcnRpbmcgZXhwZXJpbWVudCB3aXRoIHtzc2QuZGV2aWNlfSIpCiAgICBsZWFybi5scl9maW5kKCkKICAgIGxlYXJuLnJlY29yZGVyLnBsb3QoKQogICAgbGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLnJlY29yZGVyLnBsb3QoKQo=</text>
+        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLmxyX2ZpbmQoKQo=</text>
+        <text encoding="base64">bGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVHJhaW5pbmcK</text>
+        <text encoding="base64">cHJpbnQoZiJTdGFydGluZyBleHBlcmltZW50IHdpdGgge3NzZC5kZXZpY2V9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuZGF0YXNldHMgaW1wb3J0IHVudGFyX2RhdGEsIFVSTHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4gPSBzc2QubGVhcm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NkID0gU2luZ2xlU2hvdERldGVjdG9yKGRhdGEsIGJhY2tib25lPW1vZGVscy5yZXNuZXQzNCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jX2xvc3MsIGNsYXNfbG9zcyA9IHNlbGYuc3NkXzFfbG9zcyhiX2MsIGJfYmIsIGJib3gsIGNsYXMsIHByaW50X2l0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YS5zaG93X2JhdGNoKHJvd3M9MiwgZHNfdHlwZT1EYXRhc2V0VHlwZS5WYWxpZCwgZmlnc2l6ZT0oNiw2KSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcmludF9pdDogcHJpbnQoZidsb2M6IHtsbHN9LCBjbGFzOiB7bGNzfScpICAjQ0hBTkdFCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>nms</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>nms</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>analyze</entry>
         <entry>reconstr</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry>unsqu</entry>
@@ -309,6 +308,7 @@
         <entry>cuda</entry>
         <entry>save</entry>
         <entry>nms</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
