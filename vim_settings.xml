@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549987994288">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549988826915">
         <mark key="'" line="86" column="39" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
-      </file>
-      <file name="/Python Console" timestamp="1549954013282">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1549950596786">
         <mark key="[" line="0" column="0" />
@@ -103,12 +100,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549942668855">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="83" column="71" />
-        <mark key="]" line="83" column="71" />
-        <mark key="." line="83" column="71" />
-        <mark key="^" line="90" column="67" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549989886705">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="93" column="34" />
+        <mark key="]" line="93" column="56" />
+        <mark key="." line="93" column="56" />
+        <mark key="^" line="93" column="56" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -117,11 +114,11 @@
         <mark key="." line="65" column="15" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549987983888">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549989222447">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549738853552">
         <mark key="'" line="355" column="75" />
@@ -138,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="139" column="19" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="353" column="13" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="130" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
@@ -238,24 +234,43 @@
       <jump line="2208" column="86" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="87" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, bb_pad_collate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, bb_pad_collate</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
+        <text encoding="base64">ICAgIGtlZXAgPSBiYm94WzosIDJdID4gMAogICAgcmV0dXJuIGJib3hba2VlcF0sIGNsYXNba2VlcF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBiYm94LCBjbGFzID0gZ2V0X3koYmJveCwgY2xhcykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBmYXN0YWkudG9yY2hfY29yZSBpbXBvcnQgZGF0YV9jb2xsYXRlLCB0ZW5zb3IK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBmYXN0YWkuY29yZSBpbXBvcnQgQmF0Y2hTYW1wbGVzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3B1JykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>def bb_pad_collate(samples: BatchSamples, pad_idx: int = 0):
     &quot;Function that collect `samples` of labelled bboxes and adds padding with `pad_idx`.&quot;
     print(&quot;collating&quot;)
@@ -272,26 +287,8 @@
             labels[i, -len(lbls):] = tensor(lbls)
     return torch.cat(imgs, 0), (bboxes, labels)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBUaGlzIG9uZSBoYXMgYSBidWcgaW4gdjEuMC40MiBvciBlYXJsaWVyLCBzbyBmaXggaGVyZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVhcm4ucmVjb3JkZXIucGxvdCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGVhcm4ubHJfZmluZCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZiJTdGFydGluZyBleHBlcmltZW50IHdpdGgge3NzZC5kZXZpY2V9IikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
     </registers>
     <search>
