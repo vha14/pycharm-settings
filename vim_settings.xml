@@ -3,16 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549928074251">
-        <mark key="'" line="129" column="12" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1549938691138">
+        <mark key="'" line="134" column="12" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="94" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549936972225">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1549937370882">
+      <file name="/fragment.py" timestamp="1549938080265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,12 +102,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549937367312">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" timestamp="1549938630423">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="136" column="41" />
-        <mark key="]" line="138" column="31" />
-        <mark key="." line="138" column="31" />
-        <mark key="^" line="138" column="31" />
+        <mark key="[" line="156" column="29" />
+        <mark key="]" line="156" column="34" />
+        <mark key="." line="156" column="34" />
+        <mark key="^" line="156" column="34" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" timestamp="1549471663290">
         <mark key="'" line="65" column="0" />
@@ -242,44 +240,44 @@
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clas[bbox[:,2].nonzero()].squeeze(0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>clas[bbox[:,2].nonzero()].squeeze(0)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nms</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YTogSW1hZ2VEYXRhQnVuY2ggPSAoT2JqZWN0SXRlbUxpc3QuZnJvbV9mb2xkZXIoY29jbykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBiYWNrYm9uZT1tb2RlbHMucmVzbmV0MzQpCiAgICBsZWFybiA9IHNzZC5sZWFybgoKICAgICMgVHJhaW5pbmcKICAgIHByaW50KGYiU3RhcnRpbmcgZXhwZXJpbWVudCB3aXRoIHtzc2QuZGV2aWNlfSIpCiAgICBsZWFybi5scl9maW5kKCkKICAgIGxlYXJuLnJlY29yZGVyLnBsb3QoKQogICAgbGVhcm4uZml0KDIwLCBscj1zbGljZSgxZS0zLCAxZS0yKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuZGF0YXNldHMgaW1wb3J0IHVudGFyX2RhdGEsIFVSTHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLnJlY29yZGVyLnBsb3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLmxyX2ZpbmQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVHJhaW5pbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YS5zaG93X2JhdGNoKHJvd3M9MiwgZHNfdHlwZT1EYXRhc2V0VHlwZS5WYWxpZCwgZmlnc2l6ZT0oNiw2KSkK</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkuZGF0YXNldHMgaW1wb3J0IHVudGFyX2RhdGEsIFVSTHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZGF0YWJ1bmNoKGJzPTE2LCBjb2xsYXRlX2ZuPWJiX3BhZF9jb2xsYXRlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudHJhbnNmb3JtKGdldF90cmFuc2Zvcm1zKCksIHRmbV95PVRydWUsIHNpemU9MjI0KQo=</text>
+        <text encoding="base64">ZGF0YS5zaG93X2JhdGNoKHJvd3M9MiwgZHNfdHlwZT1EYXRhc2V0VHlwZS5WYWxpZCwgZmlnc2l6ZT0oNiw2KSkK</text>
       </register>
     </registers>
     <search>
