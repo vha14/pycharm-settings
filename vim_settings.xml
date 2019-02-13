@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550021263463">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550031636322">
         <mark key="'" line="86" column="39" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="101" column="3" />
-        <mark key="." line="19" column="15" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="102" column="3" />
+        <mark key="." line="98" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1550015543222">
+      <file name="/fragment.py" timestamp="1550034151608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -58,12 +58,12 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
         <mark key="'" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550022750945">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550034146512">
         <mark key="'" line="19" column="23" />
-        <mark key="[" line="152" column="24" />
-        <mark key="]" line="153" column="97" />
-        <mark key="^" line="153" column="97" />
-        <mark key="." line="153" column="97" />
+        <mark key="[" line="155" column="37" />
+        <mark key="]" line="155" column="36" />
+        <mark key="^" line="155" column="36" />
+        <mark key="." line="155" column="36" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -255,17 +255,17 @@
       <jump line="19" column="23" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIDcuIEFzc2lnbiBiYWNrZ3JvdW5kIGNsYXNzIGZvciB0aGUgb25lcyB0aGF0IGRpZCBub3QgbWF0Y2gK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNyYy9zY3JpcHRzLyoK</text>
+        <text encoding="base64">ICAgIHNpbXBsZV9zc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIDcuIEFzc2lnbiBiYWNrZ3JvdW5kIGNsYXNzIGZvciB0aGUgb25lcyB0aGF0IGRpZCBub3QgbWF0Y2gK</text>
