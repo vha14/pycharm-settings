@@ -9,7 +9,7 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1550034294521">
+      <file name="/fragment.py" timestamp="1550039004929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -38,6 +38,13 @@
         <mark key="." line="6" column="97" />
         <mark key="^" line="6" column="97" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1550040595510">
+        <mark key="'" line="73" column="24" />
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="28" />
+        <mark key="." line="73" column="28" />
+        <mark key="^" line="73" column="28" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detection.py" timestamp="1549392442997">
         <mark key="'" line="130" column="0" />
         <mark key="[" line="130" column="18" />
@@ -51,12 +58,12 @@
         <mark key="^" line="299" column="37" />
         <mark key="." line="299" column="37" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550037946556">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="105" column="8" />
-        <mark key="]" line="105" column="8" />
-        <mark key="^" line="116" column="52" />
-        <mark key="." line="105" column="8" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550041103852">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="107" column="59" />
+        <mark key="]" line="107" column="78" />
+        <mark key="^" line="107" column="78" />
+        <mark key="." line="107" column="78" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -146,16 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="210" column="28" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="16" column="9" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="216" column="15" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="265" column="46" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="432" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="86" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
       <jump line="103" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
       <jump line="131" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
       <jump line="130" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
@@ -246,59 +243,67 @@
       <jump line="49" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="19" column="23" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/loss.py" />
+      <jump line="107" column="31" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="32" column="20" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="34" column="53" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="35" column="37" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="36" column="31" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="43" column="20" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
+      <jump line="73" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detach</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detach</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</text>
+        <text>.data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNpbXBsZV9zc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWF0Y2guc2hhcGUgPT0gZ3RfaWR4LnNoYXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAocHJlZCAtIHRhcmdldCkuYWJzKCkubWVhbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGwxX2xvc3MocHJlZCwgdGFyZ2V0KToK</text>
+        <text encoding="base64">ICAgIHJldHVybiAocHJlZCAtIHRhcmdldCkuYWJzKCkubWVhbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NfbG9zcyA9ICgoYV9pY1ttYXRjaF0gLSBndF9iYm94W21hdGNoXSkuYWJzKCkpLm1lYW4oKQo=</text>
+        <text encoding="base64">ZGVmIGwxX2xvc3MocHJlZCwgdGFyZ2V0KToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NfbG9zcyA9ICgoYV9pY1ttYXRjaF0gLSBndF9iYm94W21hdGNoXSkuYWJzKCkpLm1lYW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIEwxIGxvY2FsaXphdGlvbiBsb3NzLCBhbmQgY2xhc3NpZmljYXRpb24gbG9zcyAoQkNFIGFzIGRlZmF1bHQpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIEwxIGxvY2FsaXphdGlvbiBsb3NzLCBhbmQgY2xhc3NpZmljYXRpb24gbG9zcyAoQkNFIGFzIGRlZmF1bHQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFR1cm4gdGhlIGFjdGl2YXRpb25zIHRvIGJvdW5kaW5nIGJveGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</last-search>
+      <last-search>.data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>.data</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZcPg==</entry>
-        <entry>unsqu</entry>
         <entry>.to</entry>
         <entry>pdf</entry>
         <entry>hw2</entry>
@@ -317,6 +322,8 @@
         <entry>nms</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</entry>
+        <entry>data</entry>
+        <entry>.data</entry>
       </history-search>
       <history-cmd />
       <history-expr />
