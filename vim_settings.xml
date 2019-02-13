@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550018087664">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550021263463">
         <mark key="'" line="86" column="39" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="3" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
         <mark key="^" line="101" column="3" />
-        <mark key="." line="101" column="3" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="/fragment.py" timestamp="1550015543222">
         <mark key="[" line="0" column="0" />
@@ -22,7 +22,8 @@
         <mark key="^" line="138" column="27" />
         <mark key="." line="138" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1549734246559">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_detector.py" timestamp="1550021135567" />
+      <file name="/a.dummy" timestamp="1550021139154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1549948780240">
@@ -32,11 +33,11 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550020850123">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
+        <mark key="[" line="6" column="97" />
+        <mark key="]" line="6" column="97" />
+        <mark key="." line="6" column="97" />
+        <mark key="^" line="6" column="97" />
       </file>
       <file name="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" timestamp="1549817028648">
         <mark key="'" line="212" column="51" />
@@ -56,6 +57,13 @@
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
         <mark key="'" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550022750945">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="152" column="24" />
+        <mark key="]" line="153" column="97" />
+        <mark key="^" line="153" column="97" />
+        <mark key="." line="153" column="97" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -89,11 +97,11 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1549556481887">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1550021920246">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549313667157">
         <mark key="[" line="48" column="15" />
@@ -127,15 +135,12 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1549989222447">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1550021178537">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1549738853552">
-        <mark key="'" line="355" column="75" />
-        <mark key="[" line="369" column="41" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_head.py" timestamp="1550019038695">
         <mark key="[" line="15" column="98" />
@@ -148,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="13" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="130" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detection.py" />
       <jump line="122" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
       <jump line="210" column="28" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
@@ -248,13 +252,14 @@
       <jump line="87" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="140" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="49" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNyYy9zY3JpcHRzLyoK</text>
+        <text encoding="base64">ICAgICAgICAjIDcuIEFzc2lnbiBiYWNrZ3JvdW5kIGNsYXNzIGZvciB0aGUgb25lcyB0aGF0IGRpZCBub3QgbWF0Y2gK</text>
       </register>
       <register name="-" type="4">
-        <text>scripts</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</text>
@@ -263,31 +268,31 @@
         <text encoding="base64">ICAgIHNyYy9zY3JpcHRzLyoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNyYy9zY3JpcHRzLyoK</text>
+        <text encoding="base64">ICAgICAgICAjIDcuIEFzc2lnbiBiYWNrZ3JvdW5kIGNsYXNzIGZvciB0aGUgb25lcyB0aGF0IGRpZCBub3QgbWF0Y2gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBndF9iYm94ID0gYmJveFtndF9pZHhdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b21pdCA9IHNyYy9zY3JpcHRzLyoK</text>
+        <text encoding="base64">ICAgIHNyYy9zY3JpcHRzLyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W3J1bl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W3J1bl0Kb21pdCA9IHNyYy9zY3JpcHRzLyoK</text>
+        <text encoding="base64">b21pdCA9IHNyYy9zY3JpcHRzLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4vc3JjL3Rlc3RzLyoK</text>
+        <text encoding="base64">W3J1bl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3NkID0gU2luZ2xlU2hvdERldGVjdG9yKGRhdGEsIGJhY2tib25lPW1vZGVscy5yZXNuZXQzNCkK</text>
+        <text encoding="base64">W3J1bl0Kb21pdCA9IHNyYy9zY3JpcHRzLyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2ltcGxlX3NzZC5sZWFybi5tb2RlbFstMV0K</text>
+        <text encoding="base64">ICAgIC4vc3JjL3Rlc3RzLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBsZWFybiA9IHNzZC5sZWFybgo=</text>
+        <text encoding="base64">c3NkID0gU2luZ2xlU2hvdERldGVjdG9yKGRhdGEsIGJhY2tib25lPW1vZGVscy5yZXNuZXQzNCkK</text>
       </register>
     </registers>
     <search>
