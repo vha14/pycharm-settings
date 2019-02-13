@@ -63,6 +63,9 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="FillParagraph">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
