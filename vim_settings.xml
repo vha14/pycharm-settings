@@ -37,12 +37,12 @@
         <mark key="^" line="299" column="37" />
         <mark key="." line="299" column="37" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550156756312">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550157312153">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="104" column="39" />
-        <mark key="]" line="105" column="22" />
-        <mark key="^" line="105" column="22" />
-        <mark key="." line="105" column="22" />
+        <mark key="[" line="116" column="62" />
+        <mark key="]" line="117" column="37" />
+        <mark key="." line="117" column="37" />
+        <mark key="^" line="117" column="37" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -221,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvcmNoLmdlKGZvbywgMCkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhlcmUiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>assert</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>.data</text>
@@ -233,31 +233,31 @@
         <text encoding="base64">ICAgIHNpbXBsZV9zc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvcmNoLmdlKGZvbywgMCkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhlcmUiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHgK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHggPSBmb28ubWF4KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhlcmUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvbyA9IFRlbnNvcihbMSwyLDNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZyb20gdG9yY2ggaW1wb3J0IFRlbnNvcgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRvcmNoLmdlKGZvbywgMCkuYWxsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCB0b3JjaAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb28uYWJzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHggPSBmb28ubWF4KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoZm9vID4gMCkuYWJzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvbyA9IFRlbnNvcihbMSwyLDNdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgKGZvbyA+IDApLmFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZyb20gdG9yY2ggaW1wb3J0IFRlbnNvcgo=</text>
       </register>
     </registers>
     <search>
