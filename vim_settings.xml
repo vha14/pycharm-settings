@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550205752669">
-        <mark key="'" line="86" column="39" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="99" column="41" />
-        <mark key="." line="99" column="12" />
-        <mark key="^" line="99" column="12" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550244926498">
+        <mark key="'" line="96" column="39" />
+        <mark key="[" line="84" column="3" />
+        <mark key="]" line="85" column="34" />
+        <mark key="." line="85" column="34" />
+        <mark key="^" line="85" column="34" />
       </file>
       <file name="/fragment.py" timestamp="1550211457316">
         <mark key="[" line="0" column="0" />
@@ -33,8 +33,9 @@
         <mark key="." line="6" column="97" />
         <mark key="^" line="6" column="97" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/scratch.py" timestamp="1550205078805">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/scratch.py" timestamp="1550244903664">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1550070518350">
         <mark key="'" line="73" column="24" />
@@ -61,7 +62,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550211052938">
+      <file name="/Dummy.txt" timestamp="1550244870839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
@@ -124,8 +125,8 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1550211629882">
-        <mark key="'" line="355" column="75" />
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1550245237525">
+        <mark key="'" line="39" column="5" />
         <mark key="[" line="369" column="41" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_head.py" timestamp="1550019038695">
@@ -139,10 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/detect_fastai.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" />
       <jump line="219" column="55" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="1" column="47" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="2" column="42" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
@@ -239,59 +236,61 @@
       <jump line="73" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
       <jump line="44" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="73" column="63" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
+      <jump line="373" column="13" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
+      <jump line="383" column="13" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
+      <jump line="39" column="5" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgYmFja2JvbmU9bW9kZWxzLnJlc25ldDM0KQojIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBncmlkcz1bNF0sIHpvb21zPVsxLjBdLCByYXRpb3M9W1sxLjAsIDEuMF1dKQoKIyBwcmludChmIlN0YXJ0aW5nIGV4cGVyaW1lbnQgd2l0aCB7c3NkLmRldmljZX0iKQojIHNzZC5sZWFybi5maXQoMjAsIGxyPXNsaWNlKDFlLTMsIDFlLTIpKQo=</text>
+        <text encoding="base64">YmIgPSBJbWFnZUJCb3guY3JlYXRlKGgsIHcsIGJib3hlcywgbGFiZWxzLCBjbGFzc2VzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>metric</text>
+        <text>ImageBBox.create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgYmFja2JvbmU9bW9kZWxzLnJlc25ldDM0KQojIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBncmlkcz1bNF0sIHpvb21zPVsxLjBdLCByYXRpb3M9W1sxLjAsIDEuMF1dKQoKIyBwcmludChmIlN0YXJ0aW5nIGV4cGVyaW1lbnQgd2l0aCB7c3NkLmRldmljZX0iKQojIHNzZC5sZWFybi5maXQoMjAsIGxyPXNsaWNlKDFlLTMsIDFlLTIpKQo=</text>
+        <text encoding="base64">YmIgPSBJbWFnZUJCb3guY3JlYXRlKGgsIHcsIGJib3hlcywgbGFiZWxzLCBjbGFzc2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJib3ggPSAoYmJveCArIDEuKS8yLiAgIyBUT0RPOiB3aHkgbm9ybWFsaXplPwo=</text>
+        <text encoding="base64">aTBmbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCB0b3JjaC5nZShhX2ljLCAwKS5hbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGJib3ggPSAoYmJveCArIDEuKS8yLiAgIyBUT0RPOiB3aHkgbm9ybWFsaXplPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydCB0b3JjaC5nZShhX2ljLCAwKS5hbGwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhlcmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCk6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhlcmUiKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCk6Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhlcmUiKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvcmNoLmdlKGZvbywgMCkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdG9yY2guZ2UoYmJveCwgMCkuYWxsKCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHgK</text>
+        <text encoding="base64">ICAgICAgICAjIHRvcmNoLmdlKGZvbywgMCkuYWxsKCkK</text>
       </register>
     </registers>
     <search>
-      <last-search>metric</last-search>
+      <last-search>ImageBBox.create</last-search>
       <last-offset />
-      <last-pattern>metric</last-pattern>
+      <last-pattern>ImageBBox.create</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pdf</entry>
-        <entry>hw2</entry>
         <entry>actn_to</entry>
         <entry>device</entry>
         <entry>to(</entry>
@@ -310,6 +309,8 @@
         <entry>data</entry>
         <entry>.data</entry>
         <entry>metric</entry>
+        <entry>draw_rect</entry>
+        <entry>ImageBBox.create</entry>
       </history-search>
       <history-cmd />
       <history-expr />
