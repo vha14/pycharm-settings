@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550331593588">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="3" />
-        <mark key="." line="100" column="3" />
-        <mark key="^" line="100" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550336903487">
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="100" column="29" />
+        <mark key="." line="100" column="29" />
+        <mark key="^" line="100" column="29" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -78,7 +78,12 @@
       <file name="/Dummy.txt" timestamp="1550244870839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550335888619" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550336683771">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
       </file>
@@ -270,11 +275,11 @@
       <jump line="35" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTY0LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>get_pred</text>
@@ -283,31 +288,31 @@
         <text encoding="base64">ICAgIGxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTY0LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmIuZmxvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YmIucHgK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBiYm94ZXMsIGxhYmVscyA9IHQKICAgICAgICBpZiBsZW4oKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpKSA9PSAwOiByZXR1cm4KICAgICAgICBpID0gKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpLm1pbigpCiAgICAgICAgYmJveGVzLCBsYWJlbHMgPSBiYm94ZXNbaTpdLCBsYWJlbHNbaTpdCiAgICAgICAgcmV0dXJuIEltYWdlQkJveC5jcmVhdGUoKnguc2l6ZSwgYmJveGVzLCBsYWJlbHM9bGFiZWxzLCBjbGFzc2VzPXNlbGYuY2xhc3Nlcywgc2NhbGU9RmFsc2Up</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmIuZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMgPSAoYm94ZXMgLSAwLjUpKjIuMCAgIyBwdXR0aW5nIGJveGVzIGluIHJhbmdlWy0xLCAxXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmIuc2l6ZQo=</text>
+        <text encoding="base64">YmIuZmxvdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmIubGFiZWxzCg==</text>
+        <text encoding="base64">YmIucHgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGFiZWxzCg==</text>
+        <text encoding="base64">YmIuZGF0YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3Nlcwo=</text>
+        <text encoding="base64">YmIuc2l6ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aTBsWzFdCg==</text>
+        <text encoding="base64">YmIubGFiZWxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3Nlcwo=</text>
+        <text encoding="base64">bGFiZWxzCg==</text>
       </register>
     </registers>
     <search>
