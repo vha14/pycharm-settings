@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550281172009">
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
       <file name="/fragment.py" timestamp="1550279216821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -257,10 +263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>approaches</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>approaches</text>
       </register>
       <register name="/" type="4">
         <text>resize</text>
