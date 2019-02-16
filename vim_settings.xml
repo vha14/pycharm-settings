@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550281172009">
-        <mark key="[" line="15" column="93" />
-        <mark key="]" line="15" column="44" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="44" />
+      <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
+        <mark key="'" line="78" column="33" />
+        <mark key="[" line="73" column="49" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="/fragment.py" timestamp="1550279216821">
         <mark key="[" line="0" column="0" />
@@ -160,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="9" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="26" column="41" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="32" column="44" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
@@ -260,13 +260,14 @@
       <jump line="7" column="17" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
       <jump line="331" column="9" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
       <jump line="332" column="14" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
+      <jump line="78" column="33" filename="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>approaches</text>
+        <text>solid</text>
       </register>
       <register name="-" type="4">
-        <text>approaches</text>
+        <text>solid</text>
       </register>
       <register name="/" type="4">
         <text>resize</text>
