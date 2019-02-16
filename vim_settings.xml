@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550331593588">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="3" />
+        <mark key="." line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
         <mark key="[" line="73" column="49" />
@@ -89,8 +95,8 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550207568945">
-        <mark key="'" line="73" column="63" />
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550332317888">
+        <mark key="'" line="35" column="4" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/loss.py" timestamp="1550037877248">
         <mark key="'" line="30" column="0" />
@@ -161,13 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="26" column="41" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="32" column="44" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="63" column="64" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="65" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="142" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
-      <jump line="243" column="44" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
       <jump line="27" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
       <jump line="67" column="27" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="10" column="30" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
@@ -261,19 +260,26 @@
       <jump line="331" column="9" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
       <jump line="332" column="14" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
       <jump line="78" column="33" filename="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" />
+      <jump line="295" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="280" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="272" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="276" column="15" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>len(xs)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTY0LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>solid</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>get_pred</text>
       </register>
-      <register name="0" type="4">
-        <text>len(xs)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTY0LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YmIuZmxvdwo=</text>
@@ -304,16 +310,14 @@
       </register>
     </registers>
     <search>
-      <last-search>resize</last-search>
+      <last-search>get_pred</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>get_pred</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>device</entry>
-        <entry>to(</entry>
         <entry>nesor</entry>
         <entry>eye</entry>
         <entry>def pro</entry>
@@ -332,6 +336,8 @@
         <entry>draw_rect</entry>
         <entry>ImageBBox.create</entry>
         <entry>resize</entry>
+        <entry>valid_loss</entry>
+        <entry>get_pred</entry>
       </history-search>
       <history-cmd />
       <history-expr />
