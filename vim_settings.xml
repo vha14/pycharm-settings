@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550336903487">
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="100" column="29" />
-        <mark key="." line="100" column="29" />
-        <mark key="^" line="100" column="29" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550340268166">
+        <mark key="[" line="88" column="56" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -79,10 +79,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550336683771">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -276,16 +276,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>128</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
-        <text>get_pred</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTY0LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLnZhbGlkYXRlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -316,15 +316,14 @@
       </register>
     </registers>
     <search>
-      <last-search>get_pred</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>get_pred</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nesor</entry>
         <entry>eye</entry>
         <entry>def pro</entry>
         <entry>pad_idx</entry>
@@ -344,6 +343,7 @@
         <entry>resize</entry>
         <entry>valid_loss</entry>
         <entry>get_pred</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd />
       <history-expr />
