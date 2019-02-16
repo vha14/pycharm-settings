@@ -10,11 +10,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="/fragment.py" timestamp="1550279216821">
+      <file name="/fragment.py" timestamp="1550330000582">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_detector.py" timestamp="1550021135567" />
       <file name="/a.dummy" timestamp="1550021139154">
@@ -68,7 +68,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_data.py" timestamp="1550251524282" />
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_data.py" timestamp="1550330462261" />
       <file name="/Dummy.txt" timestamp="1550244870839">
         <mark key="[" line="0" column="0" />
       </file>
@@ -264,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>solid</text>
+        <text>len(xs)</text>
       </register>
       <register name="-" type="4">
         <text>solid</text>
@@ -273,7 +273,7 @@
         <text>resize</text>
       </register>
       <register name="0" type="4">
-        <text>{v:k for k,v in enumerate(classes)}</text>
+        <text>len(xs)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YmIuZmxvdwo=</text>
