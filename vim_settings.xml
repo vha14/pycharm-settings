@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550340268166">
-        <mark key="[" line="88" column="56" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550344017696">
+        <mark key="[" line="91" column="56" />
+        <mark key="]" line="91" column="56" />
+        <mark key="." line="91" column="56" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -16,7 +16,7 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="/fragment.py" timestamp="1550335622279">
+      <file name="/fragment.py" timestamp="1550344319684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -101,8 +101,12 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550332317888">
-        <mark key="'" line="35" column="4" />
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550344286089">
+        <mark key="'" line="307" column="19" />
+        <mark key="[" line="38" column="99" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/loss.py" timestamp="1550037877248">
         <mark key="'" line="30" column="0" />
@@ -173,10 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" />
-      <jump line="67" column="27" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="10" column="30" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="12" column="45" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="543" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="28" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="29" column="52" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
@@ -273,58 +273,61 @@
       <jump line="276" column="15" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="8" column="12" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="35" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="329" column="47" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="334" column="21" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="279" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="305" column="19" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>pred_batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLnZhbGlkYXRlKCkK</text>
+        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">c3NkLmxlYXJuLmRhdGEgPSBkYXRhCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBiYm94ZXMsIGxhYmVscyA9IHQKICAgICAgICBpZiBsZW4oKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpKSA9PSAwOiByZXR1cm4KICAgICAgICBpID0gKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpLm1pbigpCiAgICAgICAgYmJveGVzLCBsYWJlbHMgPSBiYm94ZXNbaTpdLCBsYWJlbHNbaTpdCiAgICAgICAgcmV0dXJuIEltYWdlQkJveC5jcmVhdGUoKnguc2l6ZSwgYmJveGVzLCBsYWJlbHM9bGFiZWxzLCBjbGFzc2VzPXNlbGYuY2xhc3Nlcywgc2NhbGU9RmFsc2Up</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm94ZXMgPSAoYm94ZXMgLSAwLjUpKjIuMCAgIyBwdXR0aW5nIGJveGVzIGluIHJhbmdlWy0xLCAxXQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">YmIuZmxvdwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YmIucHgK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">YmIuZGF0YQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YmIuc2l6ZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YmIubGFiZWxzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bGFiZWxzCg==</text>
+        <text encoding="base64">YmIubGFiZWxzCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>pred_batch</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>pred_batch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eye</entry>
         <entry>def pro</entry>
         <entry>pad_idx</entry>
         <entry>tf</entry>
@@ -344,6 +347,7 @@
         <entry>valid_loss</entry>
         <entry>get_pred</entry>
         <entry>print</entry>
+        <entry>pred_batch</entry>
       </history-search>
       <history-cmd />
       <history-expr />
