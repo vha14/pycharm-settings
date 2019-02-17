@@ -68,11 +68,12 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
         <mark key="'" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550279593474">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550430941773">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="106" column="49" />
-        <mark key="]" line="106" column="49" />
-        <mark key="." line="106" column="49" />
+        <mark key="[" line="105" column="29" />
+        <mark key="]" line="105" column="47" />
+        <mark key="." line="105" column="47" />
+        <mark key="^" line="105" column="47" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -83,12 +84,12 @@
       <file name="/Dummy.txt" timestamp="1550244870839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550384509207">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550431039690">
         <mark key="'" line="2" column="49" />
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="34" />
-        <mark key="^" line="44" column="38" />
-        <mark key="." line="34" column="34" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="38" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/core.py" timestamp="1550421776207" />
       <file name="/code.py" timestamp="1549843022107">
@@ -282,11 +283,11 @@
       <jump line="116" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZHMueS5hbmFseXplX3ByZWQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, False)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rows</text>
