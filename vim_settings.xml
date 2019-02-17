@@ -109,7 +109,7 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550385958811">
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550440782929">
         <mark key="'" line="344" column="22" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/loss.py" timestamp="1550037877248">
@@ -181,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="341" column="50" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
       <jump line="326" column="36" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
@@ -272,15 +271,16 @@
       <jump line="379" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="322" column="25" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="312" column="20" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="343" column="66" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="344" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="117" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="118" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="113" column="26" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="114" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="115" column="10" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="116" column="14" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="323" column="29" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="312" column="20" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="343" column="66" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="344" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -290,7 +290,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rows</text>
+        <text>analyze_pred</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBkYXRhID0gbG9hZF9kYXRhKCkKIyBkYXRhLnNob3dfYmF0Y2goKQoKIyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgYmFja2JvbmU9bW9kZWxzLnJlc25ldDM0KQojIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBncmlkcz1bNF0sIHpvb21zPVsxLjBdLCByYXRpb3M9W1sxLjAsIDEuMF1dKQoKIyBwcmludChmIlN0YXJ0aW5nIGV4cGVyaW1lbnQgd2l0aCB7c3NkLmRldmljZX0iKQojIHNzZC5sZWFybi5maXQoMiwgbHI9c2xpY2UoMWUtMywgMWUtMikpCiMgc3NkLmxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTE2LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCiMgc3NkLmxlYXJuLnZhbGlkYXRlKCkKIyBwcmVkcyA9IHNzZC5sZWFybi5wcmVkX2JhdGNoKHJlY29uc3RydWN0PVRydWUpCg==</text>
@@ -324,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rows</last-search>
+      <last-search>analyze_pred</last-search>
       <last-offset />
-      <last-pattern>rows</last-pattern>
+      <last-pattern>analyze_pred</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -348,10 +348,10 @@
         <entry>pred_batch</entry>
         <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
         <entry>.data</entry>
-        <entry>analyze_pred</entry>
         <entry>ds</entry>
         <entry>n_items</entry>
         <entry>rows</entry>
+        <entry>analyze_pred</entry>
       </history-search>
       <history-cmd />
       <history-expr />
