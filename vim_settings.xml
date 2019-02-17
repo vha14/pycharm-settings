@@ -3,12 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550442901333">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550444052182">
         <mark key="'" line="115" column="14" />
-        <mark key="[" line="122" column="11" />
-        <mark key="]" line="123" column="11" />
-        <mark key="^" line="123" column="11" />
-        <mark key="." line="123" column="11" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="124" column="12" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1550443335167">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -283,44 +286,44 @@
       <jump line="46" column="20" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.__class__</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9vLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.__class__</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IyBkYXRhID0gbG9hZF9kYXRhKCkKIyBkYXRhLnNob3dfYmF0Y2goKQoKIyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgYmFja2JvbmU9bW9kZWxzLnJlc25ldDM0KQojIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBncmlkcz1bNF0sIHpvb21zPVsxLjBdLCByYXRpb3M9W1sxLjAsIDEuMF1dKQoKIyBwcmludChmIlN0YXJ0aW5nIGV4cGVyaW1lbnQgd2l0aCB7c3NkLmRldmljZX0iKQojIHNzZC5sZWFybi5maXQoMiwgbHI9c2xpY2UoMWUtMywgMWUtMikpCiMgc3NkLmxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTE2LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCiMgc3NkLmxlYXJuLnZhbGlkYXRlKCkKIyBwcmVkcyA9IHNzZC5sZWFybi5wcmVkX2JhdGNoKHJlY29uc3RydWN0PVRydWUpCg==</text>
+        <text>.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">Zm9vLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZHMueS5hbmFseXplX3ByZWQK</text>
+        <text encoding="base64">Zm9vLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm9ybS5rZXl3b3Jkc1snZG9feSddLl9fY2xhc3NfXwo=</text>
+        <text encoding="base64">Zm9vLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4uY2FsbGJhY2tzCg==</text>
+        <text encoding="base64">cmVjX2NwdS5pbnB1dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KmxlYXJuLmNhbGxiYWNrcywgYmFyID0gKGZvbywgJ2JhcicpCg==</text>
+        <text encoding="base64">ZHMueS5fX2NsYXNzX18K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vLCByZWNfY3B1ID0gbGVhcm4uY2FsbGJhY2tzCg==</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVhcm4uY2FsbGJhY2tzCg==</text>
+        <text encoding="base64">ZHMueS5hbmFseXplX3ByZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVhcm4uY2FsbGJhY2tzCg==</text>
+        <text encoding="base64">bm9ybS5rZXl3b3Jkc1snZG9feSddLl9fY2xhc3NfXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cm93czogaW50ID0gNQo=</text>
+        <text encoding="base64">bGVhcm4uY2FsbGJhY2tzCg==</text>
       </register>
     </registers>
     <search>
