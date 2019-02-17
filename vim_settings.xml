@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550344017696">
-        <mark key="[" line="91" column="56" />
-        <mark key="]" line="91" column="56" />
-        <mark key="." line="91" column="56" />
-        <mark key="^" line="85" column="43" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550362142273">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="107" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1550361388952">
+      <file name="/Python Console" timestamp="1550362207825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
@@ -276,44 +276,44 @@
       <jump line="305" column="19" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJlZHNbMV0uc2hhcGUK</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>pred_batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCg==</text>
+        <text encoding="base64">cHJlZHNbMF0uc2hhcGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmRhdGEgPSBkYXRhCg==</text>
+        <text encoding="base64">cHJlZHNbMV0uc2hhcGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJlZHNbMF0uc2hhcGUK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBiYm94ZXMsIGxhYmVscyA9IHQKICAgICAgICBpZiBsZW4oKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpKSA9PSAwOiByZXR1cm4KICAgICAgICBpID0gKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpLm1pbigpCiAgICAgICAgYmJveGVzLCBsYWJlbHMgPSBiYm94ZXNbaTpdLCBsYWJlbHNbaTpdCiAgICAgICAgcmV0dXJuIEltYWdlQkJveC5jcmVhdGUoKnguc2l6ZSwgYmJveGVzLCBsYWJlbHM9bGFiZWxzLCBjbGFzc2VzPXNlbGYuY2xhc3Nlcywgc2NhbGU9RmFsc2Up</text>
+      <register name="3" type="2">
+        <text encoding="base64">c3NkLmxlYXJuLmRhdGEgPSBkYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMgPSAoYm94ZXMgLSAwLjUpKjIuMCAgIyBwdXR0aW5nIGJveGVzIGluIHJhbmdlWy0xLCAxXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YmIuZmxvdwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBiYm94ZXMsIGxhYmVscyA9IHQKICAgICAgICBpZiBsZW4oKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpKSA9PSAwOiByZXR1cm4KICAgICAgICBpID0gKGxhYmVscyAtIHNlbGYucGFkX2lkeCkubm9uemVybygpLm1pbigpCiAgICAgICAgYmJveGVzLCBsYWJlbHMgPSBiYm94ZXNbaTpdLCBsYWJlbHNbaTpdCiAgICAgICAgcmV0dXJuIEltYWdlQkJveC5jcmVhdGUoKnguc2l6ZSwgYmJveGVzLCBsYWJlbHM9bGFiZWxzLCBjbGFzc2VzPXNlbGYuY2xhc3Nlcywgc2NhbGU9RmFsc2Up</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmIucHgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMgPSAoYm94ZXMgLSAwLjUpKjIuMCAgIyBwdXR0aW5nIGJveGVzIGluIHJhbmdlWy0xLCAxXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmIuZGF0YQo=</text>
+        <text encoding="base64">YmIuZmxvdwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmIuc2l6ZQo=</text>
+        <text encoding="base64">YmIucHgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmIubGFiZWxzCg==</text>
+        <text encoding="base64">YmIuZGF0YQo=</text>
       </register>
     </registers>
     <search>
