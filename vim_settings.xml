@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550362940949">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="105" column="48" />
-        <mark key="^" line="107" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1550380101391">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550382759441">
+        <mark key="[" line="110" column="10" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -44,7 +41,7 @@
       <file name="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" timestamp="1549817028648">
         <mark key="'" line="212" column="51" />
       </file>
-      <file name="/scratch" timestamp="1550363027137">
+      <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/scratch.py" timestamp="1550380000261">
@@ -108,8 +105,8 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550381045193">
-        <mark key="'" line="305" column="19" />
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550382193477">
+        <mark key="'" line="343" column="66" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/loss.py" timestamp="1550037877248">
         <mark key="'" line="30" column="0" />
@@ -180,10 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="29" column="52" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="351" column="31" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" />
       <jump line="50" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="83" column="66" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
       <jump line="64" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
@@ -269,7 +262,6 @@
       <jump line="332" column="14" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
       <jump line="78" column="33" filename="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" />
       <jump line="295" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="280" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="272" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="276" column="15" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
@@ -280,58 +272,62 @@
       <jump line="279" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="305" column="19" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="2" column="36" filename="$USER_HOME$/work/piv/modeling/src/scripts/scratch.py" />
+      <jump line="53" column="12" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="344" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="312" column="20" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="343" column="66" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
+      <register name="&quot;" type="4">
+        <text>predict(t0)</text>
       </register>
       <register name="-" type="4">
-        <text>ssd</text>
+        <text>predict(t0)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkX2RhdGFcPg==</text>
+        <text>analyze_pred</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBkYXRhID0gbG9hZF9kYXRhKCkKIyBkYXRhLnNob3dfYmF0Y2goKQoKIyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgYmFja2JvbmU9bW9kZWxzLnJlc25ldDM0KQojIHNzZCA9IFNpbmdsZVNob3REZXRlY3RvcihkYXRhLCBncmlkcz1bNF0sIHpvb21zPVsxLjBdLCByYXRpb3M9W1sxLjAsIDEuMF1dKQoKIyBwcmludChmIlN0YXJ0aW5nIGV4cGVyaW1lbnQgd2l0aCB7c3NkLmRldmljZX0iKQojIHNzZC5sZWFybi5maXQoMiwgbHI9c2xpY2UoMWUtMywgMWUtMikpCiMgc3NkLmxlYXJuLnNob3dfcmVzdWx0cyhyb3dzPTE2LCB0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCiMgc3NkLmxlYXJuLnZhbGlkYXRlKCkKIyBwcmVkcyA9IHNzZC5sZWFybi5wcmVkX2JhdGNoKHJlY29uc3RydWN0PVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
+        <text encoding="base64">cHJlZHMgPSBzc2QubGVhcm4ucHJlZF9iYXRjaChpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aSA9IHNzZC5sZWFybi5kYXRhLm9uZV9pdGVtKHQwWzBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBJbWFnZUJCb3gK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YSA9IGxvYWRfZGF0YSgpCg==</text>
+        <text encoding="base64">dDBbMV0uc2hvdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmIgPSBJbWFnZUJCbwo=</text>
+        <text encoding="base64">cHJlZHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJlZHNbMV0uc2hhcGUK</text>
+        <text encoding="base64">IyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJlZHNbMF0uc2hhcGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmRhdGEgPSBkYXRhCg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBJbWFnZUJCb3gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSA9IGxvYWRfZGF0YSgpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkX2RhdGFcPg==</last-search>
+      <last-search>analyze_pred</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkX2RhdGFcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>analyze_pred</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pad_idx</entry>
         <entry>tf</entry>
         <entry>gpu</entry>
         <entry>GPU</entry>
@@ -351,6 +347,7 @@
         <entry>print</entry>
         <entry>pred_batch</entry>
         <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
+        <entry>analyze_pred</entry>
       </history-search>
       <history-cmd />
       <history-expr />
