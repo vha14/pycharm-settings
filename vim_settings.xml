@@ -9,6 +9,9 @@
         <mark key="^" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1550384433734">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
         <mark key="[" line="73" column="49" />
@@ -82,11 +85,12 @@
       <file name="/Dummy.txt" timestamp="1550244870839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550336683771">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550384509207">
+        <mark key="'" line="2" column="49" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="34" />
         <mark key="^" line="44" column="38" />
-        <mark key="." line="45" column="0" />
+        <mark key="." line="34" column="34" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -170,23 +174,13 @@
         <mark key="^" line="52" column="100" />
         <mark key="." line="52" column="100" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" timestamp="1550251244814">
-        <mark key="'" line="516" column="0" />
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" timestamp="1550384603104">
+        <mark key="'" line="379" column="8" />
         <mark key="[" line="287" column="43" />
         <mark key="]" line="287" column="77" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="83" column="66" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="64" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="30" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="70" column="64" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="72" column="91" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="50" column="36" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="37" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="63" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="70" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
@@ -277,13 +271,23 @@
       <jump line="344" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="312" column="20" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="343" column="66" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" />
+      <jump line="31" column="32" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" />
+      <jump line="34" column="34" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" />
+      <jump line="2" column="49" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" />
+      <jump line="418" column="27" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
+      <jump line="82" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
+      <jump line="81" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
+      <jump line="331" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
+      <jump line="379" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>predict(t0)</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>predict(t0)</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>analyze_pred</text>
@@ -337,7 +341,6 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</entry>
         <entry>data</entry>
-        <entry>.data</entry>
         <entry>metric</entry>
         <entry>draw_rect</entry>
         <entry>ImageBBox.create</entry>
@@ -347,6 +350,7 @@
         <entry>print</entry>
         <entry>pred_batch</entry>
         <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
+        <entry>.data</entry>
         <entry>analyze_pred</entry>
       </history-search>
       <history-cmd />
