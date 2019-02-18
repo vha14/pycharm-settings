@@ -1,11 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2019-02-18T09:27:15</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-18T09:30:43</property>
+    <property name="modified">2019-02-18T10:09:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="DOCUMENTATION_COLOR" value="1f292e" />
     <option name="FILESTATUS_COPIED" value="629755" />

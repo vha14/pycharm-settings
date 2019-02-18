@@ -3,12 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1550510682939">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550513779084">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="102" column="16" />
+        <mark key="^" line="102" column="16" />
+        <mark key="." line="102" column="16" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzcGxpdF9sc3RzLnRyYWluID0gc3BsaXRfbHN0cy50cmFpbls6c2FtcGxlXQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bGVuKGRhdGEudHJhaW5fZHMpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGVuKGRhdGEudHJhaW5fZHMpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>train</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -25,6 +41,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
