@@ -3,26 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550513779084">
-        <mark key="[" line="99" column="16" />
-        <mark key="]" line="102" column="16" />
-        <mark key="^" line="102" column="16" />
-        <mark key="." line="102" column="16" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550513903961">
+        <mark key="[" line="106" column="65" />
+        <mark key="]" line="106" column="67" />
+        <mark key="^" line="106" column="67" />
+        <mark key="." line="106" column="67" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_data.py" timestamp="1550514139343" />
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdF9sc3RzLnRyYWluID0gc3BsaXRfbHN0cy50cmFpbls6c2FtcGxlXQo=</text>
+        <text encoding="base64">ICAgIHNpbXBsZV9sZWFybi5zaG93X3Jlc3VsdHMocm93cz0xNiwgdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xLCBzc2Q9c2ltcGxlX3NzZCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGVuKGRhdGEudHJhaW5fZHMpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGVuKGRhdGEudHJhaW5fZHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>simple_ssd</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text>simple_ssd</text>
       </register>
     </registers>
     <search>
@@ -44,6 +45,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
