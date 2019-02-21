@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550776053488">
-        <mark key="'" line="123" column="14" />
-        <mark key="[" line="95" column="19" />
-        <mark key="]" line="112" column="42" />
-        <mark key="^" line="111" column="2" />
-        <mark key="." line="112" column="42" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550786988511">
+        <mark key="'" line="102" column="17" />
+        <mark key="[" line="109" column="6" />
+        <mark key="]" line="109" column="17" />
+        <mark key="^" line="109" column="17" />
+        <mark key="." line="109" column="17" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="16" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="451" column="54" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="453" column="9" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="455" column="40" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
@@ -289,13 +288,14 @@
       <jump line="70" column="71" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="71" column="76" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="73" column="74" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
+      <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'simple-ssd-2epoch'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>do_y</text>
@@ -304,31 +304,31 @@
         <text>.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxvYWQoJ3NpbXBsZS1zc2QtMmVwb2NoJykK</text>
+        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGV2aWNlID0gdG9yY2guZGV2aWNlKCdjcHUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLnBhdGgK</text>
+        <text encoding="base64">c3NkLmxlYXJuLmxvYWQoJ3NpbXBsZS1zc2QtMmVwb2NoJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvX2RhdGFfZGlyOiBzdHIgPSBQYXRocy5EYXRhRGlycy5JTklUSUFMX1NBTVBMRSwK</text>
+        <text encoding="base64">ICAgICMgZGV2aWNlID0gdG9yY2guZGV2aWNlKCdjcHUnKQo=</text>
       </register>
     </registers>
     <search>
