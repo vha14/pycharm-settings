@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550786988511">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550790210496">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="109" column="6" />
-        <mark key="]" line="109" column="17" />
-        <mark key="^" line="109" column="17" />
-        <mark key="." line="109" column="17" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="111" column="139" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -84,7 +84,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550244870839">
+      <file name="/Dummy.txt" timestamp="1550790789531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550773881485">
@@ -292,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -304,31 +304,31 @@
         <text>.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlyKHJlY19jcHUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxvYWQoJ3NpbXBsZS1zc2QtMmVwb2NoJykK</text>
+        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZGV2aWNlID0gdG9yY2guZGV2aWNlKCdjcHUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
