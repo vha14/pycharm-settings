@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550790210496">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550791934610">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="111" column="139" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="165" column="3" />
+        <mark key="]" line="165" column="4" />
+        <mark key="^" line="166" column="0" />
+        <mark key="." line="165" column="4" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
         <mark key="'" line="78" column="33" />
@@ -291,17 +291,17 @@
       <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>do_y</text>
       </register>
-      <register name="0" type="4">
-        <text>.</text>
+      <register name="0" type="2">
+        <text encoding="base64">eXNbMF0uZGF0YQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
