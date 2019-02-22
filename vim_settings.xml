@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550791934610">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550796704464">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="165" column="3" />
-        <mark key="]" line="165" column="4" />
-        <mark key="^" line="166" column="0" />
-        <mark key="." line="165" column="4" />
+        <mark key="[" line="148" column="29" />
+        <mark key="]" line="148" column="33" />
+        <mark key="^" line="148" column="33" />
+        <mark key="." line="148" column="33" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -86,6 +86,10 @@
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1550749692831">
         <mark key="'" line="169" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550796555497">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="312" column="37" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -174,10 +178,6 @@
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" timestamp="1550258066059">
         <mark key="'" line="332" column="14" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1550279222222">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="369" column="41" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_head.py" timestamp="1550019038695">
         <mark key="[" line="15" column="98" />
@@ -301,28 +301,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>do_y</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eXNbMF0uZGF0YQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBlbHNlOiB4Yix5YiA9IHNlbGYuZGF0YS5vbmVfYmF0Y2goZHNfdHlwZSwgZGV0YWNoPUZhbHNlLCBkZW5vcm09RmFsc2UpCiAgICAgICAgY2JfaGFuZGxlciA9IENhbGxiYWNrSGFuZGxlcihzZWxmLmNhbGxiYWNrcykKICAgICAgICB4Yix5YiA9IGNiX2hhbmRsZXIub25fYmF0Y2hfYmVnaW4oeGIseWIsIHRyYWluPUZhbHNlKQogICAgICAgIHByZWRzID0gbG9zc19iYXRjaChzZWxmLm1vZGVsLmV2YWwoKSwgeGIsIHliLCBjYl9oYW5kbGVyPWNiX2hhbmRsZXIpCiAgICAgICAgcmVzID0gX2xvc3NfZnVuYzJhY3RpdihzZWxmLmxvc3NfZnVuYykocHJlZHNbMF0pCiAgICAgICAgaWYgbm90IHJlY29uc3RydWN0OiByZXR1cm4gcmVz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb25zdHJ1Y3Q6IHJldHVybiByZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlyKHJlY19jcHUpCg==</text>
+        <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ZGlyKHJlY19jcHUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -331,13 +331,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
       </register>
     </registers>
     <search>
