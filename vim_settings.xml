@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550796704464">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550797358013">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="148" column="29" />
-        <mark key="]" line="148" column="33" />
-        <mark key="^" line="148" column="33" />
-        <mark key="." line="148" column="33" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -42,6 +41,7 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
+      <file name="/ssd_experiments.py" timestamp="1550797331879" />
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
         <mark key="[" line="6" column="97" />
         <mark key="]" line="6" column="97" />
@@ -87,9 +87,9 @@
       <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1550749692831">
         <mark key="'" line="169" column="34" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550796555497">
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="312" column="37" />
+      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550796959149">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="22" column="58" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -300,56 +300,55 @@
       <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBmYXN0YWkuYmFzaWNfdHJhaW4gaW1wb3J0IFJlY29yZE9uQ1BVCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>do_y</text>
+        <text encoding="base64">XDxwcmVkc1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBlbHNlOiB4Yix5YiA9IHNlbGYuZGF0YS5vbmVfYmF0Y2goZHNfdHlwZSwgZGV0YWNoPUZhbHNlLCBkZW5vcm09RmFsc2UpCiAgICAgICAgY2JfaGFuZGxlciA9IENhbGxiYWNrSGFuZGxlcihzZWxmLmNhbGxiYWNrcykKICAgICAgICB4Yix5YiA9IGNiX2hhbmRsZXIub25fYmF0Y2hfYmVnaW4oeGIseWIsIHRyYWluPUZhbHNlKQogICAgICAgIHByZWRzID0gbG9zc19iYXRjaChzZWxmLm1vZGVsLmV2YWwoKSwgeGIsIHliLCBjYl9oYW5kbGVyPWNiX2hhbmRsZXIpCiAgICAgICAgcmVzID0gX2xvc3NfZnVuYzJhY3RpdihzZWxmLmxvc3NfZnVuYykocHJlZHNbMF0pCiAgICAgICAgaWYgbm90IHJlY29uc3RydWN0OiByZXR1cm4gcmVz</text>
+        <text encoding="base64">ICAgIGNiX2hhbmRsZXIgPSBpZm5vbmUoY2JfaGFuZGxlciwgQ2FsbGJhY2tIYW5kbGVyKCkpCiAgICBpZiBub3QgaXNfbGlzdHkoeGIpOiB4YiA9IFt4Yl0KICAgIGlmIG5vdCBpc19saXN0eSh5Yik6IHliID0gW3liXQogICAgb3V0ID0gbW9kZWwoKnhiKQogICAgb3V0ID0gY2JfaGFuZGxlci5vbl9sb3NzX2JlZ2luKG91dCkKCiAgICBpZiBub3QgbG9zc19mdW5jOiByZXR1cm4gdG9fZGV0YWNoKG91dCksIHliWzBdLmRldGFjaCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb25zdHJ1Y3Q6IHJldHVybiByZXMK</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkuYmFzaWNfdHJhaW4gaW1wb3J0IFJlY29yZE9uQ1BVCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9vID0gUmVjb3JkT25DUFUK</text>
+        <text encoding="base64">ZHMgPSBsZWFybi5kbChkc190eXBlKS5kYXRhc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGlyKHJlY19jcHUpCg==</text>
+        <text encoding="base64">eCwgeSA9IHJlY19jcHUuaW5wdXQsIHJlY19jcHUudGFyZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">KmxlYXJuLmNhbGxiYWNrcywgcmVjX2NwdSA9IGxlYXJuLmNhbGxiYWNrcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkuYmFzaWNfdHJhaW4gaW1wb3J0IGxvc3NfYmF0Y2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJlZHMgPSBsb3NzX2JhdGNoKGxlYXJuLm1vZGVsLmV2YWwoKSwgeGIsIHliLCBjYl9oYW5kbGVyPWNiX2hhbmRsZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkuY2FsbGJhY2sgaW1wb3J0IENhbGxiYWNrSGFuZGxlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3NkLmxlYXJuLmxvYWQobW9kZWxfZm4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>do_y</last-search>
+      <last-search encoding="base64">XDxwcmVkc1w+</last-search>
       <last-offset />
-      <last-pattern>do_y</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwcmVkc1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nms</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</entry>
         <entry>data</entry>
@@ -369,6 +368,7 @@
         <entry>analyze_pred</entry>
         <entry>return</entry>
         <entry>do_y</entry>
+        <entry encoding="base64">XDxwcmVkc1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
