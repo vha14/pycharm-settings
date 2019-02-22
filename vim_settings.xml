@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550813330075">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550816341384">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="36" />
         <mark key="^" line="131" column="24" />
-        <mark key="." line="158" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -297,8 +297,8 @@
       <jump line="369" column="22" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHMueC5zaG93X3h5enMoeHMsIHlzLCB6cywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -307,7 +307,7 @@
         <text>analyze</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbmFseXplX3ByZWQyKHNlbGYsIHByZWQsIHRocmVzaD0wLjUsIG5tc19vdmVybGFwPTAuMSwgc3NkOiBTaW5nbGVTaG90RGV0ZWN0b3IgPSBOb25lKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHMueC5zaG93X3h5enMoeHMsIHlzLCB6cywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
