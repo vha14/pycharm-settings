@@ -83,7 +83,8 @@
       <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1550749692831">
         <mark key="'" line="169" column="34" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550809494731">
+      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550813692384">
+        <mark key="'" line="369" column="22" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="77" />
       </file>
@@ -96,12 +97,12 @@
       <file name="/Dummy.txt" timestamp="1550807733343">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550773881485">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550814264584">
         <mark key="'" line="2" column="49" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="31" column="38" />
-        <mark key="." line="31" column="34" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="47" column="28" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1550639987407">
         <mark key="[" line="125" column="16" />
@@ -194,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="21" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
-      <jump line="95" column="44" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="98" column="5" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="107" column="37" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="212" column="51" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
@@ -294,19 +293,21 @@
       <jump line="127" column="5" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="129" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="139" column="48" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="368" column="66" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
+      <jump line="369" column="22" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>preds</text>
+        <text>analyze</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeHMsIHlzLCB6cyA9IHByZWRpY3RfYmF0Y2goeGIsIHliKQogICAgICAgICAgICBwcmludChmInhzIGxlbmd0aDoge2xlbih4cyl9LCB5cyBsZW5ndGg6IHtsZW4oeXMpfSwgenMgbGVuZ3RoOiB7bGVuKHpzKX0iKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBhbmFseXplX3ByZWQyKHNlbGYsIHByZWQsIHRocmVzaD0wLjUsIG5tc19vdmVybGFwPTAuMSwgc3NkOiBTaW5nbGVTaG90RGV0ZWN0b3IgPSBOb25lKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -337,15 +338,14 @@
       </register>
     </registers>
     <search>
-      <last-search>preds</last-search>
+      <last-search>analyze</last-search>
       <last-offset />
-      <last-pattern>preds</last-pattern>
+      <last-pattern>analyze</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metric</entry>
         <entry>draw_rect</entry>
         <entry>ImageBBox.create</entry>
         <entry>resize</entry>
@@ -365,6 +365,7 @@
         <entry encoding="base64">XDxoYXNfYXJnXD4=</entry>
         <entry>learn</entry>
         <entry>preds</entry>
+        <entry>analyze</entry>
       </history-search>
       <history-cmd />
       <history-expr />
