@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550797358013">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550808932482">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -21,9 +22,6 @@
         <mark key="]" line="78" column="33" />
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
-      </file>
-      <file name="/Python Console" timestamp="1550792527970">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550773939621">
         <mark key="[" line="0" column="0" />
@@ -41,7 +39,6 @@
         <mark key="^" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="/ssd_experiments.py" timestamp="1550797331879" />
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
         <mark key="[" line="6" column="97" />
         <mark key="]" line="6" column="97" />
@@ -97,7 +94,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550790789531">
+      <file name="/Dummy.txt" timestamp="1550807733343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550773881485">
@@ -301,37 +298,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuYmFzaWNfdHJhaW4gaW1wb3J0IFJlY29yZE9uQ1BVCg==</text>
+        <text encoding="base64">enNbMl0uZGF0YQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, yb[0].detach()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkc1w+</text>
+        <text encoding="base64">XDxoYXNfYXJnXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGNiX2hhbmRsZXIgPSBpZm5vbmUoY2JfaGFuZGxlciwgQ2FsbGJhY2tIYW5kbGVyKCkpCiAgICBpZiBub3QgaXNfbGlzdHkoeGIpOiB4YiA9IFt4Yl0KICAgIGlmIG5vdCBpc19saXN0eSh5Yik6IHliID0gW3liXQogICAgb3V0ID0gbW9kZWwoKnhiKQogICAgb3V0ID0gY2JfaGFuZGxlci5vbl9sb3NzX2JlZ2luKG91dCkKCiAgICBpZiBub3QgbG9zc19mdW5jOiByZXR1cm4gdG9fZGV0YWNoKG91dCksIHliWzBdLmRldGFjaCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuYmFzaWNfdHJhaW4gaW1wb3J0IFJlY29yZE9uQ1BVCg==</text>
+        <text encoding="base64">enNbMl0uZGF0YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZHMgPSBsZWFybi5kbChkc190eXBlKS5kYXRhc2V0Cg==</text>
+        <text encoding="base64">enNbMl0uZGF0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eCwgeSA9IHJlY19jcHUuaW5wdXQsIHJlY19jcHUudGFyZ2V0Cg==</text>
+        <text encoding="base64">eXNbMl0uZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KmxlYXJuLmNhbGxiYWNrcywgcmVjX2NwdSA9IGxlYXJuLmNhbGxiYWNrcwo=</text>
+        <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuYmFzaWNfdHJhaW4gaW1wb3J0IGxvc3NfYmF0Y2gK</text>
+        <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJlZHMgPSBsb3NzX2JhdGNoKGxlYXJuLm1vZGVsLmV2YWwoKSwgeGIsIHliLCBjYl9oYW5kbGVyPWNiX2hhbmRsZXIpCg==</text>
+        <text encoding="base64">eCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuY2FsbGJhY2sgaW1wb3J0IENhbGxiYWNrSGFuZGxlcgo=</text>
+        <text encoding="base64">eCA9IGxlYXJuLmRhdGEuZGVub3JtKHgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,15 +338,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVkc1w+</last-search>
+      <last-search encoding="base64">XDxoYXNfYXJnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNfYXJnXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</entry>
         <entry>data</entry>
         <entry>metric</entry>
@@ -369,6 +365,7 @@
         <entry>return</entry>
         <entry>do_y</entry>
         <entry encoding="base64">XDxwcmVkc1w+</entry>
+        <entry encoding="base64">XDxoYXNfYXJnXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
