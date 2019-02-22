@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550809835396">
-        <mark key="'" line="102" column="17" />
-        <mark key="[" line="147" column="78" />
-        <mark key="]" line="149" column="2" />
-        <mark key="^" line="149" column="2" />
-        <mark key="." line="149" column="2" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550813330075">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="131" column="24" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -195,15 +194,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="54" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
-      <jump line="453" column="9" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
-      <jump line="455" column="40" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="35" column="21" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="95" column="44" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="98" column="5" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="107" column="37" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
       <jump line="212" column="51" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
-      <jump line="129" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="415" column="11" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="398" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
@@ -295,59 +290,61 @@
       <jump line="71" column="76" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="73" column="74" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="126" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="127" column="5" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="139" column="48" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNfYXJnXD4=</text>
+        <text>preds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeGIseWIgaW4gcHJvZ3Jlc3NfYmFyKGRsLCBwYXJlbnQ9cGJhciwgbGVhdmU9KHBiYXIgaXMgbm90IE5vbmUpKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeHMsIHlzLCB6cyA9IHByZWRpY3RfYmF0Y2goeGIsIHliKQogICAgICAgICAgICBwcmludChmInhzIGxlbmd0aDoge2xlbih4cyl9LCB5cyBsZW5ndGg6IHtsZW4oeXMpfSwgenMgbGVuZ3RoOiB7bGVuKHpzKX0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gbGVhcm4ubW9kZWwuZXZhbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">enNbMl0uZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">enNbMl0uZGF0YQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eXNbMl0uZGF0YQo=</text>
+        <text encoding="base64">ICAgIHdpdGggdG9yY2gubm9fZ3JhZCgpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
+        <text encoding="base64">ICAgIGRzID0gbGVhcm4uZGwoZHNfdHlwZSkuZGF0YXNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eCA9IGxlYXJuLmRhdGEuZGVub3JtKHgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlYXJuID0gc3NkLmxlYXJuCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNfYXJnXD4=</last-search>
+      <last-search>preds</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNfYXJnXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>preds</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRoX3RvX2xpYnNfdG9fb21pdFw+</entry>
-        <entry>data</entry>
         <entry>metric</entry>
         <entry>draw_rect</entry>
         <entry>ImageBBox.create</entry>
@@ -366,6 +363,8 @@
         <entry>do_y</entry>
         <entry encoding="base64">XDxwcmVkc1w+</entry>
         <entry encoding="base64">XDxoYXNfYXJnXD4=</entry>
+        <entry>learn</entry>
+        <entry>preds</entry>
       </history-search>
       <history-cmd />
       <history-expr />
