@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550808932482">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550809835396">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="134" column="0" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="147" column="78" />
+        <mark key="]" line="149" column="2" />
+        <mark key="^" line="149" column="2" />
+        <mark key="." line="149" column="2" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -84,9 +84,9 @@
       <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1550749692831">
         <mark key="'" line="169" column="34" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550796959149">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="22" column="58" />
+      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550809494731">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="77" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -297,41 +297,41 @@
       <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">enNbMl0uZGF0YQo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>, yb[0].detach()</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNfYXJnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGNiX2hhbmRsZXIgPSBpZm5vbmUoY2JfaGFuZGxlciwgQ2FsbGJhY2tIYW5kbGVyKCkpCiAgICBpZiBub3QgaXNfbGlzdHkoeGIpOiB4YiA9IFt4Yl0KICAgIGlmIG5vdCBpc19saXN0eSh5Yik6IHliID0gW3liXQogICAgb3V0ID0gbW9kZWwoKnhiKQogICAgb3V0ID0gY2JfaGFuZGxlci5vbl9sb3NzX2JlZ2luKG91dCkKCiAgICBpZiBub3QgbG9zc19mdW5jOiByZXR1cm4gdG9fZGV0YWNoKG91dCksIHliWzBdLmRldGFjaCgp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgeGIseWIgaW4gcHJvZ3Jlc3NfYmFyKGRsLCBwYXJlbnQ9cGJhciwgbGVhdmU9KHBiYXIgaXMgbm90IE5vbmUpKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">enNbMl0uZGF0YQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gbGVhcm4ubW9kZWwuZXZhbCgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">enNbMl0uZGF0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eXNbMl0uZGF0YQo=</text>
+        <text encoding="base64">enNbMl0uZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
+        <text encoding="base64">eXNbMl0uZGF0YQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eCAK</text>
+        <text encoding="base64">cHJlZHMgPSB0b19kZXRhY2gob3V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCA9IGxlYXJuLmRhdGEuZGVub3JtKHgpCg==</text>
+        <text encoding="base64">eCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eCA9IGxlYXJuLmRhdGEuZGVub3JtKHgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
