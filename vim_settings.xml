@@ -28,7 +28,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550894484442">
+      <file name="/a.dummy" timestamp="1550896898588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1550210030369">
@@ -64,11 +64,11 @@
         <mark key="." line="73" column="28" />
         <mark key="^" line="73" column="28" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550894895640">
-        <mark key="[" line="46" column="43" />
-        <mark key="]" line="46" column="51" />
-        <mark key="^" line="46" column="51" />
-        <mark key="." line="46" column="51" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550895989230">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549393581232">
         <mark key="[" line="299" column="15" />
@@ -78,6 +78,10 @@
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
         <mark key="'" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/ext/Object-Detection-Metrics/lib/Evaluator.py" timestamp="1550896308117">
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="425" column="59" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550430941773">
         <mark key="'" line="43" column="20" />
@@ -159,11 +163,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550895095129">
-        <mark key="[" line="40" column="22" />
-        <mark key="]" line="40" column="22" />
-        <mark key="." line="40" column="29" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550897057975">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="109" column="18" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -206,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="37" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
-      <jump line="212" column="51" filename="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" />
-      <jump line="415" column="11" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="398" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="143" column="37" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
@@ -306,58 +308,74 @@
       <jump line="368" column="66" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
       <jump line="369" column="22" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
       <jump line="29" column="11" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>len(dects))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoeEIgLSB4QSkgKiAoeUIgLSB5QSkK</text>
       </register>
       <register name="-" type="4">
-        <text>len(dects))</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>analyze</text>
+        <text encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2VzLmFkZChjbGFzKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0QWxsSU9VcyhyZWZlcmVuY2UsIGRldGVjdGlvbnMpOgogICAgICAgIHJldCA9IFtdCiAgICAgICAgYmJSZWZlcmVuY2UgPSByZWZlcmVuY2UuZ2V0QWJzb2x1dGVCb3VuZGluZ0JveChCQkZvcm1hdC5YWVgyWTIpCiAgICAgICAgIyBpbWcgPSBucC56ZXJvcygoMjAwLDIwMCwzKSwgbnAudWludDgpCiAgICAgICAgZm9yIGQgaW4gZGV0ZWN0aW9uczoKICAgICAgICAgICAgYmIgPSBkLmdldEFic29sdXRlQm91bmRpbmdCb3goQkJGb3JtYXQuWFlYMlkyKQogICAgICAgICAgICBpb3UgPSBFdmFsdWF0b3IuaW91KGJiUmVmZXJlbmNlLCBiYikKICAgICAgICAgICAgIyBTaG93IGJsYW5rIGltYWdlIHdpdGggdGhlIGJvdW5kaW5nIGJveGVzCiAgICAgICAgICAgICMgaW1nID0gYWRkX2JiX2ludG9faW1hZ2UoaW1nLCBkLCBjb2xvcj0oMjU1LDAsMCksIHRoaWNrbmVzcz0yLCBsYWJlbD1Ob25lKQogICAgICAgICAgICAjIGltZyA9IGFkZF9iYl9pbnRvX2ltYWdlKGltZywgcmVmZXJlbmNlLCBjb2xvcj0oMCwyNTUsMCksIHRoaWNrbmVzcz0yLCBsYWJlbD1Ob25lKQogICAgICAgICAgICByZXQuYXBwZW5kKChpb3UsIHJlZmVyZW5jZSwgZCkpICAjIGlvdSwgcmVmZXJlbmNlLCBkZXRlY3Rpb24KICAgICAgICAjIGN2Mi5pbXNob3coImNvbXBhcmluZyIsaW1nKQogICAgICAgICMgY3YyLndhaXRLZXkoMCkKICAgICAgICAjIGN2Mi5kZXN0cm95V2luZG93KCJjb21wYXJpbmciKQogICAgICAgIHJldHVybiBzb3J0ZWQocmV0LCBrZXk9bGFtYmRhIGk6IGlbMF0sIHJldmVyc2U9VHJ1ZSkgICMgc29ydCBieSBpb3UgKGZyb20gaGlnaGVzdCB0byBsb3dlc3QpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGlvdShib3hBLCBib3hCKToKICAgICAgICAjIGlmIGJveGVzIGRvbnQgaW50ZXJzZWN0CiAgICAgICAgaWYgRXZhbHVhdG9yLl9ib3hlc0ludGVyc2VjdChib3hBLCBib3hCKSBpcyBGYWxzZToKICAgICAgICAgICAgcmV0dXJuIDAKICAgICAgICBpbnRlckFyZWEgPSBFdmFsdWF0b3IuX2dldEludGVyc2VjdGlvbkFyZWEoYm94QSwgYm94QikKICAgICAgICB1bmlvbiA9IEV2YWx1YXRvci5fZ2V0VW5pb25BcmVhcyhib3hBLCBib3hCLCBpbnRlckFyZWE9aW50ZXJBcmVhKQogICAgICAgICMgaW50ZXJzZWN0aW9uIG92ZXIgdW5pb24KICAgICAgICBpb3UgPSBpbnRlckFyZWEgLyB1bmlvbgogICAgICAgIGFzc2VydCBpb3UgPj0gMAogICAgICAgIHJldHVybiBpb3UKCiAgICAjIGJveEEgPSAoQXgxLEF5MSxBeDIsQXkyKQogICAgIyBib3hCID0gKEJ4MSxCeTEsQngyLEJ5MikKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfYm94ZXNJbnRlcnNlY3QoYm94QSwgYm94Qik6CiAgICAgICAgaWYgYm94QVswXSA+IGJveEJbMl06CiAgICAgICAgICAgIHJldHVybiBGYWxzZSAgIyBib3hBIGlzIHJpZ2h0IG9mIGJveEIKICAgICAgICBpZiBib3hCWzBdID4gYm94QVsyXToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgbGVmdCBvZiBib3hCCiAgICAgICAgaWYgYm94QVszXSA8IGJveEJbMV06CiAgICAgICAgICAgIHJldHVybiBGYWxzZSAgIyBib3hBIGlzIGFib3ZlIGJveEIKICAgICAgICBpZiBib3hBWzFdID4gYm94QlszXToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgYmVsb3cgYm94QgogICAgICAgIHJldHVybiBUcnVlCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9nZXRJbnRlcnNlY3Rpb25BcmVhKGJveEEsIGJveEIpOgogICAgICAgIHhBID0gbWF4KGJveEFbMF0sIGJveEJbMF0pCiAgICAgICAgeUEgPSBtYXgoYm94QVsxXSwgYm94QlsxXSkKICAgICAgICB4QiA9IG1pbihib3hBWzJdLCBib3hCWzJdKQogICAgICAgIHlCID0gbWluKGJveEFbM10sIGJveEJbM10pCiAgICAgICAgIyBpbnRlcnNlY3Rpb24gYXJlYQogICAgICAgIHJldHVybiAoeEIgLSB4QSArIDEpICogKHlCIC0geUEgKyAxKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0VW5pb25BcmVhcyhib3hBLCBib3hCLCBpbnRlckFyZWE9Tm9uZSk6CiAgICAgICAgYXJlYV9BID0gRXZhbHVhdG9yLl9nZXRBcmVhKGJveEEpCiAgICAgICAgYXJlYV9CID0gRXZhbHVhdG9yLl9nZXRBcmVhKGJveEIpCiAgICAgICAgaWYgaW50ZXJBcmVhIGlzIE5vbmU6CiAgICAgICAgICAgIGludGVyQXJlYSA9IEV2YWx1YXRvci5fZ2V0SW50ZXJzZWN0aW9uQXJlYShib3hBLCBib3hCKQogICAgICAgIHJldHVybiBmbG9hdChhcmVhX0EgKyBhcmVhX0IgLSBpbnRlckFyZWEpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9nZXRBcmVhKGJveCk6CiAgICAgICAgcmV0dXJuIChib3hbMl0gLSBib3hbMF0gKyAxKSAqIChib3hbM10gLSBib3hbMV0gKyAxKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuX2RlY3RzID0gbGVuKGRlY3RzKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoeEIgLSB4QSkgKiAoeUIgLSB5QSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzZXMgPSBzb3J0ZWQoY2xhc3NlcykK</text>
+        <text encoding="base64">ICAgICMgaW50ZXJzZWN0aW9uIGFyZWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzZXMgPSBbXQo=</text>
+        <text encoding="base64">IyBib3hCID0gKEJ4MSxCeTEsQngyLEJ5MikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBib3hBID0gKEF4MSxBeTEsQXgyLEF5MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRldGVjdGlvbnMgPSBkZXRfYm94ZXMK</text>
+        <text encoding="base64">ICAgICMgaW50ZXJzZWN0aW9uIG92ZXIgdW5pb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyb3VuZFRydXRocyA9IGd0X2JveGVzIAo=</text>
+        <text encoding="base64">ICAgICMgaWYgYm94ZXMgZG9udCBpbnRlcnNlY3QK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3Nlcy5hcHBlbmQoYmIuZ2V0Q2xhc3NJZCgpKQo=</text>
+      <register name="8" type="4">
+        <text>def _getAllIOUs(reference, detections):
+    ret = []
+    bbReference = reference.getAbsoluteBoundingBox(BBFormat.XYX2Y2)
+    # img = np.zeros((200,200,3), np.uint8)
+    for d in detections:
+        bb = d.getAbsoluteBoundingBox(BBFormat.XYX2Y2)
+        iou = Evaluator.iou(bbReference, bb)
+        # Show blank image with the bounding boxes
+        # img = add_bb_into_image(img, d, color=(255,0,0), thickness=2, label=None)
+        # img = add_bb_into_image(img, reference, color=(0,255,0), thickness=2, label=None)
+        ret.append((iou, reference, d))  # iou, reference, detection
+    # cv2.imshow(&quot;comparing&quot;,img)
+    # cv2.waitKey(0)
+    # cv2.destroyWindow(&quot;comparing&quot;)
+    return sorted(ret, key=lambda i: i[0], reverse=True)  # sort by iou (from highest to lowest)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiYi5nZXRDbGFzc0lkKCkgbm90IGluIGNsYXNzZXM6Cg==</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>analyze</last-search>
+      <last-search encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</last-search>
       <last-offset />
-      <last-pattern>analyze</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>draw_rect</entry>
         <entry>ImageBBox.create</entry>
         <entry>resize</entry>
         <entry>valid_loss</entry>
@@ -377,6 +395,7 @@
         <entry>learn</entry>
         <entry>preds</entry>
         <entry>analyze</entry>
+        <entry encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -409,6 +428,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
