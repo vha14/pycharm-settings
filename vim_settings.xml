@@ -157,12 +157,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550938301188">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="154" column="96" />
-        <mark key="]" line="154" column="96" />
-        <mark key="." line="154" column="96" />
-        <mark key="^" line="154" column="96" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550941979464">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="146" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -307,11 +307,11 @@
       <jump line="24" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
@@ -320,31 +320,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWVuW25hbWVdW2ptYXhdID0gVHJ1ZSAgIyBmbGFnIGFzIGFscmVhZHkgJ3NlZW4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZfcG9zW2lkeF0gPSAxICAjIGNvdW50IGFzIGZhbHNlIHBvc2l0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBkZXRzID0gc29ydGVkKGRldHMsIGtleT1sYW1iZGEgeDogeC5jb25mLCByZXZlcnNlPVRydWUpCiAgICAgICAgdF9wb3MgPSBmX3BvcyA9IG5wLnplcm9zKGxlbihkZXRzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWVuW25hbWVdW2ptYXhdID0gVHJ1ZSAgIyBmbGFnIGFzIGFscmVhZHkgJ3NlZW4nCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNvcnQgZGV0ZWN0aW9ucyBieSBkZWNyZWFzaW5nIGNvbmZpZGVuY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0X3Bvc1tpZHhdID0gMSAgIyBjb3VudCBhcyB0cnVlIHBvc2l0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICBmX3BvcyA9IG5wLnplcm9zKGxlbihkZXRzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmX3Bvc1tpZHhdID0gMSAgIyBjb3VudCBhcyBmYWxzZSBwb3NpdGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICBiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlZW5bbmFtZV1bam1heF06Cg==</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW91X21heCA+PSBpb3VfdGhyZXNoOgo=</text>
+        <text encoding="base64">ICAgICAgICBhID0gYiA9IDEK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZGRqCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaW91X21heCA9IHN5cy5mbG9hdF9pbmZvLm1pbgogICAgICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oZ3QpKToKICAgICAgICAgICAgICAgIGlvdV9yYXRpbyA9IGlvdShjdXJfZGV0LmNvcm5lcnMsIGd0W2pdLmNvcm5lcnMpCiAgICAgICAgICAgICAgICBpZiBpb3VfcmF0aW8gPiBpb3VfbWF4OgogICAgICAgICAgICAgICAgICAgIGlvdV9tYXggPSBpb3VfcmF0aW8KICAgICAgICAgICAgICAgICAgICBqbWF4ID0gagoKIA==</text>
       </register>
     </registers>
     <search>
