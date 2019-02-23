@@ -28,7 +28,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550896898588">
+      <file name="/a.dummy" timestamp="1550897247006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1550210030369">
@@ -64,11 +64,11 @@
         <mark key="." line="73" column="28" />
         <mark key="^" line="73" column="28" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550895989230">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550899032666">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549393581232">
         <mark key="[" line="299" column="15" />
@@ -79,9 +79,9 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
         <mark key="'" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/ext/Object-Detection-Metrics/lib/Evaluator.py" timestamp="1550896308117">
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="425" column="59" />
+      <file name="$USER_HOME$/work/piv/modeling/ext/Object-Detection-Metrics/lib/Evaluator.py" timestamp="1550897153094">
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="360" column="50" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550430941773">
         <mark key="'" line="43" column="20" />
@@ -163,12 +163,11 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550897057975">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="109" column="18" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550898456180">
+        <mark key="[" line="158" column="33" />
+        <mark key="]" line="158" column="38" />
+        <mark key="^" line="158" column="38" />
+        <mark key="." line="158" column="38" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -211,12 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
-      <jump line="398" column="0" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
-      <jump line="143" column="37" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
-      <jump line="144" column="59" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
-      <jump line="342" column="195" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
-      <jump line="363" column="49" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="367" column="35" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="368" column="35" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
       <jump line="393" column="605" filename="$USER_HOME$/work/ssd_keras/ssd300_training.py" />
@@ -311,72 +304,63 @@
       <jump line="75" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="74" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="77" column="34" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="79" column="34" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="6" column="22" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoeEIgLSB4QSkgKiAoeUIgLSB5QSkK</text>
-      </register>
-      <register name="-" type="4">
-        <text>)</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0QWxsSU9VcyhyZWZlcmVuY2UsIGRldGVjdGlvbnMpOgogICAgICAgIHJldCA9IFtdCiAgICAgICAgYmJSZWZlcmVuY2UgPSByZWZlcmVuY2UuZ2V0QWJzb2x1dGVCb3VuZGluZ0JveChCQkZvcm1hdC5YWVgyWTIpCiAgICAgICAgIyBpbWcgPSBucC56ZXJvcygoMjAwLDIwMCwzKSwgbnAudWludDgpCiAgICAgICAgZm9yIGQgaW4gZGV0ZWN0aW9uczoKICAgICAgICAgICAgYmIgPSBkLmdldEFic29sdXRlQm91bmRpbmdCb3goQkJGb3JtYXQuWFlYMlkyKQogICAgICAgICAgICBpb3UgPSBFdmFsdWF0b3IuaW91KGJiUmVmZXJlbmNlLCBiYikKICAgICAgICAgICAgIyBTaG93IGJsYW5rIGltYWdlIHdpdGggdGhlIGJvdW5kaW5nIGJveGVzCiAgICAgICAgICAgICMgaW1nID0gYWRkX2JiX2ludG9faW1hZ2UoaW1nLCBkLCBjb2xvcj0oMjU1LDAsMCksIHRoaWNrbmVzcz0yLCBsYWJlbD1Ob25lKQogICAgICAgICAgICAjIGltZyA9IGFkZF9iYl9pbnRvX2ltYWdlKGltZywgcmVmZXJlbmNlLCBjb2xvcj0oMCwyNTUsMCksIHRoaWNrbmVzcz0yLCBsYWJlbD1Ob25lKQogICAgICAgICAgICByZXQuYXBwZW5kKChpb3UsIHJlZmVyZW5jZSwgZCkpICAjIGlvdSwgcmVmZXJlbmNlLCBkZXRlY3Rpb24KICAgICAgICAjIGN2Mi5pbXNob3coImNvbXBhcmluZyIsaW1nKQogICAgICAgICMgY3YyLndhaXRLZXkoMCkKICAgICAgICAjIGN2Mi5kZXN0cm95V2luZG93KCJjb21wYXJpbmciKQogICAgICAgIHJldHVybiBzb3J0ZWQocmV0LCBrZXk9bGFtYmRhIGk6IGlbMF0sIHJldmVyc2U9VHJ1ZSkgICMgc29ydCBieSBpb3UgKGZyb20gaGlnaGVzdCB0byBsb3dlc3QpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGlvdShib3hBLCBib3hCKToKICAgICAgICAjIGlmIGJveGVzIGRvbnQgaW50ZXJzZWN0CiAgICAgICAgaWYgRXZhbHVhdG9yLl9ib3hlc0ludGVyc2VjdChib3hBLCBib3hCKSBpcyBGYWxzZToKICAgICAgICAgICAgcmV0dXJuIDAKICAgICAgICBpbnRlckFyZWEgPSBFdmFsdWF0b3IuX2dldEludGVyc2VjdGlvbkFyZWEoYm94QSwgYm94QikKICAgICAgICB1bmlvbiA9IEV2YWx1YXRvci5fZ2V0VW5pb25BcmVhcyhib3hBLCBib3hCLCBpbnRlckFyZWE9aW50ZXJBcmVhKQogICAgICAgICMgaW50ZXJzZWN0aW9uIG92ZXIgdW5pb24KICAgICAgICBpb3UgPSBpbnRlckFyZWEgLyB1bmlvbgogICAgICAgIGFzc2VydCBpb3UgPj0gMAogICAgICAgIHJldHVybiBpb3UKCiAgICAjIGJveEEgPSAoQXgxLEF5MSxBeDIsQXkyKQogICAgIyBib3hCID0gKEJ4MSxCeTEsQngyLEJ5MikKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfYm94ZXNJbnRlcnNlY3QoYm94QSwgYm94Qik6CiAgICAgICAgaWYgYm94QVswXSA+IGJveEJbMl06CiAgICAgICAgICAgIHJldHVybiBGYWxzZSAgIyBib3hBIGlzIHJpZ2h0IG9mIGJveEIKICAgICAgICBpZiBib3hCWzBdID4gYm94QVsyXToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgbGVmdCBvZiBib3hCCiAgICAgICAgaWYgYm94QVszXSA8IGJveEJbMV06CiAgICAgICAgICAgIHJldHVybiBGYWxzZSAgIyBib3hBIGlzIGFib3ZlIGJveEIKICAgICAgICBpZiBib3hBWzFdID4gYm94QlszXToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgYmVsb3cgYm94QgogICAgICAgIHJldHVybiBUcnVlCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9nZXRJbnRlcnNlY3Rpb25BcmVhKGJveEEsIGJveEIpOgogICAgICAgIHhBID0gbWF4KGJveEFbMF0sIGJveEJbMF0pCiAgICAgICAgeUEgPSBtYXgoYm94QVsxXSwgYm94QlsxXSkKICAgICAgICB4QiA9IG1pbihib3hBWzJdLCBib3hCWzJdKQogICAgICAgIHlCID0gbWluKGJveEFbM10sIGJveEJbM10pCiAgICAgICAgIyBpbnRlcnNlY3Rpb24gYXJlYQogICAgICAgIHJldHVybiAoeEIgLSB4QSArIDEpICogKHlCIC0geUEgKyAxKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0VW5pb25BcmVhcyhib3hBLCBib3hCLCBpbnRlckFyZWE9Tm9uZSk6CiAgICAgICAgYXJlYV9BID0gRXZhbHVhdG9yLl9nZXRBcmVhKGJveEEpCiAgICAgICAgYXJlYV9CID0gRXZhbHVhdG9yLl9nZXRBcmVhKGJveEIpCiAgICAgICAgaWYgaW50ZXJBcmVhIGlzIE5vbmU6CiAgICAgICAgICAgIGludGVyQXJlYSA9IEV2YWx1YXRvci5fZ2V0SW50ZXJzZWN0aW9uQXJlYShib3hBLCBib3hCKQogICAgICAgIHJldHVybiBmbG9hdChhcmVhX0EgKyBhcmVhX0IgLSBpbnRlckFyZWEpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9nZXRBcmVhKGJveCk6CiAgICAgICAgcmV0dXJuIChib3hbMl0gLSBib3hbMF0gKyAxKSAqIChib3hbM10gLSBib3hbMV0gKyAxKQ==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoeEIgLSB4QSkgKiAoeUIgLSB5QSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaW50ZXJzZWN0aW9uIGFyZWEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBib3hCID0gKEJ4MSxCeTEsQngyLEJ5MikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBib3hBID0gKEF4MSxBeTEsQXgyLEF5MikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaW50ZXJzZWN0aW9uIG92ZXIgdW5pb24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaWYgYm94ZXMgZG9udCBpbnRlcnNlY3QK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>bb.getAbsoluteBoundingBox(BBFormat.XYX2Y2)))</text>
+      </register>
+      <register name="/" type="4">
+        <text>Evaluator</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmIntmLnN0ZW19IHtsaW5lfSIpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZGV0ID0gIiIiCjAwMDA2IHBlcnNvbiAuNDUgNDMgNDggNzQgMzgKMDAwMDYgcGVyc29uIC44NCAxNyAxNTUgMjkgMzUKMDAwMDYgcGVyc29uIC40MyA5NSAxMTAgMjUgNDIKMDAwMDcgcGVyc29uIC40OCAxNiAyMCAxMDEgODgKMDAwMDcgcGVyc29uIC45NSAzMyAxMTYgMzcgNDkKMDAwMDMgcGVyc29uIC4xOCAxMDkgMTUgNzcgMzkKMDAwMDMgcGVyc29uIC42NyA4NiA2MyA0NiA0NQowMDAwMyBwZXJzb24gLjM4IDE2MCA2MiAzNiA1MwowMDAwMyBwZXJzb24gLjkxIDEwNSAxMzEgNDcgNDcKMDAwMDMgcGVyc29uIC40NCAxOCAxNDggNDAgNDQKMDAwMDIgcGVyc29uIC43MSA2NCAxMTEgNjQgNTgKMDAwMDIgcGVyc29uIC41NCAyNiAxNDAgNjAgNDcKMDAwMDIgcGVyc29uIC43NCAxOSAxOCA0MyAzNQowMDAwMSBwZXJzb24gLjg4IDUgNjcgMzEgNDgKMDAwMDEgcGVyc29uIC43MCAxMTkgMTExIDQwIDY3CjAwMDAxIHBlcnNvbiAuODAgMTI0IDkgNDkgNjcKMDAwMDUgcGVyc29uIC42MiA1MCAzOCAyOCA0NgowMDAwNSBwZXJzb24gLjQ0IDk1IDExIDUzIDI4CjAwMDA1IHBlcnNvbiAuOTUgMjkgMTMxIDcyIDI5CjAwMDA1IHBlcnNvbiAuMjMgMjkgMTYzIDcyIDI5CjAwMDA0IHBlcnNvbiAuMzUgODMgMjggMjggMjYKMDAwMDQgcGVyc29uIC43OCAyOCA2OCA0MiA2NwowMDAwNCBwZXJzb24gLjQ1IDg3IDg5IDI1IDM5CjAwMDA0IHBlcnNvbiAuMTQgMTAgMTU1IDYwIDI2CiIiIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIGludGVyc2VjdChib3hfYSwgYm94X2IpIC0+IGJvb2w6CiAgICBpZiBib3hfYVswXSA+IGJveF9iWzJdOgogICAgICAgIHJldHVybiBGYWxzZSAgIyBib3hBIGlzIHJpZ2h0IG9mIGJveEIKICAgIGlmIGJveF9iWzBdID4gYm94X2FbMl06CiAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgbGVmdCBvZiBib3hCCiAgICBpZiBib3hfYVszXSA8IGJveF9iWzFdOgogICAgICAgIHJldHVybiBGYWxzZSAgIyBib3hBIGlzIGFib3ZlIGJveEIKICAgIGlmIGJveF9hWzFdID4gYm94X2JbM106CiAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgYmVsb3cgYm94QgogICAgcmV0dXJuIFRydWUKCmRlZiBpbnRlcnNlY3RfYXJlYShib3hfYSwgYm94X2IpOgogICAgeEEgPSBtYXgoYm94X2FbMF0sIGJveF9iWzBdKQogICAgeUEgPSBtYXgoYm94X2FbMV0sIGJveF9iWzFdKQogICAgeEIgPSBtaW4oYm94X2FbMl0sIGJveF9iWzJdKQogICAgeUIgPSBtaW4oYm94X2FbM10sIGJveF9iWzNdKQogICAgcmV0dXJuIGFyZWEoKHhBLCB5QSwgeEIsIHlCKSkKCmRlZiB1bmlvbl9hcmVhKGJveF9hLCBib3hfYiwgaW50X2FyZWE9Tm9uZSk6CiAgICBpZiBpbnRfYXJlYSBpcyBOb25lOgogICAgICAgIGludF9hcmVhID0gaW50ZXJzZWN0X2FyZWEoYm94X2EsIGJveF9iKQogICAgcmV0dXJuIGZsb2F0KGFyZWEoYm94X2EpICsgYXJlYShib3hfYikgLSBpbnRfYXJlYSkK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZGVmIGFyZWEoYm94KToKICAgIHJldHVybiAoYm94WzJdIC0gYm94WzBdKSAqIChib3hbM10gLSBib3hbMV0pCgpkZWYgd2gyY29ybmVycyh4LCB5LCB3LCBoKToKICAgIHJldHVybiB4LCB5LCB4ICsgdywgeSArIGgK</text>
+      </register>
       <register name="8" type="4">
-        <text>def _getAllIOUs(reference, detections):
-    ret = []
-    bbReference = reference.getAbsoluteBoundingBox(BBFormat.XYX2Y2)
-    # img = np.zeros((200,200,3), np.uint8)
-    for d in detections:
-        bb = d.getAbsoluteBoundingBox(BBFormat.XYX2Y2)
-        iou = Evaluator.iou(bbReference, bb)
-        # Show blank image with the bounding boxes
-        # img = add_bb_into_image(img, d, color=(255,0,0), thickness=2, label=None)
-        # img = add_bb_into_image(img, reference, color=(0,255,0), thickness=2, label=None)
-        ret.append((iou, reference, d))  # iou, reference, detection
-    # cv2.imshow(&quot;comparing&quot;,img)
-    # cv2.waitKey(0)
-    # cv2.destroyWindow(&quot;comparing&quot;)
-    return sorted(ret, key=lambda i: i[0], reverse=True)  # sort by iou (from highest to lowest)</text>
+        <text encoding="base64">ZGVmIGlvdShib3hfYSwgYm94X2IpOgogICAgaWYgbm90IGludGVyc2VjdChib3hfYSwgYm94X2IpOgogICAgICAgIHJldHVybiAwCiAgICBpbnRfYXJlYSA9IGludGVyc2VjdF9hcmVhKGJveF9hLCBib3hfYikKICAgIHJldCA9IGludF9hcmVhIC8gdW5pb25fYXJlYShib3hfYSwgYm94X2IsIGludF9hcmVhPWludF9hcmVhKQogICAgYXNzZXJ0IHJldCA+PSAwCiAgICByZXR1cm4gcmV0CgpkZWYgaW50ZXJzZWN0KGJveF9hLCBib3hfYikgLT4gYm9vbDoKICAgIGlmIGJveF9hWzBdID4gYm94X2JbMl06CiAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgcmlnaHQgb2YgYm94QgogICAgaWYgYm94X2JbMF0gPiBib3hfYVsyXToKICAgICAgICByZXR1cm4gRmFsc2UgICMgYm94QSBpcyBsZWZ0IG9mIGJveEIKICAgIGlmIGJveF9hWzNdIDwgYm94X2JbMV06CiAgICAgICAgcmV0dXJuIEZhbHNlICAjIGJveEEgaXMgYWJvdmUgYm94QgogICAgaWYgYm94X2FbMV0gPiBib3hfYlszXToKICAgICAgICByZXR1cm4gRmFsc2UgICMgYm94QSBpcyBiZWxvdyBib3hCCiAgICByZXR1cm4gVHJ1ZQoKZGVmIGludGVyc2VjdF9hcmVhKGJveF9hLCBib3hfYik6CiAgICB4QSA9IG1heChib3hfYVswXSwgYm94X2JbMF0pCiAgICB5QSA9IG1heChib3hfYVsxXSwgYm94X2JbMV0pCiAgICB4QiA9IG1pbihib3hfYVsyXSwgYm94X2JbMl0pCiAgICB5QiA9IG1pbihib3hfYVszXSwgYm94X2JbM10pCiAgICByZXR1cm4gYXJlYSgoeEEsIHlBLCB4QiwgeUIpKQoKZGVmIHVuaW9uX2FyZWEoYm94X2EsIGJveF9iLCBpbnRfYXJlYT1Ob25lKToKICAgIGlmIGludF9hcmVhIGlzIE5vbmU6CiAgICAgICAgaW50X2FyZWEgPSBpbnRlcnNlY3RfYXJlYShib3hfYSwgYm94X2IpCiAgICByZXR1cm4gZmxvYXQoYXJlYShib3hfYSkgKyBhcmVhKGJveF9iKSAtIGludF9hcmVhKQoKZGVmIGFyZWEoYm94KToKICAgIHJldHVybiAoYm94WzJdIC0gYm94WzBdKSAqIChib3hbM10gLSBib3hbMV0pCgpkZWYgd2gyY29ybmVycyh4LCB5LCB3LCBoKToKICAgIHJldHVybiB4LCB5LCB4ICsgdywgeSArIGg=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgKgo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</last-search>
+      <last-search>Evaluator</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Evaluator</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ImageBBox.create</entry>
         <entry>resize</entry>
         <entry>valid_loss</entry>
         <entry>get_pred</entry>
@@ -396,6 +380,7 @@
         <entry>preds</entry>
         <entry>analyze</entry>
         <entry encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</entry>
+        <entry>Evaluator</entry>
       </history-search>
       <history-cmd />
       <history-expr />
