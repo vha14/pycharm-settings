@@ -157,12 +157,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550933396046">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550935242702">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="157" column="47" />
-        <mark key="]" line="157" column="50" />
-        <mark key="^" line="157" column="50" />
-        <mark key="." line="157" column="50" />
+        <mark key="[" line="140" column="55" />
+        <mark key="]" line="144" column="36" />
+        <mark key="^" line="144" column="36" />
+        <mark key="." line="144" column="36" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -308,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
