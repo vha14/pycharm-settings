@@ -157,12 +157,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550935242702">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550938301188">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="140" column="55" />
-        <mark key="]" line="144" column="36" />
-        <mark key="^" line="144" column="36" />
-        <mark key="." line="144" column="36" />
+        <mark key="[" line="154" column="96" />
+        <mark key="]" line="154" column="96" />
+        <mark key="." line="154" column="96" />
+        <mark key="^" line="154" column="96" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -308,43 +308,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIntmLnN0ZW19IHtsaW5lfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWVuW25hbWVdW2ptYXhdID0gVHJ1ZSAgIyBmbGFnIGFzIGFscmVhZHkgJ3NlZW4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBBc3NpZ24gZGV0ZWN0aW9uIGFzIHRydWUgcG9zaXRpdmUvZG9uJ3QgY2FyZS9mYWxzZSBwb3NpdGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZfcG9zW2lkeF0gPSAxICAjIGNvdW50IGFzIGZhbHNlIHBvc2l0aXZlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmX3Bvc1tpZHhdID0gMSAgIyBjb3VudCBhcyBmYWxzZSBwb3NpdGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWVuW25hbWVdW2ptYXhdID0gVHJ1ZSAgIyBmbGFnIGFzIGFscmVhZHkgJ3NlZW4nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbVHJ1ZV0gKiAzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0X3Bvc1tpZHhdID0gMSAgIyBjb3VudCBhcyB0cnVlIHBvc2l0aXZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuX2RldHMgPSBsZW4oZGV0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmX3Bvc1tpZHhdID0gMSAgIyBjb3VudCBhcyBmYWxzZSBwb3NpdGl2ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAtIEEgZGV0ZWN0ZWQgImNhdCIgaXMgb3ZlcmxhcGVkIHdpdGggYSBHVCAiY2F0IiB3aXRoIElPVSA+PSBJT1VUaHJlc2hvbGQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlZW5bbmFtZV1bam1heF06Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW91X21heCA+PSBpb3VfdGhyZXNoOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0W2tleV0gPSBucC56ZXJvcyh2YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZGRqCg==</text>
       </register>
     </registers>
     <search>
