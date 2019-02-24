@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551038521238">
-        <mark key="e" line="117" column="2" />
-        <mark key="[" line="112" column="15" />
-        <mark key="]" line="112" column="15" />
-        <mark key="^" line="112" column="15" />
-        <mark key="." line="112" column="15" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551040360864">
+        <mark key="e" line="136" column="2" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -16,7 +15,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551038955319">
+      <file name="/Python Console" timestamp="1551039925588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551020575979">
@@ -288,11 +287,11 @@
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>:Any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmVyYWdlXD4=</text>
@@ -301,31 +300,31 @@
         <text encoding="base64">Z3RfYm94ZXMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGxpc3QpKVwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzc2QubGVhcm4udmFsaWRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzc2QubGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MTYsIHRocmVzaD0wLjUsIG5tc19vdmVybGFwPTAuMSwgc3NkPXNzZCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmd0X2JveGVzID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChsaXN0KSkKICAgICAgICBzZWxmLmRldF9ib3hlcyA9IGRlZmF1bHRkaWN0KGxpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCA9IGFuYWx5emVfcHJlZDIoZ3JhYl9pZHgocHJlZHMsIGkpLCAqKmFuYWx5emVfa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRldmljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlzLmFwcGVuZChOb25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeXMuYXBwZW5kKGRzLnkucmVjb25zdHJ1Y3QoZ3JhYl9pZHgoeWIsIGkpLCB4PXgpKQo=</text>
+        <text encoding="base64">ICAgIHNzZC5sZWFybi5jYWxsYmFja19mbnMuYXBwZW5kKGNhbGxiYWNrcy5DU1ZMb2dnZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGaW5kIGdyb3VuZCB0cnV0aCBpbWFnZQo=</text>
+        <text encoding="base64">IyBzc2QubGVhcm4udmFsaWRhdGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IGN1cl9kZXQubmFtZQo=</text>
+        <text encoding="base64">IyBzc2QubGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MTYsIHRocmVzaD0wLjUsIG5tc19vdmVybGFwPTAuMSwgc3NkPXNzZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCA9IGFuYWx5emVfcHJlZDIoZ3JhYl9pZHgocHJlZHMsIGkpLCAqKmFuYWx5emVfa3dhcmdzKQo=</text>
       </register>
     </registers>
     <search>
