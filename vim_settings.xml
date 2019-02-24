@@ -21,7 +21,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550963995918">
+      <file name="/a.dummy" timestamp="1550975190992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
@@ -29,6 +29,12 @@
         <mark key="]" line="6" column="97" />
         <mark key="." line="6" column="97" />
         <mark key="^" line="6" column="97" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1550974724153">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="64" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" timestamp="1549817028648">
         <mark key="'" line="212" column="51" />
@@ -70,7 +76,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/test_pascal_metrics" timestamp="1550964271812">
+      <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/pascal.py" timestamp="1550948746543" />
@@ -103,11 +109,6 @@
         <mark key="]" line="69" column="15" />
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ai2website/app/html/incubator.html" timestamp="1550466898843">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550442728651">
         <mark key="'" line="46" column="20" />
@@ -152,11 +153,12 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1550964398103">
-        <mark key="[" line="64" column="14" />
-        <mark key="]" line="64" column="17" />
-        <mark key="." line="64" column="17" />
-        <mark key="^" line="64" column="17" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1550992764141">
+        <mark key="'" line="79" column="18" />
+        <mark key="[" line="73" column="47" />
+        <mark key="]" line="73" column="67" />
+        <mark key="^" line="73" column="67" />
+        <mark key="." line="73" column="67" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" timestamp="1550258066059">
         <mark key="'" line="332" column="14" />
@@ -180,12 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="87" column="39" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_detector.py" />
-      <jump line="19" column="23" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/loss.py" />
       <jump line="107" column="31" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="22" column="17" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
@@ -280,59 +276,63 @@
       <jump line="167" column="40" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="38" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="55" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/map.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
+      <jump line="72" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
+      <jump line="89" column="33" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
+      <jump line="101" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
+      <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG1heCA9IG1heChwcmVjW2FyZ19ncmVhdGVyX3JlYy5taW4oKTpdKQo=</text>
+        <text encoding="base64">ICAgICAgICBtcmVjID0gbWV0LmludGVycG9sYXRlZF9yZWNhbGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1ldHMgPSB2b2NfbWV0cmljcyhndF9ib3hlcywgZGV0X2JveGVzLCBjbGFzc2VzLCBpb3VfdGhyZXNoPXRocmVzaCwgbWV0aG9kX2ZuPW1ldGhvZF9mbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie21jLmNsYXN9OiB7bWMuQVB9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBfc3RyID0gZiJ7bWV0LkFQICogMTAwOi4yZn0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoIkF2ZXJhZ2UgcHJlY2lzaW9uIHZhbHVlcyBwZXIgY2xhc3M6XG4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHNhdmVfcGF0aD1Ob25lLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwbHQud2FpdGZvcmJ1dHRvbnByZXNzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlY192YWxzID0gW3hbMF0gZm9yIHggaW4gY2NdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGx0LnNhdmVmaWcob3MucGF0aC5qb2luKHNhdmVfcGF0aCwgY2xhc3NJZCArICcucG5nJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJob19pbnRlcnAgPSBbeFsxXSBmb3IgeCBpbiBjY10K</text>
+        <text encoding="base64">ICAgICAgICBpZiBzYXZlX3BhdGggaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcF9zdHIgPSAiezA6LjRmfSUiLmZvcm1hdChhdmVyYWdlX3ByZWNpc2lvbiAqIDEwMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid_loss</entry>
-        <entry>get_pred</entry>
         <entry>print</entry>
         <entry>pred_batch</entry>
         <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
@@ -351,6 +351,8 @@
         <entry encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</entry>
         <entry>Evaluator</entry>
         <entry>conf</entry>
+        <entry encoding="base64">XDxwbHRcPg==</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd />
       <history-expr />
