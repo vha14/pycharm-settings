@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550818243762">
-        <mark key="[" line="142" column="16" />
-        <mark key="]" line="142" column="17" />
-        <mark key="." line="142" column="17" />
-        <mark key="^" line="141" column="29" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551033781063">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="9" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1551033758986">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551020575979">
         <mark key="[" line="0" column="0" />
@@ -284,11 +287,11 @@
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>len(gts)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRldmljZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>len(gts)</text>
+        <text>SQUISH</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmVyYWdlXD4=</text>
@@ -297,31 +300,31 @@
         <text encoding="base64">Z3RfYm94ZXMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGxpc3QpKVwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGaW5kIGdyb3VuZCB0cnV0aCBpbWFnZQo=</text>
+        <text encoding="base64">ICAgIGRldmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IGN1cl9kZXQubmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlzLmFwcGVuZChOb25lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeXMuYXBwZW5kKGRzLnkucmVjb25zdHJ1Y3QoZ3JhYl9pZHgoeWIsIGkpLCB4PXgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3RfYm94ZXMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGxpc3QpKSAKZGV0X2JveGVzID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChsaXN0KSkKY2xhc3NlcyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGaW5kIGdyb3VuZCB0cnV0aCBpbWFnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgZGVmYXVsdGRpY3QoZGVmYXVsdGRpY3QpLCBzZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IGN1cl9kZXQubmFtZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvcm5lcnM6IFR1cGxlW2ludF0K</text>
+        <text encoding="base64">Z3RfYm94ZXMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGxpc3QpKSAKZGV0X2JveGVzID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChsaXN0KSkKY2xhc3NlcyA9IHNldCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IHN0cgo=</text>
+        <text encoding="base64">ICAgICwgZGVmYXVsdGRpY3QoZGVmYXVsdGRpY3QpLCBzZXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQkJveDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
