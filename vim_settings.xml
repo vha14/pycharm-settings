@@ -3,11 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551040360864">
-        <mark key="e" line="136" column="2" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551041954545">
+        <mark key="e" line="119" column="2" />
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="110" column="43" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -15,7 +17,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551039925588">
+      <file name="/Python Console" timestamp="1551042071936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551020575979">
@@ -107,6 +109,12 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" timestamp="1549851912991">
         <mark key="'" line="2208" column="86" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551041898329">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="31" column="63" />
+        <mark key="." line="31" column="63" />
+        <mark key="^" line="31" column="63" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="15" />
@@ -185,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="22" column="17" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="32" column="20" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="34" column="53" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
@@ -285,46 +292,47 @@
       <jump line="101" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:Any</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmVyYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3RfYm94ZXMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGxpc3QpKVwK</text>
+        <text encoding="base64">ZHNfdHlwZSA9IERhdGFzZXRUeXBlLlZhbGlkCmRzID0gbGVhcm4uZGwoZHNfdHlwZSkuZGF0YXNldAprd2FyZ3MgPSBkaWN0KHRocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSwgc3NkPXNzZCkKYW5hbHl6ZV9rd2FyZ3MsIGt3YXJncyA9IHNwbGl0X2t3YXJnc19ieV9mdW5jKGt3YXJncywgZHMueS5hbmFseXplX3ByZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmd0X2JveGVzID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChsaXN0KSkKICAgICAgICBzZWxmLmRldF9ib3hlcyA9IGRlZmF1bHRkaWN0KGxpc3QpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBzY3JpcHRzLnNzZF9leHBlcmltZW50cyBpbXBvcnQgbGVhcm4sIHliCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVkcyA9IGxhc3Rfb3V0cHV0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRzID0gbGVhcm4uZGwoRGF0YXNldFR5cGUuVmFsaWQpLmRhdGFzZXQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNzZC5sZWFybi5jYWxsYmFja19mbnMuYXBwZW5kKGNhbGxiYWNrcy5DU1ZMb2dnZXIpCg==</text>
+        <text encoding="base64">ICAgIGRzX3R5cGUgPSBEYXRhc2V0VHlwZS5WYWxpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzc2QubGVhcm4udmFsaWRhdGUoKQo=</text>
+        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MsIGt3YXJncyA9IHNwbGl0X2t3YXJnc19ieV9mdW5jKGt3YXJncywgZHMueS5hbmFseXplX3ByZWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBzc2QubGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MTYsIHRocmVzaD0wLjUsIG5tc19vdmVybGFwPTAuMSwgc3NkPXNzZCkK</text>
+        <text encoding="base64">a3dhcmdzID0gZGljdCh0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCA9IGFuYWx5emVfcHJlZDIoZ3JhYl9pZHgocHJlZHMsIGkpLCAqKmFuYWx5emVfa3dhcmdzKQo=</text>
+        <text encoding="base64">ZHMgPSBsZWFybi5kbChkc190eXBlKS5kYXRhc2V0Cg==</text>
       </register>
     </registers>
     <search>
