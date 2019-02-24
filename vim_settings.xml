@@ -15,28 +15,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" timestamp="1550293912278">
-        <mark key="'" line="78" column="33" />
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="78" column="33" />
-        <mark key="^" line="78" column="33" />
-        <mark key="." line="78" column="33" />
-      </file>
       <file name="/fragment.py" timestamp="1550773939621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550932336672">
+      <file name="/a.dummy" timestamp="1550963995918">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1550210030369">
-        <mark key="'" line="351" column="31" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="52" column="44" />
-        <mark key="^" line="51" column="11" />
-        <mark key="." line="51" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
         <mark key="[" line="6" column="97" />
@@ -49,20 +35,6 @@
       </file>
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/scratch.py" timestamp="1550380000261">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1550070518350">
-        <mark key="'" line="73" column="24" />
-        <mark key="[" line="73" column="25" />
-        <mark key="]" line="73" column="28" />
-        <mark key="." line="73" column="28" />
-        <mark key="^" line="73" column="28" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550961778071">
         <mark key="'" line="54" column="0" />
@@ -84,13 +56,6 @@
         <mark key="[" line="290" column="0" />
         <mark key="]" line="360" column="50" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1550430941773">
-        <mark key="'" line="43" column="20" />
-        <mark key="[" line="105" column="29" />
-        <mark key="]" line="105" column="47" />
-        <mark key="." line="105" column="47" />
-        <mark key="^" line="105" column="47" />
-      </file>
       <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1550749692831">
         <mark key="'" line="169" column="34" />
       </file>
@@ -105,8 +70,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/test_pascal_metrics" timestamp="1550964271812">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/pascal.py" timestamp="1550948746543" />
-      <file name="/Dummy.txt" timestamp="1550961422418">
+      <file name="/Dummy.txt" timestamp="1550962464753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550816564446">
@@ -165,12 +133,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550961965953">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550963625583">
         <mark key="'" line="38" column="19" />
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="26" />
-        <mark key="^" line="59" column="26" />
-        <mark key="." line="59" column="26" />
+        <mark key="[" line="76" column="11" />
+        <mark key="]" line="76" column="11" />
+        <mark key="^" line="76" column="11" />
+        <mark key="." line="76" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -184,12 +152,11 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_list.py" timestamp="1550021178537">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1550964398103">
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" timestamp="1550258066059">
         <mark key="'" line="332" column="14" />
@@ -316,43 +283,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1yZWMgPSBucC5hcHBlbmQoWzBdLCByZWMsIFsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG1heCA9IG1heChwcmVjW2FyZ19ncmVhdGVyX3JlYy5taW4oKTpdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1wcmUgPSBwcmVjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1yZWMgPSByZWMK</text>
+        <text encoding="base64">ICAgIHByaW50KGYie21jLmNsYXN9OiB7bWMuQVB9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlY192YWxzID0gW2lbMF0gZm9yIGkgaW4gY2NdCg==</text>
+        <text encoding="base64">cHJpbnQoIkF2ZXJhZ2UgcHJlY2lzaW9uIHZhbHVlcyBwZXIgY2xhc3M6XG4iKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlY192YWxzID0gbGlzdChucC5saW5zcGFjZSgxLCAwLCAxMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
+        <text encoding="base64">ICAgIHJlY192YWxzID0gW3hbMF0gZm9yIHggaW4gY2NdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlY192YWxzID0gbGlzdChyZWNfdmFsc1s6Oi0xXSkK</text>
+        <text encoding="base64">ICAgIHJob19pbnRlcnAgPSBbeFsxXSBmb3IgeCBpbiBjY10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlY192YWxzWzo6LTFdCg==</text>
+        <text encoding="base64">eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlY192YWxzCg==</text>
+        <text encoding="base64">eAo=</text>
       </register>
     </registers>
     <search>
