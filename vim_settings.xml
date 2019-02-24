@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551041954545">
-        <mark key="e" line="119" column="2" />
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="110" column="43" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551044115636">
+        <mark key="e" line="116" column="2" />
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="107" column="20" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -17,10 +17,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551042071936">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1551020575979">
+      <file name="/fragment.py" timestamp="1551043707556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -109,11 +106,11 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" timestamp="1549851912991">
         <mark key="'" line="2208" column="86" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551041898329">
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="63" />
-        <mark key="." line="31" column="63" />
-        <mark key="^" line="31" column="63" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551044308702">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
         <mark key="[" line="69" column="15" />
@@ -295,11 +292,11 @@
       <jump line="159" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>self.metric = 0.0</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>self.metric = 0.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmVyYWdlXD4=</text>
@@ -308,31 +305,31 @@
         <text encoding="base64">ZHNfdHlwZSA9IERhdGFzZXRUeXBlLlZhbGlkCmRzID0gbGVhcm4uZGwoZHNfdHlwZSkuZGF0YXNldAprd2FyZ3MgPSBkaWN0KHRocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSwgc3NkPXNzZCkKYW5hbHl6ZV9rd2FyZ3MsIGt3YXJncyA9IHNwbGl0X2t3YXJnc19ieV9mdW5jKGt3YXJncywgZHMueS5hbmFseXplX3ByZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzY3JpcHRzLnNzZF9leHBlcmltZW50cyBpbXBvcnQgbGVhcm4sIHliCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkcyA9IGxhc3Rfb3V0cHV0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRzID0gbGVhcm4uZGwoRGF0YXNldFR5cGUuVmFsaWQpLmRhdGFzZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzX3R5cGUgPSBEYXRhc2V0VHlwZS5WYWxpZAo=</text>
+        <text encoding="base64">ZnJvbSBzY3JpcHRzLnNzZF9leHBlcmltZW50cyBpbXBvcnQgbGVhcm4sIHliCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MsIGt3YXJncyA9IHNwbGl0X2t3YXJnc19ieV9mdW5jKGt3YXJncywgZHMueS5hbmFseXplX3ByZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkcyA9IGxhc3Rfb3V0cHV0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a3dhcmdzID0gZGljdCh0aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEsIHNzZD1zc2QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZHMgPSBsZWFybi5kbChkc190eXBlKS5kYXRhc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRzID0gbGVhcm4uZGwoRGF0YXNldFR5cGUuVmFsaWQpLmRhdGFzZXQK</text>
       </register>
     </registers>
     <search>
