@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551051753854">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551053980225">
         <mark key="e" line="116" column="2" />
         <mark key="'" line="118" column="0" />
-        <mark key="[" line="90" column="75" />
-        <mark key="]" line="90" column="80" />
-        <mark key="^" line="90" column="80" />
-        <mark key="." line="90" column="80" />
+        <mark key="[" line="113" column="40" />
+        <mark key="]" line="114" column="18" />
+        <mark key="^" line="114" column="18" />
+        <mark key="." line="114" column="18" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>SQUISH</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>SQUISH</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmVyYWdlXD4=</text>
