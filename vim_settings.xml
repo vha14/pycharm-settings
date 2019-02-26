@@ -3,20 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551219002198">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="3" />
-        <mark key="^" line="114" column="3" />
-        <mark key="." line="114" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551221744803">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="113" column="3" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1551219021510">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551211234932">
         <mark key="[" line="0" column="0" />
@@ -66,12 +63,11 @@
         <mark key="[" line="290" column="0" />
         <mark key="]" line="360" column="50" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1551207142930">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1551221933956">
         <mark key="'" line="36" column="22" />
-        <mark key="[" line="120" column="19" />
-        <mark key="]" line="120" column="19" />
-        <mark key="^" line="120" column="81" />
-        <mark key="." line="120" column="19" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -293,11 +289,11 @@
       <jump line="36" column="22" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5iYXRjaF9zaXplID09IDEyOAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
@@ -306,9 +302,18 @@
         <text encoding="base64">ICAgICAgICBpZiBlcG9jaCA9PSAwIG9yIGVwb2NoICUgc2VsZi5tdWYgIT0gMDogcmV0dXJuCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5iYXRjaF9zaXplID09IDEyOAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJhdGNoX3NpemUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>#%%
 
 # ssd.learn.data = load_data(testing=True)
@@ -405,26 +410,17 @@ def experiment2():
     learn.data = load_data(testing=True)
     learn.validate()</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnZXBvY2ggYmVnYW4nKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBydW5fb25fZXBvY2gK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiB3cmFwcGVyCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiBydW5fb25fZXBvY2goc2VsZik6CiAgICAgICAgbSA9IHNlbGYKCiAgICAgICAgZGVmIHdyYXBwZXIoY2FsbGJhY2tfZm4pOgogICAgICAgICAgICBmcm9tIGluc3BlY3QgaW1wb3J0IHNpZ25hdHVyZQoKICAgICAgICAgICAgZGVmIGlubmVyX3dyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgICAgIHNpZyA9IHNpZ25hdHVyZShjYWxsYmFja19mbikKICAgICAgICAgICAgICAgIGFzc2VydCAnZXBvY2gnID09IGxpc3Qoc2lnLnBhcmFtZXRlcnMua2V5cygpKVswXQogICAgICAgICAgICAgICAgZXBvY2ggPSBhcmdzWzBdCiAgICAgICAgICAgICAgICBpZiBlcG9jaCAhPSAwIGFuZCBlcG9jaCAlIG0ubXVmID09IDA6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2FjdHVhbCB3b3JrJykKICAgICAgICAgICAgICAgICAgICBjYWxsYmFja19mbigqYXJncywgKiprd2FyZ3MpCgogICAgICAgICAgICByZXR1cm4gaW5uZXJfd3JhcHBlcgog</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdCgxLCBmb289RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiB3cmFwcGVyCg==</text>
       </register>
     </registers>
     <search>
