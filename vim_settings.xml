@@ -26,12 +26,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ssd.pytorch/train.py" timestamp="1551155300062">
-        <mark key="'" line="150" column="49" />
-        <mark key="[" line="164" column="46" />
-        <mark key="]" line="169" column="0" />
-        <mark key="^" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/work/ssd.pytorch/train.py" timestamp="1551158705715">
+        <mark key="'" line="54" column="46" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1550975190992">
         <mark key="[" line="0" column="0" />
@@ -189,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="73" column="63" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
-      <jump line="373" column="13" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
-      <jump line="383" column="13" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
       <jump line="39" column="5" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
       <jump line="303" column="41" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
       <jump line="7" column="17" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
@@ -289,58 +282,63 @@
       <jump line="104" column="20" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
       <jump line="26" column="31" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
       <jump line="150" column="49" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="259" column="4" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="228" column="12" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="49" column="23" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="50" column="46" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ('2012', 'trainval')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, ('2012', 'trainval')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>max_iter</text>
+        <text>vis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBpbWFnZV9zZXRzPVsoJzIwMDcnLCAndHJhaW52YWwnKSwgKCcyMDEyJywgJ3RyYWludmFsJyldLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgYXJncy52aXNkb206Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRlbnNvcihbMSwyXSkudW5zcXVlZXplKDApCg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MudmlzZG9tOgogICAgICAgIGltcG9ydCB2aXNkb20KICAgICAgICB2aXogPSB2aXNkb20uVmlzZG9tKCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyb20gdG9yY2ggaW1wb3J0IFRlbnNvcgo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MudmlzZG9tOgogICAgICAgIGltcG9ydCB2aXNkb20KICAgICAgICB2aXogPSB2aXNkb20uVmlzZG9tKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdmlzZG9tCiAgICAgICAgdml6ID0gdmlzZG9tLlZpc2RvbSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIntsZW4oc2VsZi5ndF9ib3hlcyl9LCB7bGVuKHNlbGYuZGV0X2JveGVzKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICB0MCA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIFRlbnNvcihbMSwyXSkudW5zcXVlZXplKDApCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>max_iter</last-search>
+      <last-search>vis</last-search>
       <last-offset />
-      <last-pattern>max_iter</last-pattern>
+      <last-pattern>vis</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.data</entry>
         <entry>ds</entry>
         <entry>n_items</entry>
         <entry>rows</entry>
@@ -360,6 +358,7 @@
         <entry encoding="base64">XDxBdmVyYWdlXD4=</entry>
         <entry>data</entry>
         <entry>max_iter</entry>
+        <entry>vis</entry>
       </history-search>
       <history-cmd />
       <history-expr />
