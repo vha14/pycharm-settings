@@ -3,22 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551053980225">
-        <mark key="e" line="116" column="2" />
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="113" column="40" />
-        <mark key="]" line="114" column="18" />
-        <mark key="^" line="114" column="18" />
-        <mark key="." line="114" column="18" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551206323807">
+        <mark key="e" line="117" column="2" />
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="16" />
+        <mark key="^" line="68" column="26" />
+        <mark key="." line="113" column="16" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1551204425620">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551199654887">
         <mark key="[" line="0" column="0" />
@@ -68,10 +65,11 @@
         <mark key="[" line="290" column="0" />
         <mark key="]" line="360" column="50" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550813692384">
-        <mark key="'" line="369" column="22" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="77" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1551205785950">
+        <mark key="[" line="120" column="19" />
+        <mark key="]" line="120" column="81" />
+        <mark key="^" line="120" column="81" />
+        <mark key="." line="120" column="81" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -81,6 +79,9 @@
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" timestamp="1551205865506">
+        <mark key="'" line="156" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1551198583389">
         <mark key="[" line="0" column="0" />
@@ -182,28 +183,8 @@
         <mark key="^" line="52" column="100" />
         <mark key="." line="52" column="100" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" timestamp="1550384603104">
-        <mark key="'" line="379" column="8" />
-        <mark key="[" line="287" column="43" />
-        <mark key="]" line="287" column="77" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="5" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/image.py" />
-      <jump line="303" column="41" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
-      <jump line="7" column="17" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
-      <jump line="331" column="9" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
-      <jump line="332" column="14" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" />
-      <jump line="78" column="33" filename="$USER_HOME$/work/piv/modeling/notebooks/Feb15_2019-notes.md" />
-      <jump line="295" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="280" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="272" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="276" column="15" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="8" column="12" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="329" column="47" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="334" column="21" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="279" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="305" column="19" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="2" column="36" filename="$USER_HOME$/work/piv/modeling/src/scripts/scratch.py" />
       <jump line="53" column="12" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
@@ -289,58 +270,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
       <jump line="49" column="23" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
       <jump line="50" column="46" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="95" column="36" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="98" column="56" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="99" column="7" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="116" column="41" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="117" column="26" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="124" column="36" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="127" column="38" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="128" column="35" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="132" column="65" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="146" column="42" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="151" column="42" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
+      <jump line="156" column="64" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text>Symlinked jpeg files previously done</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>Symlinked jpeg files previously done</text>
       </register>
       <register name="/" type="4">
-        <text>vis</text>
+        <text>link</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid0aW1lcjoge3RpbWUudGltZSgpIC0gdDA6LjRmfSBzZWMuJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiU3ltbGlua2VkIGpwZWcgZmlsZXMgcHJldmlvdXNseSBkb25lIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDc4KjMyCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJZZXMhIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbWFnZV9zZXRzPVsoJzIwMDcnLCAndHJhaW52YWwnKV0sCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsZW4obGlzdChGQVNUQUlfSlBFR19QQVRILnJnbG9iKCcqLmpwZycpKSkgPT0gOTk2Mwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid0aW1lOiB7dGltZS50aW1lKCl9JykKICAgICAgICAgICAgcHJpbnQoZidlcG9jaCB0aW1lOiB7dGltZS50aW1lKCkgLSB0MDouNGZ9IHNlYy4nKQo=</text>
+        <text encoding="base64">ZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid0aW1lOiB7dGltZS50aW1lKCl9JykK</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0MCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJNb3ZpbmcgZmFpbGVkLiBDaGVja2luZyBpZiB0aGUgZmlsZXMgd2VyZSBtb3ZlZCBiZWZvcmUgLi4uICIsIGVuZD0nJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0MCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzaHV0aWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpdGVyYXRpb24gJSAxMCA9PSAwOgo=</text>
+        <text encoding="base64">ODczMi8zMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3RpbWVyOiAlLjRmIHNlYy4nICUgKHQxIC0gdDApKQogICAgICAgICAgICBwcmludCgnaXRlciAnICsgcmVwcihpdGVyYXRpb24pICsgJyB8fCBMb3NzOiAlLjRmIHx8JyAlIChsb3NzLmRhdGFbMF0pLCBlbmQ9JyAnKQo=</text>
+        <text encoding="base64">ICAgIDc4KjMyCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>vis</last-search>
+      <last-search>link</last-search>
       <last-offset />
-      <last-pattern>vis</last-pattern>
+      <last-pattern>link</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ds</entry>
         <entry>n_items</entry>
         <entry>rows</entry>
         <entry>analyze_pred</entry>
@@ -360,6 +355,7 @@
         <entry>data</entry>
         <entry>max_iter</entry>
         <entry>vis</entry>
+        <entry>link</entry>
       </history-search>
       <history-cmd />
       <history-expr />
