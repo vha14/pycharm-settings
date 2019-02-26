@@ -41,9 +41,6 @@
         <mark key="^" line="77" column="29" />
         <mark key="." line="77" column="29" />
       </file>
-      <file name="$USER_HOME$/work/tf-models/research/object_detection/utils/object_detection_evaluation.py" timestamp="1549817028648">
-        <mark key="'" line="212" column="51" />
-      </file>
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,15 +57,9 @@
         <mark key="^" line="299" column="37" />
         <mark key="." line="299" column="37" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/graphviz/dot.py" timestamp="1549556552628">
-        <mark key="'" line="27" column="22" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/ext/Object-Detection-Metrics/lib/Evaluator.py" timestamp="1550897153094">
         <mark key="[" line="290" column="0" />
         <mark key="]" line="360" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1550749692831">
-        <mark key="'" line="169" column="34" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1550813692384">
         <mark key="'" line="369" column="22" />
@@ -84,7 +75,7 @@
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551046631399">
+      <file name="/Dummy.txt" timestamp="1551153235623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550816564446">
@@ -102,11 +93,11 @@
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/data_block.py" timestamp="1550749734768">
-        <mark key="'" line="498" column="75" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py" timestamp="1549851912991">
-        <mark key="'" line="2208" column="86" />
+      <file name="$USER_HOME$/work/ssd.pytorch/data/coco.py" timestamp="1551153388524">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="46" column="11" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551049227074">
         <mark key="[" line="53" column="93" />
@@ -119,12 +110,6 @@
         <mark key="]" line="69" column="15" />
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1550442728651">
-        <mark key="'" line="46" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/fastai/fastai/vision/data.py" timestamp="1550749819942">
-        <mark key="'" line="73" column="74" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1551050775262">
         <mark key="[" line="50" column="0" />
@@ -150,8 +135,14 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" timestamp="1551152537379">
-        <mark key="'" line="104" column="20" />
+      <file name="/train" timestamp="1551153499130">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" timestamp="1551153450229">
+        <mark key="'" line="105" column="20" />
+        <mark key="[" line="97" column="49" />
+        <mark key="]" line="97" column="49" />
+        <mark key="." line="97" column="49" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -171,9 +162,6 @@
         <mark key="]" line="12" column="28" />
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/transform.py" timestamp="1550258066059">
-        <mark key="'" line="332" column="14" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_head.py" timestamp="1550019038695">
         <mark key="[" line="15" column="98" />
@@ -297,16 +285,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SQUISH</text>
+        <text>, ('2012', 'trainval')</text>
       </register>
       <register name="-" type="4">
-        <text>SQUISH</text>
+        <text>, ('2012', 'trainval')</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIntsZW4oc2VsZi5ndF9ib3hlcyl9LCB7bGVuKHNlbGYuZGV0X2JveGVzKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbWFnZV9zZXRzPVsoJzIwMDcnLCAndHJhaW52YWwnKSwgKCcyMDEyJywgJ3RyYWludmFsJyldLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
