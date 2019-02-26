@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551209056570">
-        <mark key="e" line="137" column="2" />
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="132" column="5" />
-        <mark key="]" line="132" column="5" />
-        <mark key="^" line="140" column="0" />
-        <mark key="." line="132" column="5" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551212643350">
+        <mark key="e" line="120" column="2" />
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="109" column="48" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
@@ -17,7 +17,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1551199654887">
+      <file name="/fragment.py" timestamp="1551211234932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -108,11 +108,11 @@
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551207690086">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551212612901">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="34" column="37" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
         <mark key="[" line="69" column="15" />
@@ -293,43 +293,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>, get_param</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>, get_param</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVmIG9wdGlvbmFsX3RyYW5zZih0cmFuX2ZuKToKICAgIGRlZiB3cmFwcGVyKG9wdGlvbmFsX3BhcmFtOiBPcHRpb25hbFthbnldLCBpbWc6IE9wZW5jdkltYWdlKSAtPiBPcGVuY3ZJbWFnZToKICAgICAgICByZXR1cm4gaW1nIGlmIG9wdGlvbmFsX3BhcmFtIGlzIE5vbmUgZWxzZSB0cmFuX2ZuKG9wdGlvbmFsX3BhcmFtLCBpbWcpCgogICAgcmV0dXJuIHdyYXBwZXIK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBzY3JpcHRzLnZvY19jYWxsYmFjayBpbXBvcnQgVk9DTWV0cmljLCBnZXRfcGFyYW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cgoj</text>
+      <register name="2" type="2">
+        <text encoding="base64">dGVzdCgxLCBmb289RmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpbWcgaWYgb3B0aW9uYWxfcGFyYW0gaXMgTm9uZSBlbHNlIHRyYW5fZm4ob3B0aW9uYWxfcGFyYW0sIGltZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcG9jaCAlIHNlbGYubXVmID09IDA6Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJ7cGFyYW0gKyAxfSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBhcmFtLl9fY2xhc3NfXykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJZZXMhIikK</text>
+        <text encoding="base64">ZGVmIHRlc3QocGFyYW0sIGZvbz1UcnVlKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4obGlzdChGQVNUQUlfSlBFR19QQVRILnJnbG9iKCcqLmpwZycpKSkgPT0gOTk2Mwo=</text>
+        <text encoding="base64">QGdldF9wYXJhbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgo=</text>
+        <text encoding="base64">ZnJvbSBzY3JpcHRzLnZvY19jYWxsYmFjayBpbXBvcnQgVk9DTWV0cmljLCBnZXRfcGFyYW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
