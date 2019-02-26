@@ -17,7 +17,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551152331203">
+      <file name="/Python Console" timestamp="1551154837025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551050480471">
@@ -25,6 +25,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ssd.pytorch/train.py" timestamp="1551155300062">
+        <mark key="'" line="150" column="49" />
+        <mark key="[" line="164" column="46" />
+        <mark key="]" line="169" column="0" />
+        <mark key="^" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1550975190992">
         <mark key="[" line="0" column="0" />
@@ -75,7 +82,7 @@
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551153235623">
+      <file name="/Dummy.txt" timestamp="1551154058842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550816564446">
@@ -135,7 +142,7 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="/train" timestamp="1551153499130">
+      <file name="/train" timestamp="1551153725783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" timestamp="1551153450229">
@@ -182,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="20" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
       <jump line="73" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
       <jump line="44" column="4" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
       <jump line="73" column="63" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
@@ -282,6 +287,8 @@
       <jump line="92" column="47" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
       <jump line="99" column="17" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
       <jump line="104" column="20" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
+      <jump line="26" column="31" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
+      <jump line="150" column="49" filename="$USER_HOME$/work/ssd.pytorch/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,7 +298,7 @@
         <text>, ('2012', 'trainval')</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>max_iter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBpbWFnZV9zZXRzPVsoJzIwMDcnLCAndHJhaW52YWwnKSwgKCcyMDEyJywgJ3RyYWludmFsJyldLAo=</text>
@@ -325,15 +332,14 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>max_iter</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>max_iter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
         <entry>.data</entry>
         <entry>ds</entry>
         <entry>n_items</entry>
@@ -353,6 +359,7 @@
         <entry>class</entry>
         <entry encoding="base64">XDxBdmVyYWdlXD4=</entry>
         <entry>data</entry>
+        <entry>max_iter</entry>
       </history-search>
       <history-cmd />
       <history-expr />
