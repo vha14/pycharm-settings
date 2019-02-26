@@ -17,6 +17,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1551152331203">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1551050480471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -147,6 +150,9 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
+      <file name="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" timestamp="1551152537379">
+        <mark key="'" line="104" column="20" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -188,11 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="17" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
-      <jump line="32" column="20" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
-      <jump line="34" column="53" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
-      <jump line="35" column="37" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
-      <jump line="36" column="31" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="43" column="20" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
       <jump line="73" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" />
@@ -288,6 +289,11 @@
       <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
       <jump line="159" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="61" column="12" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
+      <jump line="79" column="19" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
+      <jump line="92" column="47" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
+      <jump line="99" column="17" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
+      <jump line="104" column="20" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -297,7 +303,7 @@
         <text>SQUISH</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdmVyYWdlXD4=</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmIntsZW4oc2VsZi5ndF9ib3hlcyl9LCB7bGVuKHNlbGYuZGV0X2JveGVzKX0iKQo=</text>
@@ -331,15 +337,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdmVyYWdlXD4=</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdmVyYWdlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>data</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pred_batch</entry>
         <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
         <entry>.data</entry>
         <entry>ds</entry>
@@ -359,6 +364,7 @@
         <entry encoding="base64">XDxwbHRcPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxBdmVyYWdlXD4=</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd />
       <history-expr />
