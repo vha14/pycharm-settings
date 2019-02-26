@@ -108,11 +108,11 @@
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551213618309">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="54" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551214118091">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
         <mark key="[" line="69" column="15" />
@@ -292,11 +292,11 @@
       <jump line="36" column="22" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcG9jaCA9PSAwIG9yIGVwb2NoICUgc2VsZi5tdWYgIT0gMDogcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, get_param</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
