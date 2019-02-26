@@ -3,19 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551213649433">
-        <mark key="e" line="120" column="2" />
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="109" column="48" />
-        <mark key="]" line="109" column="49" />
-        <mark key="." line="109" column="49" />
-        <mark key="^" line="109" column="48" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551219002198">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="3" />
+        <mark key="^" line="114" column="3" />
+        <mark key="." line="114" column="3" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1551219021510">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551211234932">
         <mark key="[" line="0" column="0" />
@@ -293,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>loss</text>
@@ -305,31 +306,125 @@
         <text encoding="base64">ICAgICAgICBpZiBlcG9jaCA9PSAwIG9yIGVwb2NoICUgc2VsZi5tdWYgIT0gMDogcmV0dXJuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZXBvY2ggYmVnYW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBydW5fb25fZXBvY2gK</text>
+      <register name="2" type="4">
+        <text>#%%
+
+# ssd.learn.data = load_data(testing=True)
+# ssd.learn.validate()
+
+# ssd.learn.load(model_fn(n_epochs=100))
+# ssd.learn.show_results(rows=16, thresh=0.5, nms_overlap=0.1, ssd=ssd)
+
+#%%
+
+from fastai.core import split_kwargs_by_func
+from fastai.torch_core import grab_idx
+from fastprogress import progress_bar
+from detect.ssd_list import analyze_pred2
+
+learn = ssd.learn
+ds_type = DatasetType.Valid
+ds = learn.dl(ds_type).dataset
+kwargs = dict(thresh=0.1, nms_overlap=0.1, ssd=ssd)
+analyze_kwargs, kwargs = split_kwargs_by_func(kwargs, ds.y.analyze_pred)
+
+def predict_batch(xb, yb):
+    with torch.no_grad():
+        preds = learn.model.eval()(xb)
+        xb = learn.data.denorm(xb)
+        xs, ys, zs, confs = [], [], [], []
+        for i in range(xb.shape[0]):
+            x = ds.x.reconstruct(grab_idx(xb, i))
+            xs.append(x)
+            ys.append(ds.y.reconstruct(grab_idx(yb, i), x=x))
+            pred = analyze_pred2(grab_idx(preds, i), **analyze_kwargs)
+            if pred is None:
+                zs.append(None)
+            else:
+                bbox, clas, conf = pred
+                zs.append(ds.y.reconstruct((bbox, clas), x=x))
+                confs.append(conf)
+        return xs, ys, zs, conf
+
+xb, yb = learn.data.one_batch(ds_type, detach=False, denorm=False)
+xs, ys, zs, confs = predict_batch(xb, yb)
+print(f&quot;xs length: {len(xs)}, ys length: {len(ys)}, zs length: {len(zs)}&quot;)
+ds.x.show_xyzs(xs[:20], ys[:20], zs[:20], **kwargs)
+
+#%%
+def predict():
+    i = 0
+    for xb, yb in progress_bar(learn.dl(ds_type)):
+        # xb, yb = learn.data.one_batch(ds_type, detach=False, denorm=False)
+        i += 1
+        print(f&quot;iteration #{i}&quot;)
+        xs, ys, zs, conf = predict_batch(xb, yb)
+        print(f&quot;xs length: {len(xs)}, ys length: {len(ys)}, zs length: {len(zs)}&quot;)
+        if i % 4 == 0:
+            ds.x.show_xyzs(xs, ys, zs, **kwargs)
+
+predict()
+
+#%% Simple SSD, 4x4 grid with one anchor box per grid cell
+
+def experiment1():
+    simple_ssd = SingleShotDetector(data, grids=[4], zooms=[1.0], ratios=[[1.0, 1.0]])
+    simple_learn = simple_ssd.learn
+
+    # Training
+    print(f&quot;Starting experiment with {simple_ssd.device}&quot;)
+    simple_learn.lr_find()
+    simple_learn.recorder.plot()
+    simple_learn.fit(10, lr=slice(1e-3, 1e-2))
+
+    # Visualize
+    simple_learn.show_results(rows=16, thresh=0.1, nms_overlap=0.1, ssd=simple_ssd)
+
+    # Testing
+    simple_learn.data = load_data(testing=True)
+    simple_learn.validate()
+
+#%%
+
+def experiment2():
+    ssd = SingleShotDetector(data, backbone=models.resnet34)
+    learn = ssd.learn
+
+    # Training
+    print(f&quot;Starting experiment with {ssd.device}&quot;)
+    learn.lr_find()
+    learn.recorder.plot()
+    learn.fit(20, lr=slice(1e-3, 1e-2))
+
+    # Visualize
+    learn.show_results(rows=64, thresh=0.1, nms_overlap=0.1, ssd=ssd)
+
+    # Testing
+    learn.data = load_data(testing=True)
+    learn.validate()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZXBvY2ggYmVnYW4nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiB3cmFwcGVyCg==</text>
+        <text encoding="base64">ICAgIEBydW5fb25fZXBvY2gK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlZiBydW5fb25fZXBvY2goc2VsZik6CiAgICAgICAgbSA9IHNlbGYKCiAgICAgICAgZGVmIHdyYXBwZXIoY2FsbGJhY2tfZm4pOgogICAgICAgICAgICBmcm9tIGluc3BlY3QgaW1wb3J0IHNpZ25hdHVyZQoKICAgICAgICAgICAgZGVmIGlubmVyX3dyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgICAgIHNpZyA9IHNpZ25hdHVyZShjYWxsYmFja19mbikKICAgICAgICAgICAgICAgIGFzc2VydCAnZXBvY2gnID09IGxpc3Qoc2lnLnBhcmFtZXRlcnMua2V5cygpKVswXQogICAgICAgICAgICAgICAgZXBvY2ggPSBhcmdzWzBdCiAgICAgICAgICAgICAgICBpZiBlcG9jaCAhPSAwIGFuZCBlcG9jaCAlIG0ubXVmID09IDA6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2FjdHVhbCB3b3JrJykKICAgICAgICAgICAgICAgICAgICBjYWxsYmFja19mbigqYXJncywgKiprd2FyZ3MpCgogICAgICAgICAgICByZXR1cm4gaW5uZXJfd3JhcHBlcgog</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dGVzdCgxLCBmb289RmFsc2UpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIHJldHVybiB3cmFwcGVyCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGRlZiBydW5fb25fZXBvY2goc2VsZik6CiAgICAgICAgbSA9IHNlbGYKCiAgICAgICAgZGVmIHdyYXBwZXIoY2FsbGJhY2tfZm4pOgogICAgICAgICAgICBmcm9tIGluc3BlY3QgaW1wb3J0IHNpZ25hdHVyZQoKICAgICAgICAgICAgZGVmIGlubmVyX3dyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgICAgIHNpZyA9IHNpZ25hdHVyZShjYWxsYmFja19mbikKICAgICAgICAgICAgICAgIGFzc2VydCAnZXBvY2gnID09IGxpc3Qoc2lnLnBhcmFtZXRlcnMua2V5cygpKVswXQogICAgICAgICAgICAgICAgZXBvY2ggPSBhcmdzWzBdCiAgICAgICAgICAgICAgICBpZiBlcG9jaCAhPSAwIGFuZCBlcG9jaCAlIG0ubXVmID09IDA6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2FjdHVhbCB3b3JrJykKICAgICAgICAgICAgICAgICAgICBjYWxsYmFja19mbigqYXJncywgKiprd2FyZ3MpCgogICAgICAgICAgICByZXR1cm4gaW5uZXJfd3JhcHBlcgog</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZiJ7cGFyYW0gKyAxfSIpCg==</text>
+        <text encoding="base64">dGVzdCgxLCBmb289RmFsc2UpCg==</text>
       </register>
     </registers>
     <search>
