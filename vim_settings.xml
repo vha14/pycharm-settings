@@ -83,7 +83,7 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" timestamp="1551205865506">
         <mark key="'" line="156" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551198583389">
+      <file name="/Dummy.txt" timestamp="1551227185509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550816564446">
@@ -118,6 +118,15 @@
         <mark key="]" line="69" column="15" />
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ssd.pytorch/data/config.py" timestamp="1551227322226">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" timestamp="1551226363740">
+        <mark key="'" line="88" column="16" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1551050775262">
         <mark key="[" line="50" column="0" />
@@ -189,13 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
-      <jump line="331" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
-      <jump line="379" column="8" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
-      <jump line="322" column="25" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="118" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="113" column="26" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="114" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
@@ -289,16 +291,23 @@
       <jump line="10" column="78" filename="$USER_HOME$/work/fastai/fastai/basic_data.py" />
       <jump line="14" column="37" filename="$USER_HOME$/work/fastai/fastai/basic_data.py" />
       <jump line="96" column="74" filename="$USER_HOME$/work/fastai/fastai/basic_data.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
+      <jump line="74" column="20" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
+      <jump line="34" column="21" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
+      <jump line="36" column="27" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
+      <jump line="77" column="11" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
+      <jump line="78" column="25" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
+      <jump line="88" column="16" filename="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5iYXRjaF9zaXplID09IDEyOAo=</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>drop_last</text>
+        <text>loc_t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBlcG9jaCA9PSAwIG9yIGVwb2NoICUgc2VsZi5tdWYgIT0gMDogcmV0dXJuCg==</text>
@@ -426,16 +435,14 @@ def experiment2():
       </register>
     </registers>
     <search>
-      <last-search>drop_last</last-search>
+      <last-search>loc_t</last-search>
       <last-offset />
-      <last-pattern>drop_last</last-pattern>
+      <last-pattern>loc_t</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>analyze_pred</entry>
-        <entry>return</entry>
         <entry>do_y</entry>
         <entry encoding="base64">XDxwcmVkc1w+</entry>
         <entry encoding="base64">XDxoYXNfYXJnXD4=</entry>
@@ -454,6 +461,8 @@ def experiment2():
         <entry>link</entry>
         <entry>loss</entry>
         <entry>drop_last</entry>
+        <entry>gpu</entry>
+        <entry>loc_t</entry>
       </history-search>
       <history-cmd />
       <history-expr />
