@@ -68,6 +68,11 @@
       <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1551223225094">
         <mark key="'" line="96" column="74" />
       </file>
+      <file name="$USER_HOME$/work/fastai/fastai/basic_train.py" timestamp="1551247448475">
+        <mark key="'" line="369" column="22" />
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="365" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -105,12 +110,12 @@
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551244803860">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551247507545">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="20" column="77" />
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="70" />
+        <mark key="^" line="43" column="70" />
+        <mark key="." line="43" column="70" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
         <mark key="[" line="69" column="15" />
@@ -302,44 +307,44 @@
       <jump line="16" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4cywgeXMsIHpzLCBjb25mcyA9IFtdLCBbXSwgW10sIFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0.1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>self.learn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcG9jaCA9PSAwIG9yIGVwb2NoICUgc2VsZi5tdWYgIT0gMDogcmV0dXJuCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBub3JtID0gZ2V0YXR0cihzZWxmLmRhdGEsJ25vcm0nLEZhbHNlKQogICAgICAgIGlmIG5vcm06CiAgICAgICAgICAgIHggPSBzZWxmLmRhdGEuZGVub3JtKHgpCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4cywgeXMsIHpzLCBjb25mcyA9IFtdLCBbXSwgW10sIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3JtOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzc2QgPSBTaW5nbGVTaG90RGV0ZWN0b3IoZGF0YSwgZ3JpZHM9WzRdLCB6b29tcz1bMS4wXSwgcmF0aW9zPVtbMS4wLCAxLjBdXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IHNlbGYuZGF0YS5kZW5vcm0oeCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm11ZiA9IG11Zgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm11ZiA9IG11Zgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHpzLmFwcGVuZChOb25lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNzZCA9IHNzZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZzLmFwcGVuZChjb25mKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3BsaXRfbHN0cy52YWxpZCA9IHNwbGl0X2xzdHMudmFsaWRbOjI1Nl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHpzLmFwcGVuZCh6KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgc3BsaXRfbHN0cy50cmFpbiA9IHNwbGl0X2xzdHMudHJhaW5bOjI1Nl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgeXMuYXBwZW5kKHkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5iYXRjaF9zaXplID09IDEyOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeHMuYXBwZW5kKHgpCg==</text>
       </register>
     </registers>
     <search>
