@@ -18,10 +18,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/tox.ini" timestamp="1551388532658" />
-      <file name="/Python Console" timestamp="1551389063420">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/tmp/piv/modeling/tox.ini" timestamp="1551393828397" />
       <file name="/fragment.py" timestamp="1551385395308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -56,7 +53,7 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1551389134335">
+      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1551393683866">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="1" column="0" />
@@ -69,10 +66,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551388712486">
-        <mark key="]" line="72" column="2" />
-        <mark key="^" line="72" column="2" />
-        <mark key="." line="72" column="2" />
+      <file name="$USER_HOME$/tmp/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551394022848">
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="15" />
+        <mark key="^" line="111" column="15" />
+        <mark key="." line="111" column="15" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549393581232">
         <mark key="[" line="299" column="15" />
@@ -107,7 +105,7 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" timestamp="1551205865506">
         <mark key="'" line="156" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551388323487">
+      <file name="/Dummy.txt" timestamp="1551393418888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1551244227144">
@@ -137,10 +135,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/detect/utils.py" timestamp="1551388245747">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="26" />
+      <file name="$USER_HOME$/tmp/piv/modeling/src/detect/utils.py" timestamp="1551393329598">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551248000067">
         <mark key="'" line="23" column="8" />
@@ -338,11 +336,11 @@
       <jump line="16" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>self.learn</text>
