@@ -9,7 +9,7 @@
         <mark key="^" line="97" column="2" />
         <mark key="." line="97" column="2" />
       </file>
-      <file name="/start_script.py" timestamp="1551384980081">
+      <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
@@ -17,6 +17,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tmp/piv/modeling/tox.ini" timestamp="1551388532658" />
+      <file name="/Python Console" timestamp="1551389063420">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551385395308">
         <mark key="[" line="0" column="0" />
@@ -52,6 +56,12 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/test_blob.py" timestamp="1551389134335">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550961778071">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="61" column="80" />
@@ -59,10 +69,10 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551386510541">
-        <mark key="]" line="96" column="2" />
-        <mark key="^" line="96" column="2" />
-        <mark key="." line="96" column="2" />
+      <file name="$USER_HOME$/tmp/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551388712486">
+        <mark key="]" line="72" column="2" />
+        <mark key="^" line="72" column="2" />
+        <mark key="." line="72" column="2" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549393581232">
         <mark key="[" line="299" column="15" />
@@ -97,7 +107,7 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" timestamp="1551205865506">
         <mark key="'" line="156" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551386385064">
+      <file name="/Dummy.txt" timestamp="1551388323487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1551244227144">
@@ -126,6 +136,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/tmp/piv/modeling/src/detect/utils.py" timestamp="1551388245747">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551248000067">
         <mark key="'" line="23" column="8" />
@@ -166,10 +181,7 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/blob.py" timestamp="1551207526867">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="176" column="18" />
-      </file>
+      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/detect/test_utils.py" timestamp="1551387874967" />
       <file name="$USER_HOME$/work/ssd.pytorch/layers/box_utils.py" timestamp="1551228413477">
         <mark key="'" line="84" column="4" />
       </file>
@@ -181,6 +193,9 @@
         <mark key="." line="76" column="11" />
       </file>
       <file name="/train" timestamp="1551153725783">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
@@ -324,7 +339,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJIGFtIGhlcmUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -336,31 +351,31 @@
         <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJIGFtIGhlcmUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGF0aC5jd2QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">aW1hZ2VfcGF0aCgpLmV4aXN0cygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJJIGFtIGhlcmUiKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5kYXRhLmJhdGNoX3NpemUK</text>
+        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBiYXRjaF9zaXplKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
