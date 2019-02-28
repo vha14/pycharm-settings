@@ -9,14 +9,14 @@
         <mark key="^" line="97" column="2" />
         <mark key="." line="97" column="2" />
       </file>
+      <file name="/start_script.py" timestamp="1551384525489">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Feb2019.ipynb" timestamp="1550792561531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1551378147359">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1551222980313">
         <mark key="[" line="0" column="0" />
@@ -34,11 +34,10 @@
       <file name="/a.dummy" timestamp="1551248077068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/eda.py" timestamp="1551367384308">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/eda.py" timestamp="1551384175845">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
         <mark key="[" line="6" column="97" />
@@ -176,12 +175,6 @@
       </file>
       <file name="/train" timestamp="1551153725783">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" timestamp="1551199729352">
-        <mark key="'" line="104" column="20" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
         <mark key="[" line="34" column="0" />
@@ -339,28 +332,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5kYXRhLmJhdGNoX3NpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBiYXRjaF9zaXplKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhZGQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5kYXRhLmJhdGNoX3NpemUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3JtOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBiYXRjaF9zaXplKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
     </registers>
     <search>
