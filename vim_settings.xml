@@ -18,7 +18,7 @@
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1551248077068">
+      <file name="/a.dummy" timestamp="1551408492331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/eda.py" timestamp="1551385331939">
@@ -114,16 +114,17 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1551248370245">
-        <mark key="[" line="27" column="79" />
-        <mark key="]" line="27" column="79" />
-        <mark key="." line="27" column="79" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1551410351931">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551404588754">
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="28" column="22" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551410377178">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="54" column="5" />
       </file>
       <file name="/fragment.py" timestamp="1551385395308">
         <mark key="[" line="0" column="0" />
@@ -174,11 +175,11 @@
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" timestamp="1551404548050">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="56" />
-        <mark key="^" line="22" column="75" />
-        <mark key="." line="22" column="75" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" timestamp="1551409941152">
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="35" />
+        <mark key="." line="48" column="35" />
+        <mark key="^" line="48" column="35" />
       </file>
       <file name="$USER_HOME$/work/ssd.pytorch/data/coco.py" timestamp="1551153388524">
         <mark key="[" line="45" column="23" />
@@ -190,11 +191,6 @@
         <mark key="[" line="34" column="26" />
         <mark key="]" line="34" column="27" />
         <mark key="." line="34" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1551050775262">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/tests/detect/test_utils.py" timestamp="1551387874967" />
       <file name="/train" timestamp="1551153725783">
@@ -335,14 +331,14 @@
       <jump line="79" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VzX3RyLCBpbWFnZXNfdmEsIGltYWdlc190ZSwgaW1nMmJib3gK</text>
@@ -354,37 +350,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3QuZGF0YXNldHMgaW1wb3J0IFZPQzIwMDcK</text>
+        <text encoding="base64">bGVuKGltZzJiYm94KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Vk9DMjAwNygpLmRvd25sb2FkX2FsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhc3RhaV9qcGVnX3BhdGgubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXNfdHIsIGltYWdlc192YSwgaW1hZ2VzX3RlLCBpbWcyYmJveCA9IHNlbGYucmVhZF9sYWJlbHMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1nMmJib3goc2VsZik6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VzX3RyLCBpbWFnZXNfdmEsIGltYWdlc190ZSwgaW1nMmJib3gK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>analyze</entry>
         <entry encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</entry>
         <entry>Evaluator</entry>
         <entry>conf</entry>
@@ -404,6 +399,7 @@
         <entry>self.learn</entry>
         <entry>data</entry>
         <entry encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
