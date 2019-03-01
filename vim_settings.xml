@@ -3,60 +3,167 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1550513903961">
-        <mark key="[" line="82" column="65" />
-        <mark key="]" line="82" column="67" />
-        <mark key="^" line="82" column="67" />
-        <mark key="." line="82" column="67" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551468578410">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="47" column="2" />
+        <mark key="." line="47" column="2" />
+        <mark key="^" line="47" column="2" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/notebooks/mohammad-meeting-feb20.md" timestamp="1550706918569">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="67" />
-        <mark key="^" line="24" column="67" />
-        <mark key="." line="24" column="67" />
+      <file name="/Dummy.txt" timestamp="1550864036487">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_data.py" timestamp="1550514139343" />
+      <file name="/Feb2019.ipynb" timestamp="1551468613751">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1551462377329">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" timestamp="1551461914313">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="65" />
+        <mark key="." line="1" column="65" />
+        <mark key="^" line="1" column="65" />
+      </file>
+      <file name="/metric_sample2" timestamp="1550864050463">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1550870731810">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd300_evaluation.ipynb" timestamp="1550861936569">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="125" column="8" />
+        <mark key="^" line="125" column="8" />
+        <mark key="." line="125" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1550872456544">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550879587881">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="47" column="11" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550880030421">
+        <mark key="[" line="61" column="95" />
+        <mark key="]" line="62" column="77" />
+        <mark key="^" line="62" column="77" />
+        <mark key="." line="62" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/ext/Object-Detection-Metrics/lib/Evaluator.py" timestamp="1550877671036">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="145" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1551124256511">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="58" />
+        <mark key="^" line="35" column="73" />
+        <mark key="." line="35" column="58" />
+      </file>
+      <file name="/March2019.ipynb" timestamp="1551468753733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="99" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+    </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpbXBsZV9sZWFybi5zaG93X3Jlc3VsdHMocm93cz0xNiwgdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xLCBzc2Q9c2ltcGxlX3NzZCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">bGVuKGRhdGEudHJhaW5fZHMpCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>ation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ation</text>
+        <text>amrkdown</text>
+      </register>
+      <register name="/" type="4">
+        <text>self</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBwcmVkIGlzIE5vbmU6IHJldHVybiBOb25lCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">MSsxCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>self</last-search>
+      <last-offset />
+      <last-pattern>self</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>self</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
