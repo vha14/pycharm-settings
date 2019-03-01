@@ -175,11 +175,11 @@
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" timestamp="1551409941152">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="35" />
-        <mark key="." line="48" column="35" />
-        <mark key="^" line="48" column="35" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" timestamp="1551414488405">
+        <mark key="[" line="55" column="70" />
+        <mark key="]" line="55" column="70" />
+        <mark key="." line="55" column="70" />
+        <mark key="^" line="55" column="70" />
       </file>
       <file name="$USER_HOME$/work/ssd.pytorch/data/coco.py" timestamp="1551153388524">
         <mark key="[" line="45" column="23" />
@@ -331,44 +331,44 @@
       <jump line="79" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VzX3RyLCBpbWFnZXNfdmEsIGltYWdlc190ZSwgaW1nMmJib3gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJGb3VuZCBkaXJlY3Rvcnkge3NlbGYucm9vdF9wYXRofSwgc2tpcHBpbmcgZXh0cmFjdGlvbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVuKGltZzJiYm94KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhc3RhaV9qcGVnX3BhdGgubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXNfdHIsIGltYWdlc192YSwgaW1hZ2VzX3RlLCBpbWcyYmJveCA9IHNlbGYucmVhZF9sYWJlbHMoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfaW1nMmJib3goc2VsZik6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGVuKGltZzJiYm94KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhc3RhaV9qcGVnX3BhdGgubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZXNfdHIsIGltYWdlc192YSwgaW1hZ2VzX3RlLCBpbWcyYmJveCA9IHNlbGYucmVhZF9sYWJlbHMoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VzX3RyLCBpbWFnZXNfdmEsIGltYWdlc190ZSwgaW1nMmJib3gK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1nMmJib3goc2VsZik6Cg==</text>
       </register>
     </registers>
     <search>
