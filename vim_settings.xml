@@ -13,8 +13,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/piv/modeling/tox.ini" timestamp="1551393828397" />
-      <file name="$USER_HOME$/work/fastai/fastai/datasets.py" timestamp="1551398465227">
+      <file name="$USER_HOME$/work/fastai/fastai/datasets.py" timestamp="1551399845040">
         <mark key="'" line="203" column="45" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="59" />
       </file>
       <file name="/a.dummy" timestamp="1551248077068">
         <mark key="[" line="0" column="0" />
@@ -90,9 +92,6 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/work/ssd.pytorch/layers/modules/multibox_loss.py" timestamp="1551228330660">
-        <mark key="'" line="65" column="10" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1550280052228">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="29" />
@@ -120,14 +119,11 @@
         <mark key="]" line="27" column="79" />
         <mark key="." line="27" column="79" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551333332135">
-        <mark key="[" line="96" column="17" />
-        <mark key="]" line="97" column="2" />
-        <mark key="^" line="97" column="2" />
-        <mark key="." line="97" column="2" />
-      </file>
-      <file name="/Python Console" timestamp="1551398523406">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551403059655">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="23" />
       </file>
       <file name="/fragment.py" timestamp="1551385395308">
         <mark key="[" line="0" column="0" />
@@ -169,20 +165,21 @@
         <mark key="^" line="299" column="37" />
         <mark key="." line="299" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fastai/fastai/basic_data.py" timestamp="1551223225094">
-        <mark key="'" line="96" column="74" />
-      </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/shutil.py" timestamp="1551205865506">
-        <mark key="'" line="156" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1551393418888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" timestamp="1551403717453">
+        <mark key="'" line="43" column="21" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="50" column="44" />
       </file>
       <file name="$USER_HOME$/work/ssd.pytorch/data/coco.py" timestamp="1551153388524">
         <mark key="[" line="45" column="23" />
@@ -201,9 +198,6 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/tests/detect/test_utils.py" timestamp="1551387874967" />
-      <file name="$USER_HOME$/work/ssd.pytorch/layers/box_utils.py" timestamp="1551228413477">
-        <mark key="'" line="84" column="4" />
-      </file>
       <file name="/train" timestamp="1551153725783">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/fastai/data_block.py" />
-      <jump line="498" column="75" filename="$USER_HOME$/work/fastai/fastai/data_block.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="172" column="71" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
@@ -340,58 +332,59 @@
       <jump line="201" column="67" filename="$USER_HOME$/work/fastai/fastai/datasets.py" />
       <jump line="202" column="25" filename="$USER_HOME$/work/fastai/fastai/datasets.py" />
       <jump line="203" column="45" filename="$USER_HOME$/work/fastai/fastai/datasets.py" />
+      <jump line="37" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
+      <jump line="39" column="21" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>rename</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>rename</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>VOCtrainval_06-Nov-2007.tar',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHRyYWludmFsX3BhdGgoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuZnVsbHBhdGgodHJhaW52YWwyMDA3X2ZuKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UGF0aC5jd2QoKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzaHV0aWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">ICAgIHZvY190cmFpbnZhbDIwMDdfZm4uZXhpc3RzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1hZ2VfcGF0aCgpLmV4aXN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJIGFtIGhlcmUiKQo=</text>
+        <text encoding="base64">ICAgIHZvY18yMDA3X2xhYmVsX2ZuID0gZG93bmxvYWRfZGlyLyd2b2MyMDA3X2xhYmVsLnppcCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvY18yMDA3X2xhYmVsX3VybCA9ICdodHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vY29jby1kYXRhc2V0L2V4dGVybmFsL1BBU0NBTF9WT0MuemlwJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgIHZvY190cmFpbnZhbDIwMDdfZm4uZXhpc3RzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG9yY2guY3VkYS5pc19hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">ICAgIHRyYWludmFsMjAwN191cmwgPSAnaHR0cDovL2hvc3Qucm9ib3RzLm94LmFjLnVrL3Bhc2NhbC9WT0Mvdm9jMjAwNy9WT0N0cmFpbnZhbF8wNi1Ob3YtMjAwNy50YXInCiAgICB0cmFpbnZhbDIwMDdfZm4gPSB0cmFpbnZhbDIwMDdfdXJsLnNwbGl0KCcvJylbLTFdCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preds</entry>
         <entry>analyze</entry>
         <entry encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</entry>
         <entry>Evaluator</entry>
@@ -411,6 +404,7 @@
         <entry>self.ssd</entry>
         <entry>self.learn</entry>
         <entry>data</entry>
+        <entry encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
