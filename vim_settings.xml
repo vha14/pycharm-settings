@@ -151,6 +151,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1554060362506">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="48" />
+      </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551398515397">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="25" />
@@ -166,12 +170,12 @@
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554059348349">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554060370830">
         <mark key="'" line="66" column="36" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="28" column="33" />
+        <mark key="[" line="157" column="43" />
+        <mark key="]" line="157" column="43" />
+        <mark key="^" line="157" column="18" />
+        <mark key="." line="157" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1554055235565">
         <mark key="[" line="0" column="0" />
@@ -342,16 +346,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FocalLoss</text>
+        <text>bias</text>
       </register>
       <register name="-" type="4">
-        <text>FocalLoss</text>
+        <text>bias</text>
       </register>
       <register name="/" type="4">
         <text>Batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5vdXRwdXRfYWN0KHNlbGYub3V0cHV0KHgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9jb252MS5iaWFzLmRhdGEuemVyb18oKS5hZGRfKGJpYXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dG9yY2guZXllKG5jKQo=</text>
