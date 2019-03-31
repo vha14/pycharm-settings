@@ -18,7 +18,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554051465321">
+      <file name="/Python Console" timestamp="1554052718536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/fastai/datasets.py" timestamp="1551399845040">
@@ -42,9 +42,6 @@
       <file name="/a.dummy" timestamp="1551408492331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/eda.py" timestamp="1551385331939">
-        <mark key="^" line="31" column="2" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1551050848373">
         <mark key="[" line="77" column="21" />
         <mark key="]" line="77" column="29" />
@@ -56,6 +53,9 @@
         <mark key="]" line="6" column="97" />
         <mark key="." line="6" column="97" />
         <mark key="^" line="6" column="97" />
+      </file>
+      <file name="/retina_exp" timestamp="1554052505150">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
@@ -106,6 +106,9 @@
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554052174716">
+        <mark key="'" line="65" column="36" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1551553260661">
         <mark key="'" line="27" column="39" />
         <mark key="[" line="36" column="12" />
@@ -119,7 +122,7 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551393418888">
+      <file name="/Dummy.txt" timestamp="1554052571791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
@@ -230,10 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="96" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
-      <jump line="63" column="54" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
-      <jump line="67" column="7" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
-      <jump line="70" column="71" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="71" column="76" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="73" column="74" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
@@ -330,6 +329,10 @@
       <jump line="59" column="37" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" />
       <jump line="79" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets.py" />
       <jump line="27" column="39" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" />
+      <jump line="155" column="30" filename="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" />
+      <jump line="78" column="36" filename="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" />
+      <jump line="65" column="36" filename="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +342,7 @@
         <text>3post1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>Batch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNzZC5sZWFybi5zYXZlKG1vZGVsX2ZuKG5fZXBvY2hzKSkK</text>
@@ -373,15 +376,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>Batch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Batch</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlcnBvbGF0ZWRfcmVjYWxsXD4=</entry>
         <entry>Evaluator</entry>
         <entry>conf</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
@@ -401,6 +403,7 @@
         <entry>data</entry>
         <entry encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>Batch</entry>
       </history-search>
       <history-cmd />
       <history-expr />
