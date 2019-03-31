@@ -123,10 +123,10 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1554073129857">
+      <file name="/Python Console" timestamp="1554075592682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554073152837">
+      <file name="/fragment.py" timestamp="1554075781091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -175,12 +175,12 @@
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554072097124">
-        <mark key="'" line="161" column="34" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="88" />
-        <mark key="^" line="166" column="17" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554075778384">
+        <mark key="'" line="165" column="34" />
+        <mark key="[" line="181" column="63" />
+        <mark key="]" line="181" column="64" />
+        <mark key="^" line="182" column="30" />
+        <mark key="." line="181" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1554055235565">
         <mark key="[" line="0" column="0" />
@@ -355,11 +355,11 @@
       <jump line="157" column="34" filename="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">NTEyKigyKiooMi8zKSkK</text>
+      <register name="&quot;" type="4">
+        <text>flatten</text>
       </register>
       <register name="-" type="4">
-        <text>ReLU</text>
+        <text>flatten</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
