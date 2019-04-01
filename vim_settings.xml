@@ -17,7 +17,7 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1554132620571">
+      <file name="/Python Console" timestamp="1554139617530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550773939621">
@@ -87,7 +87,13 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550790789531">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554139448388">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554139698042">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1550773881485">
@@ -295,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>do_y</text>
