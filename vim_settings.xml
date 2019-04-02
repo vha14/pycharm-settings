@@ -9,42 +9,13 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
         <mark key="'" line="28" column="61" />
       </file>
+      <file name="/Python Console" timestamp="1554239723256">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1554239751328">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1554154673402">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554155938443">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="75" />
-      </file>
-      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/utils.py" timestamp="1551385405242">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/detect_list.py" timestamp="1554159536931">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-      </file>
-      <file name="/test_utils" timestamp="1551389014895">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554162243704">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="64" column="56" />
-        <mark key="." line="64" column="56" />
-        <mark key="^" line="64" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554226036773">
-        <mark key="[" line="29" column="56" />
-        <mark key="]" line="29" column="57" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="55" />
-      </file>
-      <file name="/Python Console" timestamp="1554225626354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/scratch" timestamp="1550381466793">
@@ -61,11 +32,16 @@
         <mark key="." line="71" column="35" />
         <mark key="^" line="71" column="30" />
       </file>
-      <file name="/retina_detector.py" timestamp="1554141321230" />
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1554154270539">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554155938443">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="42" column="75" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -76,7 +52,7 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554160029905">
+      <file name="/Dummy.txt" timestamp="1554238478553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1554156036825">
@@ -99,6 +75,11 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/tmp/piv/modeling/src/tests/opencv/utils.py" timestamp="1551385405242">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/detect/utils.py" timestamp="1551393329598">
         <mark key="[" line="34" column="26" />
         <mark key="]" line="34" column="27" />
@@ -110,19 +91,41 @@
         <mark key="." line="29" column="64" />
         <mark key="^" line="29" column="64" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/detect_list.py" timestamp="1554159536931">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1554225504496">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="61" />
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="70" />
       </file>
+      <file name="/test_utils" timestamp="1551389014895">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/train" timestamp="1551153725783">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554162243704">
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="64" column="56" />
+        <mark key="." line="64" column="56" />
+        <mark key="^" line="64" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" timestamp="1554239337208">
+        <mark key="'" line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554226036773">
+        <mark key="[" line="29" column="56" />
+        <mark key="]" line="29" column="57" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="55" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="7" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
-      <jump line="70" column="71" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="71" column="76" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="73" column="74" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
       <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
@@ -221,6 +224,8 @@
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" />
       <jump line="121" column="19" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/voc07.py" />
       <jump line="28" column="61" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
