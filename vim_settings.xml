@@ -9,10 +9,10 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
         <mark key="'" line="28" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1554240507525">
+      <file name="/Python Console" timestamp="1554241273762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554239894222">
+      <file name="/fragment.py" timestamp="1554240966699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1554154673402">
@@ -115,8 +115,12 @@
         <mark key="." line="64" column="56" />
         <mark key="^" line="64" column="56" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" timestamp="1554239337208">
-        <mark key="'" line="137" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" timestamp="1554241269126">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="49" column="71" />
+        <mark key="]" line="49" column="72" />
+        <mark key="." line="49" column="72" />
+        <mark key="^" line="101" column="71" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554226036773">
         <mark key="[" line="29" column="56" />
@@ -229,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aGUgc3RhcnRzIG9uIEFwcmlsIDIuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>at the beginning of May.</text>
@@ -241,10 +245,10 @@
         <text encoding="base64">PGJyPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGUgc3RhcnRzIG9uIEFwcmlsIDIuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGUgc3RhcnRzIG9uIEFwcmlsIDIuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
