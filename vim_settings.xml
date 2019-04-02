@@ -194,11 +194,11 @@
         <mark key="]" line="34" column="27" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1554230698368">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1554231305612">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1554225504496">
         <mark key="[" line="3" column="40" />
@@ -337,44 +337,44 @@
       <jump line="28" column="61" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/pred_clas_b.shape[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/pred_clas_b.shape[0]</text>
+        <text>K1auxeZikV80Bl6Yw01h5vNfr0WRYbhHG+B6a5B2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoc3VtKGNsYXNfbG9zc19iKSArIHN1bShsb2NfbG9zc19iKSkvcHJlZF9jbGFzX2Iuc2hhcGVbMF0K</text>
+        <text encoding="base64">YGBgClBZVEhPTlBBVEg9c3JjIHB5dGhvbiBzcmMvc2NyaXB0cy9zc2RfZXhwLnB5IHZvYzA3IC0tdXNlX2NvbWV0IFRydWUgLS1kZXZpY2UgY3VkYQpgYGAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW5kZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJfY2xhcywgYl9iYiA9IGJfY2xhcy50byhkZXRlY3Rvci5kYXRhLmRldmljZSksIGJfYmIudG8oZGV0ZWN0b3IuZGF0YS5kZXZpY2UpCg==</text>
+        <text encoding="base64">Rmlyc3QsIG1ha2Ugc3VyZSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3Quc3NkX2xpc3QgaW1wb3J0IERldGVjdEl0ZW1MaXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFuY2hvcl9jbnIgPSBodzJjb3JuZXJzKHNlbGYuYW5jaG9yc1s6LCA6Ml0sIHNlbGYuYW5jaG9yc1s6LCAyOl0pLnRvKHNlbGYuZGV2aWNlKQo=</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFuY2hvcl9jbnIgPSBodzJjb3JuZXJzKHNlbGYuYW5jaG9yc1s6LCA6Ml0sIHNlbGYuYW5jaG9yc1s6LCAyOl0pLnRvKGRldmljZSkK</text>
+        <text encoding="base64">ICAgIHByaW5kZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHN1bShjbGFzX2xvc3NfYikgKyBzdW0obG9jX2xvc3NfYikpL3NlbGYuZGF0YS5iYXRjaF9zaXplCg==</text>
+        <text encoding="base64">ICAgIGJfY2xhcywgYl9iYiA9IGJfY2xhcy50byhkZXRlY3Rvci5kYXRhLmRldmljZSksIGJfYmIudG8oZGV0ZWN0b3IuZGF0YS5kZXZpY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZF9iYm94X2IsCg==</text>
+        <text encoding="base64">ZnJvbSBkZXRlY3Quc3NkX2xpc3QgaW1wb3J0IERldGVjdEl0ZW1MaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkX2Jib3hfYiA9IGFjdG5fdG9fYmJveGVzKHByZWRfYmJveF9iLCBzZWxmLmFuY2hvcnMsIHNlbGYuZ3JpZF9oYWxmc2l6ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuY2hvcl9jbnIgPSBodzJjb3JuZXJzKHNlbGYuYW5jaG9yc1s6LCA6Ml0sIHNlbGYuYW5jaG9yc1s6LCAyOl0pLnRvKHNlbGYuZGV2aWNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkX2NsYXNfYiwgcHJlZF9iYm94X2IgPSBwcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuY2hvcl9jbnIgPSBodzJjb3JuZXJzKHNlbGYuYW5jaG9yc1s6LCA6Ml0sIHNlbGYuYW5jaG9yc1s6LCAyOl0pLnRvKGRldmljZSkK</text>
       </register>
     </registers>
     <search>
