@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
         <mark key="'" line="28" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1554312655757">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1554240966699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,11 +34,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554155938443">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="75" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554313933754">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -226,11 +223,11 @@
       <jump line="137" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>at the beginning of May.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -239,13 +236,13 @@
         <text encoding="base64">PGJyPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGUgc3RhcnRzIG9uIEFwcmlsIDIuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGUgc3RhcnRzIG9uIEFwcmlsIDIuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
