@@ -34,11 +34,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554313933754">
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554317566113">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -76,6 +75,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_davidluo_nb.py" timestamp="1554317935390">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="141" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/detect/utils.py" timestamp="1551393329598">
         <mark key="[" line="34" column="26" />
@@ -121,10 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="76" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
-      <jump line="73" column="74" filename="$USER_HOME$/work/fastai/fastai/vision/data.py" />
-      <jump line="104" column="17" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
-      <jump line="126" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="127" column="5" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="129" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="139" column="48" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
@@ -221,43 +222,47 @@
       <jump line="28" column="61" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
       <jump line="70" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" />
       <jump line="137" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd/paper_ssd.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/retina_davidluo_nb.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/retina_davidluo_nb.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/retina_davidluo_nb.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/retina_davidluo_nb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGJyPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBsZ3MgKyBbY2hpbGRyZW4obV9iYXNlKVsxOl1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGUgc3RhcnRzIG9uIEFwcmlsIDIuCg==</text>
+        <text encoding="base64">bV9iYXNlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBubi5TZXF1ZW50aWFsKCpsYXllcnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxheWVycyA9IHNwbGl0X21vZGVsKGZfbW9kZWwoVHJ1ZSksIGN1dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9iYXNlKCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bV9iYXNlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
