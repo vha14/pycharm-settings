@@ -116,11 +116,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554413368864">
-        <mark key="[" line="117" column="24" />
-        <mark key="]" line="117" column="32" />
-        <mark key="." line="117" column="32" />
-        <mark key="^" line="117" column="32" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554414625703">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
@@ -370,53 +370,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyXD4=</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzc2RfbG9zcyA9IHBhcnRpYWwoYmF0Y2hfbG9zcywgYW5jaG9yX2NuciwgbG9jX2xvc3MsIHNlbGYuY2xzX2xvc3MsIG10Z3RfdGhyZXNoKQo=</text>
+        <text encoding="base64">ICAgIGxlYXJuLmZyZWV6ZV90bygtMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGE6IERhdGFCdW5jaCA9IGRhdGEK</text>
+        <text encoding="base64">ICAgIGxlYXJuLmZyZWV6ZV90bygtNCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRhdGE6IERhdGFCdW5jaCA9IGRhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm10Z3RfdGhyZXNoID0gbXRndF90aHJlc2gK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGE6IERhdGFCdW5jaCA9IGRhdGEK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm10Z3RfdGhyZXNoID0gbXRndF90aHJlc2gK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXRndF90aHJlc2g9c2VsZi5tdGd0X3RocmVzaCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc19sb3NzZm49c2VsZi5jbGFzX2xvc3NmbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXRndF90aHJlc2g9c2VsZi5tdGd0X3RocmVzaCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yc19jbnI9c2VsZi5hbmNob3JfY25yLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc19sb3NzZm49c2VsZi5jbGFzX2xvc3NmbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3RfYmJveF9iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yc19jbnI9c2VsZi5hbmNob3JfY25yLAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyXD4=</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -438,9 +438,9 @@
         <entry>self.learn</entry>
         <entry>data</entry>
         <entry encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry>Batch</entry>
         <entry encoding="base64">XDwyXD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
