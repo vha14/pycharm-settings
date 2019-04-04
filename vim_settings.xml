@@ -31,12 +31,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554353217873">
-        <mark key="[" line="47" column="50" />
-        <mark key="]" line="48" column="26" />
-        <mark key="^" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554353217873" />
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1554210375425">
         <mark key="[" line="38" column="61" />
         <mark key="]" line="38" column="61" />
@@ -121,20 +116,17 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554211315767">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="28" column="44" />
-        <mark key="." line="28" column="44" />
-        <mark key="^" line="28" column="44" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554413368864">
+        <mark key="[" line="117" column="24" />
+        <mark key="]" line="117" column="32" />
+        <mark key="." line="117" column="32" />
+        <mark key="^" line="117" column="32" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
-      </file>
-      <file name="/Python Console" timestamp="1554262073616">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554075781091">
         <mark key="[" line="0" column="0" />
@@ -378,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prompt</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>prompt</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
