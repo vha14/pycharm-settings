@@ -120,12 +120,12 @@
         <mark key="." line="49" column="72" />
         <mark key="^" line="101" column="71" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554402165337">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554404680888">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="112" column="9" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="69" column="10" />
+        <mark key="." line="60" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmVyc2lvbl9zdHIgPSAnZm9vJwo=</text>
+        <text encoding="base64">ICAgICMgcmV0aW5hLmxlYXJuLmZpdF9vbmVfY3ljbGUoMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>lrs/2,1, cycle_len=5, use_clr=(20,10))</text>
+        <text>adhoc</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
@@ -244,31 +244,31 @@
         <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgyLCBtYXhfbHI9bWF4X2xyLzQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmVyc2lvbl9zdHIgPSAnZm9vJwo=</text>
+        <text encoding="base64">ICAgICMgcmV0aW5hLmxlYXJuLmZpdF9vbmVfY3ljbGUoMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgyLCBtYXhfbHI9bWF4X2xyLzUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVhcm4uZnJlZXplX3RvKDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJbls1MF06Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBJbls5M106Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bHJzID0gbnAuYXJyYXkoW2xyLzEwMCxsci8xMCxscl0pCg==</text>
+        <text encoding="base64">dmVyc2lvbl9zdHIgPSAnZm9vJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bHIgPSAxZS0zCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgxLCAwLjAwMDE2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
