@@ -37,6 +37,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd.py" timestamp="1554483944920">
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+        <mark key="^" line="44" column="50" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554395344420">
         <mark key="'" line="155" column="14" />
         <mark key="[" line="94" column="0" />
@@ -231,11 +237,11 @@
       <jump line="163" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text>anchor_cnr</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>anchor_cnr</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
@@ -244,31 +250,31 @@
         <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RuX3RvX2Jib3hfZm4gPSBwYXJ0aWFsKGFjdG5fdG9fYmJveGVzLCBzZWxmLmFuY2hvcnMsIHNlbGYuZ3JpZF9oYWxmc2l6ZXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZGF0YV9wYXJhbXNbJ2JzJ10gPSA2NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmV0aW5hLmxlYXJuLmZpdF9vbmVfY3ljbGUoMSkK</text>
+        <text encoding="base64">ICAgICMgZGF0YV9wYXJhbXNbJ2JzJ10gPSA2NAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmV0aW5hLmxlYXJuLmZpdF9vbmVfY3ljbGUoMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgyLCBtYXhfbHI9bWF4X2xyLzUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGVhcm4uZnJlZXplX3RvKDApCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgyLCBtYXhfbHI9bWF4X2xyLzUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bGVhcm4uZnJlZXplX3RvKDApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBJbls5M106Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmVyc2lvbl9zdHIgPSAnZm9vJwo=</text>
+        <text encoding="base64">IyBJbls5M106Cg==</text>
       </register>
     </registers>
     <search>
