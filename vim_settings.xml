@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
         <mark key="'" line="28" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1554482938980">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1554240966699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,27 +23,28 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1554159638266">
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="71" column="30" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1554485060285">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1554154270539">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd.py" timestamp="1554483944920">
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="50" />
-        <mark key="^" line="44" column="50" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd.py" timestamp="1554485371163">
+        <mark key="[" line="168" column="44" />
+        <mark key="]" line="168" column="45" />
+        <mark key="^" line="168" column="45" />
+        <mark key="." line="168" column="45" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554395344420">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554484584597">
         <mark key="'" line="155" column="14" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="52" />
         <mark key="^" line="88" column="51" />
         <mark key="." line="94" column="0" />
       </file>
@@ -59,7 +57,7 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554238478553">
+      <file name="/Dummy.txt" timestamp="1554485861323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1554156036825">
@@ -72,6 +70,13 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/paper_ssd_exp.py" timestamp="1554485928772">
+        <mark key="a" line="43" column="53" />
+        <mark key="[" line="43" column="72" />
+        <mark key="]" line="43" column="81" />
+        <mark key="^" line="43" column="81" />
+        <mark key="." line="43" column="81" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -129,13 +134,15 @@
         <mark key="." line="49" column="72" />
         <mark key="^" line="101" column="71" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554406592102">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554485455555">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="7" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="130" column="42" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="12" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="74" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
@@ -235,46 +242,101 @@
       <jump line="161" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="162" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="163" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>anchor_cnr</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>anchor_cnr</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="0" type="4">
+        <text>#%%
+def scratch():
+    #%%
+
+    import importlib
+    from torchvision import models
+    from detect.pascal_callback import VOCMetric
+    from detect.retina import RetinaDetector
+
+    dataset = 'voc07'
+    dataset_module = importlib.import_module(f&quot;detect.datasets.{dataset}&quot;)
+    load_fn = getattr(dataset_module, 'load')
+    params_module = importlib.import_module(&quot;detect.datasets.params&quot;)
+    data_params = getattr(params_module, f&quot;data_params_{dataset}&quot;)
+    data_params['size'] = 224  # RetinaNet requires size that is multiple of 32
+    data_params['bs'] = 32
+    data = load_fn(**data_params)
+
+    retina_params = dict(backbone=models.resnet50)
+    retina = RetinaDetector(data, **retina_params)
+    #%%
+
+    voc_metric_params = dict(conf_thresh=0.05, nms_overlap=0.5, nms_topk=50, iou_thresh=0.5, update_freq=1)
+    metric = VOCMetric(detector=retina, comet_exp=None, **voc_metric_params)
+    retina.learn.metrics.append(metric)
+    learn = retina.learn
+
+    print(f&quot;Starting experiment with {learn.data.device}&quot;)
+
+    #%%
+    learn.lr_find()
+    from fastai.vision import plt
+    plt.interactive(True)
+    retina.learn.recorder.plot(suggestion=True)
+
+    #%%
+
+    max_lr = 0.00013
+    cycle_len = 10
+    learn.fit_one_cycle(cycle_len, max_lr=max_lr)
+
+    # In[51]:
+
+    learn.freeze_to(-1)
+    learn.fit_one_cycle(cycle_len, max_lr=max_lr/2)
+
+    # In[52]:
+
+    learn.freeze_to(-2)
+    learn.fit_one_cycle(cycle_len, max_lr=max_lr/2)
+
+    # In[53]:
+
+    learn.freeze_to(0)
+    learn.fit_one_cycle(2, max_lr=max_lr/4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RuX3RvX2Jib3hfZm4gPSBwYXJ0aWFsKGFjdG5fdG9fYmJveGVzLCBzZWxmLmFuY2hvcnMsIHNlbGYuZ3JpZF9oYWxmc2l6ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZGF0YV9wYXJhbXNbJ2JzJ10gPSA2NAo=</text>
+        <text encoding="base64">ICAgICAgICBjbHNfbG9zcyA9IEZvY2FsTG9zcyhkYXRhLmMpLnRvKGRhdGEuZGV2aWNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0aW5hLmxlYXJuLmZpdF9vbmVfY3ljbGUoMSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm10Z3RfdGhyZXNoID0gbXRndF90aHJlc2gK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgyLCBtYXhfbHI9bWF4X2xyLzUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcmV0cmFpbmVkX3BhdGggaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYubGVhcm4ubG9hZChwcmV0cmFpbmVkX3BhdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVhcm4uZnJlZXplX3RvKDApCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2FsaXphdGlvbl9sb3NzID0gbG9jYWxpemF0aW9uX2xvc3MK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBJbls5M106Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsc19sb3NzID0gY2xzX2xvc3MoZGF0YS5jKS50byhkYXRhLmRldmljZSkK</text>
       </register>
     </registers>
     <search>
