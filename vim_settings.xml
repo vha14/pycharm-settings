@@ -138,6 +138,12 @@
         <mark key="." line="49" column="72" />
         <mark key="^" line="101" column="71" />
       </file>
+      <file name="$USER_HOME$/work/pytorch-ssd/vision/ssd/config/vgg_ssd_config.py" timestamp="1554494625546">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554485455555">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="76" column="0" />
@@ -249,8 +255,8 @@
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MC4xMzMzKjMK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -316,31 +322,31 @@ def scratch():
     learn.fit_one_cycle(2, max_lr=max_lr/4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MC4xMzMzKjMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbHNfbG9zcyA9IEZvY2FsTG9zcyhkYXRhLmMpLnRvKGRhdGEuZGV2aWNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm10Z3RfdGhyZXNoID0gbXRndF90aHJlc2gK</text>
+        <text encoding="base64">ICAgICAgICBjbHNfbG9zcyA9IEZvY2FsTG9zcyhkYXRhLmMpLnRvKGRhdGEuZGV2aWNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm10Z3RfdGhyZXNoID0gbXRndF90aHJlc2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcmV0cmFpbmVkX3BhdGggaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYubGVhcm4ubG9hZChwcmV0cmFpbmVkX3BhdGgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBwcmV0cmFpbmVkX3BhdGggaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYubGVhcm4ubG9hZChwcmV0cmFpbmVkX3BhdGgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2FsaXphdGlvbl9sb3NzID0gbG9jYWxpemF0aW9uX2xvc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsc19sb3NzID0gY2xzX2xvc3MoZGF0YS5jKS50byhkYXRhLmRldmljZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2FsaXphdGlvbl9sb3NzID0gbG9jYWxpemF0aW9uX2xvc3MK</text>
       </register>
     </registers>
     <search>
