@@ -37,11 +37,11 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1554210375425">
-        <mark key="[" line="38" column="61" />
-        <mark key="]" line="38" column="61" />
-        <mark key="^" line="40" column="110" />
-        <mark key="." line="38" column="61" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1554438721542">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="45" />
+        <mark key="^" line="37" column="45" />
+        <mark key="." line="37" column="45" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect.py" timestamp="1549256045756">
         <mark key="[" line="1" column="0" />
@@ -136,7 +136,7 @@
       <file name="/Python Console" timestamp="1554436222278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554426108244">
+      <file name="/fragment.py" timestamp="1554437378638">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -227,11 +227,11 @@
         <mark key="." line="45" column="17" />
         <mark key="^" line="45" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1554427127937">
-        <mark key="[" line="198" column="54" />
-        <mark key="]" line="198" column="3" />
-        <mark key="^" line="198" column="3" />
-        <mark key="." line="198" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1554438575671">
+        <mark key="[" line="184" column="26" />
+        <mark key="]" line="184" column="78" />
+        <mark key="^" line="184" column="78" />
+        <mark key="." line="184" column="78" />
       </file>
       <file name="/train" timestamp="1551153725783">
         <mark key="[" line="0" column="0" />
@@ -378,46 +378,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>anchor_cnr</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>anchor_cnr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZF9jbGFzID0gW2xhc3RfY2xhc1tpXSBmb3IgbGFzdF9jbGFzIGluIGxhc3RfY2xhc19iXSAK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBubXNfdG9wazogVG9wIGsuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdG5fdG9fYmJveF9mbiA9IGFjdG5fdG9fYmJveF9mbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RuX3RvX2Jib3hfZm4gPSBwYXJ0aWFsKGFjdG5fdG9fYmJveGVzLCBhbmNob3JzLCBncmlkX2hhbGZzaXplcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY19tYXNrLnN1bSgpID09IDA6IGNvbnRpbnVlCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRbbV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG0gPSB0ID4gMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbF9tYXNrID0gbF9tYXNrLmV4cGFuZF9hcyhiYikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRbaWR4c10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbF9tYXNrID0gY19tYXNrLnVuc3F1ZWV6ZSgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF8sIGlkeHMgPSB0b3JjaC50b3BrKHQsIDMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQgPSB0b3JjaC5UZW5zb3IoWzEsIDMsIDQsIDIsIDcsIDBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
