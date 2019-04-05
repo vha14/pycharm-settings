@@ -121,20 +121,17 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554454056651">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="17" column="42" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554455744892">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+        <mark key="^" line="30" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
-      </file>
-      <file name="/Python Console" timestamp="1554441800906">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554437378638">
         <mark key="[" line="0" column="0" />
@@ -377,10 +374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
