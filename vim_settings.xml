@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
         <mark key="'" line="28" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1554489877998">
+      <file name="/Python Console" timestamp="1554999520038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554240966699">
@@ -51,7 +51,6 @@
         <mark key="^" line="88" column="51" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/ssd_vgg16_model" timestamp="1554486826611" />
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,6 +117,11 @@
         <mark key="]" line="13" column="45" />
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/utils.py" timestamp="1554999708034">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
       </file>
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
@@ -255,11 +259,11 @@
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MC4xMzMzKjMK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
