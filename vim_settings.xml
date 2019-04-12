@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1555084342808">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1555084792425">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,11 +15,12 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555080057135">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555085919172">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="50" column="71" />
+        <mark key="]" line="50" column="80" />
+        <mark key="." line="50" column="80" />
+        <mark key="^" line="50" column="80" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/April08.md" timestamp="1555023251426">
         <mark key="[" line="78" column="55" />
@@ -138,10 +136,10 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1554485455555">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555085489827">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="130" column="42" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="143" column="42" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="12" column="32" />
       </file>
@@ -249,35 +247,89 @@
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWyd0cmFpbnZhbCddID0gVHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.0001</text>
       </register>
       <register name="-" type="4">
-        <text>device</text>
+        <text>0.0001</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWydkZXZpY2UnXSA9IGRldmljZQo=</text>
+      <register name="0" type="4">
+        <text>#%%
+def scratch():
+    #%%
+
+    import importlib
+    from torchvision import models
+    from detect.pascal_callback import VOCMetric
+    from detect.retina import RetinaDetector
+
+    dataset = 'voc07'
+    dataset_module = importlib.import_module(f&quot;detect.datasets.{dataset}&quot;)
+    load_fn = getattr(dataset_module, 'load')
+    params_module = importlib.import_module(&quot;detect.datasets.params&quot;)
+    data_params = getattr(params_module, f&quot;data_params_{dataset}&quot;)
+    data_params['size'] = 224  # RetinaNet requires size that is multiple of 32
+    data_params['bs'] = 32
+    data = load_fn(**data_params)
+
+    retina_params = dict(backbone=models.resnet50)
+    retina = RetinaDetector(data, **retina_params)
+    #%%
+
+    voc_metric_params = dict(conf_thresh=0.05, nms_overlap=0.5, nms_topk=50, iou_thresh=0.5, update_freq=1)
+    metric = VOCMetric(detector=retina, comet_exp=None, **voc_metric_params)
+    retina.learn.metrics.append(metric)
+    learn = retina.learn
+
+    print(f&quot;Starting experiment with {learn.data.device}&quot;)
+
+    #%%
+    learn.lr_find()
+    from fastai.vision import plt
+    plt.interactive(True)
+    retina.learn.recorder.plot(suggestion=True)
+
+    #%%
+
+    max_lr = 0.00013
+    cycle_len = 10
+    learn.fit_one_cycle(cycle_len, max_lr=max_lr)
+
+    # In[51]:
+
+    learn.freeze_to(-1)
+    learn.fit_one_cycle(cycle_len, max_lr=max_lr/2)
+
+    # In[52]:
+
+    learn.freeze_to(-2)
+    learn.fit_one_cycle(cycle_len, max_lr=max_lr/2)
+
+    # In[53]:
+
+    learn.freeze_to(0)
+    learn.fit_one_cycle(2, max_lr=max_lr/4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWyd0cmFpbnZhbCddID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGZyb20gZGV0ZWN0LnJldGluYSBpbXBvcnQgUmV0aW5hRGV0ZWN0b3IK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWyd0cmFpbnZhbCddID0gVHJ1ZQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZGVmIGNvbXB1dGVfc2hhcGUoaW1hZ2Vfc2hhcGUsIHB5cmFtaWRfbGV2ZWxzKToKICAgICIiIkNvbXB1dGUgc2hhcGVzIGJhc2VkIG9uIHB5cmFtaWQgbGV2ZWxzLgoKICAgIDpwYXJhbSBpbWFnZV9zaGFwZToKICAgIDpwYXJhbSBweXJhbWlkX2xldmVsczoKICAgIDpyZXR1cm46CiAgICAiIiIKICAgIGltYWdlX3NoYXBlID0gbnAuYXJyYXkoaW1hZ2Vfc2hhcGVbOjJdKQogICAgaW1hZ2Vfc2hhcGVzID0gWyhpbWFnZV9zaGFwZSArIDIqKnggLSAxKSAvLyAoMioqeCkgZm9yIHggaW4gcHlyYW1pZF9sZXZlbHNdCiAgICByZXR1cm4gaW1hZ2Vfc2hhcGVzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZGVmIGFuY2hvcnNfZm9yX3NoYXBlKAogICAgICAgIGltYWdlX3NoYXBlLAogICAgICAgIHB5cmFtaWRfbGV2ZWxzPU5vbmUsCiAgICAgICAgcmF0aW9zPU5vbmUsCiAgICAgICAgc2NhbGVzPU5vbmUsCiAgICAgICAgc3RyaWRlcz1Ob25lLAogICAgICAgIHNpemVzPU5vbmUsCiAgICAgICAgc2hhcGVzX2NhbGxiYWNrPU5vbmUsCik6CiAgICBpbWFnZV9zaGFwZXMgPSBjb21wdXRlX3NoYXBlKGltYWdlX3NoYXBlLCBweXJhbWlkX2xldmVscykKCiAgICAjIGNvbXB1dGUgYW5jaG9ycyBvdmVyIGFsbCBweXJhbWlkIGxldmVscwogICAgYWxsX2FuY2hvcnMgPSBucC56ZXJvcygoMCwgNCkpCiAgICBmb3IgaWR4LCBwIGluIGVudW1lcmF0ZShweXJhbWlkX2xldmVscyk6CiAgICAgICAgYW5jaG9ycyA9IGdlbmVyYXRlX2FuY2hvcnMoYmFzZV9zaXplPXNpemVzW2lkeF0sIHJhdGlvcz1yYXRpb3MsIHNjYWxlcz1zY2FsZXMpCiAgICAgICAgc2hpZnRlZF9hbmNob3JzID0gc2hpZnQoaW1hZ2Vfc2hhcGVzW2lkeF0sIHN0cmlkZXNbaWR4XSwgYW5jaG9ycykKICAgICAgICBhbGxfYW5jaG9ycyA9IG5wLmFwcGVuZChhbGxfYW5jaG9ycywgc2hpZnRlZF9hbmNob3JzLCBheGlzPTApCgogICAgcmV0dXJuIGFsbF9hbmNob3JzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
