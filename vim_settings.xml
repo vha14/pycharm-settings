@@ -15,10 +15,10 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555100352991">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555102457152">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="57" />
         <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/April08.md" timestamp="1555023251426">
@@ -135,12 +135,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555101357578">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555102471364">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="20" />
-        <mark key="]" line="128" column="20" />
-        <mark key="." line="128" column="20" />
-        <mark key="^" line="128" column="20" />
+        <mark key="[" line="131" column="39" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="132" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -247,16 +247,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detector</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detector</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWydicyddID0gMzIK</text>
+        <text encoding="base64">ICAgICMgbGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1kZXRlY3Rvci5jb25maWcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
