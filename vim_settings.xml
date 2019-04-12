@@ -6,8 +6,8 @@
       <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
-        <mark key="'" line="28" column="61" />
+      <file name="/Python Console" timestamp="1555077825975">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554240966699">
         <mark key="[" line="0" column="0" />
@@ -95,6 +95,12 @@
         <mark key="]" line="29" column="64" />
         <mark key="." line="29" column="64" />
         <mark key="^" line="29" column="64" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/learner.py" timestamp="1555078241522">
+        <mark key="[" line="69" column="94" />
+        <mark key="]" line="69" column="96" />
+        <mark key="." line="69" column="96" />
+        <mark key="^" line="69" column="96" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/detect_list.py" timestamp="1554159536931">
         <mark key="[" line="13" column="41" />
@@ -244,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
