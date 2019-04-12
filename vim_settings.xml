@@ -135,12 +135,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555085489827">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555101357578">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="143" column="42" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="12" column="32" />
+        <mark key="[" line="128" column="20" />
+        <mark key="]" line="128" column="20" />
+        <mark key="." line="128" column="20" />
+        <mark key="^" line="128" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -246,17 +246,17 @@
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ds</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1ldHJpYy5kcyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWydicyddID0gMzIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
