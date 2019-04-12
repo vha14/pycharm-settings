@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1554156112471">
         <mark key="'" line="28" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1555024441831">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1554240966699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,6 +37,12 @@
         <mark key="^" line="119" column="7" />
         <mark key="." line="119" column="7" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/anchors.py" timestamp="1555025898387">
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="65" column="23" />
+        <mark key="^" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554484584597">
         <mark key="'" line="155" column="14" />
         <mark key="[" line="45" column="0" />
@@ -56,7 +59,7 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554489161649">
+      <file name="/Dummy.txt" timestamp="1555025171593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/April2009.md" timestamp="1554233359009">
@@ -240,11 +243,11 @@
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Rm9yIHRoZSBjb21pbmcgIHdlZWs6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
@@ -307,31 +310,31 @@ def scratch():
     learn.fit_one_cycle(2, max_lr=max_lr/4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rm9yIHRoZSBjb21pbmcgIHdlZWs6Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Rm9yIHRoZSBjb21pbmcgIHdlZWs6CiogQWRkcmVzcyBQSVYgaXNzdWUgIzUzOiBidWlsZCBhbiBBbmRyb2lkIGFwcCBjYXBhYmxlIG9mIHBsYXlpbmcgUElWIHZpZGVvIHRocm91Z2ggQ0FGRkUyIGluZmVyZW5jZSBlbmdpbmUuCiogQ29udGludWUgZXhwbG9yYXRpb24gb2YgYXJjaGl0ZWN0dXJhbCBtb2RpZmljYXRpb25zIHRvIHByZXZpb3VzbHkgdHJhaW5lZCBtb2RlbHMgb24gaW5mZXJlbmNlIHNwZWVkIGFuZCBhY2N1cmFjeS4KKiBCcmluZyB1cCBhIGRldmVsb3BtZW50IGVudmlyb25tZW50IGZvciBkZWJ1Z2dpbmcgaW5mZXJlbmNlIGVuZ2luZSBpc3N1ZXMgb24gQVJNLCB1c2luZyB0aGUgbmV3IEFSTSBoYXJkd2FyZS4KKiBFeHBsb3JlIHByb2Nlc3Mgb2YgY29udmVydGluZyBQeVRvcmNoIG1vZGVscyB0byBDQUZGRTIgZm9yIGRlcGxveW1lbnQgb24gbW9iaWxlLgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGVmIGNvbXB1dGVfc2hhcGUoaW1hZ2Vfc2hhcGUsIHB5cmFtaWRfbGV2ZWxzKToKICAgICIiIkNvbXB1dGUgc2hhcGVzIGJhc2VkIG9uIHB5cmFtaWQgbGV2ZWxzLgoKICAgIDpwYXJhbSBpbWFnZV9zaGFwZToKICAgIDpwYXJhbSBweXJhbWlkX2xldmVsczoKICAgIDpyZXR1cm46CiAgICAiIiIKICAgIGltYWdlX3NoYXBlID0gbnAuYXJyYXkoaW1hZ2Vfc2hhcGVbOjJdKQogICAgaW1hZ2Vfc2hhcGVzID0gWyhpbWFnZV9zaGFwZSArIDIqKnggLSAxKSAvLyAoMioqeCkgZm9yIHggaW4gcHlyYW1pZF9sZXZlbHNdCiAgICByZXR1cm4gaW1hZ2Vfc2hhcGVzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIGFuY2hvcnNfZm9yX3NoYXBlKAogICAgICAgIGltYWdlX3NoYXBlLAogICAgICAgIHB5cmFtaWRfbGV2ZWxzPU5vbmUsCiAgICAgICAgcmF0aW9zPU5vbmUsCiAgICAgICAgc2NhbGVzPU5vbmUsCiAgICAgICAgc3RyaWRlcz1Ob25lLAogICAgICAgIHNpemVzPU5vbmUsCiAgICAgICAgc2hhcGVzX2NhbGxiYWNrPU5vbmUsCik6CiAgICBpbWFnZV9zaGFwZXMgPSBjb21wdXRlX3NoYXBlKGltYWdlX3NoYXBlLCBweXJhbWlkX2xldmVscykKCiAgICAjIGNvbXB1dGUgYW5jaG9ycyBvdmVyIGFsbCBweXJhbWlkIGxldmVscwogICAgYWxsX2FuY2hvcnMgPSBucC56ZXJvcygoMCwgNCkpCiAgICBmb3IgaWR4LCBwIGluIGVudW1lcmF0ZShweXJhbWlkX2xldmVscyk6CiAgICAgICAgYW5jaG9ycyA9IGdlbmVyYXRlX2FuY2hvcnMoYmFzZV9zaXplPXNpemVzW2lkeF0sIHJhdGlvcz1yYXRpb3MsIHNjYWxlcz1zY2FsZXMpCiAgICAgICAgc2hpZnRlZF9hbmNob3JzID0gc2hpZnQoaW1hZ2Vfc2hhcGVzW2lkeF0sIHN0cmlkZXNbaWR4XSwgYW5jaG9ycykKICAgICAgICBhbGxfYW5jaG9ycyA9IG5wLmFwcGVuZChhbGxfYW5jaG9ycywgc2hpZnRlZF9hbmNob3JzLCBheGlzPTApCgogICAgcmV0dXJuIGFsbF9hbmNob3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBMb29rIGludG8gaW1wbGVtZW50YXRpb24gb2YgLnBiIHRvIC50ZmxpdGUgY29udmVyc2lvbiB0b29scyBpbiBvcmRlciB0byBmaW5kIGFuIGFwcHJvYWNoIHRvIGJ1aWxkaW5nIGEgUElWLXRyYWluZWQgcXVhbnRpemVkIFNTRExpdGUgTW9iaWxlTmV0VjIgbW9kZWwuIEN1cnJlbnRseSBvbmx5IENPQ08tdHJhaW5lZCBtb2RlbHMgYXJlIGF2YWlsYWJsZSBpbiB0aGUgcXVhbnRpemVkIGZvcm0sIGFuZCBhcmUgbm90IHByb3ZpZGVkIGluIGEgZm9ybSB0aGF0IGNhbiBiZSBmaW5lIHR1bmVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBFeHBlcmltZW50IHdpdGggdW5mcmVlemluZyBwYXJ0cyBvZiB0aGUgQ09DTy10cmFpbmVkIFRlbnNvckZsb3cgTW9iaWxlTmV0VjEgYmFja2JvbmUsIGluIHRoZSBpbnRlcmVzdCBvZiBiZXR0ZXIgYmFja2JvbmUgb3B0aW1pemF0aW9uIHJlbGF0aXZlIHRvIHRoZSBQSVYgZGF0YSBzZXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWZmaWNpZW5jeSBpbiB0aGUgUHl0b3JjaCBlbnZpcm9ubWVudCB3aGlsZSBleHBsb2l0aW5nIHRoZSBURkxpdGUgdG9vbHMgdGhhdCBhcmUgYXZhaWxhYmxlIG9uIEFuZHJvaWQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBTdHVkeSBhcHByb2FjaGVzIGZvciBjb252ZXJ0aW5nIFB5dG9yY2ggLnB0aCBtb2RlbHMgdG8gVGVuc29yRmxvdyAudGZsaXRlIG1vZGVscywgdG8gbWF4aW1pemUgbW9kZWwgZGV2ZWxvcG1lbnQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBEZXBsb3kgZmlyc3QgVGVuc29yRmxvdyB0cmFpbmluZyBleHBlcmltZW50cyB1c2luZyB0aGUgQVdTIHRvb2wuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
