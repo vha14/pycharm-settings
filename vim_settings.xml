@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1555089716529">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1555084792425">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,11 +15,11 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555088959607">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555092114562">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+        <mark key="[" line="145" column="4" />
+        <mark key="]" line="145" column="4" />
+        <mark key="." line="145" column="4" />
         <mark key="^" line="136" column="16" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/April08.md" timestamp="1555023251426">
@@ -50,6 +47,7 @@
         <mark key="^" line="88" column="51" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1555092265259" />
       <file name="/media/vu/ssd1/vu/work/pytorch-ssd/vision/nn/multibox_loss.py" timestamp="1555084582612" />
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -78,12 +76,6 @@
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/voc07.py" timestamp="1554229847688">
-        <mark key="'" line="121" column="19" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_davidluo_nb.py" timestamp="1554321153003">
         <mark key="[" line="139" column="25" />
@@ -250,71 +242,17 @@
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IHRvcmNoCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
-      <register name="0" type="4">
-        <text>#%%
-def scratch():
-    #%%
-
-    import importlib
-    from torchvision import models
-    from detect.pascal_callback import VOCMetric
-    from detect.retina import RetinaDetector
-
-    dataset = 'voc07'
-    dataset_module = importlib.import_module(f&quot;detect.datasets.{dataset}&quot;)
-    load_fn = getattr(dataset_module, 'load')
-    params_module = importlib.import_module(&quot;detect.datasets.params&quot;)
-    data_params = getattr(params_module, f&quot;data_params_{dataset}&quot;)
-    data_params['size'] = 224  # RetinaNet requires size that is multiple of 32
-    data_params['bs'] = 32
-    data = load_fn(**data_params)
-
-    retina_params = dict(backbone=models.resnet50)
-    retina = RetinaDetector(data, **retina_params)
-    #%%
-
-    voc_metric_params = dict(conf_thresh=0.05, nms_overlap=0.5, nms_topk=50, iou_thresh=0.5, update_freq=1)
-    metric = VOCMetric(detector=retina, comet_exp=None, **voc_metric_params)
-    retina.learn.metrics.append(metric)
-    learn = retina.learn
-
-    print(f&quot;Starting experiment with {learn.data.device}&quot;)
-
-    #%%
-    learn.lr_find()
-    from fastai.vision import plt
-    plt.interactive(True)
-    retina.learn.recorder.plot(suggestion=True)
-
-    #%%
-
-    max_lr = 0.00013
-    cycle_len = 10
-    learn.fit_one_cycle(cycle_len, max_lr=max_lr)
-
-    # In[51]:
-
-    learn.freeze_to(-1)
-    learn.fit_one_cycle(cycle_len, max_lr=max_lr/2)
-
-    # In[52]:
-
-    learn.freeze_to(-2)
-    learn.fit_one_cycle(cycle_len, max_lr=max_lr/2)
-
-    # In[53]:
-
-    learn.freeze_to(0)
-    learn.fit_one_cycle(2, max_lr=max_lr/4)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRldGVjdG9yLmxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgaW1wb3J0IHRvcmNoCg==</text>
