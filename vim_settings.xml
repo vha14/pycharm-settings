@@ -24,6 +24,13 @@
       <file name="/retina_exp" timestamp="1554068019865">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/keras-retinanet/keras_retinanet/utils/anchors.py" timestamp="1555196823852">
+        <mark key="'" line="19" column="36" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550961778071">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="61" column="80" />
@@ -31,8 +38,8 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554474814130">
-        <mark key="[" line="95" column="46" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555197495964">
+        <mark key="[" line="47" column="111" />
         <mark key="]" line="95" column="47" />
         <mark key="." line="95" column="47" />
         <mark key="^" line="95" column="47" />
@@ -121,11 +128,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555123905470">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="33" />
-        <mark key="." line="30" column="33" />
-        <mark key="^" line="30" column="33" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555197545822">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
@@ -136,7 +143,7 @@
       <file name="/Python Console" timestamp="1555189173476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554437378638">
+      <file name="/fragment.py" timestamp="1555194221482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,7 +205,7 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554055235565">
+      <file name="/Dummy.txt" timestamp="1555197090147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
@@ -232,7 +239,7 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="/train" timestamp="1551153725783">
+      <file name="/train" timestamp="1555193618374">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_utils.py" timestamp="1550017962708">
@@ -254,6 +261,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" timestamp="1555196708577">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="6" />
+        <mark key="^" line="34" column="6" />
+        <mark key="." line="34" column="6" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_head.py" timestamp="1550019038695">
         <mark key="[" line="15" column="98" />
         <mark key="]" line="16" column="88" />
@@ -274,8 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="8" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
-      <jump line="139" column="48" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="368" column="66" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
       <jump line="369" column="22" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
       <jump line="29" column="11" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
@@ -374,6 +385,8 @@
       <jump line="36" column="50" filename="$USER_HOME$/work/pytorch-ssd/vision/nn/multibox_loss.py" />
       <jump line="157" column="34" filename="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" />
       <jump line="74" column="48" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/utils/anchors.py" />
+      <jump line="19" column="36" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/utils/anchors.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -383,7 +396,7 @@
         <text>64</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>compute_over</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWydicyddID0gNjQK</text>
@@ -420,15 +433,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>compute_over</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>compute_over</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxBdmVyYWdlXD4=</entry>
@@ -448,6 +460,7 @@
         <entry>Batch</entry>
         <entry encoding="base64">XDwyXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>compute_over</entry>
       </history-search>
       <history-cmd />
       <history-expr />
