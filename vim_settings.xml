@@ -15,6 +15,12 @@
       <file name="/a.dummy" timestamp="1554425476081">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/callbacks.py" timestamp="1555257681886">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1551050848373">
         <mark key="[" line="77" column="21" />
         <mark key="]" line="77" column="29" />
@@ -31,7 +37,7 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555254091283">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555257048632">
         <mark key="[" line="47" column="65" />
         <mark key="]" line="47" column="79" />
         <mark key="." line="47" column="79" />
@@ -60,11 +66,6 @@
         <mark key="]" line="69" column="15" />
         <mark key="." line="69" column="15" />
         <mark key="^" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/detect_list.py" timestamp="1554208521261">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
       </file>
       <file name="$USER_HOME$/work/ssd.pytorch/data/config.py" timestamp="1551227322226">
         <mark key="[" line="16" column="16" />
@@ -100,11 +101,20 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNetFocalLoss.py" timestamp="1555257393266">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
+      </file>
+      <file name="/CocoTiny_Retina_Net.ipynb" timestamp="1555257138860">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1555253803792">
         <mark key="[" line="0" column="0" />
@@ -120,6 +130,12 @@
       </file>
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNet.py" timestamp="1555257089031">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="94" column="26" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555203880422">
         <mark key="'" line="74" column="48" />
@@ -161,6 +177,12 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="38" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555257346850">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555252338344">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,11 +194,6 @@
         <mark key="]" line="55" column="70" />
         <mark key="." line="55" column="70" />
         <mark key="^" line="55" column="70" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/voc07.py" timestamp="1554079924988">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/work/ssd.pytorch/data/coco.py" timestamp="1551153388524">
         <mark key="[" line="45" column="23" />
@@ -340,10 +357,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>64</text>
+        <text>helper</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>helper</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
@@ -352,34 +369,34 @@
         <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWydicyddID0gNjQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldGluYS5sZWFybi5maXQoZXBvY2hzPWVwb2NoLCBscj1scikK</text>
+        <text encoding="base64">ZnJvbSBzY3JpcHRzIGltcG9ydCBSZXRpbmFOZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJbml0aWFsaXppbmcgd2l0aCBrYWltaW5nX25vcm1hbCIpCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJ7bnVtX2RldGVjdGVkfSBkZXRlY3RvcnMgd2l0aCBhdCBsZWFzdCB7Y29uZl90aHJlc2h9IGNvbmZpZGVuY2UhIikK</text>
+        <text encoding="base64">aW1wb3J0IHdhcm5pbmdzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW1fZGV0ZWN0ZWQgPiAxMDAwOgo=</text>
+        <text encoding="base64">d2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">aW5saW5lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjX21hc2suc3VtKCkgPT0gMDoK</text>
+        <text encoding="base64">JSBtYXRwbG90bGliCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsX21hc2sgPSBsX21hc2suZXhwYW5kX2FzKGJfYmIpCg==</text>
+        <text encoding="base64">Mgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsX21hc2sgPSBjX21hc2sudW5zcXVlZXplKDEpCg==</text>
+        <text encoding="base64">JSBhdXRvcmVsb2FkCg==</text>
       </register>
     </registers>
     <search>
