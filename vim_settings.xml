@@ -31,18 +31,11 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/map.py" timestamp="1550961778071">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="61" column="80" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="58" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555197495964">
-        <mark key="[" line="47" column="111" />
-        <mark key="]" line="95" column="47" />
-        <mark key="." line="95" column="47" />
-        <mark key="^" line="95" column="47" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555203546018">
+        <mark key="[" line="95" column="52" />
+        <mark key="]" line="99" column="27" />
+        <mark key="." line="99" column="27" />
+        <mark key="^" line="99" column="27" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd.py" timestamp="1554450553057">
         <mark key="[" line="96" column="101" />
@@ -56,25 +49,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_list.py" timestamp="1551553260661">
-        <mark key="'" line="27" column="39" />
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="53" />
-        <mark key="." line="36" column="53" />
-        <mark key="^" line="36" column="53" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1550639987407">
         <mark key="[" line="125" column="16" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/voc_callback.py" timestamp="1551248000067">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="1" column="54" />
-        <mark key="]" line="1" column="60" />
-        <mark key="^" line="1" column="60" />
-        <mark key="." line="1" column="60" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssdoil.py" timestamp="1549430177616">
         <mark key="[" line="69" column="15" />
@@ -105,34 +84,21 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" timestamp="1550963625583">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="76" column="11" />
-        <mark key="]" line="76" column="11" />
-        <mark key="^" line="76" column="11" />
-        <mark key="." line="76" column="11" />
-      </file>
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/pytorch-retinanet/model.py" timestamp="1555203557104" />
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/work/pytorch-ssd/vision/nn/multibox_loss.py" timestamp="1554073585115">
-        <mark key="'" line="36" column="50" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555197545822">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555203898074">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="82" column="13" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
@@ -149,13 +115,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ssd.pytorch/train.py" timestamp="1551200619485">
-        <mark key="'" line="54" column="46" />
-        <mark key="[" line="201" column="61" />
-        <mark key="]" line="201" column="67" />
-        <mark key="." line="201" column="67" />
-        <mark key="^" line="201" column="67" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
         <mark key="[" line="6" column="97" />
         <mark key="]" line="6" column="97" />
@@ -165,10 +124,10 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1554258113023">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555203880422">
         <mark key="'" line="74" column="48" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="92" column="42" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="18" column="32" />
       </file>
@@ -254,14 +213,8 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1551023872422">
-        <mark key="'" line="87" column="18" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" timestamp="1555196708577">
+      <file name="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" timestamp="1555203017416">
+        <mark key="'" line="408" column="33" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="6" />
         <mark key="^" line="34" column="6" />
@@ -287,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="66" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
-      <jump line="369" column="22" filename="$USER_HOME$/work/fastai/fastai/basic_train.py" />
       <jump line="29" column="11" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="75" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="74" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
@@ -387,61 +338,62 @@
       <jump line="74" column="48" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/utils/anchors.py" />
       <jump line="19" column="36" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/utils/anchors.py" />
+      <jump line="409" column="40" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" />
+      <jump line="408" column="33" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldGluYS5sZWFybi5maXQoZXBvY2hzPWVwb2NoLCBscj1scikK</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>ssd</text>
       </register>
       <register name="/" type="4">
-        <text>compute_over</text>
+        <text>min-side</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFfcGFyYW1zWydicyddID0gNjQK</text>
+        <text encoding="base64">ICAgIGZvciBlcG9jaCwgbHIgaW4gemlwKGxlYXJuZXJfcGFyYW1zWydlcG9jaHMnXSwgbGVhcm5lcl9wYXJhbXNbJ2xycyddKToKICAgICAgICBwcmludChmIlRyYWluaW5nIGZvciB7ZXBvY2h9IGVwb2NocyB3aXRoIGxlYXJuaW5nIHJhdGUge2xyfSIpCiAgICAgICAgc3NkLmxlYXJuLmZpdChlcG9jaHM9ZXBvY2gsIGxyPWxyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJbml0aWFsaXppbmcgd2l0aCBrYWltaW5nX25vcm1hbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJldGluYS5sZWFybi5maXQoZXBvY2hzPWVwb2NoLCBscj1scikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJJbml0aWFsaXppbmcgd2l0aCBrYWltaW5nX25vcm1hbCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJ7bnVtX2RldGVjdGVkfSBkZXRlY3RvcnMgd2l0aCBhdCBsZWFzdCB7Y29uZl90aHJlc2h9IGNvbmZpZGVuY2UhIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxlYXJuCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW1fZGV0ZWN0ZWQgPiAxMDAwOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJ7bnVtX2RldGVjdGVkfSBkZXRlY3RvcnMgd2l0aCBhdCBsZWFzdCB7Y29uZl90aHJlc2h9IGNvbmZpZGVuY2UhIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBudW1fZGV0ZWN0ZWQgPiAxMDAwOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjX21hc2suc3VtKCkgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsX21hc2sgPSBsX21hc2suZXhwYW5kX2FzKGJfYmIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjX21hc2suc3VtKCkgPT0gMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsX21hc2sgPSBjX21hc2sudW5zcXVlZXplKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBsX21hc2sgPSBsX21hc2suZXhwYW5kX2FzKGJfYmIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSByZXNfdG9wazogVG9wIGsgZm9yIGVhY2ggcmVzb2x1dGlvbiBpbiBhIG11bHRpLXJlc29sdXRpb24gZGV0ZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBsX21hc2sgPSBjX21hc2sudW5zcXVlZXplKDEpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>compute_over</last-search>
+      <last-search>min-side</last-search>
       <last-offset />
-      <last-pattern>compute_over</last-pattern>
+      <last-pattern>min-side</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbHRcPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxBdmVyYWdlXD4=</entry>
         <entry>max_iter</entry>
@@ -461,6 +413,7 @@
         <entry encoding="base64">XDwyXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>compute_over</entry>
+        <entry>min-side</entry>
       </history-search>
       <history-cmd />
       <history-expr />
