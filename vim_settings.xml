@@ -116,7 +116,7 @@
       <file name="/CocoTiny_Retina_Net.ipynb" timestamp="1555257138860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1555272709953">
+      <file name="/fragment.py" timestamp="1555274127779">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,7 +131,7 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNet.py" timestamp="1555272707443">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNet.py" timestamp="1555274188483">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="^" line="94" column="26" />
@@ -356,11 +356,11 @@
       <jump line="408" column="33" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YW5jaG9ycy5zaGFwZQo=</text>
+      <register name="&quot;" type="4">
+        <text>sfs_szs[-2:-4:-1]</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>sfs_szs[-2:-4:-1]</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
