@@ -48,11 +48,11 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555349353576">
-        <mark key="[" line="145" column="38" />
-        <mark key="]" line="145" column="38" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="145" column="38" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555351474422">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="25" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -63,11 +63,11 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555349642922">
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="92" column="28" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555351494234">
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="86" column="18" />
         <mark key="^" line="92" column="24" />
-        <mark key="." line="92" column="28" />
+        <mark key="." line="86" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1555348221948">
         <mark key="[" line="0" column="0" />
@@ -249,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
