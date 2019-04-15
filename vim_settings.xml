@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1555340540336">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1555339915079">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,12 +48,12 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555341119588">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555341766805">
         <mark key="'" line="165" column="27" />
-        <mark key="[" line="114" column="75" />
-        <mark key="]" line="114" column="80" />
-        <mark key="." line="114" column="80" />
-        <mark key="^" line="114" column="80" />
+        <mark key="[" line="136" column="55" />
+        <mark key="]" line="136" column="56" />
+        <mark key="." line="136" column="56" />
+        <mark key="^" line="136" column="53" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -67,11 +64,11 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555341061960">
-        <mark key="[" line="85" column="76" />
-        <mark key="]" line="85" column="78" />
-        <mark key="." line="85" column="78" />
-        <mark key="^" line="85" column="78" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555341137756">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="82" column="78" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1555025171593">
         <mark key="[" line="0" column="0" />
@@ -264,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
@@ -276,31 +273,31 @@
         <text encoding="base64">bGVhcm4ubW9kZWwuY2xhc19tb2RlbC5jb252cyA9IFtjb252LnRvKGRhdGEuZGV2aWNlKSBmb3IgY29udiBpbiBsZWFybi5tb2RlbC5jbGFzX21vZGVsLmNvbnZzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">bGVhcm4ubW9kZWwuY2xhc19tb2RlbC5jb252c1swXVswXS53ZWlnaHQuaXNfY3VkYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kZWwuY2xhc19tb2RlbC5jb252c1swXVswXS53ZWlnaHQuaXNfY3VkYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">bW9kZWwuY2xhc19tb2RlbC5vdXRwdXQud2VpZ2h0LmlzX2N1ZGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9tb2RlbCA9IHNlbGYuYm94X21vZGVsLnRvKHNlbGYuZGV2aWNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNfbW9kZWwgPSBzZWxmLmNsYXNfbW9kZWwudG8oc2VsZi5kZXZpY2UpCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHNjcmlwdHMuZXhwZXJpbWVudGFsLlJldGluYU5ldCBpbXBvcnQgUmV0aW5hTmV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjQgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9tb2RlbCA9IHNlbGYuYm94X21vZGVsLnRvKHNlbGYuZGV2aWNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjMgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNfbW9kZWwgPSBzZWxmLmNsYXNfbW9kZWwudG8oc2VsZi5kZXZpY2UpCg==</text>
       </register>
     </registers>
     <search>
