@@ -15,6 +15,12 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNet.py" timestamp="1555337899426">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="39" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="16" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1555102457152">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="138" column="0" />
@@ -42,12 +48,12 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1554484584597">
-        <mark key="'" line="155" column="14" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="52" />
-        <mark key="^" line="88" column="51" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555338175684">
+        <mark key="'" line="163" column="25" />
+        <mark key="[" line="175" column="38" />
+        <mark key="]" line="175" column="38" />
+        <mark key="^" line="126" column="68" />
+        <mark key="." line="175" column="38" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -58,6 +64,12 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555336861761">
+        <mark key="[" line="89" column="24" />
+        <mark key="]" line="89" column="26" />
+        <mark key="." line="89" column="26" />
+        <mark key="^" line="89" column="26" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555025171593">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,13 +78,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="20" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/paper_ssd_exp.py" timestamp="1554485928772">
-        <mark key="a" line="43" column="53" />
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="43" column="81" />
-        <mark key="^" line="43" column="81" />
-        <mark key="." line="43" column="81" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -148,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="77" column="34" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
@@ -248,46 +252,47 @@
       <jump line="162" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="163" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
+      <jump line="160" column="25" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>detector</text>
+        <text>, mode='nearest'</text>
       </register>
       <register name="-" type="4">
-        <text>detector</text>
+        <text>, mode='nearest'</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgbGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1kZXRlY3Rvci5jb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5uLkNvbnYyZChmZWF0dXJlX3NpemUsIGZlYXR1cmVfc2l6ZSwga2VybmVsX3NpemU9Mywgc3RyaWRlPTEsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjQgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjMgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1ldHJpYy5hbmFseXplX2t3YXJncyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjIgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ldHJpYy5sZWFybiA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjEgPSBubi5Db252MmQobnVtX2ZlYXR1cmVzX2luLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ldHJpYy5kcyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjQoeCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ldHJpYy5kZXRlY3RvciA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjMoeCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1ldHJpYy5ndF9ib3hlcyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjIoeCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjEoeCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRldF9ib3hlcyA9IGRlZmF1bHRkaWN0KGxpc3QpCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
       </register>
     </registers>
     <search>
