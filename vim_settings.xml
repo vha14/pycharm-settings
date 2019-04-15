@@ -48,12 +48,11 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555341766805">
-        <mark key="'" line="165" column="27" />
-        <mark key="[" line="136" column="55" />
-        <mark key="]" line="136" column="56" />
-        <mark key="." line="136" column="56" />
-        <mark key="^" line="136" column="53" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555343057371">
+        <mark key="[" line="145" column="38" />
+        <mark key="]" line="145" column="38" />
+        <mark key="^" line="47" column="26" />
+        <mark key="." line="145" column="38" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -64,13 +63,13 @@
         <mark key="^" line="112" column="22" />
         <mark key="." line="112" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555341137756">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="82" column="78" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" timestamp="1555342705825">
+        <mark key="[" line="97" column="21" />
+        <mark key="]" line="92" column="25" />
+        <mark key="^" line="74" column="49" />
+        <mark key="." line="92" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555025171593">
+      <file name="/Dummy.txt" timestamp="1555343119023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/notebooks/April2009.md" timestamp="1554233359009">
@@ -261,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
@@ -273,31 +272,31 @@
         <text encoding="base64">bGVhcm4ubW9kZWwuY2xhc19tb2RlbC5jb252cyA9IFtjb252LnRvKGRhdGEuZGV2aWNlKSBmb3IgY29udiBpbiBsZWFybi5tb2RlbC5jbGFzX21vZGVsLmNvbnZzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVhcm4ubW9kZWwuY2xhc19tb2RlbC5jb252c1swXVswXS53ZWlnaHQuaXNfY3VkYQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kZWwuY2xhc19tb2RlbC5jb252c1swXVswXS53ZWlnaHQuaXNfY3VkYQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kZWwuY2xhc19tb2RlbC5vdXRwdXQud2VpZ2h0LmlzX2N1ZGEK</text>
+        <text encoding="base64">bGVhcm4ubW9kZWwuY2xhc19tb2RlbC5jb252c1swXVswXS53ZWlnaHQuaXNfY3VkYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">bW9kZWwuY2xhc19tb2RlbC5jb252c1swXVswXS53ZWlnaHQuaXNfY3VkYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kZWwuY2xhc19tb2RlbC5vdXRwdXQud2VpZ2h0LmlzX2N1ZGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9tb2RlbCA9IHNlbGYuYm94X21vZGVsLnRvKHNlbGYuZGV2aWNlKQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNfbW9kZWwgPSBzZWxmLmNsYXNfbW9kZWwudG8oc2VsZi5kZXZpY2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
