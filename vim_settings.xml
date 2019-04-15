@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1555084792425">
+      <file name="/fragment.py" timestamp="1555339655181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1554154673402">
@@ -15,9 +15,9 @@
       <file name="/scratch" timestamp="1550381466793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNet.py" timestamp="1555337899426">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="39" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNet.py" timestamp="1555339464647">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="66" />
         <mark key="." line="68" column="16" />
         <mark key="^" line="68" column="16" />
       </file>
@@ -48,12 +48,11 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555338175684">
-        <mark key="'" line="163" column="25" />
-        <mark key="[" line="175" column="38" />
-        <mark key="]" line="175" column="38" />
-        <mark key="^" line="126" column="68" />
-        <mark key="." line="175" column="38" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555339708056">
+        <mark key="'" line="165" column="27" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
@@ -153,15 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="77" column="34" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="79" column="34" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="6" column="22" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="136" column="40" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="137" column="44" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="24" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="167" column="40" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="38" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
@@ -252,59 +242,67 @@
       <jump line="162" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="163" column="14" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" />
-      <jump line="160" column="25" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="121" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="125" column="24" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="135" column="23" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="137" column="23" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="157" column="26" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="158" column="26" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="159" column="26" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="160" column="26" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="166" column="27" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, mode='nearest'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, mode='nearest'</text>
+        <text>clas_model</text>
       </register>
       <register name="/" type="4">
-        <text>relu</text>
+        <text>Conv2d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5uLkNvbnYyZChmZWF0dXJlX3NpemUsIGZlYXR1cmVfc2l6ZSwga2VybmVsX3NpemU9Mywgc3RyaWRlPTEsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNfbW9kZWwgPSBzZWxmLmNsYXNfbW9kZWwudG8oc2VsZi5kZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjQgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjMgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9tb2RlbCA9IHNlbGYuYm94X21vZGVsLnRvKHNlbGYuZGV2aWNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjIgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNfbW9kZWwgPSBzZWxmLmNsYXNfbW9kZWwudG8oc2VsZi5kZXZpY2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjEgPSBubi5Db252MmQobnVtX2ZlYXR1cmVzX2luLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHNjcmlwdHMuZXhwZXJpbWVudGFsLlJldGluYU5ldCBpbXBvcnQgUmV0aW5hTmV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjQoeCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjQgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjMoeCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjMgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjIoeCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjIgPSBubi5Db252MmQoZmVhdHVyZV9zaXplLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjEoeCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjEgPSBubi5Db252MmQobnVtX2ZlYXR1cmVzX2luLCBmZWF0dXJlX3NpemUsIGtlcm5lbF9zaXplPTMsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MuYXBwZW5kKG1ldHJpYykK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udjQoeCkpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>relu</last-search>
+      <last-search>Conv2d</last-search>
       <last-offset />
-      <last-pattern>relu</last-pattern>
+      <last-pattern>Conv2d</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Evaluator</entry>
         <entry>conf</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
         <entry>class</entry>
@@ -324,6 +322,7 @@
         <entry encoding="base64">XDx2b2NfdHJhaW52YWwyMDA3X3VybFw+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>relu</entry>
+        <entry>Conv2d</entry>
       </history-search>
       <history-cmd />
       <history-expr />
