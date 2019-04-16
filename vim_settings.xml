@@ -155,12 +155,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555368715849">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555372374101">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="32" column="23" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNetFocalLoss.py" timestamp="1555349242798">
         <mark key="[" line="50" column="30" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
