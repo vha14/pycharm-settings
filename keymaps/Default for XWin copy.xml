@@ -58,6 +58,7 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
@@ -87,6 +88,9 @@
   <action id="IntroduceField" />
   <action id="Macro.Insert code cell marker">
     <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="MarkdownNavigator.ExportPdf">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
