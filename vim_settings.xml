@@ -107,11 +107,11 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1555537714786">
-        <mark key="[" line="59" column="14" />
-        <mark key="]" line="61" column="6" />
-        <mark key="." line="61" column="6" />
-        <mark key="^" line="61" column="6" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1555539392872">
+        <mark key="[" line="97" column="13" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="99" column="0" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -288,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
@@ -300,25 +300,25 @@
         <text encoding="base64">ICAgIGRvd25sb2FkKCkKICAgIGltZzJiYm94ID0ge30KICAgIGltYWdlcyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGkwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIk51bWJlciBvZiBpbWFnZXM6IHtsZW4oaW1hZ2VzKX0iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGkwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2ZWluX29ubHk6IGNsYXNzX2xhYmVscyA9IFsndmVpbiddKmxlbihjbGFzc19sYWJlbHMpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2ZWluX29ubHk6IGNsYXNzX2xhYmVscyA9IFsndmVpbiddKmxlbihjbGFzc19sYWJlbHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IyUlCg==</text>
