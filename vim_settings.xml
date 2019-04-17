@@ -61,6 +61,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1555524702887" />
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555452724403">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
@@ -141,6 +142,12 @@
         <mark key="]" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1555523938384">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,12 +168,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555453426270">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555524449060">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="77" />
-        <mark key="]" line="31" column="79" />
-        <mark key="^" line="31" column="79" />
-        <mark key="." line="31" column="79" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="7" />
+        <mark key="^" line="101" column="7" />
+        <mark key="." line="101" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNetFocalLoss.py" timestamp="1555349242798">
         <mark key="[" line="50" column="30" />
@@ -277,11 +284,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldGluYV9wYXJhbXMgPSBkaWN0KGJhY2tib25lPW1vZGVscy5yZXNuZXQzNCwgcHlyYW1pZF9sZXZlbHM9KDMsIDQsIDUsIDYsIDcpLCB6b29tcz1bMC4zNSwgMC41LCAwLjYsIDEsIDEuMjUsIDEuNl0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>features</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
@@ -316,6 +323,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBhbGxfcmVzID0gemlwKFBZUkFNSURfTEVWRUxTLCAKICAgICAgICByZXR1cm4gW3JlcyBmb3IgbGV2ZWwsIHJlcyBpbiAgYWxsX3JlcyBpZiBsZXZlbCBpbiBzZWxmLnB5Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
       <last-search>Conv2d</last-search>
@@ -347,7 +357,9 @@
         <entry>relu</entry>
         <entry>Conv2d</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
