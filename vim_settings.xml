@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1551388915807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/pascal.ipynb" timestamp="1555526236469">
+      <file name="/pascal.ipynb" timestamp="1555536413685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1555366627774">
@@ -106,6 +106,12 @@
         <mark key="]" line="19" column="30" />
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1555537714786">
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="61" column="6" />
+        <mark key="." line="61" column="6" />
+        <mark key="^" line="61" column="6" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -282,37 +288,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyb20gZmFzdGFpLnZpc2lvbiBpbXBvcnQgcGx0CiAgICBwbHQuaW50ZXJhY3RpdmUoVHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkKCkKICAgIGltZzJiYm94ID0ge30KICAgIGltYWdlcyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGkwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB2ZWluX29ubHk6IGNsYXNzX2xhYmVscyA9IFsndmVpbiddKmxlbihjbGFzc19sYWJlbHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlIG1kCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IyUlCg==</text>
