@@ -59,11 +59,11 @@
         <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1555524702887" />
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/coco_pascal.py" timestamp="1555532759289">
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="0" />
-        <mark key="^" line="798" column="11" />
-        <mark key="." line="598" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/coco_pascal.py" timestamp="1555533881849">
+        <mark key="[" line="861" column="5" />
+        <mark key="]" line="862" column="2" />
+        <mark key="^" line="862" column="2" />
+        <mark key="." line="862" column="2" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555452724403">
         <mark key="[" line="97" column="0" />
@@ -281,11 +281,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/experimental/CocoTiny_Retina_Net.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Conv2d</text>
