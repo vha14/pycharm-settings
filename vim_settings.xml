@@ -59,11 +59,11 @@
         <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1555524702887" />
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/coco_pascal.py" timestamp="1555527795580">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="802" column="11" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/coco_pascal.py" timestamp="1555532759289">
+        <mark key="[" line="598" column="0" />
+        <mark key="]" line="598" column="0" />
+        <mark key="^" line="798" column="11" />
+        <mark key="." line="598" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555452724403">
         <mark key="[" line="97" column="0" />
@@ -282,7 +282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gZmFzdGFpLnZpc2lvbiBpbXBvcnQgcGx0CiAgICBwbHQuaW50ZXJhY3RpdmUoVHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -294,13 +294,13 @@
         <text encoding="base64">ICAgIGZyb20gZmFzdGFpLnZpc2lvbiBpbXBvcnQgcGx0CiAgICBwbHQuaW50ZXJhY3RpdmUoVHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlIG1kCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">IyUlCg==</text>
@@ -312,7 +312,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">IyUlIG1kCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IyUlCg==</text>
