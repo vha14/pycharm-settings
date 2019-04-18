@@ -12,6 +12,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555619668935">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="55" />
+      </file>
       <file name="/a.dummy" timestamp="1554425476081">
         <mark key="[" line="0" column="0" />
       </file>
@@ -427,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
@@ -439,34 +445,34 @@
         <text encoding="base64">bGVhcm4uZml0X29uZV9jeWNsZSgxMCwgNGUtNCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVhcm4uZnJlZXplX3RvKC0yKQo=</text>
+        <text encoding="base64">ICAgICJQcm9jZXNzIGEgc2luZ2xlIGltYWdlIGZpbGUuICIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmcm9tIHNjcmlwdHMuZXhwZXJpbWVudGFsLlJldGluYU5ldCBpbXBvcnQgUmV0aW5hTmV0CmZyb20gZGV0ZWN0LnJldGluYSBpbXBvcnQgUmV0aW5hTmV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIF9wcm9jZXNzX2ltYWdlKGltZ1RleHQsIHNpemU9MzAwKToKICAgICIiIlByb2Nlc3MgYSBzaW5nbGUgaW1hZ2UgZmlsZS4KICBBcmdzOgogICAgZmlsZW5hbWU6IHN0cmluZywgcGF0aCB0byBhbiBpbWFnZSBmaWxlIGUuZy4sICcvcGF0aC90by9leGFtcGxlLkpQRycuCiAgICBjb2RlcjogaW5zdGFuY2Ugb2YgSW1hZ2VDb2RlciB0byBwcm92aWRlIFRlbnNvckZsb3cgaW1hZ2UgY29kaW5nIHV0aWxzLgogIFJldHVybnM6CiAgICBpbWFnZV9idWZmZXI6IHN0cmluZywgSlBFRyBlbmNvZGluZyBvZiBSR0IgaW1hZ2UuCiAgICBoZWlnaHQ6IGludGVnZXIsIGltYWdlIGhlaWdodCBpbiBwaXhlbHMuCiAgICB3aWR0aDogaW50ZWdlciwgaW1hZ2Ugd2lkdGggaW4gcGl4ZWxzLgogICIiIgogICAgIyBSZWFkIHRoZSBpbWFnZSBmaWxlLgoKICAgIGltYWdlID0gSW1hZ2Uub3BlbihCeXRlc0lPKGJhc2U2NC5iNjRkZWNvZGUoaW1nVGV4dCkpKQoKICAgIHhfcmF0aW8gPSBzaXplL2ltYWdlLndpZHRoCiAgICB5X3JhdGlvID0gc2l6ZS9pbWFnZS5oZWlnaHQKICAgIGltYWdlID0gaW1hZ2UucmVzaXplKChzaXplLCBzaXplKSwgSW1hZ2UuQU5USUFMSUFTKQogICAgcmdiaW1nID0gSW1hZ2UubmV3KCJSR0IiLCBpbWFnZS5zaXplKQogICAgcmdiaW1nLnBhc3RlKGltYWdlKQoKICAgIHJnYmltZy5zYXZlKCd0ZW1wLmpwZWcnKQogICAgd2l0aCB0Zi5nZmlsZS5HRmlsZSgndGVtcC5qcGVnJywgJ3JiJykgYXMgZmlkOgogICAgICAgIGVuY29kZWRfanBnID0gZmlkLnJlYWQoKQogICAgcmV0dXJuIGVuY29kZWRfanBnLCAoaW1hZ2Uud2lkdGgpLCAoaW1hZ2UuaGVpZ2h0KSwgeF9yYXRpbywgeV9yYXRpbwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIHJnYl9maWxlbmFtZSA9IHN0cihmaWxlbmFtZSkucmVwbGFjZSgnaVZpelZpZGVvJywgJ1JHQicpLnJlcGxhY2UoJ3JhdycsICdwcm9jZXNzZWQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzY3JpcHRzLmV4cGVyaW1lbnRhbC5SZXRpbmFOZXQgaW1wb3J0IFJldGluYU5ldAo=</text>
+        <text encoding="base64">ICAgICNUT0RPOiBzaG91bGQgYmUgYSBiZXR0ZXIgd2F5IHRvIGdldCB0aGUgaW1hZ2UgZGF0YSBpbiB0aGUgY29ycmVjdCBmb3JtYXQgdGhhbiB3cml0aW5nIHRvIGRpc2sgYW5kIHRoZW4gcmUtcmVhZGluZyBpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5uLmluaXQua2FpbWluZ19ub3JtYWxfKHdlaWdodHMpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAod2lkdGggPT0gMzAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KHNpemVzPVsoMzIsIDMyKSwgKDE2LCAxNiksICg4LCA4KSwgKDQsIDQpXSwgCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAoaGVpZ2h0ID09IDMwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
