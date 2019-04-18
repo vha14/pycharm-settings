@@ -12,11 +12,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555627535286">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555631160822">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="65" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="67" />
       </file>
       <file name="/a.dummy" timestamp="1555626797262">
         <mark key="[" line="0" column="0" />
@@ -206,7 +206,7 @@
         <mark key="^" line="79" column="25" />
         <mark key="." line="79" column="25" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555629923760">
+      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555630075674">
         <mark key="'" line="155" column="12" />
         <mark key="[" line="171" column="16" />
         <mark key="]" line="171" column="19" />
@@ -457,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8000</text>
+        <text>300</text>
       </register>
       <register name="-" type="4">
-        <text>8000</text>
+        <text>300</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
