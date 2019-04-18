@@ -206,12 +206,12 @@
         <mark key="^" line="79" column="25" />
         <mark key="." line="79" column="25" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555628640350">
+      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555629923760">
         <mark key="'" line="155" column="12" />
-        <mark key="[" line="180" column="17" />
-        <mark key="]" line="180" column="24" />
-        <mark key="." line="180" column="24" />
-        <mark key="^" line="180" column="24" />
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="171" column="19" />
+        <mark key="." line="171" column="19" />
+        <mark key="^" line="171" column="19" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd.py" timestamp="1554486962542">
         <mark key="[" line="118" column="28" />
@@ -457,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>8000</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>8000</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
