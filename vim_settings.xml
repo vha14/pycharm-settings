@@ -136,11 +136,11 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555711880229">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="47" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555713683281">
+        <mark key="[" line="89" column="83" />
+        <mark key="]" line="89" column="82" />
+        <mark key="." line="89" column="82" />
+        <mark key="^" line="89" column="82" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -173,7 +173,7 @@
       <file name="/pascal.ipynb" timestamp="1555536413685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1555289680392">
+      <file name="/fragment.py" timestamp="1555713111026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -220,7 +220,7 @@
         <mark key="^" line="79" column="25" />
         <mark key="." line="79" column="25" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555706494116">
+      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555713554095">
         <mark key="'" line="169" column="0" />
         <mark key="[" line="166" column="17" />
         <mark key="]" line="166" column="22" />
@@ -340,6 +340,7 @@
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/work/tf_models/research/object_detection/model_lib.py" timestamp="1555713109152" />
       <file name="$USER_HOME$/work/piv/modeling/.coveragerc" timestamp="1550020956883">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -474,47 +475,47 @@
       <jump line="60" column="51" filename="$USER_HOME$/work/pytorch-ssd/vision/datasets/open_images.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRfZm9ybWF0Lk1lc3NhZ2VUb1N0cmluZyhvdmVycmlkZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>annotat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZXh0X2Zvcm1hdC5NZXNzYWdlVG9TdHJpbmcob3ZlcnJpZGUpCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlLnRyYWluX2lucHV0X3JlYWRlci50Zl9yZWNvcmRfaW5wdXRfcmVhZGVyLmlucHV0X3BhdGhbOl0gPSBbdHJhaW5fdGZfcmVjb3JkX3BhdGhdCiAgICBvdmVycmlkZS5ldmFsX2lucHV0X3JlYWRlclswXS50Zl9yZWNvcmRfaW5wdXRfcmVhZGVyLmlucHV0X3BhdGhbOl0gPSBbZXZhbF90Zl9yZWNvcmRfcGF0aF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRfZm9ybWF0Lk1lc3NhZ2VUb1N0cmluZyhvdmVycmlkZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlLmV2YWxfaW5wdXRfcmVhZGVyWzBdLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRleHRfZm9ybWF0Lk1lc3NhZ2VUb1N0cmluZyhvdmVycmlkZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlLnRyYWluX2lucHV0X3JlYWRlci50Zl9yZWNvcmRfaW5wdXRfcmVhZGVyLmlucHV0X3BhdGhbOl0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlLmV2YWxfaW5wdXRfcmVhZGVyWzBdLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XQo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlLnRyYWluX2lucHV0X3JlYWRlci50Zl9yZWNvcmRfaW5wdXRfcmVhZGVyLmlucHV0X3BhdGhbOl0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">VG8gdHJhaW4gd2l0aCB0ZiBvYmplY3QgZGV0ZWN0aW9uIEFQSSwgcnVuIHRoZSBmb2xsb3dpbmcgaW4gLi9tb2RlbGluZzoKClBZVEhPTlBBVEg9c3JjOi9ob21lL3Z1L3dvcmsvdGZfbW9kZWxzL3Jlc2VhcmNoOi9ob21lL3Z1L3dvcmsvdGZfbW9kZWxzL3Jlc2VhcmNoL3NsaW0gXAogICAgcHl0aG9uIH4vd29yay90Zl9tb2RlbHMvcmVzZWFyY2gvb2JqZWN0X2RldGVjdGlvbi9tb2RlbF9tYWluLnB5IFwKICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3RmX3Jlc25ldDUwX2Zwbl8yNTZ4MjU2LmNvbmZpZyBcCiAgICAtLW1vZGVsX2Rpcj0uL2NoZWNrcG9pbnRzIFwKICAgIC0tbnVtX3RyYWluX3N0ZXBzPTUwMDAwIFwKICAgIC0tbnVtX2V2YWxfc3RlcHM9MTAwMCBcCiAgICAtLWxvZ3Rvc3RkZXJyICY=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBpcGVsaW5lX2NvbmZpZ19wYXRoID0gIi4vY29uZmlnL3RmX3Jlc25ldDUwX2Zwbl8yNTZ4MjU2LmNvbmZpZyIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnByb3Rvcy5waXBlbGluZV9wYjIgaW1wb3J0IFRyYWluRXZhbFBpcGVsaW5lQ29uZmlnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ZnJvbSBvYmplY3RfZGV0ZWN0aW9uLnByb3Rvcy5waXBlbGluZV9wYjIgaW1wb3J0IFRyYWluRXZhbFBpcGVsaW5lQ29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
