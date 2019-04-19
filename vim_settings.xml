@@ -12,11 +12,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555631160822">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="65" />
-        <mark key="^" line="21" column="62" />
-        <mark key="." line="21" column="67" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555632711263">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1555626797262">
         <mark key="[" line="0" column="0" />
@@ -134,13 +134,6 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555294375846">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="133" column="19" />
-        <mark key="]" line="133" column="20" />
-        <mark key="^" line="135" column="21" />
-        <mark key="." line="133" column="20" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNetFocalLoss.py" timestamp="1555301654538">
         <mark key="[" line="47" column="30" />
         <mark key="]" line="47" column="32" />
@@ -206,12 +199,11 @@
         <mark key="^" line="79" column="25" />
         <mark key="." line="79" column="25" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555630075674">
-        <mark key="'" line="155" column="12" />
-        <mark key="[" line="171" column="16" />
-        <mark key="]" line="171" column="19" />
-        <mark key="." line="171" column="19" />
-        <mark key="^" line="171" column="19" />
+      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555631447558">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="170" column="19" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/paper_ssd.py" timestamp="1554486962542">
         <mark key="[" line="118" column="28" />
@@ -456,11 +448,11 @@
       <jump line="155" column="12" filename="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>300</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>300</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
@@ -469,13 +461,13 @@
         <text encoding="base64">ICBsYWJlbF9tYXBfcGF0aDogIi9waXZfbGFiZWxzLnBidHh0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsYWJlbF9tYXBfcGF0aDogIi9ob21lL3VidW50dS9waXYvbW9kZWxpbmcvdGYvc3NkL2xhYmVscy5wYnR4dCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlucHV0X3BhdGg6ICIvaG9tZS91YnVudHUvcGl2L21vZGVsaW5nL3RmL3NzZC9yZXNuZXQ1MGZwbi9iM18yNTZfZXZhbC5yZWNvcmQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3hlcywgY2xhc3NfbmFtZXMgPSBiYm94Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
@@ -484,16 +476,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5lX3R1bmVfY2hlY2twb2ludDogImNoZWNrcG9pbnRzL3Jlc25ldDUwZnBuLmNrcHQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYWJlbF9tYXBfcGF0aDogIi9ob21lL3VidW50dS9waXYvbW9kZWxpbmcvdGYvc3NkL2xhYmVscy5wYnR4dCIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiB0ZnJlY29yZF9mbih2YWxpZD1GYWxzZSk6CiAgICAgICAgdHJhaW5fb3JfdmFsID0gJ3ZhbGlkJyBpZiB2YWxpZCBlbHNlICd0cmFpbicKICAgICAgICB3LCBoID0gcmVzaXplX3RvCiAgICAgICAgZm4gPSBmIntkYXRhc2V0fV97dHJhaW5fb3JfdmFsfV92YWxfcGN0X3t2YWxfcGN0fV9zZWVkX3tzZWVkfV9zaXplX3t3fXh7aH0udGZyZWNvcmQiCiAgICAgICAgcmV0dXJuIHN0cihURlJFQ09SRF9ESVIvZm4pCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlucHV0X3BhdGg6ICIvaG9tZS91YnVudHUvcGl2L21vZGVsaW5nL3RmL3NzZC9yZXNuZXQ1MGZwbi9iM18yNTZfZXZhbC5yZWNvcmQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3hlcywgY2xhc3NfbmFtZXMgPSBiYm94Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
