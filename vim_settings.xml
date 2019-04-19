@@ -48,11 +48,11 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/work/tf_models/research/object_detection/model_main.py" timestamp="1555645918625">
-        <mark key="[" line="75" column="74" />
-        <mark key="]" line="75" column="74" />
-        <mark key="^" line="75" column="79" />
-        <mark key="." line="75" column="74" />
+      <file name="$USER_HOME$/work/tf_models/research/object_detection/model_main.py" timestamp="1555646800485">
+        <mark key="[" line="79" column="68" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1555386798124">
         <mark key="[" line="45" column="38" />
@@ -368,11 +368,11 @@
       <jump line="408" column="33" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGlwZWxpbmVfY29uZmlnLnRyYWluX2lucHV0X3JlYWRlci50Zl9yZWNvcmRfaW5wdXRfcmVhZGVyLmlucHV0X3BhdGgK</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>label_map_path</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
