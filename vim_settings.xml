@@ -114,11 +114,8 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555731796369">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555738314296">
+        <mark key="'" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -175,10 +172,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555731449624">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/config/tf_resnet50_fpn_256x256.config" timestamp="1555738097604">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/ssd_head.py" timestamp="1554092539696">
         <mark key="[" line="86" column="0" />
@@ -278,8 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="11" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="74" column="25" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
@@ -378,49 +373,51 @@
       <jump line="19" column="36" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/utils/anchors.py" />
       <jump line="409" column="40" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" />
       <jump line="408" column="33" filename="$USER_HOME$/work/keras-retinanet/keras_retinanet/bin/train.py" />
+      <jump line="69" column="68" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.__class__</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;config/piv_labels.pbtxt&quot;</text>
+        <text>tf_record_input_reader.input_path[:] = [train_tf_record_path]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0X2Zvcm1hdC5NZXJnZShwcm90b19zdHIsIGRlZmF1bHRfY29uZmlnKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90b19zdHIgPSBmLnJlYWQoKQo=</text>
+        <text encoding="base64">ICBsYWJlbF9tYXBfcGF0aDogImNvbmZpZy9waXZfbGFiZWxzLnBidHh0Igo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuZ2ZpbGUuR0ZpbGUoUElQRUxJTkVfQ09ORklHX1BBVEgsICJyIikgYXMgZjoK</text>
+        <text encoding="base64">dHJhaW5faW5wdXRfcmVhZGVyIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfY29uZmlnID0gcGlwZWxpbmVfcGIyLlRyYWluRXZhbFBpcGVsaW5lQ29uZmlnKCkK</text>
+        <text encoding="base64">UElQRUxJTkVfQ09ORklHX1BBVEggPSAiLi9jb25maWcvdGZfcmVzbmV0NTBfZnBuXzI1NngyNTYuY29uZmlnIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyAgICAgbGFiZWxfbWFwX3BhdGg6ICJjb25maWcvcGl2X2xhYmVscy5wYnR4dCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2YWxfaW5wdXRfcmVhZGVyLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XSA9IFtldmFsX3RmX3JlY29yZF9wYXRoXQo=</text>
+        <text encoding="base64">IyB0cmFpbl9pbnB1dF9yZWFkZXIgewo=</text>
       </register>
     </registers>
     <search>
