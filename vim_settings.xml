@@ -136,11 +136,11 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555717313508">
-        <mark key="[" line="71" column="56" />
-        <mark key="]" line="71" column="55" />
-        <mark key="." line="71" column="55" />
-        <mark key="^" line="71" column="55" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555718526014">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="71" column="29" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -467,11 +467,11 @@
       <jump line="60" column="51" filename="$USER_HOME$/work/pytorch-ssd/vision/datasets/open_images.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>CopyFrom</text>
       </register>
       <register name="/" type="4">
         <text>annotat</text>
@@ -480,34 +480,34 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlID0gcGlwZWxpbmVfcGIyLlRyYWluRXZhbFBpcGVsaW5lQ29uZmlnKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV2YWxfaW5wdXRfcmVhZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGV2YWxfaW5wdXRfcmVhZGVyID0gZGVmYXVsdF9jb25maWcuZXZhbF9pbnB1dF9yZWFkZXJbMF0KICAgIGV2YWxfaW5wdXRfcmVhZGVyLkNsZWFyKCkKICAgIGV2YWxfaW5wdXRfcmVhZGVyLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XSA9IFtldmFsX3RmX3JlY29yZF9wYXRoXQ==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlLmV2YWxfaW5wdXRfcmVhZGVyLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XSA9IFtldmFsX3RmX3JlY29yZF9wYXRoXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV2YWxfaW5wdXRfcmVhZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbCBldmFsX2lucHV0X3JlYWRlci5zaHVmZmxlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGV2YWxfaW5wdXRfcmVhZGVyID0gZGVmYXVsdF9jb25maWcuZXZhbF9pbnB1dF9yZWFkZXJbMF0KICAgIGV2YWxfaW5wdXRfcmVhZGVyLkNsZWFyKCkKICAgIGV2YWxfaW5wdXRfcmVhZGVyLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XSA9IFtldmFsX3RmX3JlY29yZF9wYXRoXQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlLmV2YWxfaW5wdXRfcmVhZGVyLnRmX3JlY29yZF9pbnB1dF9yZWFkZXIuaW5wdXRfcGF0aFs6XSA9IFtldmFsX3RmX3JlY29yZF9wYXRoXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
