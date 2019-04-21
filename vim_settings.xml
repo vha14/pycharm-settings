@@ -12,7 +12,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555643046584">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1555814792027">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
@@ -107,12 +107,12 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555814400075">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555816143613">
         <mark key="'" line="7" column="10" />
-        <mark key="[" line="85" column="7" />
-        <mark key="]" line="85" column="7" />
-        <mark key="." line="85" column="7" />
-        <mark key="^" line="12" column="21" />
+        <mark key="[" line="94" column="20" />
+        <mark key="]" line="94" column="20" />
+        <mark key="^" line="94" column="27" />
+        <mark key="." line="94" column="20" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -121,6 +121,7 @@
         <mark key="^" line="64" column="53" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/experiment.py" timestamp="1555780752684" />
+      <file name="/train_tfmodel.py" timestamp="1555814978953" />
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555814013351">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="12" />
@@ -367,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flags</text>
+        <text>, sep='.'</text>
       </register>
       <register name="-" type="4">
-        <text>flags</text>
+        <text>, sep='.'</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
@@ -379,34 +380,34 @@
         <text encoding="base64">aW1wb3J0IGNvbWV0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGssIHYgaW4gY29uZi5pdGVtcygpOiBwcmludChrKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
+        <text encoding="base64">Y29uZiA9IGZsYXR0ZW4oY29uZiwgc2VwPScuJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uZiA9IGZsYXR0ZW4oY29uZiwgc2VwPScuJykK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsYWJlbF9tYXBfcGF0aDogImNvbmZpZy9waXZfbGFiZWxzLnBidHh0Igo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dHJhaW5faW5wdXRfcmVhZGVyIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">UElQRUxJTkVfQ09ORklHX1BBVEggPSAiLi9jb25maWcvdGZfcmVzbmV0NTBfZnBuXzI1NngyNTYuY29uZmlnIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB9Cg==</text>
+        <text encoding="base64">Y29uZiA9IE1lc3NhZ2VUb0RpY3QoZGVmYXVsdF9jb25maWcpWyd0cmFpbkNvbmZpZyddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgbGFiZWxfbWFwX3BhdGg6ICJjb25maWcvcGl2X2xhYmVscy5wYnR4dCIK</text>
+        <text encoding="base64">Y29uZi5rZXlzKCkK</text>
       </register>
     </registers>
     <search>
