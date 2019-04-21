@@ -110,12 +110,12 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555863525294">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555871439439">
         <mark key="'" line="43" column="21" />
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="45" column="68" />
-        <mark key="." line="16" column="40" />
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -371,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>model_dir</text>
