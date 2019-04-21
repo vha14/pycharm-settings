@@ -107,12 +107,12 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555816143613">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555816945878">
         <mark key="'" line="7" column="10" />
-        <mark key="[" line="94" column="20" />
-        <mark key="]" line="94" column="20" />
-        <mark key="^" line="94" column="27" />
-        <mark key="." line="94" column="20" />
+        <mark key="[" line="121" column="34" />
+        <mark key="]" line="121" column="34" />
+        <mark key="." line="121" column="34" />
+        <mark key="^" line="83" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -121,10 +121,10 @@
         <mark key="^" line="64" column="53" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/experiment.py" timestamp="1555780752684" />
-      <file name="/train_tfmodel.py" timestamp="1555814978953" />
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555814013351">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="12" />
+      <file name="/train_tfmodel.py" timestamp="1555816385215" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555816212867">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="54" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNetFocalLoss.py" timestamp="1555301654538">
         <mark key="[" line="47" column="30" />
@@ -368,46 +368,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, sep='.'</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>, sep='.'</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>min-side</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbWV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlcmltZW50LmxvZ19wYXJhbWV0ZXJzKCoqcHJvdG8yZmxhdGRpY3QocGlwZWxpbmVfY29uZmlnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9yIGssIHYgaW4gY29uZi5pdGVtcygpOiBwcmludChrKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uZiA9IGZsYXR0ZW4oY29uZiwgc2VwPScuJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uZiA9IGZsYXR0ZW4oY29uZiwgc2VwPScuJykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIHByb3RvMmZsYXRkaWN0KG1lc3NhZ2UpOgogICAgaW1wb3J0IGNvbGxlY3Rpb25zCiAgICBmcm9tIGdvb2dsZS5wcm90b2J1Zi5qc29uX2Zvcm1hdCBpbXBvcnQgTWVzc2FnZVRvRGljdAoKICAgIGRlZiBmbGF0dGVuKGQsIHBhcmVudF9rZXk9JycsIHNlcD0nLicpOgogICAgICAgIGl0ZW1zID0gW10KICAgICAgICBmb3IgaywgdiBpbiBkLml0ZW1zKCk6CiAgICAgICAgICAgIG5ld19rZXkgPSBwYXJlbnRfa2V5ICsgc2VwICsgayBpZiBwYXJlbnRfa2V5IGVsc2UgawogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGNvbGxlY3Rpb25zLk11dGFibGVNYXBwaW5nKToKICAgICAgICAgICAgICAgIGl0ZW1zLmV4dGVuZChmbGF0dGVuKHYsIG5ld19rZXksIHNlcD1zZXApLml0ZW1zKCkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpdGVtcy5hcHBlbmQoKG5ld19rZXksIHYpKQogICAgICAgIHJldHVybiBkaWN0KGl0ZW1zKQoKICAgIHJldHVybiBmbGF0dGVuKE1lc3NhZ2VUb0RpY3QobWVzc2FnZSkpCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlcmltZW50LmxvZ19wYXJhbWV0ZXJzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGlmIEZMQUdTLnVzZV9jb21ldDoKICAgICAgICBjb21ldC5jaGVja19jb21ldCgpCiAgICAgICAgZXhwZXJpbWVudCA9IEV4cGVyaW1lbnQocHJvamVjdF9uYW1lPWNvbWV0Lk9CSkVDVF9ERVRFQ1RJT05fUFJPSkVDVCwgd29ya3NwYWNlPWNvbWV0LlBJVl9XT1JLU1BBQ0UpCiAgICAgICAgZXhwZXJpbWVudC5sb2dfcGFyYW1ldGVycygpCiAgICAgICAgCiAgICAgICAgcGlwZWxpbmVfY29uZmlnID0gcGlwZWxpbmVfcGIyLlRyYWluRXZhbFBpcGVsaW5lQ29uZmlnKCkKICAgICAgICB3aXRoIHRmLmdmaWxlLkdGaWxlKEZMQUdTLnBpcGVsaW5lX2NvbmZpZ19wYXRoLCAiciIpIGFzIGY6CiAgICAgICAgICAgIHByb3RvX3N0ciA9IGYucmVhZCgpCiAgICAgICAgICAgIHRleHRfZm9ybWF0Lk1lcmdlKHByb3RvX3N0ciwgcGlwZWxpbmVfY29uZmlnKQogICAgICAgIGV4cGVyaW1lbnQubG9nX3BhcmFtZXRlcnMoKipwcm90bzJmbGF0ZGljdChwaXBlbGluZV9jb25maWcpKQog</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZiA9IE1lc3NhZ2VUb0RpY3QoZGVmYXVsdF9jb25maWcpWyd0cmFpbkNvbmZpZyddCg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uZi5rZXlzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
