@@ -110,12 +110,12 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555871439439">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555872508145">
         <mark key="'" line="43" column="21" />
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="41" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -191,6 +191,12 @@
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/layers.py" timestamp="1555290894984">
         <mark key="[" line="114" column="96" />
         <mark key="]" line="114" column="133" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" timestamp="1555872471263">
+        <mark key="[" line="18" column="104" />
+        <mark key="]" line="18" column="117" />
+        <mark key="." line="18" column="117" />
+        <mark key="^" line="18" column="117" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/detect.py" timestamp="1549393581232">
         <mark key="[" line="299" column="15" />
@@ -371,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>model_dir</text>
