@@ -64,15 +64,17 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1555873721976">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+        <mark key="^" line="93" column="44" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1550639987407">
         <mark key="[" line="125" column="16" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/tf_models/research/object_detection/utils/config_util.py" timestamp="1555645181578">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/tf_detection_pipeline.config" timestamp="1555863058402">
         <mark key="'" line="99" column="30" />
@@ -95,11 +97,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1551553244252">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1555874398722">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_second_batch.py" timestamp="1549313667157">
         <mark key="[" line="48" column="15" />
@@ -110,7 +112,7 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555872508145">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555873252748">
         <mark key="'" line="43" column="21" />
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="41" />
@@ -150,6 +152,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements-deploy.txt" timestamp="1555874393858">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/tox.ini" timestamp="1550021443996">
         <mark key="[" line="6" column="97" />
         <mark key="]" line="6" column="97" />
@@ -188,10 +196,6 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/layers.py" timestamp="1555290894984">
-        <mark key="[" line="114" column="96" />
-        <mark key="]" line="114" column="133" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" timestamp="1555872471263">
         <mark key="[" line="18" column="104" />
         <mark key="]" line="18" column="117" />
@@ -206,6 +210,12 @@
       </file>
       <file name="/test_pascal_metrics" timestamp="1550975768019">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/snapshot.py" timestamp="1555873967225">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina/retina_detector.py" timestamp="1554092230211">
         <mark key="[" line="22" column="38" />
@@ -377,46 +387,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>model_dir</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">UFlUSE9OUEFUSD1zcmM6L2hvbWUvdnUvd29yay90Zl9tb2RlbHMvcmVzZWFyY2g6L2hvbWUvdnUvd29yay90Zl9tb2RlbHMvcmVzZWFyY2gvc2xpbSBcCiAgICBweXRob24gc3JjL3NjcmlwdHMvdHJhaW5fdGZtb2RlbC5weSBcCiAgICAtLXBpcGVsaW5lX2NvbmZpZ19wYXRoPWNvbmZpZy90Zl9kZXRlY3Rpb25fcGlwZWxpbmUuY29uZmlnIFwKICAgIC0tbW9kZWxfZGlyPS4vY2hlY2twb2ludHMgXAogICAgLS1udW1fdHJhaW5fc3RlcHM9NTAwIFwKICAgIC0tbnVtX2V2YWxfc3RlcHM9MTAwIFwKICAgIC0tdXNlX2NvbWV0IFwKICAgIC0tbG9ndG9zdGRlcnIgJg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">dGRxbT09NC4zMC4wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3RmX2RldGVjdGlvbl9waXBlbGluZS5jb25maWcgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tdXNlX2NvbWV0IFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tbnVtX2V2YWxfc3RlcHM9MTAwIFwK</text>
+        <text encoding="base64">ICAgICAgICBTQ1JJUFRfTkFNRSA9ICJ0cmFpbl90Zm1vZGVsLnB5Igo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0tbnVtX3RyYWluX3N0ZXBzPTUwMCBcCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBkYXRhc2V0OiBUaGUgbmFtZSBvZiB0aGUgbW9kZWwgKHNzZCBvciByZXRpbmEpLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0tbW9kZWxfZGlyPS4vY2hlY2twb2ludHMgXAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBtb2RlbDogVGhlIG5hbWUgb2YgdGhlIG1vZGVsIChzc2Qgb3IgcmV0aW5hKS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1kYXRhc2V0JywgaGVscD0nRGF0YSBTZXQ/IHZvYzA3IG9yIGJhdGNoMycsIHR5cGU9c3RyLCBkZWZhdWx0PSd2b2MwNycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1tb2RlbCcsIGhlbHA9J01vZGVsPyBwYXBlcl9zc2Qgb3Igc3NkIG9yIHJldGluYScsIHR5cGU9c3RyLCBkZWZhdWx0PSdzc2QnKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIHByb3RvMmZsYXRkaWN0KG1lc3NhZ2UpOgogICAgaW1wb3J0IGNvbGxlY3Rpb25zCiAgICBmcm9tIGdvb2dsZS5wcm90b2J1Zi5qc29uX2Zvcm1hdCBpbXBvcnQgTWVzc2FnZVRvRGljdAoKICAgIGRlZiBmbGF0dGVuKGQsIHBhcmVudF9rZXk9JycsIHNlcD0nLicpOgogICAgICAgIGl0ZW1zID0gW10KICAgICAgICBmb3IgaywgdiBpbiBkLml0ZW1zKCk6CiAgICAgICAgICAgIG5ld19rZXkgPSBwYXJlbnRfa2V5ICsgc2VwICsgayBpZiBwYXJlbnRfa2V5IGVsc2UgawogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGNvbGxlY3Rpb25zLk11dGFibGVNYXBwaW5nKToKICAgICAgICAgICAgICAgIGl0ZW1zLmV4dGVuZChmbGF0dGVuKHYsIG5ld19rZXksIHNlcD1zZXApLml0ZW1zKCkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpdGVtcy5hcHBlbmQoKG5ld19rZXksIHYpKQogICAgICAgIHJldHVybiBkaWN0KGl0ZW1zKQoKICAgIHJldHVybiBmbGF0dGVuKE1lc3NhZ2VUb0RpY3QobWVzc2FnZSkpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyUlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlcmltZW50LmxvZ19wYXJhbWV0ZXJzKCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IyUlCgpkZWYgdGVzdCgpOgogICAgdGVzdF9pbnN0YW5jZV90eXBlID0gJ3QzLm1pY3JvJwogICAgdGVzdF9pbnN0YW5jZV9pbWFnZSA9ICdhbWktMDg2OTJkMTcxZTNjZjAyZDYnCgogICAgaW5zdGFuY2UgPSBzZXR1cF9pbnN0YW5jZShpbnN0YW5jZV90eXBlPXRlc3RfaW5zdGFuY2VfdHlwZSwgYW1pPXRlc3RfaW5zdGFuY2VfaW1hZ2UsIGRpc2tfc2l6ZT0zMCkKICAgIGNvbnRyb2xsZXIgPSBDb250cm9sbGVyKCd0ZXN0X2pvYicsIGluc3RhbmNlKQo=</text>
       </register>
     </registers>
     <search>
