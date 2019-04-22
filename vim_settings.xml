@@ -112,7 +112,7 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555873252748">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1555905983082">
         <mark key="'" line="43" column="21" />
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="41" />
@@ -144,7 +144,7 @@
       <file name="/CocoTiny_Retina_Net.ipynb" timestamp="1555257138860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1555895180025">
+      <file name="/Python Console" timestamp="1555895245842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1555782548224">
@@ -241,6 +241,12 @@
         <mark key="]" line="46" column="11" />
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1555906519540">
+        <mark key="[" line="89" column="3" />
+        <mark key="]" line="95" column="55" />
+        <mark key="." line="95" column="55" />
+        <mark key="^" line="95" column="55" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/loss.py" timestamp="1554057873564">
         <mark key="[" line="45" column="97" />
@@ -386,60 +392,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">Vk9DMjAwNyA=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">Vk9DMjAwNyA=</text>
       </register>
       <register name="/" type="4">
-        <text>model_dir</text>
+        <text>SSD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGRxbT09NC4zMC4wCg==</text>
+        <text encoding="base64">SW4gdGhlIG1vZGVsaW5nIGRpcmVjdG9yeSwgcnVuOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW4gdGhlIFBZVEhPTlBBVEgsIHJlcGxhY2Ugd2l0aCB0aGUgcGF0aCB0byB0ZW5zb3JmbG93L21vZGVscyBvbiB5b3VyIG1hY2hpbmUuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTQ1JJUFRfTkFNRSA9ICJ0cmFpbl90Zm1vZGVsLnB5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkYXRhc2V0OiBUaGUgbmFtZSBvZiB0aGUgbW9kZWwgKHNzZCBvciByZXRpbmEpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBtb2RlbDogVGhlIG5hbWUgb2YgdGhlIG1vZGVsIChzc2Qgb3IgcmV0aW5hKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1kYXRhc2V0JywgaGVscD0nRGF0YSBTZXQ/IHZvYzA3IG9yIGJhdGNoMycsIHR5cGU9c3RyLCBkZWZhdWx0PSd2b2MwNycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1tb2RlbCcsIGhlbHA9J01vZGVsPyBwYXBlcl9zc2Qgb3Igc3NkIG9yIHJldGluYScsIHR5cGU9c3RyLCBkZWZhdWx0PSdzc2QnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">VG8gcnVuIGV4cGVyaW1lbnRzIG9uIEFXUywgZmlyc3Qgb2J0YWluIHRoZSBrZXkgcGFpciBgcGl2LWtleXBhaXIucGVtYCBmaWxlIGZyb20gVnUgYW5kCnB1dCBpdCBpbnRvIGB+Ly5waXYvYC4gU2V0IGl0cyBwZXJtaXNzaW9ucyB0byBgNjAwYCwgb3RoZXJ3aXNlIHRoZSBzY3JpcHQgd2lsbApub3QgYmUgYWJsZSB0byB1c2UgdGhlIGtleS4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyUlCgpkZWYgdGVzdCgpOgogICAgdGVzdF9pbnN0YW5jZV90eXBlID0gJ3QzLm1pY3JvJwogICAgdGVzdF9pbnN0YW5jZV9pbWFnZSA9ICdhbWktMDg2OTJkMTcxZTNjZjAyZDYnCgogICAgaW5zdGFuY2UgPSBzZXR1cF9pbnN0YW5jZShpbnN0YW5jZV90eXBlPXRlc3RfaW5zdGFuY2VfdHlwZSwgYW1pPXRlc3RfaW5zdGFuY2VfaW1hZ2UsIGRpc2tfc2l6ZT0zMCkKICAgIGNvbnRyb2xsZXIgPSBDb250cm9sbGVyKCd0ZXN0X2pvYicsIGluc3RhbmNlKQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">VGhpcyB3aWxsLCBpbiBhbiBBV1MgUDMuMnhsYXJnZSBtYWNoaW5lLCBzdGFydCB0aGUgdHJhaW5pbmcgd2l0aCB0aGUgY3VycmVudAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>model_dir</last-search>
+      <last-search>SSD</last-search>
       <last-offset />
-      <last-pattern>model_dir</last-pattern>
+      <last-pattern>SSD</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vis</entry>
-        <entry>link</entry>
-        <entry>loss</entry>
         <entry>drop_last</entry>
         <entry>gpu</entry>
         <entry>loc_t</entry>
@@ -457,6 +460,9 @@
         <entry>dir</entry>
         <entry>100</entry>
         <entry>model_dir</entry>
+        <entry>scal</entry>
+        <entry>ssd</entry>
+        <entry>SSD</entry>
       </history-search>
       <history-cmd />
       <history-expr />
