@@ -110,11 +110,14 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" timestamp="1556206551276">
+        <mark key="'" line="527" column="0" />
+      </file>
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556148301492">
-        <mark key="'" line="43" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556206037899">
+        <mark key="'" line="105" column="36" />
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
@@ -295,13 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="40" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="137" column="44" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="167" column="40" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="38" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/pascal.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/map.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="47" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="72" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="89" column="33" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
@@ -394,7 +390,14 @@
       <jump line="98" column="34" filename="$USER_HOME$/work/piv/modeling/config/tf_detection_pipeline.config" />
       <jump line="99" column="30" filename="$USER_HOME$/work/piv/modeling/config/tf_detection_pipeline.config" />
       <jump line="29" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="33" column="41" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="9" column="6" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="43" column="21" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="65" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="103" column="33" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="105" column="36" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="16" column="78" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
+      <jump line="527" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -404,7 +407,7 @@
         <text encoding="base64">Vk9DMjAwNyA=</text>
       </register>
       <register name="/" type="4">
-        <text>SSD</text>
+        <text>model_dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW4gdGhlIG1vZGVsaW5nIGRpcmVjdG9yeSwgcnVuOgo=</text>
@@ -441,9 +444,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SSD</last-search>
+      <last-search>model_dir</last-search>
       <last-offset />
-      <last-pattern>SSD</last-pattern>
+      <last-pattern>model_dir</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -465,10 +468,10 @@
         <entry>min-side</entry>
         <entry>dir</entry>
         <entry>100</entry>
-        <entry>model_dir</entry>
         <entry>scal</entry>
         <entry>ssd</entry>
         <entry>SSD</entry>
+        <entry>model_dir</entry>
       </history-search>
       <history-cmd />
       <history-expr />
