@@ -65,11 +65,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1556210803312">
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="31" />
-        <mark key="." line="93" column="31" />
-        <mark key="^" line="93" column="44" />
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1556212129005">
+        <mark key="[" line="84" column="53" />
+        <mark key="]" line="84" column="86" />
+        <mark key="^" line="84" column="86" />
+        <mark key="." line="84" column="86" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1550639987407">
         <mark key="[" line="125" column="16" />
@@ -116,8 +116,8 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556210736710">
-        <mark key="[" line="20" column="42" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556211950823">
+        <mark key="[" line="16" column="39" />
         <mark key="]" line="20" column="84" />
         <mark key="." line="20" column="84" />
         <mark key="^" line="20" column="84" />
@@ -200,9 +200,10 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" timestamp="1555872471263">
-        <mark key="[" line="18" column="104" />
-        <mark key="]" line="18" column="117" />
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" timestamp="1556212078381">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="33" />
         <mark key="." line="18" column="117" />
         <mark key="^" line="18" column="117" />
       </file>
@@ -298,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="72" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="89" column="33" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="101" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
@@ -398,37 +398,38 @@
       <jump line="105" column="36" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="16" column="78" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
       <jump line="527" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>run_id</text>
+        <text>AWS_REGION</text>
       </register>
       <register name="-" type="4">
-        <text>run_id</text>
+        <text>AWS_REGION</text>
       </register>
       <register name="/" type="4">
-        <text>model_dir</text>
+        <text>REGION</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SW4gdGhlIG1vZGVsaW5nIGRpcmVjdG9yeSwgcnVuOgo=</text>
+        <text encoding="base64">ZnJvbSBkZXBsb3kgaW1wb3J0IGF3c19hcGkgYXMgYXBpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSB0Zi5lc3RpbWF0b3IuUnVuQ29uZmlkZAo=</text>
+        <text encoding="base64">ZnJvbSBkZXBsb3kgaW1wb3J0IGF3c19hcGkgYXMgYXBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IHRmLmVzdGltYXRvci5SdW5Db25maWcobW9kZWxfZGlyPUZMQUdTLm1vZGVsX2RpcikK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSB0Zi5lc3RpbWF0b3IuUnVuQ29uZmlkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEZSRUNPUkRfRElSLm1rZGlyKGV4aXN0X29rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IHRmLmVzdGltYXRvci5SdW5Db25maWcobW9kZWxfZGlyPUZMQUdTLm1vZGVsX2RpcikK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SW4gdGhlIFBZVEhPTlBBVEgsIHJlcGxhY2Ugd2l0aCB0aGUgcGF0aCB0byB0ZW5zb3JmbG93L21vZGVscyBvbiB5b3VyIG1hY2hpbmUuCg==</text>
+        <text encoding="base64">VEZSRUNPUkRfRElSLm1rZGlyKGV4aXN0X29rPVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW4gdGhlIFBZVEhPTlBBVEgsIHJlcGxhY2Ugd2l0aCB0aGUgcGF0aCB0byB0ZW5zb3JmbG93L21vZGVscyBvbiB5b3VyIG1hY2hpbmUuCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -444,15 +445,14 @@
       </register>
     </registers>
     <search>
-      <last-search>model_dir</last-search>
+      <last-search>REGION</last-search>
       <last-offset />
-      <last-pattern>model_dir</last-pattern>
+      <last-pattern>REGION</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drop_last</entry>
         <entry>gpu</entry>
         <entry>loc_t</entry>
         <entry>match</entry>
@@ -472,6 +472,7 @@
         <entry>ssd</entry>
         <entry>SSD</entry>
         <entry>model_dir</entry>
+        <entry>REGION</entry>
       </history-search>
       <history-cmd />
       <history-expr />
