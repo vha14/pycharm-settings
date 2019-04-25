@@ -246,11 +246,12 @@
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1555906519540">
-        <mark key="[" line="89" column="3" />
-        <mark key="]" line="95" column="55" />
-        <mark key="." line="95" column="55" />
-        <mark key="^" line="95" column="55" />
+      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1556214120196">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="105" column="2" />
+        <mark key="]" line="105" column="2" />
+        <mark key="." line="105" column="2" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/loss.py" timestamp="1554057873564">
         <mark key="[" line="45" column="97" />
@@ -299,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
-      <jump line="89" column="33" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="101" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
@@ -399,61 +398,62 @@
       <jump line="16" column="78" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
       <jump line="527" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/work/piv/modeling/README.md" />
+      <jump line="0" column="9" filename="$USER_HOME$/work/piv/modeling/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AWS_REGION</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>AWS_REGION</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>REGION</text>
+        <text>guide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkZXBsb3kgaW1wb3J0IGF3c19hcGkgYXMgYXBpCg==</text>
+        <text encoding="base64">VGhlIHByb2dyZXNzIGNhbiB0aGVuIGJlIGZvbGxvd2VkIGF0IFt0aGlzIFRlbnNvcmJvYXJkIHNlcnZlcl0oaHR0cDovLzM1LjE2MC4xNjEuNTI6NjAwNi8pLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkZXBsb3kgaW1wb3J0IGF3c19hcGkgYXMgYXBpCg==</text>
+        <text encoding="base64">VGhlIHByb2dyZXNzIGNhbiB0aGVuIGJlIGZvbGxvd2VkIGF0IGh0dHA6Ly8zNS4xNjAuMTYxLjUyOjYwMDYvLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSB0Zi5lc3RpbWF0b3IuUnVuQ29uZmlkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IHRmLmVzdGltYXRvci5SdW5Db25maWcobW9kZWxfZGlyPUZMQUdTLm1vZGVsX2RpcikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VEZSRUNPUkRfRElSLm1rZGlyKGV4aXN0X29rPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SW4gdGhlIFBZVEhPTlBBVEgsIHJlcGxhY2Ugd2l0aCB0aGUgcGF0aCB0byB0ZW5zb3JmbG93L21vZGVscyBvbiB5b3VyIG1hY2hpbmUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkZXBsb3kgaW1wb3J0IGF3c19hcGkgYXMgYXBpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSB0Zi5lc3RpbWF0b3IuUnVuQ29uZmlkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IHRmLmVzdGltYXRvci5SdW5Db25maWcobW9kZWxfZGlyPUZMQUdTLm1vZGVsX2RpcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEZSRUNPUkRfRElSLm1rZGlyKGV4aXN0X29rPVRydWUpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>REGION</last-search>
+      <last-search>guide</last-search>
       <last-offset />
-      <last-pattern>REGION</last-pattern>
+      <last-pattern>guide</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gpu</entry>
         <entry>loc_t</entry>
         <entry>match</entry>
         <entry>inters</entry>
@@ -473,6 +473,7 @@
         <entry>SSD</entry>
         <entry>model_dir</entry>
         <entry>REGION</entry>
+        <entry>guide</entry>
       </history-search>
       <history-cmd />
       <history-expr />
