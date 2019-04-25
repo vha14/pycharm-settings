@@ -12,11 +12,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1556232846888">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="42" column="12" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1556234100531">
+        <mark key="[" line="80" column="78" />
+        <mark key="]" line="77" column="99" />
+        <mark key="^" line="77" column="99" />
+        <mark key="." line="77" column="99" />
       </file>
       <file name="/a.dummy" timestamp="1554425476081">
         <mark key="[" line="0" column="0" />
@@ -394,11 +394,11 @@
       <jump line="0" column="9" filename="$USER_HOME$/work/piv/modeling/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text>guide</text>
@@ -410,31 +410,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gcmFuZG9tIGltcG9ydCBzaHVmZmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGlkZW50aXR5X2ZuKHgpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3VtKHAxX2QudmFsdWVzKCkpL2xlbihwMV9kKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWluKHAxX2QudmFsdWVzKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHAxX2QpKQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
     </registers>
     <search>
