@@ -258,10 +258,11 @@
         <mark key="." line="45" column="17" />
         <mark key="^" line="45" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1555907287683">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1556209473621">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="/train" timestamp="1555193618374">
         <mark key="[" line="0" column="0" />
@@ -400,11 +401,11 @@
       <jump line="527" column="0" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VEZSRUNPUkRfRElSLm1rZGlyKGV4aXN0X29rPVRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Vk9DMjAwNyA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>model_dir</text>
