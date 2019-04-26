@@ -12,10 +12,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1556235698397">
-        <mark key="[" line="47" column="40" />
-        <mark key="]" line="47" column="40" />
-        <mark key="." line="47" column="40" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1556238137918">
+        <mark key="[" line="63" column="88" />
+        <mark key="]" line="63" column="101" />
+        <mark key="." line="63" column="88" />
         <mark key="^" line="43" column="68" />
       </file>
       <file name="/a.dummy" timestamp="1554425476081">
@@ -111,7 +111,7 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556211950823">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556238295180">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="20" column="84" />
         <mark key="." line="20" column="84" />
@@ -229,11 +229,11 @@
       <file name="/Dummy.txt" timestamp="1555781535583">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1556236657565">
-        <mark key="[" line="68" column="33" />
-        <mark key="]" line="68" column="33" />
-        <mark key="." line="68" column="33" />
-        <mark key="^" line="68" column="33" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1556238057403">
+        <mark key="[" line="91" column="63" />
+        <mark key="]" line="91" column="71" />
+        <mark key="^" line="91" column="71" />
+        <mark key="." line="91" column="71" />
       </file>
       <file name="/code.py" timestamp="1549843022107">
         <mark key="[" line="0" column="0" />
@@ -406,47 +406,47 @@
       <jump line="0" column="9" filename="$USER_HOME$/work/piv/modeling/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdyb3VwcyA9IHJhbmRvbS5zaHVmZmxlXAo=</text>
+      <register name="&quot;" type="4">
+        <text>, valid=False</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, valid=False</text>
       </register>
       <register name="/" type="4">
         <text>guide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdyb3VwX2ZuID0gcGFydGlhbChncm91cGJ5LCBieSkK</text>
+        <text encoding="base64">ICAgIHBpdjFiMDAyMDhfYzAwMDA4OThfZjQ0OQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyb3VwcyA9IHJhbmRvbS5zaHVmZmxlXAo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHNodWZmbGUK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBieTogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiAK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGZyb20gcmFuZG9tIGltcG9ydCBzaHVmZmxlCiAgICBncm91cF9mbiA9IHBhcnRpYWwoZ3JvdXBieSwgYnkpCiAgICBncm91cHMgPSBzaHVmZmxlKGxpc3Qoc2V0KFtncm91cF9mbihpbWFnZSkgZm9yIGltYWdlIGluIGltZzJiYm94LmtleXMoKV0pKSkKICAgIHRyYWluX2xlbiA9IGxlbihncm91cHMpICogKDEgLSB2YWxfcGN0KQogICAgdHJhaW5fZ3JvdXAgPSBncm91cHNbOnRyYWluX2xlbl0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSB2YWxfcGN0OiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBpbWcyYmJveDogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGdyb3UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb3VwcyA9IHJhbmRvbS5zaHVmZmxlXAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGdyb3VwYnkoYnksIGltZ19uYW1lKToKICAgIG5hbWUsIGV4dGVuc2lvbiA9IGltZ19uYW1lLnNwbGl0KCcuJykKICAgIHAxLCBwMiwgcDMgPSBuYW1lLnNwbGl0KCdfJykKICAgIGlmIGJ5ID09ICdhbGwnOgogICAgICAgIHJldHVybiBpbWdfbmFtZQogICAgZWxpZiBieSA9PSAnZmlyc3QnOgogICAgICAgIHJldHVybiBwMQogICAgZWxpZiBieSA9PSAnZmlyc3Rfc2Vjb25kJzoKICAgICAgICByZXR1cm4gZiJ7cDF9X3twMn0iCiAgICBlbHNlOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiYnkgcGFyYW1ldGVyIGhhcyB0byBiZSBvbmUgb2Y6ICdhbGwnLCAnZmlyc3QnLCBhbmQgJ2ZpcnN0X3NlY29uZCciKQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHNodWZmbGUK</text>
       </register>
     </registers>
     <search>
