@@ -18,7 +18,7 @@
         <mark key="." line="62" column="88" />
         <mark key="^" line="42" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1556242582939">
+      <file name="/a.dummy" timestamp="1556252742923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/callbacks.py" timestamp="1555257681886">
@@ -65,11 +65,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1556242576866">
-        <mark key="[" line="90" column="32" />
-        <mark key="]" line="90" column="54" />
-        <mark key="." line="90" column="54" />
-        <mark key="^" line="90" column="54" />
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1556253168148">
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="82" column="39" />
+        <mark key="]" line="82" column="41" />
+        <mark key="^" line="82" column="41" />
+        <mark key="." line="82" column="41" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1550639987407">
         <mark key="[" line="125" column="16" />
@@ -116,11 +117,11 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556238295180">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="20" column="84" />
-        <mark key="." line="20" column="84" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556252821274">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="20" column="84" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1554450054629">
         <mark key="[" line="56" column="0" />
@@ -309,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
       <jump line="159" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
@@ -409,61 +409,61 @@
       <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/deploy/aws_create.py" />
       <jump line="56" column="4" filename="$USER_HOME$/work/piv/modeling/README.md" />
       <jump line="0" column="9" filename="$USER_HOME$/work/piv/modeling/README.md" />
+      <jump line="39" column="29" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S3_CONNECT_TIMEOUT_MSEC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>S3_CONNECT_TIMEOUT_MSEC</text>
+        <text>controller</text>
       </register>
       <register name="/" type="4">
-        <text>guide</text>
+        <text>SRC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLnJ1bihmImV4cG9ydCBTM19DT05ORUNUX1RJTUVPVVRfTVNFQz17UzNfQ09OTkVDVF9USU1FT1VUX01TRUN9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBieTogCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiAK</text>
+        <text encoding="base64">IyBmcm9tIGRlcGxveS5hd3MgaW1wb3J0IENvbnRyb2xsZXIsIFNTSF9VU0VSTkFNRQo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2YWxfcGN0OiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpbWcyYmJveDogCg==</text>
+        <text encoding="base64">IyBmcm9tIGRlcGxveS5zbmFwc2hvdCBpbXBvcnQgUkVRVUlSRU1FTlRTX0RFUExPWSwgU1JDLCBzbmFwc2hvdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyb3UK</text>
+        <text encoding="base64">ZnJvbSBkZXBsb3kuYXdzX2NyZWF0ZSBpbXBvcnQgc2V0dXBfaW5zdGFuY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLnJ1bihmImV4cG9ydCBTM19DT05ORUNUX1RJTUVPVVRfTVNFQz17UzNfVElNRU9VVF9NU0VDfSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyb3VwcyA9IHJhbmRvbS5zaHVmZmxlXAo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHNodWZmbGUK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBieTogCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>guide</last-search>
+      <last-search>SRC</last-search>
       <last-offset />
-      <last-pattern>guide</last-pattern>
+      <last-pattern>SRC</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loc_t</entry>
         <entry>match</entry>
         <entry>inters</entry>
         <entry>self.ssd</entry>
@@ -483,6 +483,7 @@
         <entry>model_dir</entry>
         <entry>REGION</entry>
         <entry>guide</entry>
+        <entry>SRC</entry>
       </history-search>
       <history-cmd />
       <history-expr />
