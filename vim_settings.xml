@@ -117,7 +117,8 @@
       <file name="/test_utils" timestamp="1551389014895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556252821274">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1556479979028">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="20" column="84" />
@@ -310,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
       <jump line="159" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" />
       <jump line="61" column="12" filename="$USER_HOME$/work/ssd.pytorch/data/voc0712.py" />
@@ -410,6 +410,7 @@
       <jump line="56" column="4" filename="$USER_HOME$/work/piv/modeling/README.md" />
       <jump line="0" column="9" filename="$USER_HOME$/work/piv/modeling/README.md" />
       <jump line="39" column="29" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
