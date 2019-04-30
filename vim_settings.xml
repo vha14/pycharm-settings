@@ -130,9 +130,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="64" column="53" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1555816212867">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="54" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1556595846813">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="126" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/experimental/RetinaNetFocalLoss.py" timestamp="1555301654538">
         <mark key="[" line="47" column="30" />
@@ -233,7 +235,7 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555781535583">
+      <file name="/Dummy.txt" timestamp="1556595990490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1556238057403">
@@ -414,46 +416,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLmxvYWQoImJhdGNoMy03MG1BUCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>batch3-70mAP</text>
       </register>
       <register name="/" type="4">
         <text>SRC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLnJ1bihmImV4cG9ydCBTM19DT05ORUNUX1RJTUVPVVRfTVNFQz17UzNfQ09OTkVDVF9USU1FT1VUX01TRUN9IikK</text>
+        <text encoding="base64">ICAgIGxlYXJuLmxvYWQoImJhdGNoMy03MG1BUCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlYXJuLmxvYWQoImJhdGNoMy03MG1BUCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmcm9tIGRlcGxveS5hd3MgaW1wb3J0IENvbnRyb2xsZXIsIFNTSF9VU0VSTkFNRQo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmcm9tIGRlcGxveS5hd3MgaW1wb3J0IENvbnRyb2xsZXIsIFNTSF9VU0VSTkFNRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmcm9tIGRlcGxveS5zbmFwc2hvdCBpbXBvcnQgUkVRVUlSRU1FTlRTX0RFUExPWSwgU1JDLCBzbmFwc2hvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkZXBsb3kuYXdzX2NyZWF0ZSBpbXBvcnQgc2V0dXBfaW5zdGFuY2UK</text>
+        <text encoding="base64">IyBmcm9tIGRlcGxveS5zbmFwc2hvdCBpbXBvcnQgUkVRVUlSRU1FTlRTX0RFUExPWSwgU1JDLCBzbmFwc2hvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLnJ1bihmImV4cG9ydCBTM19DT05ORUNUX1RJTUVPVVRfTVNFQz17UzNfVElNRU9VVF9NU0VDfSIpCg==</text>
+        <text encoding="base64">ZnJvbSBkZXBsb3kuYXdzX2NyZWF0ZSBpbXBvcnQgc2V0dXBfaW5zdGFuY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLnJ1bihmImV4cG9ydCBTM19DT05ORUNUX1RJTUVPVVRfTVNFQz17UzNfVElNRU9VVF9NU0VDfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBieTogCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
     </registers>
     <search>
