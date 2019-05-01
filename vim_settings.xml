@@ -200,6 +200,9 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="87" column="7" />
       </file>
+      <file name="$USER_HOME$/work/piv/demo/video_overlay_window.py" timestamp="1556723018557">
+        <mark key="'" line="54" column="14" />
+      </file>
       <file name="$USER_HOME$/tmp/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551398515397">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="25" />
@@ -299,10 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
-      <jump line="72" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
-      <jump line="89" column="33" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="101" column="12" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="76" column="18" filename="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" />
       <jump line="35" column="5" filename="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" />
@@ -399,6 +398,10 @@
       <jump line="360" column="33" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" />
       <jump line="361" column="27" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" />
       <jump line="362" column="23" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/vision/data.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/work/piv/demo/video_overlay_window.py" />
+      <jump line="48" column="71" filename="$USER_HOME$/work/piv/demo/video_overlay_window.py" />
+      <jump line="53" column="48" filename="$USER_HOME$/work/piv/demo/video_overlay_window.py" />
+      <jump line="54" column="14" filename="$USER_HOME$/work/piv/demo/video_overlay_window.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,7 +411,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>x</text>
+        <text>sink</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGRxbT09NC4zMC4wCg==</text>
@@ -445,15 +448,14 @@
       </register>
     </registers>
     <search>
-      <last-search>x</last-search>
+      <last-search>sink</last-search>
       <last-offset />
-      <last-pattern>x</last-pattern>
+      <last-pattern>sink</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>link</entry>
         <entry>loss</entry>
         <entry>drop_last</entry>
         <entry>gpu</entry>
@@ -473,6 +475,7 @@
         <entry>100</entry>
         <entry>model_dir</entry>
         <entry>x</entry>
+        <entry>sink</entry>
       </history-search>
       <history-cmd />
       <history-expr />
