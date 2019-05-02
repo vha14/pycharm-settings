@@ -128,11 +128,11 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/work/piv/doc/May2019.md" timestamp="1556830936869">
-        <mark key="[" line="131" column="21" />
-        <mark key="]" line="131" column="58" />
-        <mark key="^" line="131" column="58" />
-        <mark key="." line="131" column="58" />
+      <file name="$USER_HOME$/work/piv/doc/May2019.md" timestamp="1556831602521">
+        <mark key="[" line="151" column="38" />
+        <mark key="]" line="151" column="39" />
+        <mark key="^" line="151" column="39" />
+        <mark key="." line="151" column="39" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_experiments.py" timestamp="1551552466130">
         <mark key="[" line="62" column="32" />
@@ -401,31 +401,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SGVuY2UgdGhlIGFscGhhIHJlbGVhc2UuICAgIA==</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SGVuY2UgdGhlIGFscGhhIHJlbGVhc2UuICAgIA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>sink</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGRxbT09NC4zMC4wCg==</text>
+        <text encoding="base64">LSBNYXk6IDcwJSBtQVBAMC41Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kZWwgcG9ydGZvbGlvIHRvIGNvbnRhaW4gYSBtb2JpbGUtb3B0aW1pemVkIGFyY2hpdGVjdHVyZS4K</text>
+        <text encoding="base64">IyMjIwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBJbXBsZW1lbnQgYW5kIHRlc3QgTW9iaWxlTmV0VjIvTW5hc05ldCBiYWNrYm9uZSBpbiBQeVRvcmNoL0Zhc3RhaS4gVGhpcyB3b3VsZCBleHBhbmQgb3VyIAo=</text>
+        <text encoding="base64">bW9kZWwgcG9ydGZvbGlvIHRvIGNvbnRhaW4gYSBtb2JpbGUtb3B0aW1pemVkIGFyY2hpdGVjdHVyZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBGaW5pc2ggYW5kIHRlc3QgdGhlIGltcGxlbWVudGF0aW9uIG9mIHRoZSByZWZlcmVuY2UgU1NEIGFuZCBSZXRpbmFOZXQuCg==</text>
+        <text encoding="base64">LSBJbXBsZW1lbnQgYW5kIHRlc3QgTW9iaWxlTmV0VjIvTW5hc05ldCBiYWNrYm9uZSBpbiBQeVRvcmNoL0Zhc3RhaS4gVGhpcyB3b3VsZCBleHBhbmQgb3VyIAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBGaW5pc2ggYW5kIHRlc3QgdGhlIGltcGxlbWVudGF0aW9uIG9mIHRoZSByZWZlcmVuY2UgU1NEIGFuZCBSZXRpbmFOZXQuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -439,19 +439,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>- Start to hill climb the mAP metric. We aim for the following mAP goals for the vein/artery/vessel
-dataset (without speed considerations):
-    - 70% mAP by end of April
-    - 80% mAP by end of May
-    - 90% mAP by end of June 
-- Understand the tradeoff in terms of inference time and power consumption when deploy our various 
-models to mobile phones.
-- As part of the hill climbing process, we will work closely with Fuji Sonosite on data quality
-and quantity issues.
-- Streamline the path from PyTorch through Tensorflow/TFLite to Android. We will look at ways to
-easily convert a PyTorch model to TF format.
-- Start to look beyond object detection and into tracking and segmentation in the second half of April.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
