@@ -65,7 +65,7 @@
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="FillParagraph">
-    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
