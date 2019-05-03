@@ -9,6 +9,7 @@
       <file name="/Dummy.txt" timestamp="1556669554301">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" timestamp="1556899585765" />
       <file name="/Python Console" timestamp="1556899105657">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,6 +77,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
