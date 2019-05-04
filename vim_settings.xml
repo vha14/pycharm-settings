@@ -15,6 +15,9 @@
         <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" timestamp="1556899585765" />
+      <file name="/Python Console" timestamp="1556942413793">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1556924731816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,12 +34,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" timestamp="1556928323286">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" timestamp="1556942326853">
         <mark key="'" line="57" column="12" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="118" column="25" />
-        <mark key="." line="118" column="25" />
-        <mark key="^" line="118" column="25" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556927809908">
         <mark key="[" line="8" column="19" />
@@ -75,7 +77,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6bW9kZWxpbmcvc3JjL3NjcmlwdHMvdHJhY2tpbmcucHkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -87,31 +89,31 @@
         <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MgPSBbXQogICAgbGVhcm4ubG9hZCgibWF4LXZvYy1tZXRyaWMiKQogICAgbGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1yZXRpbmEuY29uZmlnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6bW9kZWxpbmcvc3JjL3NjcmlwdHMvdHJhY2tpbmcucHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTAsIGlvdV90aHJlc2g9MC41LCB1cGRhdGVfZnJlcT01KQptZXRyaWMgPSBwYXNjYWxfY2FsbGJhY2suVk9DTWV0cmljKGRldGVjdG9yPWRldGVjdG9yLCBjb21ldF9leHA9Tm9uZSwgKip2b2NfbWV0cmljX3BhcmFtcykK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3QucmV0aW5hIGltcG9ydCBSZXRpbmFEZXRlY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFja18yd2F5cyhpbWcubmFtZSwgdHJhY2tlcl90eXBlPSdLQ0YnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3QgaW1wb3J0IHBhc2NhbF9jYWxsYmFjawpmcm9tIGRldGVjdC5yZXRpbmEgaW1wb3J0IFJldGluYURldGVjdG9yCg==</text>
+        <text encoding="base64">ICAgIGlmICcxNTI4NTYnIGluIGltZy5uYW1lOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGltZyBpbiBhdXguaW1hZ2VfZGlyKCkuaXRlcmRpcigpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGltcG9ydGxpYgo=</text>
+        <text encoding="base64">cHJpbnQoZiJNYWtlIHN1cmUgdGhhdCB0aGUgdmlkZW9zIGNhbiBiZSBmb3VuZCBpbiB7YXV4LlBhdGhzLkRhdGFEaXJzLklOSVRJQUxfU0FNUExFfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YXNldCA9ICdiYXRjaDMnCg==</text>
+        <text encoding="base64">cHJpbnQoZiIyLXdheSB0cmFja2luZyBhbGwgdmlkZW9zIGluIHRoZSBpbml0aWFsIHNhbXBsZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YSA9IGxvYWRfZm4oKipkYXRhX3BhcmFtcykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOm1vZGVsaW5nL3NyYy9zY3JpcHRzL3RyYWNraW5nLnB5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YV9wYXJhbXMgPSBnZXRhdHRyKHBhcmFtc19tb2R1bGUsIGYiZGF0YV9wYXJhbXNfe2RhdGFzZXR9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -138,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
