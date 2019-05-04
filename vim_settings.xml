@@ -37,11 +37,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556947423160">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556979813730">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -74,16 +74,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__class__</text>
+        <text>s.x._bunch</text>
       </register>
       <register name="-" type="4">
-        <text>__class__</text>
+        <text>s.x._bunch</text>
       </register>
       <register name="/" type="4">
         <text>interac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGVhcm4uZGF0YS52YWxpZF9kcy55Ll9fY2xhc3NfXwo=</text>
+        <text encoding="base64">bGVhcm4uZGF0YS52YWxpZF9kcy54Ll9idW5jaAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1kZXRlY3Rvci5jb25maWcpCg==</text>
