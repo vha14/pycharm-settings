@@ -15,9 +15,6 @@
         <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" timestamp="1556899585765" />
-      <file name="/Python Console" timestamp="1556942413793">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1556924731816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,11 +37,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556927809908">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556944220875">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -76,11 +73,11 @@
       <jump line="60" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6bW9kZWxpbmcvc3JjL3NjcmlwdHMvdHJhY2tpbmcucHkK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>interac</text>
