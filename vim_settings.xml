@@ -37,8 +37,8 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556944220875">
-        <mark key="[" line="16" column="35" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1556946590323">
+        <mark key="[" line="17" column="21" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -74,43 +74,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>__class__</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>__class__</text>
       </register>
       <register name="/" type="4">
         <text>interac</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGxlYXJuLm1ldHJpY3MgPSBbXQogICAgbGVhcm4ubG9hZCgibWF4LXZvYy1tZXRyaWMiKQogICAgbGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1yZXRpbmEuY29uZmlnKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXNzZXJ0IGxlbihsZWFybi5kYXRhLnZhbGlkX2RzLnguaXRlbXMpID09IDE1NTMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6bW9kZWxpbmcvc3JjL3NjcmlwdHMvdHJhY2tpbmcucHkK</text>
+        <text encoding="base64">bGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1kZXRlY3Rvci5jb25maWcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">bGVuKGxlYXJuLmRhdGEudmFsaWRfZHMueC5pdGVtcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja18yd2F5cyhpbWcubmFtZSwgdHJhY2tlcl90eXBlPSdLQ0YnKQo=</text>
+        <text encoding="base64">bGVhcm4uZGF0YS5fX2NsYXNzX18K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICcxNTI4NTYnIGluIGltZy5uYW1lOgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6bW9kZWxpbmcvc3JjL3NjcmlwdHMvdHJhY2tpbmcucHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIGltZyBpbiBhdXguaW1hZ2VfZGlyKCkuaXRlcmRpcigpOgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZiJNYWtlIHN1cmUgdGhhdCB0aGUgdmlkZW9zIGNhbiBiZSBmb3VuZCBpbiB7YXV4LlBhdGhzLkRhdGFEaXJzLklOSVRJQUxfU0FNUExFfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFja18yd2F5cyhpbWcubmFtZSwgdHJhY2tlcl90eXBlPSdLQ0YnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZiIyLXdheSB0cmFja2luZyBhbGwgdmlkZW9zIGluIHRoZSBpbml0aWFsIHNhbXBsZSIpCg==</text>
+        <text encoding="base64">ICAgIGlmICcxNTI4NTYnIGluIGltZy5uYW1lOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOm1vZGVsaW5nL3NyYy9zY3JpcHRzL3RyYWNraW5nLnB5Cg==</text>
+        <text encoding="base64">Zm9yIGltZyBpbiBhdXguaW1hZ2VfZGlyKCkuaXRlcmRpcigpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZiJNYWtlIHN1cmUgdGhhdCB0aGUgdmlkZW9zIGNhbiBiZSBmb3VuZCBpbiB7YXV4LlBhdGhzLkRhdGFEaXJzLklOSVRJQUxfU0FNUExFfSIpCg==</text>
       </register>
     </registers>
     <search>
@@ -140,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
