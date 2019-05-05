@@ -21,13 +21,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="125" column="7" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1556684304961">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557088272786">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -39,17 +41,18 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1557085252472">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1557088476351">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="67" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557085158878">
-        <mark key="'" line="13" column="34" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="37" />
-        <mark key="^" line="95" column="69" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557088339081">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="30" />
+        <mark key="^" line="77" column="29" />
+        <mark key="." line="77" column="30" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" timestamp="1556942326853">
         <mark key="'" line="57" column="12" />
@@ -97,10 +100,11 @@
       <jump line="24" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
       <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
       <jump line="13" column="34" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvY19tZXRyaWNfcGFyYW1zID0geyoqdm9jX21ldHJpY19wYXJhbXMsICoqYW5hbHl6ZV9rd2FyZ3N9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IHNlbGYuZHMueC5pdGVtc1tpICsgaWR4X29mZnNldF0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -112,28 +116,28 @@
         <text encoding="base64">ICAgICAgICAgICAgaWR4X29mZnNldCArPSB4Yi5zaGFwZVswXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvY19tZXRyaWNfcGFyYW1zID0geyoqdm9jX21ldHJpY19wYXJhbXMsICoqYW5hbHl6ZV9rd2FyZ3N9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IHNlbGYuZHMueC5pdGVtc1tpICsgaWR4X29mZnNldF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIGNvbGxlY3RfZXZhbGRhdGEoZ3RfYm94ZXMsIGRldF9ib3hlcywgZGV0ZWN0b3IsIGRzLCBpZHhfb2Zmc2V0KToKICAgIG5vcm0gPSBnZXRhdHRyKGRldGVjdG9yLmxlYXJuLmRhdGEsICdub3JtJywgRmFsc2UpCiAgICB4YiA9IGRldGVjdG9yLmxlYXJuLmRhdGEuZGVub3JtKGxhc3RfaW5wdXQpIGlmIG5vcm0gZWxzZSBsYXN0X2lucHV0CiAgICBmb3IgaSBpbiByYW5nZSh4Yi5zaGFwZVswXSk6CiAgICAgICAgbmFtZSA9IGRzLnguaXRlbXNbaSArIGlkeF9vZmZzZXRdCiAgICAgICAgeCA9IGRzLngucmVjb25zdHJ1Y3QoZ3JhYl9pZHgoeGIsIGkpKQogICAgICAgIHkgPSBkcy55LnJlY29uc3RydWN0KGdyYWJfaWR4KGxhc3RfdGFyZ2V0LCBpKSwgeD14KQogICAgICAgIGlmIHkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGZvciBib3gsIGNsYXMgaW4gemlwKCp5LmRhdGEpOgogICAgICAgICAgICAgICAgc2VsZi5ndF9ib3hlc1tjbGFzXVtuYW1lXS5hcHBlbmQoYm94KQoKICAgICAgICBwcmVkID0gYW5hbHl6ZV9wcmVkKGdyYWJfaWR4KGxhc3Rfb3V0cHV0LCBpKSwgKipzZWxmLmFuYWx5emVfa3dhcmdzKQogICAgICAgIGlmIHByZWQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGJib3gsIGNsYXMsIGNvbmYgPSBwcmVkCiAgICAgICAgICAgIHogPSBkcy55LnJlY29uc3RydWN0KChiYm94LCBjbGFzKSwgeD14KQogICAgICAgICAgICBpZiB6IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgZm9yIGJiLCBjbCwgYyBpbiB6aXAoKnouZGF0YSwgY29uZik6CiAgICAgICAgICAgICAgICAgICAgZGV0X2JveGVzW2NsXS5hcHBlbmQoKGMsIG5hbWUsIGJiKSkKCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZHhfb2Zmc2V0ICs9IHhiLnNoYXBlWzBdCg==</text>
+        <text encoding="base64">cGl2X2NsYXNzZXMgPSB7J3ZlaW4nOiAndmVpbicsICdhcnRlcnknOiAnYXJ0ZXJ5JywgJ3Zlc3NlbCc6ICd2ZXNzZWwnfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkeF9vZmZzZXQgPSAwCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBkZWYgaW1hZ2VfbmFtZShkYXRhLCBpZHgpOgogICAgICAgICAgICAiIiIKICAgICAgICAgICAgRmluZCB0aGUgbmFtZSBvZiB0aGUgaW1hZ2UgaW4gdGhlIGdpdmVuIGRhdGFidW5jaCdzIHZhbGlkYXRpb24gc2V0LgogICAgICAgICAgICA6cGFyYW0gZGF0YTogVGhlIGRhdGFidW5jaC4KICAgICAgICAgICAgOnBhcmFtIGlkeDogVGhlIGluZGV4IG9mIHRoZSBpdGVtIGluIHRoZSB2YWxpZGF0aW9uIHNldC4KICAgICAgICAgICAgOnJldHVybjogVGhlIG5hbWUgb2YgaW1hZ2UgZm9yIHRoYXQgaXRlbS4KICAgICAgICAgICAgRm9yIGV4YW1wbGU6ICJwaXYxYjAwMjA2X2MwMDAwODg4X2YwNjIuanBnIgogICAgICAgICAgICAiIiIKICAgICAgICAgICAgcmV0dXJuIGRhdGEudmFsaWRfZHMueC5pdGVtc1tpZHhdLnNwbGl0KCcvJylbLTFd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuYmF0Y2hfaWR4ICs9IDEK</text>
+        <text encoding="base64">ICAgIHZvY19tZXRyaWNfcGFyYW1zID0geyoqdm9jX21ldHJpY19wYXJhbXMsICoqYW5hbHl6ZV9rd2FyZ3N9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkeF9vZmZzZXQgPSBzZWxmLmJhdGNoX2lkeCAqIGRldGVjdG9yLmxlYXJuLmRhdGEudmFsaWRfZGwuYmF0Y2hfc2l6ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
