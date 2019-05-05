@@ -30,9 +30,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1557032952015">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="66" column="57" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1557063393516">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="59" column="71" />
         <mark key="^" line="74" column="52" />
         <mark key="." line="74" column="52" />
       </file>
@@ -42,12 +42,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557062714310">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557063430503">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="89" column="43" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="105" column="38" />
+        <mark key="]" line="106" column="11" />
+        <mark key="." line="106" column="11" />
+        <mark key="^" line="106" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -81,41 +81,41 @@
       <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmJveGVzLCBjbGFzZXMsIGNvbmZzID0gcHJvY2Vzc2VkCg==</text>
+      <register name="&quot;" type="4">
+        <text>last_input) if norm else last_input</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>last_input) if norm else last_input</text>
       </register>
       <register name="/" type="4">
         <text>interac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgeSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGZvciBib3gsIGNsYXMgaW4gemlwKCp5LmRhdGEpOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ3RfYm94ZXNbY2xhc11bbmFtZV0uYXBwZW5kKGJveCkK</text>
+        <text encoding="base64">ICAgICAgICBub3JtID0gZ2V0YXR0cihzZWxmLmxlYXJuLmRhdGEsICdub3JtJywgRmFsc2UpCiAgICAgICAgeGIgPSBzZWxmLmxlYXJuLmRhdGEuZGVub3JtKGxhc3RfaW5wdXQpIGlmIG5vcm0gZWxzZSBsYXN0X2lucHV0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmJveGVzLCBjbGFzZXMsIGNvbmZzID0gcHJvY2Vzc2VkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJib3hfZ3Q6IGxpc3Qgb2Ygc2l6ZSB2YWxpZF9zaXplIG9mIHRlbnNvcnMgb2YgdmFyeWluZyBzaGFwZXMgayB4IDQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNfZ3Q6IGxpc3Qgb2Ygc2l6ZSB2YWxpZF9zaXplIG9mIHRlbnNvcnMgb2YgdmFyeWluZyBzaGFwZXMgawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJib3hfcHJlZDogdGVuc29yIG9mIHNoYXBlIHZhbGlkX3NpemUgeCBudW1fZGV0ZWN0b3JzIHggNAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc19wcmVkLCBiYm94X3ByZWQsIGNsYXNfZ3QsIGJib3hfZ3QgPSB2YWxpZF9vdXRwdXQobGVhcm4pCg==</text>
+        <text encoding="base64">ICAgIGNsYXNfcHJlZDogdGVuc29yIG9mIHNoYXBlIHZhbGlkX3NpemUgeCBudW1fZGV0ZWN0b3JzIHggbnVtX2NsYXNzZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIFJldHVybiBhIHR1cGxlIG9mOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
