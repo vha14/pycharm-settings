@@ -47,11 +47,11 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="67" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557099399687">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="73" column="57" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557099558471">
+        <mark key="[" line="86" column="51" />
+        <mark key="]" line="86" column="60" />
+        <mark key="^" line="86" column="60" />
+        <mark key="." line="86" column="60" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" timestamp="1556942326853">
         <mark key="'" line="57" column="12" />
@@ -59,11 +59,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557098917234">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="70" />
-        <mark key="^" line="67" column="21" />
-        <mark key="." line="67" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557099948477">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -76,12 +76,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557098460745">
-        <mark key="'" line="132" column="19" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="73" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="128" column="29" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557099891471">
+        <mark key="'" line="137" column="19" />
+        <mark key="[" line="133" column="60" />
+        <mark key="]" line="133" column="60" />
+        <mark key="." line="133" column="60" />
+        <mark key="^" line="133" column="60" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
         <mark key="[" line="11" column="0" />
@@ -103,10 +103,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm1BUDoge3N1bShbbS5BUCBmb3IgbSBpbiBtZXRzXSkgLyBsZW4obWV0cykgKiAxMDAgfSIpCg==</text>
+        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>yb[i]):</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
@@ -115,31 +115,95 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGJib3gsIGNsYXMsIGNvbmYgaW4gemlwKCpwcm9jZXNzZWQpOgogICAgICAgICAgICAgICAgZGV0X2JveGVzW2ludChjbGFzLml0ZW0oKSldLmFwcGVuZCgoY29uZiwgbmFtZSwgYmJveCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm1BUDoge3N1bShbbS5BUCBmb3IgbSBpbiBtZXRzXSkgLyBsZW4obWV0cykgKiAxMDAgfSIpCg==</text>
+        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJtQVAgZm9yIHtjbGFzZXNbbS5jbGFzXX0gaXMge20uQVB9IikK</text>
+        <text encoding="base64">Y2xhc2VzID0gbGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbSBpbiBtZXRzOgo=</text>
+        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzZXMgPSBzZWxmLmxlYXJuLmRhdGEudHJhaW5fZHMueS5jbGFzc2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkcyA9IHNlbGYubGVhcm4uZGF0YS52YWxpZF9kbC5kYXRhc2V0Cg==</text>
+        <text encoding="base64">dW0obWFwcykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldF9ib3hlc1tjbF0uYXBwZW5kKChjLCBuYW1lLCBiYikpCg==</text>
+      <register name="6" type="4">
+        <text>#%%
+
+def valid_output(learn):
+    &quot;&quot;&quot;Get the model's raw output on the validation set in a learner, together
+    with the ground truth.
+
+    Return a tuple of:
+    clas_pred: tensor of shape valid_size x num_detectors x num_classes
+    bbox_pred: tensor of shape valid_size x num_detectors x 4
+    clas_gt: list of size valid_size of tensors of varying shapes k
+    bbox_gt: list of size valid_size of tensors of varying shapes k x 4
+    &quot;&quot;&quot;
+
+    def accum(res, cur):
+        return cur if res is None else torch.cat((res, cur), dim=0)
+
+    learn.model.eval()
+    clas_pred, bbox_pred = None, None
+    clas_gt, bbox_gt = [], []
+    for xb, yb in learn.data.valid_dl:
+        # collecting ground truth in clas_gt and bbox_gt (lists of tensors)
+        bbox_gt_b, clas_gt_b = tc.to_detach(yb)
+        for clas, bbox in zip(clas_gt_b, bbox_gt_b):
+            clas_gt.append(clas)
+            bbox_gt.append(bbox)
+
+        # collecting raw model output in tensors
+        clas_pred_b, bbox_pred_b = tc.to_detach(learn.model(xb))
+        clas_pred = accum(clas_pred, clas_pred_b)
+        bbox_pred = accum(bbox_pred, bbox_pred_b)
+
+    return clas_pred, bbox_pred, clas_gt, bbox_gt
+
+#%%
+
+def measure(learn):
+    clas_pred, bbox_pred, clas_gt, bbox_gt = valid_output(learn)
+    gt_boxes = defaultdict(lambda: defaultdict(list))
+    det_boxes = defaultdict(list)
+    for i in range(len(clas_gt)):
+        name = common.image_name(data, i)
+        for clas, bbox in zip(clas_gt[i], bbox_gt[i]):
+            cl = int(clas.item())  # float tensor to int
+            if cl != 0:  # ignore background class
+                gt_boxes[cl][name].append(bbox)
+
+        processed = utils.analyze_pred((clas_pred[i], bbox_pred[i]),
+                                       config=detector.config, **analyze_kwargs)
+        if processed is not None:
+            for bbox, clas, conf in zip(*processed):
+                det_boxes[int(clas.item())].append((conf, name, bbox))
+
+    mets = list(voc_metrics(gt_boxes, det_boxes, gt_boxes.keys(),
+                            iou_thresh=0.5))
+    print(f&quot;mAP: {sum([m.AP for m in mets]) / len(mets) * 100 }&quot;)
+    for m in mets:
+        print(f&quot;mAP for {clases[m.clas]} is {m.AP}&quot;)
+    return mets
+
+mets = measure(learn)
+#%%
+
+maps = [m.AP for m in mets]
+sum(maps)/(len(maps))
+s</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGJiLCBjbCwgYyBpbiB6aXAoKnouZGF0YSwgY29uZik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB6IGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm1BUDoge3N1bShbbS5BUCBmb3IgbSBpbiBtZXRzXSkgLyBsZW4obWV0cykgKiAxMDAgfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6ID0gZHMueS5yZWNvbnN0cnVjdCgoYmJveCwgY2xhcyksIHg9eCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJtQVAgZm9yIHtjbGFzZXNbbS5jbGFzXX0gaXMge20uQVB9IikK</text>
       </register>
     </registers>
     <search>
