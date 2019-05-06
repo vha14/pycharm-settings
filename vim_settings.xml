@@ -14,7 +14,7 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557166661802">
+      <file name="/Python Console" timestamp="1557166732902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556924731816">
@@ -32,6 +32,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1557167617920">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="64" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" timestamp="1556942326853">
         <mark key="'" line="57" column="12" />
@@ -56,9 +61,10 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1556927309436">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557167069783">
         <mark key="'" line="128" column="19" />
-        <mark key="]" line="125" column="53" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="133" column="52" />
         <mark key="^" line="124" column="29" />
         <mark key="." line="125" column="0" />
       </file>
@@ -75,44 +81,44 @@
       <jump line="60" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNlcyA9IHNlbGYuZGV0ZWN0b3IubGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Parameter passed to analyze_pred2: min confidence score to be considered.</text>
       </register>
       <register name="/" type="4">
         <text>interac</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bGVhcm4uZGF0YS52YWxpZF9kcy54Ll9idW5jaAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIG1hcHMgPSBbbS5BUCBmb3IgbSBpbiBtZXRzXQoKICAgIHByaW50KGYibUFQOiB7c3VtKG1hcHMpIC8gbGVuKG1hcHMpICogMTAwfSIpCiAgICBjbGFzZXMgPSBsZWFybi5kYXRhLnRyYWluX2RzLnkuY2xhc3NlcwogICAgZm9yIG0gaW4gbWV0czoKICAgICAgICBwcmludChmIm1BUCBmb3Ige2NsYXNlc1ttLmNsYXNdfSBpcyB7bS5BUH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1kZXRlY3Rvci5jb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNlcyA9IHNlbGYuZGV0ZWN0b3IubGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVuKGxlYXJuLmRhdGEudmFsaWRfZHMueC5pdGVtcykK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzZXMgPSBzZWxmLmRldGVjdG9yLmxlYXJuLmRhdGEudHJhaW5fZHMueS5jbGFzc2VzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVhcm4uZGF0YS5fX2NsYXNzX18K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnPXNlbGYuZGV0ZWN0b3IuY29uZmlnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6bW9kZWxpbmcvc3JjL3NjcmlwdHMvdHJhY2tpbmcucHkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja18yd2F5cyhpbWcubmFtZSwgdHJhY2tlcl90eXBlPSdLQ0YnKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICcxNTI4NTYnIGluIGltZy5uYW1lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJtQVAgZm9yIHtjbGFzZXNbbS5jbGFzXX0gaXMge20uQVB9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGltZyBpbiBhdXguaW1hZ2VfZGlyKCkuaXRlcmRpcigpOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbSBpbiBtZXRzOgogICAgICAgIHByaW50KGYibUFQIGZvciB7Y2xhc2VzW20uY2xhc119IGlzIHttLkFQfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZiJNYWtlIHN1cmUgdGhhdCB0aGUgdmlkZW9zIGNhbiBiZSBmb3VuZCBpbiB7YXV4LlBhdGhzLkRhdGFEaXJzLklOSVRJQUxfU0FNUExFfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBtQVAgPSBzdW0oYXBzKS9sZW4oYXBzKSoxMDAK</text>
       </register>
     </registers>
     <search>
