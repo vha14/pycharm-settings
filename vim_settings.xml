@@ -17,6 +17,12 @@
       <file name="/a.dummy" timestamp="1556924731816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1557242068034">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1556684304961">
         <mark key="'" line="0" column="0" />
       </file>
@@ -36,11 +42,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557167980965">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557242131285">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="36" column="40" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -74,7 +80,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZiJFbGFwc2VkOiB7ZW5kIC0gc3RhcnR9IikK</text>
+        <text encoding="base64">ZnJvbSBweWNvY290b29scyBpbXBvcnQgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Parameter passed to analyze_pred2: min confidence score to be considered.</text>
@@ -86,28 +92,28 @@
         <text encoding="base64">ICAgIG1hcHMgPSBbbS5BUCBmb3IgbSBpbiBtZXRzXQoKICAgIHByaW50KGYibUFQOiB7c3VtKG1hcHMpIC8gbGVuKG1hcHMpICogMTAwfSIpCiAgICBjbGFzZXMgPSBsZWFybi5kYXRhLnRyYWluX2RzLnkuY2xhc3NlcwogICAgZm9yIG0gaW4gbWV0czoKICAgICAgICBwcmludChmIm1BUCBmb3Ige2NsYXNlc1ttLmNsYXNdfSBpcyB7bS5BUH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZiJFbGFwc2VkOiB7ZW5kIC0gc3RhcnR9IikK</text>
+        <text encoding="base64">ZnJvbSBweWNvY290b29scyBpbXBvcnQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">cHJpbnQoZiJFbGFwc2VkOiB7ZW5kIC0gc3RhcnR9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ZW5kID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNlcyA9IHNlbGYuZGV0ZWN0b3IubGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzZXMgPSBzZWxmLmRldGVjdG9yLmxlYXJuLmRhdGEudHJhaW5fZHMueS5jbGFzc2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNlcyA9IHNlbGYuZGV0ZWN0b3IubGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnPXNlbGYuZGV0ZWN0b3IuY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzZXMgPSBzZWxmLmRldGVjdG9yLmxlYXJuLmRhdGEudHJhaW5fZHMueS5jbGFzc2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnPXNlbGYuZGV0ZWN0b3IuY29uZmlnKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
