@@ -41,12 +41,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_callback.py" timestamp="1557088476351">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="67" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557099558471">
         <mark key="[" line="86" column="51" />
         <mark key="]" line="86" column="60" />
@@ -59,11 +53,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557099948477">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557206060827">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -103,10 +97,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
+        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>=0.5, update_freq=5</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
@@ -115,21 +109,27 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGJib3gsIGNsYXMsIGNvbmYgaW4gemlwKCpwcm9jZXNzZWQpOgogICAgICAgICAgICAgICAgZGV0X2JveGVzW2ludChjbGFzLml0ZW0oKSldLmFwcGVuZCgoY29uZiwgbmFtZSwgYmJveCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
+        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc2VzID0gbGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
+        <text encoding="base64">bWV0cmljID0gcGFzY2FsX2NhbGxiYWNrLlZPQ01ldHJpYyhkZXRlY3Rvcj1kZXRlY3RvciwgY29tZXRfZXhwPU5vbmUsICoqdm9jX21ldHJpY19wYXJhbXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
+        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc2VzID0gbGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dW0obWFwcykK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>#%%
 
 def valid_output(learn):
@@ -196,14 +196,8 @@ maps = [m.AP for m in mets]
 sum(maps)/(len(maps))
 s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm1BUDoge3N1bShbbS5BUCBmb3IgbSBpbiBtZXRzXSkgLyBsZW4obWV0cykgKiAxMDAgfSIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJtQVAgZm9yIHtjbGFzZXNbbS5jbGFzXX0gaXMge20uQVB9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
