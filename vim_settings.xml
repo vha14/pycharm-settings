@@ -14,9 +14,6 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557257514581">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1556924731816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,11 +50,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557257532623">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557257906388">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -95,29 +92,29 @@
       <jump line="160" column="56" filename="$USER_HOME$/work/tf_models/research/pycocotools/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.find(1)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlkeAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.find(1)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>super</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YXNldCA9IGpzb24ubG9hZChvcGVuKGFubm90YXRpb25fZmlsZSwgJ3InKSkK</text>
+        <text encoding="base64">ICAgIGlkeCA9IGxpc3QoZGF0YS52YWxpZF9kcy54Lml0ZW1zKS5pbmRleChpbWdfbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkeAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkeCA9IGxpc3QoZGF0YS52YWxpZF9kcy54Lml0ZW1zKS5pbmRleChpbWdfbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFsxLDIsM10uaW5kZXgoMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIGRhdGEudmFsaWRfZHMueC5pdGVtcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -126,13 +123,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YXNldFsnY2F0ZWdvcmllcyddWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YXNldCA9IGpzb24ubG9hZChvcGVuKGFubl9maWxlLCAncicpKQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB2YWxfY29jbyA9IENPQ08oYW5uX2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
