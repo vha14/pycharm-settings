@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1556982198205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557247092555">
+      <file name="/Dummy.txt" timestamp="1557248173279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
@@ -50,11 +50,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557244872333">
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="18" />
-        <mark key="^" line="42" column="18" />
-        <mark key="." line="42" column="18" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557248312475">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+        <mark key="." line="44" column="24" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -93,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>annotation_file</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>annotation_file</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>super</text>
