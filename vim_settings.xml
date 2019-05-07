@@ -36,6 +36,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/work/tf_models/research/pycocotools/cocoeval.py" timestamp="1557242860994">
+        <mark key="'" line="425" column="20" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" timestamp="1556942326853">
         <mark key="'" line="57" column="12" />
         <mark key="[" line="124" column="0" />
@@ -77,6 +80,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/frame_source.py" />
       <jump line="60" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" />
+      <jump line="319" column="20" filename="$USER_HOME$/work/tf_models/research/pycocotools/cocoeval.py" />
+      <jump line="425" column="20" filename="$USER_HOME$/work/tf_models/research/pycocotools/cocoeval.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -86,7 +91,7 @@
         <text>Parameter passed to analyze_pred2: min confidence score to be considered.</text>
       </register>
       <register name="/" type="4">
-        <text>interac</text>
+        <text>accumu</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIG1hcHMgPSBbbS5BUCBmb3IgbSBpbiBtZXRzXQoKICAgIHByaW50KGYibUFQOiB7c3VtKG1hcHMpIC8gbGVuKG1hcHMpICogMTAwfSIpCiAgICBjbGFzZXMgPSBsZWFybi5kYXRhLnRyYWluX2RzLnkuY2xhc3NlcwogICAgZm9yIG0gaW4gbWV0czoKICAgICAgICBwcmludChmIm1BUCBmb3Ige2NsYXNlc1ttLmNsYXNdfSBpcyB7bS5BUH0iKQo=</text>
@@ -120,15 +125,17 @@
       </register>
     </registers>
     <search>
-      <last-search>interac</last-search>
+      <last-search>accumu</last-search>
       <last-offset />
-      <last-pattern>interac</last-pattern>
+      <last-pattern>accumu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>interac</entry>
+        <entry>evaluate</entry>
+        <entry>accumu</entry>
       </history-search>
       <history-cmd />
       <history-expr />
