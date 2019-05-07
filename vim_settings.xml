@@ -23,6 +23,10 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="59" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1557265786697">
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="399" column="44" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/requirements.txt" timestamp="1557242068034">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="11" />
@@ -42,6 +46,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557264488703">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="82" column="36" />
+      </file>
       <file name="$USER_HOME$/work/tf_models/research/pycocotools/cocoeval.py" timestamp="1557242860994">
         <mark key="'" line="425" column="20" />
       </file>
@@ -51,11 +59,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557257906388">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557266131847">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="52" column="42" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1556687092534">
         <mark key="'" line="0" column="0" />
@@ -94,43 +102,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlkeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>retina</text>
       </register>
       <register name="/" type="4">
         <text>super</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkeCA9IGxpc3QoZGF0YS52YWxpZF9kcy54Lml0ZW1zKS5pbmRleChpbWdfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBkcy54LnNob3dfeHl6cyh4cywgeXMsIHpzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkeCA9IGxpc3QoZGF0YS52YWxpZF9kcy54Lml0ZW1zKS5pbmRleChpbWdfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFsxLDIsM10uaW5kZXgoMSkK</text>
+        <text encoding="base64">ICAgICAgICBpID0gaWR4IC0gaWR4X29mZnNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEudmFsaWRfZHMueC5pdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVkID0gdXRpbHMuYW5hbHl6ZV9wcmVkKHRjLmdyYWJfaWR4KG91dHB1dCwgaSksIGNvbmZpZz1zZWxmLmNvbmZpZywgKiphbmFseXplX2t3YXJncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldF9ib3hlc1tpbnQoY2xhcy5pdGVtKCkpXS5hcHBlbmQoKGNvbmYsIG5hbWUsIGJib3gpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJib3gsIGNsYXMsIGNvbmYgaW4gemlwKCpwcmVkKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcmVkIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGd0X2JveGVzW2NsXVtuYW1lXS5hcHBlbmQoYmJveCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY2wgIT0gMDogICMgaWdub3JlIGJhY2tncm91bmQgY2xhc3MK</text>
       </register>
     </registers>
     <search>
