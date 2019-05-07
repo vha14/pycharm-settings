@@ -4,7 +4,7 @@
     <property name="created">2018-03-22T13:36:33</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-05-06T11:18:09</property>
+    <property name="modified">2019-05-07T10:52:50</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -12,25 +12,25 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
-    <option name="FILESTATUS_ADDED" value="50a14e" />
-    <option name="FILESTATUS_COPIED" value="73c990" />
-    <option name="FILESTATUS_DELETED" value="a0a1a7" />
-    <option name="FILESTATUS_HIJACKED" value="a626a4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_MERGED" value="4078f2" />
-    <option name="FILESTATUS_MODIFIED" value="986801" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_RENAMED" value="a626a4" />
-    <option name="FILESTATUS_SUPPRESSED" value="383a42" />
-    <option name="FILESTATUS_SWITCHED" value="4078f2" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="50a14e" />
-    <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="986801" />
+    <option name="FILESTATUS_ADDED" value="859900" />
+    <option name="FILESTATUS_COPIED" value="2aa198" />
+    <option name="FILESTATUS_DELETED" value="b58900" />
+    <option name="FILESTATUS_HIJACKED" value="d33682" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_MERGED" value="6c71c4" />
+    <option name="FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
+    <option name="FILESTATUS_OBSOLETE" value="b58900" />
+    <option name="FILESTATUS_RENAMED" value="6c71c4" />
+    <option name="FILESTATUS_SWITCHED" value="268bd2" />
+    <option name="FILESTATUS_UNKNOWN" value="d33682" />
+    <option name="FILESTATUS_addedOutside" value="d33682" />
+    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
+    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
   </colors>
 </scheme>
