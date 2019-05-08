@@ -69,6 +69,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="26" column="2" />
       </file>
+      <file name="$USER_HOME$/work/piv/doc/May6_2019.md" timestamp="1557341437959">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+      </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" timestamp="1557335323202">
         <mark key="'" line="520" column="18" />
         <mark key="j" line="520" column="18" />
@@ -100,46 +106,47 @@
       <jump line="33" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/aux.py" />
       <jump line="519" column="22" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
       <jump line="520" column="18" filename="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/data_block.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/work/piv/doc/May6_2019.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGEudHJhaW5fZGwudGZtcwo=</text>
+      <register name="&quot;" type="4">
+        <text>Adapt</text>
       </register>
       <register name="-" type="4">
-        <text>tfms</text>
+        <text>Adapt</text>
       </register>
       <register name="/" type="4">
         <text>dl_tfms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEudmFsaWRfZGwudGZtcwo=</text>
+        <text encoding="base64">W0dpdEh1YiBpc3N1ZSBsaW5rXShodHRwczovL2dpdGh1Yi5jb20vQUkySW5jdWJhdG9yL3Bpdi9pc3N1ZXMvODMpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEudHJhaW5fZGwudGZtcwo=</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGEudmFsaWRfZGwuYmF0Y2hfc2l6ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGEudmFsaWRfZGwudGZtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEudmFsaWRfZGwuX19kaXJfXygpCg==</text>
+        <text encoding="base64">VGFidWxhdGUgcmVjZW50IGJlbmNobWFyayBkYXRhIGFuZCBwdWJsaXNoIGZvciB2aWV3aW5nIGJ5IGFsbCBwYXJ0aWNpcGFudHMuCkNvbnRpbnVlIG9wdGltaXppbmcgVEYgTGl0ZSBhbmQgQ2FmZmUyIGNvbnZlcnNpb24gYW5kIGludGVycHJldGVyIGluIG9yZGVyIHRvIGJldHRlciBjb21wYXJlIGV4cGVjdGVkIHBlcmZvcm1hbmNlLgpCZWdpbiB3b3JrIG9uIGV4ZWN1dGluZyBhIHNlZ21lbnRhdGlvbiBtb2RlbCBvbiBlaXRoZXIgb3IgYm90aCBvZiBURiBMaXRlIGFuZCBDYWZmZTIsIGRlcGVuZGluZyBvbiBwZXJmb3JtYW5jZSBiZW5jaG1hcmtpbmcgcmVzdWx0cy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2cuaW5kZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicGl2MWEwMDAwMV9jMDAwMDEzNSIpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuaW5kZXgoCg==</text>
+        <text encoding="base64">Rm9yIHRoZSBjb21pbmcgd2VlazoK</text>
       </register>
     </registers>
     <search>
