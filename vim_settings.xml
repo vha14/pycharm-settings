@@ -96,12 +96,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557413587834">
-        <mark key="'" line="137" column="19" />
-        <mark key="[" line="110" column="58" />
-        <mark key="]" line="119" column="17" />
-        <mark key="." line="119" column="17" />
-        <mark key="^" line="119" column="17" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557429880437">
+        <mark key="'" line="139" column="19" />
+        <mark key="[" line="33" column="62" />
+        <mark key="]" line="33" column="62" />
+        <mark key="." line="33" column="62" />
+        <mark key="^" line="33" column="62" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/callback.py" timestamp="1557078290856" />
     </filemarks>
@@ -117,11 +117,11 @@
       <jump line="73" column="2" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGF0YV9wYXJhbXNfYmF0Y2gzID0gZGljdChieT0nZmlyc3QnLCBicz02NCwgc2l6ZT0yNTYsIHJlc2l6ZV9tZXRob2Q9UmVzaXplTWV0aG9kLlNRVUlTSCwgdGZtcz1nZXRfdHJhbnNmb3JtcygpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>34</text>
       </register>
       <register name="-" type="4">
-        <text>voc07</text>
+        <text>34</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
