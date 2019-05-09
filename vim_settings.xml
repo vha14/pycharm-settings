@@ -96,12 +96,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557429880437">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557436001244">
         <mark key="'" line="139" column="19" />
-        <mark key="[" line="33" column="62" />
-        <mark key="]" line="33" column="62" />
-        <mark key="." line="33" column="62" />
-        <mark key="^" line="33" column="62" />
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="49" />
+        <mark key="." line="31" column="49" />
+        <mark key="^" line="31" column="49" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/callback.py" timestamp="1557078290856" />
     </filemarks>
@@ -118,10 +118,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>34</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>34</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
