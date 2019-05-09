@@ -6,40 +6,27 @@
       <file name="/start_script.py" timestamp="1556982198205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557004344913">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557414107350">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1557062241757">
+      <file name="/a.dummy" timestamp="1557414099761">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557088272786">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
+        <mark key="[" line="6" column="112" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/deploy/test_snapshot.py" timestamp="1556925156588">
         <mark key="[" line="7" column="0" />
@@ -58,6 +45,40 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557413502841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557413267442">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557088272786">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557206060827">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="0" column="0" />
@@ -75,17 +96,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557099891471">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557413587834">
         <mark key="'" line="137" column="19" />
-        <mark key="[" line="133" column="60" />
-        <mark key="]" line="133" column="60" />
-        <mark key="." line="133" column="60" />
-        <mark key="^" line="133" column="60" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="110" column="58" />
+        <mark key="]" line="119" column="17" />
+        <mark key="." line="119" column="17" />
+        <mark key="^" line="119" column="17" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/callback.py" timestamp="1557078290856" />
     </filemarks>
@@ -102,107 +118,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ZGF0YV9wYXJhbXNfYmF0Y2gzID0gZGljdChieT0nZmlyc3QnLCBicz02NCwgc2l6ZT0yNTYsIHJlc2l6ZV9tZXRob2Q9UmVzaXplTWV0aG9kLlNRVUlTSCwgdGZtcz1nZXRfdHJhbnNmb3JtcygpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>=0.5, update_freq=5</text>
+        <text>voc07</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJib3gsIGNsYXMsIGNvbmYgaW4gemlwKCpwcm9jZXNzZWQpOgogICAgICAgICAgICAgICAgZGV0X2JveGVzW2ludChjbGFzLml0ZW0oKSldLmFwcGVuZCgoY29uZiwgbmFtZSwgYmJveCkpCg==</text>
+        <text encoding="base64">ZGF0YV9wYXJhbXNfYmF0Y2gzID0gZGljdChieT0nZmlyc3QnLCBicz02NCwgc2l6ZT0yNTYsIHJlc2l6ZV9tZXRob2Q9UmVzaXplTWV0aG9kLlNRVUlTSCwgdGZtcz1nZXRfdHJhbnNmb3JtcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">IyBUSElSRF9CQVRDSCA9ICdwaXZfZGF0YV8wMzA3MTkudGd6Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWV0cmljID0gcGFzY2FsX2NhbGxiYWNrLlZPQ01ldHJpYyhkZXRlY3Rvcj1kZXRlY3RvciwgY29tZXRfZXhwPU5vbmUsICoqdm9jX21ldHJpY19wYXJhbXMpCg==</text>
+        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
+        <text encoding="base64">bWV0cmljID0gcGFzY2FsX2NhbGxiYWNrLlZPQ01ldHJpYyhkZXRlY3Rvcj1kZXRlY3RvciwgY29tZXRfZXhwPU5vbmUsICoqdm9jX21ldHJpY19wYXJhbXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc2VzID0gbGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
+        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
+        <text encoding="base64">Y2xhc2VzID0gbGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dW0obWFwcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>#%%
-
-def valid_output(learn):
-    &quot;&quot;&quot;Get the model's raw output on the validation set in a learner, together
-    with the ground truth.
-
-    Return a tuple of:
-    clas_pred: tensor of shape valid_size x num_detectors x num_classes
-    bbox_pred: tensor of shape valid_size x num_detectors x 4
-    clas_gt: list of size valid_size of tensors of varying shapes k
-    bbox_gt: list of size valid_size of tensors of varying shapes k x 4
-    &quot;&quot;&quot;
-
-    def accum(res, cur):
-        return cur if res is None else torch.cat((res, cur), dim=0)
-
-    learn.model.eval()
-    clas_pred, bbox_pred = None, None
-    clas_gt, bbox_gt = [], []
-    for xb, yb in learn.data.valid_dl:
-        # collecting ground truth in clas_gt and bbox_gt (lists of tensors)
-        bbox_gt_b, clas_gt_b = tc.to_detach(yb)
-        for clas, bbox in zip(clas_gt_b, bbox_gt_b):
-            clas_gt.append(clas)
-            bbox_gt.append(bbox)
-
-        # collecting raw model output in tensors
-        clas_pred_b, bbox_pred_b = tc.to_detach(learn.model(xb))
-        clas_pred = accum(clas_pred, clas_pred_b)
-        bbox_pred = accum(bbox_pred, bbox_pred_b)
-
-    return clas_pred, bbox_pred, clas_gt, bbox_gt
-
-#%%
-
-def measure(learn):
-    clas_pred, bbox_pred, clas_gt, bbox_gt = valid_output(learn)
-    gt_boxes = defaultdict(lambda: defaultdict(list))
-    det_boxes = defaultdict(list)
-    for i in range(len(clas_gt)):
-        name = common.image_name(data, i)
-        for clas, bbox in zip(clas_gt[i], bbox_gt[i]):
-            cl = int(clas.item())  # float tensor to int
-            if cl != 0:  # ignore background class
-                gt_boxes[cl][name].append(bbox)
-
-        processed = utils.analyze_pred((clas_pred[i], bbox_pred[i]),
-                                       config=detector.config, **analyze_kwargs)
-        if processed is not None:
-            for bbox, clas, conf in zip(*processed):
-                det_boxes[int(clas.item())].append((conf, name, bbox))
-
-    mets = list(voc_metrics(gt_boxes, det_boxes, gt_boxes.keys(),
-                            iou_thresh=0.5))
-    print(f&quot;mAP: {sum([m.AP for m in mets]) / len(mets) * 100 }&quot;)
-    for m in mets:
-        print(f&quot;mAP for {clases[m.clas]} is {m.AP}&quot;)
-    return mets
-
-mets = measure(learn)
-#%%
-
-maps = [m.AP for m in mets]
-sum(maps)/(len(maps))
-s</text>
+      <register name="9" type="2">
+        <text encoding="base64">dW0obWFwcykK</text>
       </register>
     </registers>
     <search>
