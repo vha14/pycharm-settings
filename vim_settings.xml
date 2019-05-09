@@ -14,26 +14,29 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557413267442">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557442609420">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557414107350">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557442635995">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557440384300">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557440736444">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557441153684">
         <mark key="'" line="41" column="15" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+        <mark key="." line="26" column="41" />
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1557414099761">
+      <file name="/a.dummy" timestamp="1557441797072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
@@ -46,11 +49,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557088272786">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="21" column="31" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557442708439">
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="81" column="21" />
+        <mark key="^" line="81" column="20" />
+        <mark key="." line="81" column="21" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -97,11 +100,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557436001244">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557442836474">
         <mark key="'" line="137" column="19" />
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="49" />
+        <mark key="[" line="95" column="20" />
+        <mark key="]" line="95" column="21" />
+        <mark key="." line="95" column="21" />
         <mark key="^" line="31" column="49" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
@@ -125,52 +128,58 @@
       <jump line="36" column="29" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="37" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="41" column="15" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
+      <jump line="9" column="31" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
+      <jump line="11" column="27" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>batch3</text>
+        <text>BATCH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YV9wYXJhbXNfYmF0Y2gzID0gZGljdChieT0nZmlyc3QnLCBicz02NCwgc2l6ZT0yNTYsIHJlc2l6ZV9tZXRob2Q9UmVzaXplTWV0aG9kLlNRVUlTSCwgdGZtcz1nZXRfdHJhbnNmb3JtcygpKQo=</text>
+        <text encoding="base64">QkFUQ0gzID0gJ3Bpdl9kYXRhXzAzMDcxOScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUSElSRF9CQVRDSCA9ICdwaXZfZGF0YV8wMzA3MTkudGd6Jwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWV0cmljID0gcGFzY2FsX2NhbGxiYWNrLlZPQ01ldHJpYyhkZXRlY3Rvcj1kZXRlY3RvciwgY29tZXRfZXhwPU5vbmUsICoqdm9jX21ldHJpY19wYXJhbXMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc2VzID0gbGVhcm4uZGF0YS50cmFpbl9kcy55LmNsYXNzZXMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QkFUQ0g0ID0gInBpdl9kYXRhXzA1MDIxOSIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QkFUQ0gzID0gInBpdl9kYXRhXzAzMDcxOSIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QkFUQ0g0ID0gJ3Bpdl9kYXRhXzA1MDIxOScK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QkFUQ0gzID0gJ3Bpdl9kYXRhXzAzMDcxOScK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBJbWFnZURhdGFCdW5jaCwgZ2V0X3RyYW5zZm9ybXMsIGJiX3BhZF9jb2xsYXRlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dW0obWFwcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>batch3</last-search>
+      <last-search>BATCH</last-search>
       <last-offset />
-      <last-pattern>batch3</last-pattern>
+      <last-pattern>BATCH</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -179,6 +188,8 @@
         <entry>interac</entry>
         <entry>apply</entry>
         <entry>batch3</entry>
+        <entry>Handle</entry>
+        <entry>BATCH</entry>
       </history-search>
       <history-cmd />
       <history-expr />
