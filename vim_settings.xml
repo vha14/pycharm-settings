@@ -14,24 +14,22 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557442609420">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445469529">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557442635995">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557445418746">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557444119709">
-        <mark key="'" line="38" column="15" />
-        <mark key="[" line="68" column="36" />
-        <mark key="]" line="68" column="36" />
-        <mark key="^" line="68" column="36" />
-        <mark key="." line="68" column="36" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557444860115">
+        <mark key="'" line="39" column="15" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
@@ -49,11 +47,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557442708439">
-        <mark key="[" line="81" column="21" />
-        <mark key="]" line="81" column="21" />
-        <mark key="^" line="81" column="20" />
-        <mark key="." line="81" column="21" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445322816">
+        <mark key="[" line="106" column="26" />
+        <mark key="]" line="106" column="32" />
+        <mark key="." line="106" column="32" />
+        <mark key="^" line="106" column="32" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -136,8 +134,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -149,31 +147,31 @@
         <text encoding="base64">QkFUQ0gzID0gJ3Bpdl9kYXRhXzAzMDcxOScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmF0Y2gzX2RpciA9IERBVEFfUk9PVERJUiAvIEJBVENIMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJBVENIMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3QuZGF0YXNldHMuY29tbW9uIGltcG9ydCBURlJFQ09SRF9ESVIsIERBVEFfUk9PVERJUiwgZ3JvdXBieSwgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3QuZGF0YXNldHMuYmF0Y2gzIGltcG9ydCB0cmFpbl9ncm91cAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkZXRlY3QuZGF0YXNldHMgaW1wb3J0IGJhdGNoMywgYmF0Y2g0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">QkFUQ0g0ID0gInBpdl9kYXRhXzA1MDIxOSIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">YmF0Y2g0IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QkFUQ0gzID0gInBpdl9kYXRhXzAzMDcxOSIK</text>
+        <text encoding="base64">ICAgIGlmIGRhdGFzZXQgPSAiYmF0Y2gzIjoK</text>
       </register>
     </registers>
     <search>
@@ -210,6 +208,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
