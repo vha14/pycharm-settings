@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1556982198205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557444154284">
+      <file name="/Dummy.txt" timestamp="1557446286366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
@@ -14,22 +14,23 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445469529">
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557445679398">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="17" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557445418746">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557444860115">
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557446421105">
+        <mark key="'" line="40" column="35" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
@@ -47,11 +48,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445322816">
-        <mark key="[" line="106" column="26" />
-        <mark key="]" line="106" column="32" />
-        <mark key="." line="106" column="32" />
-        <mark key="^" line="106" column="32" />
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
+        <mark key="[" line="154" column="43" />
+        <mark key="]" line="154" column="44" />
+        <mark key="." line="154" column="44" />
+        <mark key="^" line="153" column="45" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -110,6 +111,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/generate_piv_tfrecords" timestamp="1557446429186">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="128" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" />
@@ -132,6 +136,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
+      <jump line="40" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -144,7 +149,7 @@
         <text>BATCH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QkFUQ0gzID0gJ3Bpdl9kYXRhXzAzMDcxOScK</text>
+        <text encoding="base64">YmF0Y2gzID0gUElWQmF0Y2goInBpdl9kYXRhXzAzMDcxOSIsICJiYXRjaDMiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -156,22 +161,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkFUQ0g0ID0gInBpdl9kYXRhXzA1MDIxOSIK</text>
+        <text encoding="base64">ICAgIGJhdGNoNCA9IGNvbW1vbi5QSVZCYXRjaCgicGl2X2RhdGFfMDUwMjE5IiwgImJhdGNoNCIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmF0Y2g0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">QkFUQ0g0ID0gInBpdl9kYXRhXzA1MDIxOSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGFzZXQgPSAiYmF0Y2gzIjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
