@@ -75,8 +75,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" timestamp="1557465250451">
+      <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" timestamp="1557467050780">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="157" column="114" />
+        <mark key="]" line="157" column="114" />
+        <mark key="." line="157" column="114" />
+        <mark key="^" line="157" column="111" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
         <mark key="[" line="21" column="0" />
@@ -101,11 +105,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557451493191">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557467376599">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="36" />
+        <mark key="." line="44" column="36" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -169,16 +173,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>ssd_mobilenet_v1_200x200</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>ssd_mobilenet_v1_200x200</text>
       </register>
       <register name="/" type="4">
         <text>step</text>
       </register>
-      <register name="0" type="4">
-        <text>mnv1_ssd_quantized_200x200.config \</text>
+      <register name="0" type="2">
+        <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICdjb25maWcvc3NkX21vYmlsZW5ldF92MV8yMDB4MjAwLmNvbmZpZycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiBzcmMvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
