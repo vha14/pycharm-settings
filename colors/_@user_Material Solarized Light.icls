@@ -1,13 +1,20 @@
 <scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-06T11:18:47</property>
+    <property name="created">2019-05-04T08:04:20</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-07T10:52:50</property>
+    <property name="modified">2019-05-04T08:14:15</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="859900" />
@@ -66,7 +73,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="ded8c7" />
     <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
     <option name="SELECTED_TEARLINE_COLOR" value="839496" />
-    <option name="SELECTION_BACKGROUND" value="efe7d2" />
+    <option name="SELECTION_BACKGROUND" value="e2dccb" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
@@ -172,12 +179,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -2361,7 +2362,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
