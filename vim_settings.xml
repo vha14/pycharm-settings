@@ -75,8 +75,8 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" timestamp="1557464633030">
-        <mark key="'" line="14" column="10" />
+      <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" timestamp="1557465250451">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
         <mark key="[" line="21" column="0" />
@@ -164,6 +164,8 @@
       <jump line="113" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="14" column="10" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
+      <jump line="171" column="2" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -173,7 +175,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>quant</text>
+        <text>step</text>
       </register>
       <register name="0" type="4">
         <text>mnv1_ssd_quantized_200x200.config \</text>
@@ -214,9 +216,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quant</last-search>
+      <last-search>step</last-search>
       <last-offset />
-      <last-pattern>quant</last-pattern>
+      <last-pattern>step</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -231,6 +233,7 @@
         <entry>GFilew</entry>
         <entry>GFile</entry>
         <entry>quant</entry>
+        <entry>step</entry>
       </history-search>
       <history-cmd />
       <history-expr />
