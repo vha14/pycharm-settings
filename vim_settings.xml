@@ -14,6 +14,12 @@
       <file name="/Python Console" timestamp="1557331920488">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" timestamp="1557502925782">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+      </file>
       <file name="/fragment.py" timestamp="1557336430493">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,7 +35,7 @@
         <mark key="'" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_data.py" timestamp="1557335451279" />
-      <file name="/Dummy.txt" timestamp="1557332144667">
+      <file name="/Dummy.txt" timestamp="1557502035681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557326708694">
@@ -39,11 +45,6 @@
       <file name="$USER_HOME$/work/piv/modeling/.tox/py36/lib/python3.6/site-packages/fastai/vision/data.py" timestamp="1557274087403">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/tf_models/research/pycocotools/coco.py" timestamp="1557245035422">
-        <mark key="'" line="160" column="56" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="59" />
       </file>
       <file name="$USER_HOME$/miniconda3/envs/piv2/lib/python3.6/site-packages/fastai/basic_train.py" timestamp="1557265786697">
         <mark key="[" line="399" column="0" />
@@ -56,9 +57,21 @@
         <mark key="." line="37" column="35" />
         <mark key="^" line="33" column="18" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557502747721">
+        <mark key="[" line="153" column="21" />
+        <mark key="]" line="155" column="49" />
+        <mark key="." line="155" column="49" />
+        <mark key="^" line="155" column="49" />
+      </file>
       <file name="$USER_HOME$/work/piv/demo/README.md" timestamp="1557325408767" />
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1556684304961">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557502783569">
+        <mark key="[" line="115" column="29" />
+        <mark key="]" line="115" column="53" />
+        <mark key="." line="115" column="53" />
+        <mark key="^" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/work/tf_models/research/pycocotools/cocoeval.py" timestamp="1557242860994">
         <mark key="'" line="425" column="20" />
@@ -110,43 +123,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Adapt</text>
+        <text>getattr(common, ds_alias)</text>
       </register>
       <register name="-" type="4">
-        <text>Adapt</text>
+        <text>getattr(common, ds_alias)</text>
       </register>
       <register name="/" type="4">
         <text>dl_tfms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W0dpdEh1YiBpc3N1ZSBsaW5rXShodHRwczovL2dpdGh1Yi5jb20vQUkySW5jdWJhdG9yL3Bpdi9pc3N1ZXMvODMpLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQkFUQ0gzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">ICAgIGJhdGNoOiBQSVZCYXRjaCA9IEJBVENIawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGFidWxhdGUgcmVjZW50IGJlbmNobWFyayBkYXRhIGFuZCBwdWJsaXNoIGZvciB2aWV3aW5nIGJ5IGFsbCBwYXJ0aWNpcGFudHMuCkNvbnRpbnVlIG9wdGltaXppbmcgVEYgTGl0ZSBhbmQgQ2FmZmUyIGNvbnZlcnNpb24gYW5kIGludGVycHJldGVyIGluIG9yZGVyIHRvIGJldHRlciBjb21wYXJlIGV4cGVjdGVkIHBlcmZvcm1hbmNlLgpCZWdpbiB3b3JrIG9uIGV4ZWN1dGluZyBhIHNlZ21lbnRhdGlvbiBtb2RlbCBvbiBlaXRoZXIgb3IgYm90aCBvZiBURiBMaXRlIGFuZCBDYWZmZTIsIGRlcGVuZGluZyBvbiBwZXJmb3JtYW5jZSBiZW5jaG1hcmtpbmcgcmVzdWx0cy4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHdpZHRoID0gcGlwZWxpbmVfY29uZmlnLm1vZGVsLnNzZC5pbWFnZV9yZXNpemVyLmZpeGVkX3NoYXBlX3Jlc2l6ZXIud2lkdGgKICAgIGhlaWdodCA9IHBpcGVsaW5lX2NvbmZpZy5tb2RlbC5zc2QuaW1hZ2VfcmVzaXplci5maXhlZF9zaGFwZV9yZXNpemVyLmhlaWdodAogICAgc2l6ZSA9ICh3aWR0aCwgaGVpZ2h0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc2l6ZV93aWR0aCwgcmVzaXplX2hlaWdodCA9IHJlc2l6ZV90bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlID0gaW1hZ2UucmVzaXplKHJlc2l6ZV90bywgSW1hZ2UuQU5USUFMSUFTKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHcsIGggPSByZXNpemVfdG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rm9yIHRoZSBjb21pbmcgd2VlazoK</text>
+        <text encoding="base64">LSAK</text>
       </register>
     </registers>
     <search>
