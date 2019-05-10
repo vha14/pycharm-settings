@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1556982198205">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1557523964294">
+        <mark key="'" line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557506050171">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -111,11 +114,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557512189847">
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="47" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557523782218">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -168,6 +171,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="113" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="29" column="9" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
+      <jump line="35" column="48" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
+      <jump line="39" column="34" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
+      <jump line="40" column="36" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -177,7 +184,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>GFile</text>
+        <text>model</text>
       </register>
       <register name="0" type="4">
         <text>mnv1_ssd_quantized_200x200.config \</text>
@@ -211,9 +218,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GFile</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>GFile</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,6 +234,7 @@
         <entry>ubuntu</entry>
         <entry>GFilew</entry>
         <entry>GFile</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd />
       <history-expr />
