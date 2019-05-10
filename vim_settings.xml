@@ -58,6 +58,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1557450179270" />
       <file name="/Dummy.txt" timestamp="1557446286366">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,17 +84,23 @@
         <mark key="." line="154" column="44" />
         <mark key="^" line="153" column="45" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/config/mnv1_ssd_quantized_200x200.config" timestamp="1557448717504">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="157" column="33" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_batch3.py" timestamp="1557447702205">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="20" />
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557447122321">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557450457009">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -144,52 +151,66 @@
       <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="40" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/work/piv/modeling/config/mnv1_ssd_quantized_200x200.config" />
+      <jump line="157" column="31" filename="$USER_HOME$/work/piv/modeling/config/mnv1_ssd_quantized_200x200.config" />
+      <jump line="167" column="25" filename="$USER_HOME$/work/piv/modeling/config/mnv1_ssd_quantized_200x200.config" />
+      <jump line="127" column="56" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="113" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TGZFILE</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>TGZFILE</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>BATCH</text>
+        <text>GFile</text>
       </register>
       <register name="0" type="4">
-        <text>piv_data_050219_fulloriginal.tar.gz)</text>
+        <text>mnv1_ssd_quantized_200x200.config \</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VEdaRklMRSA9ICJwaXZfZGF0YTEiCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiBzcmMvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3cyBzMyBjcCBzMzovL2Z1amktcGl2L3Bpdl9kYXRhXzAzMDcxOS9waXYxYTAwMDAxIHBpdl9kYXRhXzAzMDcxOS9waXYxYTAwMDAxICAtLXJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3RmX2RldGVjdGlvbl9waXBlbGluZS5jb25maWcgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3NzZF9tb2JpbGVuZXRfdjFfMjAweDIwMC5jb25maWcgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJ1biB0aGUgZm9sbGluZyBjb21tYW5kIGluIH4vcmF3ZGF0YSB0byBkb3dubG9hZCBhIHNhbXBsZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHMzOi8vZnVqaS1waXYvcGl2X2RhdGFfMDMwNzE5L3BpdjFhMDAwMDEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5vdGUgdGhhdCB0aGlzIGZvbGRlciBpcyBhYm91dCAxNkdCLCBzbyB5b3UgbWF5IHdhbnQgdG8gZG93bmxvYWQgYSBzYW1wbGUsIGUuZy4K</text>
+        <text encoding="base64">ZGVmIGdldF9zaXplKHBpcGVsaW5lX2NvbmZpZ19wYXRoOiBzdHIpOgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBwaXBlbGluZV9jb25maWcgPSBwaXBlbGluZV9wYjIuVHJhaW5FdmFsUGlwZWxpbmVDb25maWcoKQogICAgICAgIHdpdGggdGYuZ2ZpbGUuR0ZpbGUoRkxBR1MucGlwZWxpbmVfY29uZmlnX3BhdGgsICJyIikgYXMgZjoKICAgICAgICAgICAgcHJvdG9fc3RyID0gZi5yZWFkKCkKICAgICAgICAgICAgdGV4dF9mb3JtYXQuTWVyZ2UocHJvdG9fc3RyLCBwaXBlbGluZV9jb25maWcp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IE5vbmUK</text>
+      <register name="9" type="4">
+        <text>eval_input_reader {
+  label_map_path: &quot;/home/ubuntu/work/tf-traintest/labels.pbtxt&quot;
+  shuffle: false
+  num_readers: 1
+  tf_record_input_reader {
+    input_path: &quot;/home/ubuntu/work/batch4_eval_first.record&quot;
+  }
+}</text>
       </register>
     </registers>
     <search>
-      <last-search>BATCH</last-search>
+      <last-search>GFile</last-search>
       <last-offset />
-      <last-pattern>BATCH</last-pattern>
+      <last-pattern>GFile</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -200,6 +221,9 @@
         <entry>batch3</entry>
         <entry>Handle</entry>
         <entry>BATCH</entry>
+        <entry>ubuntu</entry>
+        <entry>GFilew</entry>
+        <entry>GFile</entry>
       </history-search>
       <history-cmd />
       <history-expr />
