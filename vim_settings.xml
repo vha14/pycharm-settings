@@ -61,6 +61,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1557592093010" />
       <file name="/Dummy.txt" timestamp="1557446286366">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,6 +75,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/config/ssd_resnet50_v1_fpn_256x256.config" timestamp="1557592003714">
+        <mark key="[" line="157" column="13" />
+        <mark key="]" line="157" column="14" />
+        <mark key="." line="157" column="14" />
+        <mark key="^" line="157" column="14" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" timestamp="1557467050780">
         <mark key="'" line="0" column="0" />
@@ -105,8 +112,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557467376599">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557592066575">
         <mark key="'" line="16" column="0" />
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="63" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -170,16 +181,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>step</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICdjb25maWcvc3NkX21vYmlsZW5ldF92MV8yMDB4MjAwLmNvbmZpZycK</text>
+        <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICdjb25maWcvc3NkX21vYmlsZW5ldF92MV8yMDB4MjAwX3F1YW50aXplZC5jb25maWcnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiBzcmMvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
