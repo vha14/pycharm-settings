@@ -124,11 +124,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557206060827">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557614758498">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="23" />
+        <mark key="." line="67" column="23" />
+        <mark key="^" line="67" column="38" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -178,6 +179,7 @@
       <jump line="14" column="10" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
       <jump line="171" column="2" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
