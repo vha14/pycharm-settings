@@ -107,9 +107,6 @@
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557467376599">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="36" />
-        <mark key="." line="44" column="36" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -127,11 +124,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557442836474">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" timestamp="1557547832902">
         <mark key="'" line="137" column="19" />
-        <mark key="[" line="95" column="20" />
-        <mark key="]" line="95" column="21" />
-        <mark key="." line="95" column="21" />
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="49" />
+        <mark key="." line="31" column="79" />
         <mark key="^" line="31" column="49" />
       </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
@@ -173,10 +170,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssd_mobilenet_v1_200x200</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>ssd_mobilenet_v1_200x200</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>step</text>
