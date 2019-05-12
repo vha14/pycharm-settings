@@ -111,6 +111,9 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1557672820773">
+        <mark key="'" line="60" column="33" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557592066575">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="43" column="36" />
@@ -139,6 +142,9 @@
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="42" />
         <mark key="^" line="11" column="47" />
+      </file>
+      <file name="/new_retina_exp" timestamp="1557671453893">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -189,6 +195,7 @@
       <jump line="171" column="2" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
+      <jump line="60" column="33" filename="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -198,7 +205,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>step</text>
+        <text>datasets_co</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICdjb25maWcvc3NkX21vYmlsZW5ldF92MV8yMDB4MjAwX3F1YW50aXplZC5jb25maWcnCg==</text>
@@ -232,9 +239,9 @@
       </register>
     </registers>
     <search>
-      <last-search>step</last-search>
+      <last-search>datasets_co</last-search>
       <last-offset />
-      <last-pattern>step</last-pattern>
+      <last-pattern>datasets_co</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -250,6 +257,8 @@
         <entry>GFile</entry>
         <entry>quant</entry>
         <entry>step</entry>
+        <entry>dataset_co</entry>
+        <entry>datasets_co</entry>
       </history-search>
       <history-cmd />
       <history-expr />
