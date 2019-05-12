@@ -40,7 +40,7 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/install_tf_object_detection.sh" timestamp="1557687621468" />
-      <file name="$USER_HOME$/work/piv/.bazelrc" timestamp="1557688504279">
+      <file name="$USER_HOME$/work/piv/.bazelrc" timestamp="1557690297510">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
@@ -219,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>datasets_co</text>
