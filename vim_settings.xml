@@ -19,7 +19,7 @@
         <mark key="." line="72" column="42" />
         <mark key="^" line="72" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1557494478092">
+      <file name="/Python Console" timestamp="1557668515656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
@@ -61,7 +61,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1557592093010" />
       <file name="/Dummy.txt" timestamp="1557601557683">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,12 +123,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557614758498">
+      <file name="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" timestamp="1557641710985">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="67" column="23" />
-        <mark key="." line="67" column="23" />
-        <mark key="^" line="67" column="38" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -183,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>101</text>
+        <text>252</text>
       </register>
       <register name="-" type="4">
-        <text>101</text>
+        <text>252</text>
       </register>
       <register name="/" type="4">
         <text>step</text>
@@ -195,38 +194,31 @@
         <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICdjb25maWcvc3NkX21vYmlsZW5ldF92MV8yMDB4MjAwX3F1YW50aXplZC5jb25maWcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiBzcmMvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaHZpc2lvbiBpbXBvcnQgbW9kZWxzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3RmX2RldGVjdGlvbl9waXBlbGluZS5jb25maWcgXAo=</text>
+        <text encoding="base64">bW5uID0gbW9kZWxzLm1uYXNuZXQxXzAocHJldHJhaW5lZD1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3NzZF9tb2JpbGVuZXRfdjFfMjAweDIwMC5jb25maWcgXAo=</text>
+        <text encoding="base64">ICAgIHB5dGhvbiBzcmMvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3RmX2RldGVjdGlvbl9waXBlbGluZS5jb25maWcgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9Y29uZmlnL3NzZF9tb2JpbGVuZXRfdjFfMjAweDIwMC5jb25maWcgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9zaXplKHBpcGVsaW5lX2NvbmZpZ19wYXRoOiBzdHIpOgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBwaXBlbGluZV9jb25maWcgPSBwaXBlbGluZV9wYjIuVHJhaW5FdmFsUGlwZWxpbmVDb25maWcoKQogICAgICAgIHdpdGggdGYuZ2ZpbGUuR0ZpbGUoRkxBR1MucGlwZWxpbmVfY29uZmlnX3BhdGgsICJyIikgYXMgZjoKICAgICAgICAgICAgcHJvdG9fc3RyID0gZi5yZWFkKCkKICAgICAgICAgICAgdGV4dF9mb3JtYXQuTWVyZ2UocHJvdG9fc3RyLCBwaXBlbGluZV9jb25maWcp</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGdldF9zaXplKHBpcGVsaW5lX2NvbmZpZ19wYXRoOiBzdHIpOgo=</text>
+      </register>
       <register name="9" type="4">
-        <text>eval_input_reader {
-  label_map_path: &quot;/home/ubuntu/work/tf-traintest/labels.pbtxt&quot;
-  shuffle: false
-  num_readers: 1
-  tf_record_input_reader {
-    input_path: &quot;/home/ubuntu/work/batch4_eval_first.record&quot;
-  }
-}</text>
+        <text encoding="base64">ICAgICAgICBwaXBlbGluZV9jb25maWcgPSBwaXBlbGluZV9wYjIuVHJhaW5FdmFsUGlwZWxpbmVDb25maWcoKQogICAgICAgIHdpdGggdGYuZ2ZpbGUuR0ZpbGUoRkxBR1MucGlwZWxpbmVfY29uZmlnX3BhdGgsICJyIikgYXMgZjoKICAgICAgICAgICAgcHJvdG9fc3RyID0gZi5yZWFkKCkKICAgICAgICAgICAgdGV4dF9mb3JtYXQuTWVyZ2UocHJvdG9fc3RyLCBwaXBlbGluZV9jb25maWcp</text>
       </register>
     </registers>
     <search>
