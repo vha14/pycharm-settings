@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1557523964294">
         <mark key="'" line="40" column="36" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1557763446093" />
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557506050171">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -22,11 +23,19 @@
         <mark key="." line="72" column="42" />
         <mark key="^" line="72" column="42" />
       </file>
+      <file name="/Python Console" timestamp="1557762680625">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1557447885914">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/deploy/snapshot.py" timestamp="1557763021430">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
         <mark key="[" line="5" column="0" />
@@ -61,13 +70,19 @@
         <mark key="^" line="86" column="60" />
         <mark key="." line="86" column="60" />
       </file>
+      <file name="$USER_HOME$/work/piv/requirements-tf.txt" timestamp="1557761228985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="0" column="61" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1557511282952" />
-      <file name="/Dummy.txt" timestamp="1557503525385">
+      <file name="/Dummy.txt" timestamp="1557762616661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
@@ -103,6 +118,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1557761496997">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" timestamp="1557504930206">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="17" column="4" />
@@ -125,6 +146,12 @@
         <mark key="]" line="157" column="46" />
         <mark key="." line="157" column="46" />
         <mark key="^" line="157" column="71" />
+      </file>
+      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557761964291">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+        <mark key="^" line="7" column="65" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -178,7 +205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYXRjaDQtdGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -186,35 +213,35 @@
       <register name="/" type="4">
         <text>model</text>
       </register>
-      <register name="0" type="4">
-        <text>mnv1_ssd_quantized_200x200.config \</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9BSTJJbmN1YmF0b3IvbW9kZWxzLmdpdEB3aXRoX3Byb3RvI3N1YmRpcmVjdG9yeT1yZXNlYXJjaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYXRjaDQtdGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGl2X2NsYXNzZXMgPSB7J3ZlaW4nOiAndmVpbicsICdhcnRlcnknOiAnYXJ0ZXJ5JywgJ3Zlc3NlbCc6ICd2ZXNzZWwnfQo=</text>
+        <text encoding="base64">ZnJvbSB0b29scy5idWlsZCBpbXBvcnQgYnVpbGRfc3RhdHVzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGl2X2NsYXNzZXMgPSB7J3ZlaW4nOiAndmVpbicsICdhcnRlcnknOiAnYXJ0ZXJ5JywgJ3Zlc3NlbCc6ICd2ZXNzZWwnfQo=</text>
+        <text encoding="base64">IyBwaXAgaW5zdGFsbCB0b3JjaD09MS4wLjEgLWYgaHR0cHM6Ly9kb3dubG9hZC5weXRvcmNoLm9yZy93aGwvY3UxMDAvc3RhYmxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Ly90b29scy9kZXZlbnYvaW5zdGFsbF90Zl9vYmplY3RfZGV0ZWN0aW9uLnNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9jb2NvZGF0YXNldC9jb2NvYXBpLmdpdCNzdWJkaXJlY3Rvcnk9UHl0aG9uQVBJCmdpdCtodHRwczovL2dpdGh1Yi5jb20vQUkySW5jdWJhdG9yL21vZGVscy5naXRAd2l0aF9wcm90byNzdWJkaXJlY3Rvcnk9cmVzZWFyY2gKZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9BSTJJbmN1YmF0b3IvbW9kZWxzLmdpdEB3aXRoX3Byb3RvI3N1YmRpcmVjdG9yeT1yZXNlYXJjaC9zbGltCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmcm9tX2RldGVjdGlvbl9jaGVja3BvaW50OiBmYWxzZQo=</text>
+        <text encoding="base64">IyBjb25kYSBpbnN0YWxsIGdyYXBodml6IHB5dGhvbi1ncmFwaHZpego=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2dpdCtodHRwczovL2dpdGh1Yi5jb20vdGVuc29yZmxvdy9tb2RlbHMuZ2l0I3N1YmRpcmVjdG9yeT1yZXNlYXJjaC9zbGltCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBiYXRjaDQtdGYK</text>
       </register>
     </registers>
     <search>
