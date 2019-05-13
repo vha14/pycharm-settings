@@ -155,17 +155,17 @@
         <mark key="." line="157" column="46" />
         <mark key="^" line="157" column="71" />
       </file>
-      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557765118064">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557778973764">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1557768248712">
-        <mark key="'" line="59" column="34" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="25" column="16" />
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1557779271484">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="43" />
+        <mark key="^" line="96" column="43" />
+        <mark key="." line="96" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -183,6 +183,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/piv/requirements-gstreamer.txt" timestamp="1557778975093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
         <mark key="[" line="0" column="0" />
@@ -222,52 +227,55 @@
       <jump line="39" column="34" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
       <jump line="40" column="36" filename="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" />
       <jump line="47" column="34" filename="$USER_HOME$/work/piv/README.md" />
+      <jump line="55" column="0" filename="$USER_HOME$/work/piv/README.md" />
+      <jump line="109" column="2" filename="$USER_HOME$/work/piv/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>modeling</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>ignor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YmF6ZWwgcnVuIC8vZXhwZXJpbWVudGFsL2RlcGxveTpkZXBsb3lfdGZleHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnc3RyZWFtZXIxLjAtcGx1Z2lucy1nb29kICBnaXIxLjItZ3N0cmVhbWVyLTEuMCBnc3RyZWFtZXIxLjAtZ3RrMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgRm9yIEdzdHJlYW1lcgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KiAqKkNvZGluZyBzdHlsZSoqOiBXZSBoYXZlIGEgbGlnaHQtd2VpZ2h0IGFwcHJvYWNoIHRvIGNvZGluZyBzdHlsZSBhbmQgCnRlc3RpbmcsIG1hbmFnZWQgYnkgdG94LiBTZWUgW3RveCcgY29uZmlnIGZpbGVdKC4vdG94LmluaSkgZm9yIG1vcmUgZGV0YWlscy4gCk5vdGUgdGhhdCBzdHlsZSBjaGVja2VyIGlzIGZsYWtlOCB3aXRoIGxvdHMgb2YgcnVsZXMgZGlzYWJsZWQuICAKICAtIFdlIHVzZSBhIGNvZGUgYXV0b2Zvcm1hdHRlciwgYHlhcGZgLCB0aGF0IGlzIGluY2x1ZGVkIGluIHRoZSAKICBgcmVxdWlyZW1lbnRzLnR4dGAuIGB5YXBmYCBpcyBjb25maWd1cmVkIHRvIHJ1biBvbiBhbGwgCmNvbW1pdHMgdXNpbmcgYSBwcmUtY29tbWl0IGhvb2suIENvcHkgYHByZS1jb21taXRgIHRvIHRoZSBgLmdpdC9ob29rc2AgCmRpcmVjdG9yeSBpbiB5b3VyIGxvY2FsIHJlcG9zaXRvcnkuIAogIC0gSWYgYHlhcGZgIGJyZWFrcyBgZmxha2U4YCwgd2hpY2ggaXMgcmFyZSwgb3VyIHBvbGljeSBpcyB0byBkaXNhYmxlIHRoZSAKICBjb3JyZXNwb25kaW5nIHJ1bGUuIFRoZSBnZW5lcmFsIHBoaWxvc29waHkgaXMgbm90IHRvIGJlIGZ1c3N5IGFib3V0IGhvdyB0aGUKICAgY29kZSBsb29rcywgYXZvaWRpbmcgZGViYXRlcyBhYm91dCB3aGF0IGJlYXV0aWZ1bCBjb2RlIGxvb2tzIGxpa2UuIFdlIGp1c3QKICAgIGFpbSBmb3IgY29uc2lzdGVuY3ksIGFuZCBhbiBhdXRvLWZvcm1hdHRlciBnaXZlcyB1cyBqdXN0IHRoYXQuICAgIAoqICoqQ29udGludW91cyBpbnRlZ3JhdGlvbioqOiBpcyBoYW5kbGVkIGJ5IHRyYXZpcy5jb20sIHdoaWNoIHNpbXBseSBydW5zIHRveAogdG8gY2hlY2sgZm9yIHRlc3QgcGFzc2luZyBhbmQgY29kaW5nIHN0eWxlIGlzc3Vlcy4gTWFrZSBzdXJlIHRoYXQgdG94IAog</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyBpcyBmb3IgdGhlIHB1cnBvc2Ugb2YgdmlzdWFsaXppbmcgdmlkZW9zLgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYXplbCBydW4gOmRlcGxveV90ZmV4cAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IyMjIFNldHVwIGxpYnJhcmllcyBmb3IgR1N0cmVhbWVyOgoKVGhpcyBpcyBmb3IgdGhlIHB1cnBvc2Ugb2YgdmlzdWFsaXppbmcgdmlkZW9zLgoKYGBgYmFzaAojIEZvciBQeUdvYmplY3QKc3VkbyBhcHQgaW5zdGFsbCBweXRob24zLWdpIHB5dGhvbjMtZ2ktY2Fpcm8gZ2lyMS4yLWd0ay0zLjAKCiMgRm9yIEdzdHJlYW1lcgpzdWRvIGFwdCBpbnN0YWxsIGdzdHJlYW1lcjEuMC10b29scyBnc3RyZWFtZXIxLjAtcGx1Z2lucy1iYXNlIFwKIGdzdHJlYW1lcjEuMC1wbHVnaW5zLWdvb2QgIGdpcjEuMi1nc3RyZWFtZXItMS4wIGdzdHJlYW1lcjEuMC1ndGszCmBgYAog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXplbCBydW4gOmRlcGxveV9leHAK</text>
+        <text encoding="base64">cHljYWlybz09MS4xOC4xCnB5Z29iamVjdD09My4zMi4xCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRhcHRlZCBmcm9tIG1vZGVsX21haW4ucHkgaW4gVEYgb2JqZWN0IGRldGVjdGlvbiBBUEkuCg==</text>
+        <text encoding="base64">KHBpdikg4p6cICBwaXYgZ2l0OihmaW5pc2gtcmVvcmctdnUpIOKclyBjYXQgdXNlci5iYXplbHJjICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">RGlyZWN0bHkgd2l0aCBweXRob246IAoKUFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IC0tbG9ndG9zdGRlcnIgJgoKUnVuIHdpdGggYmF6ZWw6CgpiYXplbCBydW4gLy9leHBlcmltZW50YWwvc2NyaXB0czp0cmFpbl90Zm1vZGVsIC0tIFwKICAgIC0tcGlwZWxpbmVfY29uZmlnX3BhdGg9ZXhwZXJpbWVudGFsL2NvbmZpZy9zc2RfbW9iaWxlbmV0X3YxXzIwMHgyMDBfcXVhbnRpemVkLmNvbmZpZyBcCiAgICAtLW1vZGVsX2Rpcj0uL2NoZWNrcG9pbnRzIFwKICAgIC0tbnVtX3RyYWluX3N0ZXBzPTUwMCBcCiAgICAtLXVzZV9jb21ldCBcCiAgICAtLW51bV9ldmFsX3N0ZXBzPTEwMCBcCiAgICAtLWxvZ3Rvc3RkZXJyCgpJZiB1c2VfY29tZXQsIHRoZSBtb2RlbF9kaXIgd2lsbCBiZSBzZXQgdG8KczM6Ly9mdWppLXBpdi90cmFpbi1ja3B0L1RlbnNvcmZsb3cvW2V4cGVyaW1lbnRfaWRdLgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnc3RyZWFtZXIxLjAtcGx1Z2lucy1nb29kICBnaXIxLjItZ3N0cmVhbWVyLTEuMCBnc3RyZWFtZXIxLjAtZ3RrMwo=</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>ignor</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>ignor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -282,6 +290,7 @@
         <entry>GFilew</entry>
         <entry>GFile</entry>
         <entry>model</entry>
+        <entry>ignor</entry>
       </history-search>
       <history-cmd />
       <history-expr />
