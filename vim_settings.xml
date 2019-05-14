@@ -9,10 +9,10 @@
       <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_exp.py" timestamp="1557523964294">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1557767583713">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1557876267638">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557506050171">
@@ -20,9 +20,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1557866333666">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
@@ -168,10 +165,11 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1557862679003">
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="37" />
-        <mark key="." line="45" column="37" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1557876112260">
+        <mark key="[" line="46" column="53" />
+        <mark key="]" line="46" column="53" />
+        <mark key="." line="46" column="53" />
+        <mark key="^" line="46" column="53" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -263,44 +261,44 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_resnet50_v1_fpn_256x256.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBtZXRzID0gZGV0ZWN0b3IubWVhc3VyZShpb3VfdGhyZXNoPTAuNzUsICoqYW5hbHl6ZV9rd2FyZ3MpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>, **analyze_kwargs</text>
       </register>
       <register name="/" type="4">
         <text>50000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lPSJtQVBASW9VPTAuNSIsCg==</text>
+        <text encoding="base64">bWV0cyA9IGRldGVjdG9yLm1lYXN1cmUoYW5hbHl6ZV9rd2FyZ3MsIGlvdV90aHJlc2g9MC41KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiaW91X3RocmVzaCI6IDAuNQo=</text>
+        <text encoding="base64">IyBtZXRzID0gZGV0ZWN0b3IubWVhc3VyZShpb3VfdGhyZXNoPTAuNzUsICoqYW5hbHl6ZV9rd2FyZ3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiaW91X3RocmVzaCI6IDAuNSwK</text>
+        <text encoding="base64">ICAgICAgICAiaW91X3RocmVzaCI6IDAuNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpb3VfdGhyZXNoPTAuNzUsIAo=</text>
+        <text encoding="base64">ICAgICAgICAiaW91X3RocmVzaCI6IDAuNSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidXBkYXRlX2ZyZXEiOiA1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpb3VfdGhyZXNoPTAuNzUsIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZfdGhyZXNoOiBUaGUgY29uZmlkZW5jZSB0aHJlc2hvbGQgZm9yIGFuYWx5emVfa3dhcmdzLgo=</text>
+        <text encoding="base64">ICAgICAgICAidXBkYXRlX2ZyZXEiOiA1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5tc19vdmVybGFwOiBOb24tbWF4aW11bSBzdXBwcmVzc2lvbiBmb3IgYW5hbHl6ZV9rd2FyZ3MuCg==</text>
+        <text encoding="base64">ICAgIGNvbmZfdGhyZXNoOiBUaGUgY29uZmlkZW5jZSB0aHJlc2hvbGQgZm9yIGFuYWx5emVfa3dhcmdzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzX21BUHMgPSBbKG0uY2xhcywgbS5BUCAqIG11bHRpcGxpZXIpIGZvciBtIGluIG1ldHNdCg==</text>
+        <text encoding="base64">ICAgIG5tc19vdmVybGFwOiBOb24tbWF4aW11bSBzdXBwcmVzc2lvbiBmb3IgYW5hbHl6ZV9rd2FyZ3MuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjbGFzLCBjX21BUCkgaW4gY2xhc19tQVBzOgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzX21BUHMgPSBbKG0uY2xhcywgbS5BUCAqIG11bHRpcGxpZXIpIGZvciBtIGluIG1ldHNdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjbGFzLCBjX21BUCkgaW4gY2xhc19tQVBzOgo=</text>
       </register>
     </registers>
     <search>
