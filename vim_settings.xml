@@ -79,7 +79,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/deploy/deploy_tfexp.py" timestamp="1557511282952" />
       <file name="/Dummy.txt" timestamp="1557849558803">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,6 +97,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/visualize.py" timestamp="1557851236173">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557511355870">
         <mark key="[" line="165" column="0" />
@@ -234,16 +239,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>experimental/config/ssd_mobilenet_v1_200x200_quantized.config</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>experimental/config/ssd_mobilenet_v1_200x200_quantized.config</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>50000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICJleHBlcmltZW50YWwvY29uZmlnL3NzZF9tb2JpbGVuZXRfdjFfMjAweDIwMF9xdWFudGl6ZWQuY29uZmlnIgo=</text>
+        <text encoding="base64">bGVhcm4ubG9hZCgibW9kZWxfODAuNDA2IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
