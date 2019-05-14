@@ -208,10 +208,10 @@
         <mark key="^" line="48" column="19" />
         <mark key="." line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_tfexp.py" timestamp="1557863108997">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_tfexp.py" timestamp="1557875236716">
+        <mark key="[" line="101" column="32" />
+        <mark key="]" line="101" column="32" />
+        <mark key="." line="101" column="32" />
         <mark key="^" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements-gstreamer.txt" timestamp="1557778975093">
@@ -263,11 +263,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_resnet50_v1_fpn_256x256.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaW91X3RocmVzaCI6IDAuNQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;voc_metric&quot;</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>50000</text>
