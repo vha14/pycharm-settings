@@ -79,7 +79,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557849558803">
+      <file name="/Dummy.txt" timestamp="1557851415614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
@@ -98,11 +98,11 @@
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/visualize.py" timestamp="1557851236173">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/work/piv/experimental/scripts/visualize.py" timestamp="1557851935752">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557511355870">
         <mark key="[" line="165" column="0" />
@@ -238,11 +238,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_resnet50_v1_fpn_256x256.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>50000</text>
@@ -251,25 +251,25 @@
         <text encoding="base64">bGVhcm4ubG9hZCgibW9kZWxfODAuNDA2IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IC0tbG9ndG9zdGRlcnIgJgo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IC0tbG9ndG9zdGRlcnIgJgo=</text>
+        <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmF6ZWwtYmluL2V4cGVyaW1lbnRhbC9zY3JpcHRzL3JldGluYV9leHAucGFyIGJhdGNoMyAtLXVzZV9jb21ldCA9IFRydWUK</text>
+        <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IC0tbG9ndG9zdGRlcnIgJgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmF6ZWwgYnVpbGQgLy9leHBlcmltZW50YWwvc2NyaXB0czp0cmFpbl90Zm1vZGVsLnBhcgo=</text>
+        <text encoding="base64">UFlUSE9OUEFUSD0uIHB5dGhvbiBleHBlcmltZW50YWwvc2NyaXB0cy90cmFpbl90Zm1vZGVsLnB5IC0tbG9ndG9zdGRlcnIgJgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmF6ZWwtYmluL2V4cGVyaW1lbnRhbC9zY3JpcHRzL3JldGluYV9leHAucGFyIGJhdGNoMyAtLXVzZV9jb21ldCA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmF6ZWwgYnVpbGQgLy9leHBlcmltZW50YWwvc2NyaXB0czp0cmFpbl90Zm1vZGVsLnBhcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
