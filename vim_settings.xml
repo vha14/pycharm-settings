@@ -79,7 +79,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557851415614">
+      <file name="/Dummy.txt" timestamp="1557858285133">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
@@ -153,6 +153,11 @@
         <mark key="]" line="11" column="47" />
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1557858407062">
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -238,17 +243,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_resnet50_v1_fpn_256x256.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>50000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGVhcm4ubG9hZCgibW9kZWxfODAuNDA2IikK</text>
+        <text encoding="base64">bWV0cyA9IGRldGVjdG9yLm1lYXN1cmUoaW91X3RocmVzaD0wLjc1LCAqKmFuYWx5emVfa3dhcmdzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
