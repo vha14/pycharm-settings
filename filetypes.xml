@@ -9,6 +9,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="fp" type="PLAIN_TEXT" />
       <mapping pattern=".yapf.style" type="PLAIN_TEXT" />
       <mapping ext="hi_py" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
