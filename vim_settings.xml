@@ -23,7 +23,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/tools/devenv/install_tf_object_detection.sh" timestamp="1557687621468" />
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1557802753545">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -50,6 +49,12 @@
       <file name="$USER_HOME$/work/piv/.style.yapf" timestamp="1557803447017">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/scratch.py" timestamp="1557810857636">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -71,7 +76,6 @@
       <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1557673839877">
         <mark key="'" line="60" column="33" />
       </file>
-      <file name="$USER_HOME$/work/piv/demo/README.md" timestamp="1557688410957" />
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
@@ -91,7 +95,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" timestamp="1557723905028" />
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -105,6 +108,10 @@
       </file>
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/datasets/resolver.py" timestamp="1557810484308">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="51" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -253,51 +260,51 @@
       <jump line="34" column="8" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="/" type="4">
-        <text>device</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZGljdGlvbl9jbGFzc2VzID0gcHJlZGljdGlvbl9jbGFzc2VzLnRvKHNlbGYuZGV2aWNlKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRldmljZSA9ICJjdWRhIiBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpIGVsc2UgImNwdSIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZhc3RhaQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2UgPSAiY3VkYSIgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlICJjcHUiCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">IyUlCg==</text>
       </register>
+      <register name="-" type="4">
+        <text>names4</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwiXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoZiJiYXRjaDQgaGFzIHtsZW4obmFtZXM0KX0gaW1hZ2VzIikK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bGVuKG5hbWVzNCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGVuKG5hbWVzMykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGVuKG5hbWVzMy5pbnRlcnNlY3Rpb24obmFtZXM0KSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXM0IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QkFUQ0gzLmRpcl9uYW1lCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGJhdGNoMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWV0cyA9IG1ldHM3NQo=</text>
+        <text encoding="base64">YjNkID0gYmF0Y2gzLgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>device</last-search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -320,6 +327,7 @@
         <entry>tc\.</entry>
         <entry>devide</entry>
         <entry>device</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
