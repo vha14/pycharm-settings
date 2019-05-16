@@ -6,13 +6,19 @@
       <file name="/start_script.py" timestamp="1557807657775">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1558041267341">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="21" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557445679398">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557983105992">
+      <file name="/Python Console" timestamp="1558040926956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1557809403867">
@@ -51,17 +57,23 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1557802753545">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558040641765">
+        <mark key="[" line="133" column="33" />
+        <mark key="]" line="133" column="40" />
+        <mark key="^" line="133" column="40" />
+        <mark key="." line="133" column="40" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_batch4.py" timestamp="1557448234150">
         <mark key="[" line="14" column="65" />
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1558041589972">
+        <mark key="[" line="18" column="68" />
+        <mark key="]" line="18" column="69" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="18" column="69" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/video_overlay_window.py" timestamp="1557808702823">
         <mark key="'" line="0" column="0" />
@@ -113,7 +125,7 @@
         <mark key="." line="157" column="14" />
         <mark key="^" line="157" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557724018742">
+      <file name="/Dummy.txt" timestamp="1558041099957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
@@ -186,6 +198,11 @@
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558040376450">
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -274,17 +291,17 @@
       <jump line="48" column="0" filename="$USER_HOME$/work/piv/doc/May13_2019.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Tm90ZTogd2Ugc2hvdWxkIHN0YXJ0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>ssd</text>
       </register>
       <register name="-" type="4">
-        <text>two</text>
+        <text>ssd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>for PyTorch RetinaNet.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX3BjdD0xMDAsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Tm90ZTogd2Ugc2hvdWxkIHN0YXJ0IAo=</text>
