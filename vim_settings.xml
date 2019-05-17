@@ -103,6 +103,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1558064375450">
+        <mark key="'" line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -289,6 +292,9 @@
       <jump line="40" column="33" filename="$USER_HOME$/work/piv/inference/piv_retina_detector.py" />
       <jump line="34" column="8" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
       <jump line="48" column="0" filename="$USER_HOME$/work/piv/doc/May13_2019.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
+      <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
+      <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,7 +304,7 @@
         <text>ssd</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwiXD4=</text>
+        <text>mean</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX3BjdD0xMDAsCg==</text>
@@ -332,10 +338,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-search>mean</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>mean</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -359,6 +365,7 @@
         <entry>devide</entry>
         <entry>device</entry>
         <entry encoding="base64">XDwiXD4=</entry>
+        <entry>mean</entry>
       </history-search>
       <history-cmd />
       <history-expr />
