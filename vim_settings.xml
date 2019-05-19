@@ -29,11 +29,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558040641765">
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="133" column="40" />
-        <mark key="^" line="133" column="40" />
-        <mark key="." line="133" column="40" />
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558305211486">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1558062466228">
         <mark key="[" line="18" column="68" />
@@ -98,21 +98,22 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1557803608755">
-        <mark key="'" line="75" column="42" />
-        <mark key="[" line="96" column="58" />
-        <mark key="]" line="96" column="64" />
-        <mark key="." line="96" column="64" />
-        <mark key="^" line="96" column="64" />
+      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558305167573">
+        <mark key="'" line="78" column="42" />
+        <mark key="[" line="70" column="42" />
+        <mark key="]" line="70" column="43" />
+        <mark key="." line="70" column="43" />
+        <mark key="^" line="66" column="45" />
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558293355131">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="37" />
-        <mark key="^" line="56" column="37" />
-        <mark key="." line="56" column="37" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558305628348">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="58" column="19" />
+        <mark key="." line="58" column="19" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -309,13 +310,14 @@
       <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="68" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="22" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>Valid</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>Valid</text>
       </register>
       <register name="/" type="4">
         <text>std</text>
@@ -403,6 +405,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
