@@ -29,11 +29,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558305211486">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="31" column="12" />
-        <mark key="." line="31" column="12" />
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558307877609">
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="49" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1558062466228">
         <mark key="[" line="18" column="68" />
@@ -314,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Valid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Valid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>std</text>
