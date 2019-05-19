@@ -142,6 +142,12 @@
       <file name="/fragment.py" timestamp="1557078552273">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/doc/tensorflow/tflite_conversion_and_deploy.md" timestamp="1558288049849">
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="83" column="12" />
+        <mark key="^" line="85" column="12" />
+        <mark key="." line="83" column="12" />
+      </file>
       <file name="$USER_HOME$/work/piv/datasets/resolver.py" timestamp="1557810484308">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="51" />
@@ -309,43 +315,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssd</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ssd</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>std</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX3BjdD0xMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGZsaXRlX2NvbnZlcnQgXCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAtLWdyYXBoX2RlZl9maWxlPTxzb21lIGRpcj4vdGZsaXRlX2dyYXBoLnBiIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Tm90ZTogd2Ugc2hvdWxkIHN0YXJ0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1pbnB1dF9maWxlPTxtb2RlbF9kaXJlY3Rvcnk+L291dHB1dC90ZmxpdGVfZ3JhcGgucGIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYmF6ZWwgcnVuIC0tY29uZmlnPW9wdCB0ZW5zb3JmbG93L2xpdGUvdG9jbzp0b2NvIC0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmVhcyB0aGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1hbGxvd19jdXN0b21fb3BzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGF0IElvVT0wLjUsIHdlIGFyZSBzZWVpbmcgZGVjZW50IG1BUCBwZXJmb3JtYW5jZSwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1zdGRfdmFsdWVzPTEyOCAtLWNoYW5nZV9jb25jYXRfaW5wdXRfcmFuZ2VzPWZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBQcm9jZXNzIGJhdGNoNCBkYXRhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1pbmZlcmVuY2VfdHlwZT1RVUFOVElaRURfVUlOVDggLS1tZWFuX3ZhbHVlcz0xMjgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1vdXRwdXRfYXJyYXlzPSdURkxpdGVfRGV0ZWN0aW9uX1Bvc3RQcm9jZXNzJywnVEZMaXRlX0RldGVjdGlvbl9Qb3N0UHJvY2VzczoxJywnVEZMaXRlX0RldGVjdGlvbl9Qb3N0UHJvY2VzczoyJywnVEZMaXRlX0RldGVjdGlvbl9Qb3N0UHJvY2VzczozJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IFRoZSByZXN1bHRzIHdlcmUgbm90IGdyZWF0IChtQVBAMC41IGFib3V0IDQ3JSkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1pbnB1dF9hcnJheXM9bm9ybWFsaXplZF9pbnB1dF9pbWFnZV90ZW5zb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W0dpdEh1YiBpc3N1ZSBsaW5rXShodHRwczovL2dpdGh1Yi5jb20vQUkySW5jdWJhdG9yL3Bpdi9pc3N1ZXMvODMpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1pbnB1dF9zaGFwZXM9MSwzMDAsMzAwLDMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TW9iaWxlTmV0VjIgb24gYmF0Y2gzLiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLS1vdXRwdXRfZmlsZT08bW9kZWxfZGlyZWN0b3J5Pi9vdXRwdXQvZGV0ZWN0LnRmbGl0ZQo=</text>
       </register>
     </registers>
     <search>
