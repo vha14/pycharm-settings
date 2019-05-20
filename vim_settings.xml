@@ -98,22 +98,22 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558388522858">
-        <mark key="'" line="78" column="42" />
-        <mark key="[" line="89" column="69" />
-        <mark key="]" line="90" column="11" />
-        <mark key="." line="90" column="11" />
-        <mark key="^" line="90" column="11" />
+      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558390152275">
+        <mark key="'" line="79" column="42" />
+        <mark key="[" line="97" column="13" />
+        <mark key="]" line="97" column="13" />
+        <mark key="." line="97" column="13" />
+        <mark key="^" line="97" column="12" />
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558388749686">
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558389693035">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="21" />
-        <mark key="^" line="25" column="21" />
-        <mark key="." line="25" column="21" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="61" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -314,43 +314,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>std</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsaWRfaXRlbXMgPSBkYXRhLnZhbGlkX2RzLml0ZW1zCg==</text>
+        <text encoding="base64">dmFsaWRfeF9pdGVtcyA9IG5wLmFycmF5KGRhdGEudmFsaWRfZGwuZGwueC5pdGVtcywgY29weT1UcnVlKQp2YWxpZF95X2l0ZW1zID0gbnAuYXJyYXkoZGF0YS52YWxpZF9kbC5kbC55Lml0ZW1zLCBjb3B5PVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ZGF0YS52YWxpZF9kbC5kbC5kYXRhc2V0LngK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnAubGluc3BhY2UoMC42LCAwLjk1LCA4KQo=</text>
+        <text encoding="base64">ZGV0ZWN0b3IubGVhcm4uZGF0YS52YWxpZF9kcy5pdGVtcy5zaGFwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGF0YS52YWxpZF9kcy5pdGVtcyA9IGRhdGEudmFsaWRfZHMuaXRlbXNbOjEwXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbWV0cyA9IGRldGVjdG9yLm1lYXN1cmUoYW5hbHl6ZV9rd2FyZ3MsIGlvdV90aHJlc2g9MC43NSkK</text>
+        <text encoding="base64">ZGF0YS52YWxpZF9kcy5pdGVtcy5zaGFwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLS1pbnB1dF9maWxlPTxtb2RlbF9kaXJlY3Rvcnk+L291dHB1dC90ZmxpdGVfZ3JhcGgucGIK</text>
+        <text encoding="base64">ZGF0YS52YWxpZF9kcy5pdGVtcy5fX2NsYXNzX18K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYmF6ZWwgcnVuIC0tY29uZmlnPW9wdCB0ZW5zb3JmbG93L2xpdGUvdG9jbzp0b2NvIC0tCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLS1hbGxvd19jdXN0b21fb3BzCg==</text>
+        <text encoding="base64">bnAubGluc3BhY2UoMC42LCAwLjk1LCA4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLS1zdGRfdmFsdWVzPTEyOCAtLWNoYW5nZV9jb25jYXRfaW5wdXRfcmFuZ2VzPWZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLS1pbmZlcmVuY2VfdHlwZT1RVUFOVElaRURfVUlOVDggLS1tZWFuX3ZhbHVlcz0xMjgK</text>
+        <text encoding="base64">ICAgICMgbWV0cyA9IGRldGVjdG9yLm1lYXN1cmUoYW5hbHl6ZV9rd2FyZ3MsIGlvdV90aHJlc2g9MC43NSkK</text>
       </register>
     </registers>
     <search>
