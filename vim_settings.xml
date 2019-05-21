@@ -103,11 +103,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558476254978">
-        <mark key="[" line="80" column="60" />
-        <mark key="]" line="80" column="61" />
-        <mark key="^" line="80" column="0" />
-        <mark key="." line="80" column="61" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558479188248">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="72" column="8" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -178,11 +178,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558475506373">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558479066633">
+        <mark key="'" line="31" column="25" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1558041099957">
         <mark key="[" line="0" column="0" />
@@ -314,58 +315,62 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="53" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="46" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
+      <jump line="32" column="19" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
+      <jump line="31" column="25" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1nX25hbWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>valid_ds</text>
       </register>
       <register name="/" type="4">
-        <text>std</text>
+        <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmlkZW9zID0gZGZbZGZbIm51bV9wYXJ0cyJdID09IDJdCg==</text>
+        <text encoding="base64">aW1nX25hbWVzID0gbGlzdChmcmFtZXNbZnJhbWVzLm1BUCA8IDAuMV0uaW5kZXhbOjVdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZnVsbHBhdGg6IGJvb2wgPSBUcnVlLAo=</text>
+        <text encoding="base64">aW1nX25hbWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZ19uYW1lID0gaW1nX25hbWUgaWYgZnVsbHBhdGggZWxzZSBzdHIobGVhcm4uZGF0YS5wYXRoIC8gaW1nX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">dmlkZW9zLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYgPSBwZC5yZWFkX2NzdigibWFwcy5jc3YiKQpkZi5kZXNjcmliZSgpCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>std</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>std</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
         <entry>batch3</entry>
         <entry>Handle</entry>
         <entry>BATCH</entry>
@@ -385,6 +390,7 @@
         <entry>quant</entry>
         <entry>mean</entry>
         <entry>std</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd />
       <history-expr />
