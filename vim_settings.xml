@@ -102,12 +102,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558472028115">
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558473004777">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="55" column="2" />
-        <mark key="]" line="55" column="5" />
-        <mark key="^" line="55" column="5" />
-        <mark key="." line="55" column="5" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="18" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="59" column="18" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -311,10 +311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>piv1b00205_c0000886_f054</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>piv1b00205_c0000886_f054</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>std</text>
