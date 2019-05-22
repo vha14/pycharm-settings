@@ -86,10 +86,10 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1558555598969">
+      <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1558560951747">
         <mark key="'" line="375" column="19" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="221" column="49" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558545553335">
         <mark key="[" line="60" column="0" />
@@ -99,12 +99,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558558060889">
-        <mark key="'" line="77" column="32" />
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="42" />
-        <mark key="^" line="71" column="42" />
-        <mark key="." line="71" column="42" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558563090692">
+        <mark key="'" line="84" column="32" />
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="70" column="46" />
+        <mark key="." line="70" column="46" />
+        <mark key="^" line="80" column="53" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -326,43 +326,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>color_code[str(lbls[i])])</text>
+        <text>color=&quot;green&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>color_code[str(lbls[i])])</text>
+        <text>color=&quot;green&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>y</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcj1jb2xvcl9jb2RlW3N0cihsYmxzW2ldKV0pCg==</text>
+        <text encoding="base64">ICAgIG8uc2V0X3BhdGhfZWZmZWN0cyhbcGF0aGVmZmVjdHMuU3Ryb2tlKAogICAgICAgIGxpbmV3aWR0aD1sdywgZm9yZWdyb3VuZD0nYmxhY2snKSwgcGF0aGVmZmVjdHMuTm9ybWFsKCldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZTogdGV4dD1Ob25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGJscyBpcyBub3QgTm9uZTogdGV4dCA9IHN0cihsYmxzW2ldKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhczJjb2RlKDEpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhczJpZHggPSB7Y2xhczogaWR4IGZvciBpZHgsIGNsYXMgaW4gZW51bWVyYXRlKGNsYXNlcyl9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc2VzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgICAgIHBhdGhlZmZlY3RzLk5vcm1hbCgpXSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgICAgIGxpbmV3aWR0aD00LCBmb3JlZ3JvdW5kPSdyZWQnKSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgcGF0Y2guc2V0X3BhdGhfZWZmZWN0cyhbcGF0aGVmZmVjdHMuU3Ryb2tlKAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhcHN0eWxlPSJyb3VuZCIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhY2Vjb2xvcj0ibm9uZSIsCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIF9kcmF3X3JlY3QoYXg6cGx0LkF4ZXMsIGI6Q29sbGVjdGlvbltpbnRdLCBjb2xvcjpzdHI9J3doaXRlJyk6CiAgICAiRHJhdyBib3VuZGluZyBib3ggb24gYGF4YC4iCiAgICBwYXRjaCA9IGF4LmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZShiWzoyXSwgKmJbLTI6XSwgZmlsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhY2Vjb2xvcj0ibm9uZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlZGdlY29sb3I9ImdyZWVuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFscGhhPTEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsdz02KSkKICAgICMgcGF0Y2guc2V0X3BhdGhfZWZmZWN0cyhbcGF0aGVmZmVjdHMuU3Ryb2tlKAogICAgIyAgICAgbGluZXdpZHRoPTQsIGZvcmVncm91bmQ9J3JlZCcpLAogICAgIyAgICAgcGF0aGVmZmVjdHMuTm9ybWFsKCldKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwID0gZXhwbG9yZS5FeHBsb3JlcihiYXRjaD0iYmF0Y2gzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb2xvcj1jb2xvcl9jb2RlW3N0cihsYmxzW2ldKV0pCg==</text>
       </register>
     </registers>
     <search>
