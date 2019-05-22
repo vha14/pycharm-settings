@@ -29,6 +29,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558564652463">
+        <mark key="'" line="72" column="53" />
+      </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1558062466228">
         <mark key="[" line="18" column="68" />
         <mark key="]" line="18" column="69" />
@@ -99,12 +102,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558563090692">
-        <mark key="'" line="84" column="32" />
-        <mark key="[" line="70" column="46" />
-        <mark key="]" line="70" column="46" />
-        <mark key="." line="70" column="46" />
-        <mark key="^" line="80" column="53" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558564661047">
+        <mark key="'" line="76" column="32" />
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="17" />
+        <mark key="." line="73" column="17" />
+        <mark key="^" line="73" column="17" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -323,58 +326,61 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="375" column="19" filename="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" />
       <jump line="66" column="32" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="11" column="8" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="68" column="39" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="71" column="73" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="72" column="53" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>color=&quot;green&quot;)</text>
-      </register>
-      <register name="-" type="4">
-        <text>color=&quot;green&quot;)</text>
-      </register>
-      <register name="/" type="4">
-        <text>y</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG8uc2V0X3BhdGhfZWZmZWN0cyhbcGF0aGVmZmVjdHMuU3Ryb2tlKAogICAgICAgIGxpbmV3aWR0aD1sdywgZm9yZWdyb3VuZD0nYmxhY2snKSwgcGF0aGVmZmVjdHMuTm9ybWFsKCldKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiLAo=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>patch</text>
+      </register>
+      <register name="/" type="4">
+        <text>seed</text>
+      </register>
+      <register name="0" type="4">
+        <text>color_code[str(lbls[i])])</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgIHBhdGhlZmZlY3RzLk5vcm1hbCgpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgIGxpbmV3aWR0aD00LCBmb3JlZ3JvdW5kPSdyZWQnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcGF0Y2guc2V0X3BhdGhfZWZmZWN0cyhbcGF0aGVmZmVjdHMuU3Ryb2tlKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhcHN0eWxlPSJyb3VuZCIsCg==</text>
+        <text encoding="base64">aW1nX25hbWVzID0gbGlzdChmcmFtZXNbZnJhbWVzLm1BUCA8IDAuMV0uaW5kZXgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhY2Vjb2xvcj0ibm9uZSIsCg==</text>
+        <text encoding="base64">ZnJhbWVzID0gZXhwLmZyYW1lX21hcHMK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIF9kcmF3X3JlY3QoYXg6cGx0LkF4ZXMsIGI6Q29sbGVjdGlvbltpbnRdLCBjb2xvcjpzdHI9J3doaXRlJyk6CiAgICAiRHJhdyBib3VuZGluZyBib3ggb24gYGF4YC4iCiAgICBwYXRjaCA9IGF4LmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZShiWzoyXSwgKmJbLTI6XSwgZmlsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhY2Vjb2xvcj0ibm9uZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlZGdlY29sb3I9ImdyZWVuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFscGhhPTEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsdz02KSkKICAgICMgcGF0Y2guc2V0X3BhdGhfZWZmZWN0cyhbcGF0aGVmZmVjdHMuU3Ryb2tlKAogICAgIyAgICAgbGluZXdpZHRoPTQsIGZvcmVncm91bmQ9J3JlZCcpLAogICAgIyAgICAgcGF0aGVmZmVjdHMuTm9ybWFsKCldKQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyBkZXRlY3Rvci5tZWFzdXJlX29uZShpbWdfbmFtZSwgYW5hbHl6ZV9rd2FyZ3MsIGlvdV90aHJlc2g9MC41KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb2xvcj1jb2xvcl9jb2RlW3N0cihsYmxzW2ldKV0pCg==</text>
+        <text encoding="base64">YXV4LnNob3dfaW1hZ2UoZGV0ZWN0b3IsIGltZ19uYW1lLCBhbmFseXplX2t3YXJncykK</text>
       </register>
     </registers>
     <search>
-      <last-search>y</last-search>
+      <last-search>seed</last-search>
       <last-offset />
-      <last-pattern>y</last-pattern>
+      <last-pattern>seed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GFilew</entry>
         <entry>GFile</entry>
         <entry>step</entry>
         <entry>dataset_co</entry>
@@ -394,6 +400,7 @@
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
         <entry>y</entry>
+        <entry>seed</entry>
       </history-search>
       <history-cmd />
       <history-expr />
