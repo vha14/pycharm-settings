@@ -89,10 +89,10 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1558560951747">
+      <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1558566598733">
         <mark key="'" line="375" column="19" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="46" column="30" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="110" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558545553335">
         <mark key="[" line="60" column="0" />
@@ -102,12 +102,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558564661047">
-        <mark key="'" line="76" column="32" />
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="73" column="17" />
-        <mark key="." line="73" column="17" />
-        <mark key="^" line="73" column="17" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558566651129">
+        <mark key="[" line="69" column="57" />
+        <mark key="]" line="69" column="59" />
+        <mark key="^" line="69" column="59" />
+        <mark key="." line="69" column="59" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -332,23 +331,23 @@
       <jump line="72" column="53" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>text_size</text>
       </register>
       <register name="-" type="4">
-        <text>patch</text>
+        <text>text_size</text>
       </register>
       <register name="/" type="4">
         <text>seed</text>
       </register>
-      <register name="0" type="4">
-        <text>color_code[str(lbls[i])])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYXRjaCA9IGF4LnRleHQoKmJbOjJdLCB0ZXh0LCB2ZXJ0aWNhbGFsaWdubWVudD0ndG9wJywgY29sb3I9Y29sb3IsIGZvbnRzaXplPXRleHRfc2l6ZSwgd2VpZ2h0PSdib2xkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aXRsZTpPcHRpb25hbFtzdHJdPU5vbmUsIGhpZGVfYXhpczpib29sPVRydWUsICoqa3dhcmdzKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">cGx0LmludGVyYWN0aXZlKFRydWUpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -357,19 +356,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQpyYW5kb20uc2VlZCg0MikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1nX25hbWVzID0gbGlzdChmcmFtZXNbZnJhbWVzLm1BUCA8IDAuMV0uaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCByYW5kb20KICAgIHJhbmRvbS5zZWVkKDQyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJhbWVzID0gZXhwLmZyYW1lX21hcHMK</text>
+        <text encoding="base64">c2hvd19pbWFnZXMoZXhwLCBleHAudmFsaWRfaW1hZ2VzWzA6NV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkZXRlY3Rvci5tZWFzdXJlX29uZShpbWdfbmFtZSwgYW5hbHl6ZV9rd2FyZ3MsIGlvdV90aHJlc2g9MC41KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXV4LnNob3dfaW1hZ2UoZGV0ZWN0b3IsIGltZ19uYW1lLCBhbmFseXplX2t3YXJncykK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
     </registers>
     <search>
