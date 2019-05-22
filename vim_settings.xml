@@ -94,10 +94,10 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558547833394">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558549498852">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -168,12 +168,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558547904199">
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558549907786">
+        <mark key="'" line="122" column="20" />
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="22" />
+        <mark key="^" line="89" column="22" />
+        <mark key="." line="89" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1558041099957">
         <mark key="[" line="0" column="0" />
@@ -311,59 +311,58 @@
       <jump line="30" column="25" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="31" column="25" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="33" column="56" filename="$USER_HOME$/work/piv/scratch.py" />
+      <jump line="124" column="20" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>dict(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyNVw+</text>
+        <text encoding="base64">XDxfc3ViX21hcHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHZpZGVvX21hcHMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3N1Yl9tYXBzKG51bV9wYXJ0cz0yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1nIG5vdCBpbiBpbWFnZXM6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IyUlIENvbXB1dGUgbUFQIChvdmVyYWxsIGFuZCBjYXRlZ29yeS1zcGVjaWZpYykKCmRlZiBjYWxjX21ldHModGhyZXNoPTAuNSk6CiAgICBtZXRzID0gZGV0ZWN0b3IubWVhc3VyZShyYXdfb3V0cHV0LCByYXdfb3V0cHV0LmtleXMoKSwKICAgICAgICBhbmFseXplX2t3YXJncywgaW91X3RocmVzaD10aHJlc2gpCiAgICBtYXBzID0gW20uQVAgZm9yIG0gaW4gbWV0c10KCiAgICBwcmludChmIm1BUEBJb1U9e3RocmVzaH06IHtzdW0obWFwcykgLyBsZW4obWFwcykgKiAxMDB9IikKICAgIGNsYXNlcyA9IGxlYXJuLmRhdGEudHJhaW5fZHMueS5jbGFzc2VzCiAgICBmb3IgbSBpbiBtZXRzOgogICAgICAgIHByaW50KGYibUFQQElvVT17dGhyZXNofSBmb3Ige2NsYXNlc1ttLmNsYXNdfSBpcyB7bS5BUH0iKQoKCmNhbGNfbWV0cyh0aHJlc2g9MC41KQoKIyUlCgppbXBvcnQgbnVtcHkgYXMgbnAKZm9yIHRocmVzaCBpbiBucC5saW5zcGFjZSgwLjYsIDAuOTUsIDgpOgogICAgY2FsY19tZXRzKHRocmVzaD10aHJlc2gpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsZWFybi5sb2FkKCJtb2RlbF84MC40MDYiKQo=</text>
+        <text encoding="base64">bGVhcm4uc2hvd19yZXN1bHRzKHJvd3M9MjAsIGNvbmZpZz1kZXRlY3Rvci5jb25maWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVhcm4ubG9hZCgibW9kZWxfODAuNTM3IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVhcm4gPSBkZXRlY3Rvci5sZWFybgo=</text>
+        <text encoding="base64">IyUlIFZpc3VhbGl6aW5nIHByZWRpY3Rpb24gdnMgZ3JvdW5kIHRydXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9jX21ldHJpY19wYXJhbXMgPSBkaWN0KGlvdV90aHJlc2g9MC41LCB1cGRhdGVfZnJlcT0xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyNVw+</last-search>
+      <last-search encoding="base64">XDxfc3ViX21hcHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyNVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfc3ViX21hcHNcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Handle</entry>
-        <entry>BATCH</entry>
         <entry>ubuntu</entry>
         <entry>GFilew</entry>
         <entry>GFile</entry>
@@ -382,6 +381,8 @@
         <entry>std</entry>
         <entry>valid</entry>
         <entry encoding="base64">XDwyNVw+</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
