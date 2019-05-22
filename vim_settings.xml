@@ -99,11 +99,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558555296892">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558556192468">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -174,12 +174,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558555696827">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="177" column="38" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558556409183">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="112" column="25" />
+        <mark key="]" line="112" column="29" />
+        <mark key="." line="112" column="29" />
+        <mark key="^" line="112" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1558553903663">
         <mark key="[" line="0" column="0" />
@@ -323,44 +323,44 @@
       <jump line="375" column="19" filename="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, map_file=_MAP_FILE</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>, map_file=_MAP_FILE</text>
       </register>
       <register name="/" type="4">
         <text>y</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBwbHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhID0gYmF0Y2gzLmxvYWQoKipwYXJhbXMuZGF0YV9wYXJhbXNfYmF0Y2gzKCkpIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzYXZlX2ZpbGUgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuCg==</text>
+        <text encoding="base64">X0JBVENINCA9IGJhdGNoNC5sb2FkKCoqcGFyYW1zLmRhdGFfcGFyYW1zX2JhdGNoNCgpKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgKHgsIHksIHopIGluIGVudW1lcmF0ZSh6aXAoeHMsIHlzLCB6cykpOgo=</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgenMuYXBwZW5kKHopCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
     </registers>
     <search>
