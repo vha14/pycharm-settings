@@ -59,13 +59,6 @@
       <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" timestamp="1558067262710">
         <mark key="'" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/scratch.py" timestamp="1558482017297">
-        <mark key="'" line="33" column="56" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="33" column="54" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="33" column="54" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -104,11 +97,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558479693390">
-        <mark key="[" line="70" column="3" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558486660045">
+        <mark key="[" line="69" column="9" />
+        <mark key="]" line="69" column="39" />
+        <mark key="^" line="69" column="39" />
+        <mark key="." line="69" column="39" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -133,7 +126,7 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1558480118063">
+      <file name="/Python Console" timestamp="1558486691071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558476962239">
@@ -327,8 +320,8 @@
       <jump line="33" column="56" filename="$USER_HOME$/work/piv/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1nX25hbWVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -340,31 +333,31 @@
         <text encoding="base64">ICAgICAgICBbIDAuMzU1MiwgIDAuOTQ4MiwgIDAuNTAzMSwgIDEuMDAwOV0sICM1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1nX25hbWVzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IFsgMC4zNTc0LCAgMC45MzQ1LCAgMC40Nzk4LCAgMS4wMDMxXSwgIzUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFsgMC42OTA5LCAgMC44NDYxLCAgMC44OTY1LCAgMC45OTgyXSwgCg==</text>
+        <text encoding="base64">IFsgMC4zNTc0LCAgMC45MzQ1LCAgMC40Nzk4LCAgMS4wMDMxXSwgIzUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IFsgMC42OTA5LCAgMC44NDYxLCAgMC44OTY1LCAgMC45OTgyXSwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZiJiYXRjaDMgYW5kIGJhdGNoNCBpbnRlcnNlY3Rpb24gaGFzIHtsZW4oaW50ZXIpfSBpbWFnZXMiKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW50ZXIgPSBuYW1lczMuaW50ZXJzZWN0aW9uKG5hbWVzNCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQoZiJiYXRjaDMgYW5kIGJhdGNoNCBpbnRlcnNlY3Rpb24gaGFzIHtsZW4oaW50ZXIpfSBpbWFnZXMiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW50ZXIgPSBuYW1lczMuaW50ZXJzZWN0aW9uKG5hbWVzNCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZiJiYXRjaDQgaGFzIHtsZW4obmFtZXM0KX0gaW1hZ2VzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
