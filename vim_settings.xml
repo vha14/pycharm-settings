@@ -21,7 +21,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1558551328965">
+      <file name="/a.dummy" timestamp="1558554958373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
@@ -86,6 +86,11 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1558555598969">
+        <mark key="'" line="375" column="19" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="221" column="49" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558545553335">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -94,11 +99,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558553949313">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="16" column="6" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558555296892">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -122,9 +127,6 @@
         <mark key="]" line="28" column="40" />
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="21" />
-      </file>
-      <file name="/Python Console" timestamp="1558554048970">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558553081690">
         <mark key="[" line="0" column="0" />
@@ -172,12 +174,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558554856151">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="131" column="7" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558555696827">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="177" column="38" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558553903663">
         <mark key="[" line="0" column="0" />
@@ -318,58 +320,58 @@
       <jump line="33" column="56" filename="$USER_HOME$/work/piv/scratch.py" />
       <jump line="124" column="20" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="26" column="0" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
+      <jump line="375" column="19" filename="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3ViX21hcHNcPg==</text>
+        <text>y</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwLnNob3dfaW1hZ2VzKFtpbWddKQo=</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBwbHQK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBmaWdzaXplID0gTm9uZQogICAgICAgIGltZ3NpemUgPSA0CiAgICAgICAgYXhzID0gY29yZS5zdWJwbG90cygKICAgICAgICAgICAgbGVuKHhzKSwgMiwgaW1nc2l6ZT1pbWdzaXplLCBmaWdzaXplPWZpZ3NpemUsIHRpdGxlPXRpdGxlLAogICAgICAgICAgICB3ZWlnaHQ9J2JvbGQnLCBzaXplPTE0KQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9ICJndCB2cyBwcmVkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WyJwaXYxYTAwMTY0X2MwMDAwNjQ0X2YzOTIuanBnIiwgInBpdjFiMDAwNzNfYzAwMDAzNTlfZjI0NS5qcGciXQo=</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwLnNob3dfaW1hZ2VzKFtpbWddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoKQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwID0gYXV4LkV4cGxvcmVyKCkK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwLm1vZGVsX2ZpbGUK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgKHgsIHksIHopIGluIGVudW1lcmF0ZSh6aXAoeHMsIHlzLCB6cykpOgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIF9nZXRfcmF3X291dHB1dChsZWFybjogYmFzaWNfdHJhaW4uTGVhcm5lcik6CiAgICBsZWFybi5tb2RlbC5ldmFsKCkKICAgIGZvciB4YiwgeWIgaW4gbGVhcm4uZGF0YS52YWxpZF9kbDoKICAgICAgICBvdXRwdXQgPSB0Yy50b19kZXRhY2gobGVhcm4ubW9kZWwoeGIpKQogICAgICAgIGZvciBpIGluIHJhbmdlKHhiLnNoYXBlWzBdKToKICAgICAgICAgICAgeWllbGQgdGMuZ3JhYl9pZHgob3V0cHV0LCBpKQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X0JBVENINCA9IGJhdGNoNC5sb2FkKCoqcGFyYW1zLmRhdGFfcGFyYW1zX2JhdGNoNCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgenMuYXBwZW5kKHopCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3ViX21hcHNcPg==</last-search>
+      <last-search>y</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3ViX21hcHNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>y</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ubuntu</entry>
         <entry>GFilew</entry>
         <entry>GFile</entry>
         <entry>step</entry>
@@ -389,6 +391,7 @@
         <entry encoding="base64">XDwyNVw+</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
+        <entry>y</entry>
       </history-search>
       <history-cmd />
       <history-expr />
