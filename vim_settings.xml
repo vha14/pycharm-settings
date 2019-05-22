@@ -97,11 +97,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558486660045">
-        <mark key="[" line="69" column="9" />
-        <mark key="]" line="69" column="39" />
-        <mark key="^" line="69" column="39" />
-        <mark key="." line="69" column="39" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558489598452">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="5" />
+        <mark key="^" line="77" column="5" />
+        <mark key="." line="77" column="5" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -125,9 +125,6 @@
         <mark key="]" line="28" column="40" />
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="21" />
-      </file>
-      <file name="/Python Console" timestamp="1558486691071">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558476962239">
         <mark key="[" line="0" column="0" />
@@ -320,44 +317,44 @@
       <jump line="33" column="56" filename="$USER_HOME$/work/piv/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1nX25hbWVzCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbIDAuMzU1MiwgIDAuOTQ4MiwgIDAuNTAzMSwgIDEuMDAwOV0sICM1Cg==</text>
+        <text encoding="base64">YW5hbHl6ZV9rd2FyZ3MgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMDUsIG5tc19vdmVybGFwPTAuNSwgbm1zX3RvcGs9NTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1nX25hbWVzCg==</text>
+        <text encoding="base64">Zm9yIGltZ19uYW1lIGluIGltZ19uYW1lczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBpbWdfbmFtZXMgPSBsaXN0KGZyYW1lc1tmcmFtZXMubUFQID09IDEuMF0uaW5kZXhbOjVdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFsgMC4zNTc0LCAgMC45MzQ1LCAgMC40Nzk4LCAgMS4wMDMxXSwgIzUK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IFsgMC42OTA5LCAgMC44NDYxLCAgMC44OTY1LCAgMC45OTgyXSwgCg==</text>
+        <text encoding="base64">aW1nX25hbWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZiJiYXRjaDMgYW5kIGJhdGNoNCBpbnRlcnNlY3Rpb24gaGFzIHtsZW4oaW50ZXIpfSBpbWFnZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXIgPSBuYW1lczMuaW50ZXJzZWN0aW9uKG5hbWVzNCkK</text>
+        <text encoding="base64">IFsgMC4zNTc0LCAgMC45MzQ1LCAgMC40Nzk4LCAgMS4wMDMxXSwgIzUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IFsgMC42OTA5LCAgMC44NDYxLCAgMC44OTY1LCAgMC45OTgyXSwgCg==</text>
       </register>
     </registers>
     <search>
