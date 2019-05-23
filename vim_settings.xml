@@ -178,6 +178,12 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558641151460">
+        <mark key="[" line="121" column="45" />
+        <mark key="]" line="122" column="44" />
+        <mark key="^" line="122" column="44" />
+        <mark key="." line="122" column="44" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
         <mark key="]" line="157" column="46" />
@@ -272,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBDb250aW51ZSBzZWdtZW50YXRpb24gbW9kZWxpbmcgd29yayB3aXRoIERlZXBsYWJWMy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29udGludWUg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>steps</text>
@@ -284,31 +290,31 @@
         <text encoding="base64">LSBBbmFseXNpcyBvZiBkZXRlY3Rpb24gZmFpbHVyZSBtb2Rlcy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBDb250aW51ZSBzZWdtZW50YXRpb24gbW9kZWxpbmcgd29yayB3aXRoIERlZXBsYWJWMy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IGRpZmZlcmVudCBURiBwbGF0Zm9ybXMuCg==</text>
+        <text encoding="base64">LSBDb250aW51ZSBzZWdtZW50YXRpb24gbW9kZWxpbmcgd29yayB3aXRoIERlZXBsYWJWMy4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IGRpZmZlcmVudCBURiBwbGF0Zm9ybXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBDb250aW51ZSBpbnZlc3RpZ2F0aW9uIG9mIGRpZmZlcmVuY2VzIGluIHRyYWluaW5nIHJlc3VsdHMgcHJvZHVjZWQgYnkgCg==</text>
+        <text encoding="base64">IGRpZmZlcmVudCBURiBwbGF0Zm9ybXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBUcmFpbmVkIFRGIE1vYmlsZU5ldFYyIERlZXBMYWJWMyBtb2RlbCBvbiBiYXRjaCA0IFBJViBkYXRhLiBWaXN1YWwgCnBlcmZvcm1hbmNlIGlzIHJlYXNvbmFibGUsIGJ1dCBhIGNyYXNoaW5nIGJ1ZyBpbiBURiB2YWxpZGF0aW9uIHNvZnR3YXJlIApwcmV2ZW50cyBudW1lcmljYWwgYmVuY2htYXJraW5nIGF0IHRoaXMgcG9pbnQuCg==</text>
+        <text encoding="base64">LSBDb250aW51ZSBpbnZlc3RpZ2F0aW9uIG9mIGRpZmZlcmVuY2VzIGluIHRyYWluaW5nIHJlc3VsdHMgcHJvZHVjZWQgYnkgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmVlZGVkLiAK</text>
+        <text encoding="base64">LSBUcmFpbmVkIFRGIE1vYmlsZU5ldFYyIERlZXBMYWJWMyBtb2RlbCBvbiBiYXRjaCA0IFBJViBkYXRhLiBWaXN1YWwgCnBlcmZvcm1hbmNlIGlzIHJlYXNvbmFibGUsIGJ1dCBhIGNyYXNoaW5nIGJ1ZyBpbiBURiB2YWxpZGF0aW9uIHNvZnR3YXJlIApwcmV2ZW50cyBudW1lcmljYWwgYmVuY2htYXJraW5nIGF0IHRoaXMgcG9pbnQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dW51c2FibGUgZm9yIHRyYWluaW5nIGR1ZSB0byBDVURBIGNvbmZpZ3VyYXRpb24gcHJvYmxlbXMuIFJlaW1hZ2UgbWF5IGJlIAo=</text>
+        <text encoding="base64">bmVlZGVkLiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QW5kcm9pZCBhbmQgRGVlcExhYiBzZWdtZW50YXRpb24gdHJhaW5pbmcgZnJvbnRzLiBEZXNrdG9wIExpbnV4IFBDIHJlbWFpbnMgCg==</text>
+        <text encoding="base64">dW51c2FibGUgZm9yIHRyYWluaW5nIGR1ZSB0byBDVURBIGNvbmZpZ3VyYXRpb24gcHJvYmxlbXMuIFJlaW1hZ2UgbWF5IGJlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBEZWJ1Z2dlZCBMaW51eC9URi9CYXplbC9DVURBIGlzc3VlcyBpbnRlcmZlcmluZyB3aXRoIGZvcndhcmQgcHJvZ3Jlc3Mgb24gCg==</text>
+        <text encoding="base64">QW5kcm9pZCBhbmQgRGVlcExhYiBzZWdtZW50YXRpb24gdHJhaW5pbmcgZnJvbnRzLiBEZXNrdG9wIExpbnV4IFBDIHJlbWFpbnMgCg==</text>
       </register>
     </registers>
     <search>
