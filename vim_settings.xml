@@ -42,12 +42,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1558644744915">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="58" column="60" />
-        <mark key="^" line="58" column="60" />
-        <mark key="." line="58" column="60" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1558647290457">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="94" column="68" />
+        <mark key="]" line="94" column="68" />
+        <mark key="^" line="94" column="77" />
+        <mark key="." line="94" column="68" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1557505768337">
         <mark key="[" line="31" column="66" />
@@ -185,11 +185,11 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558643881529">
-        <mark key="[" line="103" column="33" />
-        <mark key="]" line="108" column="11" />
-        <mark key="^" line="108" column="11" />
-        <mark key="." line="108" column="11" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558647884898">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="43" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="23" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tm9uZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tm9uZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>analyze</text>
