@@ -185,11 +185,11 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558652056679">
-        <mark key="[" line="75" column="18" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="75" column="18" />
-        <mark key="^" line="75" column="18" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558652877681">
+        <mark key="[" line="134" column="34" />
+        <mark key="]" line="134" column="34" />
+        <mark key="." line="134" column="34" />
+        <mark key="^" line="71" column="14" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -291,16 +291,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>, title=mets_info()</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>, title=mets_info()</text>
       </register>
       <register name="/" type="4">
         <text>analyze</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWVhc3VyZV92aWRlbygicGl2MWIwMDIwMF9jMDAwMDg2MyIpCg==</text>
+        <text encoding="base64">ICAgIHhfc2hvdyh4LCBheD1heHNbaV9heCwgMV0sIHk9eiwgdGl0bGU9bWV0c19pbmZvKCksIGNvbmZzPWNvbmZzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGYuc2hhcGUK</text>
