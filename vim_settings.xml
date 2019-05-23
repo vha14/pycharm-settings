@@ -42,6 +42,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1558644744915">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="58" column="60" />
+        <mark key="^" line="58" column="60" />
+        <mark key="." line="58" column="60" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/ssd_exp.py" timestamp="1557505768337">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="31" column="67" />
@@ -178,11 +185,11 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558642571525">
-        <mark key="[" line="103" column="31" />
-        <mark key="]" line="103" column="32" />
-        <mark key="^" line="83" column="75" />
-        <mark key="." line="103" column="32" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558643881529">
+        <mark key="[" line="103" column="33" />
+        <mark key="]" line="108" column="11" />
+        <mark key="^" line="108" column="11" />
+        <mark key="." line="108" column="11" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -275,6 +282,12 @@
       <jump line="14" column="18" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="149" column="25" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="150" column="17" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="35" column="32" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="70" column="25" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="71" column="45" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="20" column="12" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +297,7 @@
         <text encoding="base64">Tm9uZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>steps</text>
+        <text>analyze</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBBbmFseXNpcyBvZiBkZXRlY3Rpb24gZmFpbHVyZSBtb2Rlcy4K</text>
@@ -318,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>steps</last-search>
+      <last-search>analyze</last-search>
       <last-offset />
-      <last-pattern>steps</last-pattern>
+      <last-pattern>analyze</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -339,6 +352,7 @@
         <entry>50000</entry>
         <entry>rate_base</entry>
         <entry>steps</entry>
+        <entry>analyze</entry>
       </history-search>
       <history-cmd />
       <history-expr />
