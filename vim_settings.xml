@@ -185,6 +185,13 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558737668430">
+        <mark key="'" line="194" column="8" />
+        <mark key="[" line="271" column="66" />
+        <mark key="]" line="273" column="37" />
+        <mark key="^" line="273" column="37" />
+        <mark key="." line="273" column="37" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
         <mark key="]" line="157" column="46" />
@@ -283,52 +290,55 @@
       <jump line="20" column="12" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="34" column="4" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="238" column="2" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="214" column="8" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="194" column="8" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>**kwargs</text>
+        <text>artery</text>
       </register>
       <register name="-" type="4">
-        <text>**kwargs</text>
+        <text>artery</text>
       </register>
       <register name="/" type="4">
-        <text>analyze</text>
+        <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>conf_thresh=0.1, nms_overlap=0.1)</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2hvd19iYWRfdmlkZW8odmVzc2VsPSJhcnRlcnkiLCBjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbmZzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29uZikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcmVkWzJdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvbmYpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwcmVkWzJdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2hvd19pbWFnZXMoWyJwaXYxYTAwMDA3X2MwMDAwMTU3X2YxOTcuanBnIl0sIGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvbmYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAqKmt3YXJncykK</text>
+        <text encoding="base64">c2hvd19pbWFnZXMoWyJwaXYxYTAwMDA3X2MwMDAwMTU3X2YxOTcuanBnIl0sIGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAqKmt3YXJncykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29uZiBpcyBub3QgTm9uZSBhbmQgY29uZiA8PSBjb25mX3RocmVzaDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29uZiBpcyBub3QgTm9uZSBhbmQgY29uZiA8PSBjb25mX3RocmVzaDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
     </registers>
     <search>
-      <last-search>analyze</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>analyze</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -348,6 +358,7 @@
         <entry>rate_base</entry>
         <entry>steps</entry>
         <entry>analyze</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd />
       <history-expr />
