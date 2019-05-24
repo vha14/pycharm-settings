@@ -21,9 +21,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1558730356800">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1558729730671">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,11 +185,11 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558719840829">
-        <mark key="[" line="33" column="64" />
-        <mark key="]" line="33" column="3" />
-        <mark key="^" line="33" column="3" />
-        <mark key="." line="33" column="3" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558731306615">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1557507447910">
         <mark key="[" line="157" column="46" />
@@ -293,44 +290,44 @@
       <jump line="34" column="4" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>analyze</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGZfZGV2aWNlcygpLmxvY1sicGl2MWIwMDA3NiJdCg==</text>
+        <text encoding="base64">ZGZfZGV2aWNlcygpLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuaGVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHhfc2hvdyh4LCBheD1heHNbaV9heCwgMV0sIHk9eiwgY29uZnM9Y29uZnMsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ZGZfZGV2aWNlcygpLmxvY1sicGl2MWIwMDA3NiJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHhfc2hvdyh4LCBheD1heHNbaV9heCwgMF0sIHk9eSwgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgeF9zaG93KHgsIGF4PWF4c1tpX2F4LCAxXSwgeT16LCB0aXRsZT1tZXRzX2luZm8oKSwgY29uZnM9Y29uZnMsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZl9kZXZpY2VzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgeF9zaG93KHgsIGF4PWF4c1tpX2F4LCAwXSwgeT15LCB0aXRsZT1mIkdUOntpbWd9IiwgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ZGYubG9jWyJwaXYxYjAwMDc2Il0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF4cy5zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYuc2hhcGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYuaW5kZXgK</text>
+        <text encoding="base64">ZGYuc2hhcGUK</text>
       </register>
     </registers>
     <search>
