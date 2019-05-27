@@ -188,6 +188,9 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" timestamp="1558979928693">
+        <mark key="'" line="114" column="17" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="3" />
@@ -249,13 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="19" filename="$USER_HOME$/work/piv/modeling/src/scripts/retina_exp.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/tflite_ssd_detector_demo.py" />
-      <jump line="60" column="12" filename="$USER_HOME$/work/piv/modeling/src/scripts/tracking.py" />
-      <jump line="24" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
-      <jump line="13" column="34" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/retina.py" />
       <jump line="73" column="2" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
       <jump line="32" column="11" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="34" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
@@ -328,6 +324,34 @@
       <jump line="72" column="53" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="0" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" />
       <jump line="2" column="28" filename="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="27" column="52" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="28" column="22" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="33" column="62" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="37" column="44" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="64" column="53" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="70" column="20" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="73" column="43" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="75" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="77" column="55" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="81" column="47" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="82" column="58" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="83" column="49" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="84" column="25" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="95" column="16" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="97" column="16" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="99" column="16" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="100" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="108" column="20" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="110" column="28" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="111" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="114" column="17" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,7 +361,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>plt</text>
+        <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;piv1a00107_c0000464_f417.jpg&quot;])</text>
@@ -371,9 +395,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plt</last-search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
       <last-offset />
-      <last-pattern>plt</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -394,11 +418,11 @@
         <entry>std</entry>
         <entry>valid</entry>
         <entry encoding="base64">XDwyNVw+</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
         <entry>y</entry>
         <entry>seed</entry>
         <entry>plt</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
