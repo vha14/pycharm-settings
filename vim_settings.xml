@@ -103,12 +103,6 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1558673455777">
-        <mark key="[" line="95" column="31" />
-        <mark key="]" line="95" column="31" />
-        <mark key="^" line="95" column="16" />
-        <mark key="." line="95" column="31" />
-      </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="32" column="0" />
@@ -143,10 +137,6 @@
         <mark key="]" line="83" column="12" />
         <mark key="." line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/resolver.py" timestamp="1557810484308">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="51" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
         <mark key="]" line="7" column="0" />
@@ -176,6 +166,7 @@
       <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1558064375450">
         <mark key="'" line="21" column="12" />
       </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/README.md" timestamp="1558759597620" />
       <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -234,6 +225,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" timestamp="1558760005593">
+        <mark key="'" line="2" column="28" />
       </file>
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
@@ -332,6 +326,8 @@
       <jump line="68" column="39" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="71" column="73" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="72" column="53" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" />
+      <jump line="2" column="28" filename="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,7 +337,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>seed</text>
+        <text>plt</text>
       </register>
       <register name="0" type="4">
         <text>&quot;piv1a00107_c0000464_f417.jpg&quot;])</text>
@@ -375,15 +371,14 @@
       </register>
     </registers>
     <search>
-      <last-search>seed</last-search>
+      <last-search>plt</last-search>
       <last-offset />
-      <last-pattern>seed</last-pattern>
+      <last-pattern>plt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GFile</entry>
         <entry>step</entry>
         <entry>dataset_co</entry>
         <entry>datasets_co</entry>
@@ -403,6 +398,7 @@
         <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
         <entry>y</entry>
         <entry>seed</entry>
+        <entry>plt</entry>
       </history-search>
       <history-cmd />
       <history-expr />
