@@ -233,13 +233,14 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" timestamp="1558991152440">
+        <mark key="'" line="79" column="10" />
+      </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="2" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
-      <jump line="32" column="11" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="34" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="36" column="29" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="37" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
@@ -338,6 +339,8 @@
       <jump line="111" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
       <jump line="112" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
       <jump line="114" column="17" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
+      <jump line="78" column="34" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
+      <jump line="79" column="10" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +350,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>multip</text>
       </register>
       <register name="0" type="4">
         <text>&quot;piv1a00107_c0000464_f417.jpg&quot;])</text>
@@ -381,15 +384,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>multip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern>multip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step</entry>
         <entry>dataset_co</entry>
         <entry>datasets_co</entry>
         <entry>tc</entry>
@@ -409,6 +411,7 @@
         <entry>seed</entry>
         <entry>plt</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>multip</entry>
       </history-search>
       <history-cmd />
       <history-expr />
