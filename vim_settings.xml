@@ -29,11 +29,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559074099830">
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559077356323">
         <mark key="'" line="98" column="28" />
-        <mark key="[" line="134" column="29" />
-        <mark key="]" line="135" column="52" />
-        <mark key="." line="135" column="52" />
+        <mark key="[" line="39" column="74" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="39" column="74" />
         <mark key="^" line="135" column="52" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558040641765">
@@ -323,10 +323,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>deepcopy</text>
