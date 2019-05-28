@@ -29,12 +29,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559072975863">
-        <mark key="'" line="94" column="28" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="45" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559074016606">
+        <mark key="'" line="98" column="28" />
+        <mark key="[" line="157" column="39" />
+        <mark key="]" line="157" column="48" />
+        <mark key="." line="157" column="48" />
+        <mark key="^" line="157" column="48" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558040641765">
         <mark key="[" line="133" column="33" />
@@ -322,44 +322,44 @@
       <jump line="90" column="28" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3MudXBkYXRlKGFuYWx5emVfa3dhcmdzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>dict(backbone=models.resnet34, pyramid_levels=(3, 4, 5, 6, 7), zooms=[0.35, 0.5, 0.6, 1, 1.25, 1.6])</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>deepcopy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3MgPSBjb3B5LmRlZXBjb3B5KHNlbGYuYW5hbHl6ZV9rd2FyZ3MpCiAgICAgICAga3dhcmdzLnVwZGF0ZShhbmFseXplX2t3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICBtZiA9IHNlbGYubWFwX2ZpbGUoKiphbmFseXplX2t3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3MudXBkYXRlKGFuYWx5emVfa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3MgPSBjb3B5LmRlZXBjb3B5KHNlbGYuYW5hbHl6ZV9rd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxyID0gNkUtMDUK</text>
+        <text encoding="base64">ICAgICAgICBtZiA9IHNlbGYubWFwX2ZpbGUoKiphbmFseXplX2t3YXJncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNfX0JlZ2luIGV4cGVyaW1lbnQgY29uZmlndXJhdGlvbl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGYgPSBzZWxmLmxvYWRfbWFwKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGYgPSBzZWxmLm1hcF9kZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBoYXNhdHRyKHNlbGYsICJtYXBfZGYiKToK</text>
       </register>
     </registers>
     <search>
