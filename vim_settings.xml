@@ -29,12 +29,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559078493678">
-        <mark key="'" line="98" column="28" />
-        <mark key="[" line="128" column="39" />
-        <mark key="]" line="128" column="45" />
-        <mark key="." line="128" column="45" />
-        <mark key="^" line="128" column="45" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559079497262">
+        <mark key="'" line="50" column="13" />
+        <mark key="[" line="127" column="73" />
+        <mark key="]" line="127" column="78" />
+        <mark key="^" line="127" column="78" />
+        <mark key="." line="127" column="78" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558040641765">
         <mark key="[" line="133" column="33" />
@@ -115,9 +115,10 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559077910550">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="49" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559079386715">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="51" />
         <mark key="." line="20" column="49" />
         <mark key="^" line="20" column="49" />
       </file>
@@ -323,58 +324,59 @@
       <jump line="40" column="35" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="63" column="22" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="90" column="28" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="49" column="13" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>stats</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
-        <text>deepcopy</text>
+        <text>clases</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcHMgKz0gW20uQVAsIG0udG90YWxfRlAsIG0udG90YWxfVFAsIG0udG90YWxfcG9zaXRpdmVzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5zCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0cyA9IFsibUFQIiwgIkZQIiwgIlRQIiwgIlAiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXNzZWxzID0gWyJhcnRlcnkiLCAidmVpbiJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwLnZpZGVvX21hcHMoKS5kZXNjcmliZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcHMgKz0gW20uQVAsIG0udG90YWxfRlAsIG0udG90YWxfVFAsIG0udG90YWxfcG9zaXRpdmVzXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW5zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ZXhwLnZpZGVvX21hcHMoKS5kZXNjcmliZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZiA9IHNlbGYubWFwX2ZpbGUoKiphbmFseXplX2t3YXJncykK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGYgPSBzZWxmLmxvYWRfbWFwKCkK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>deepcopy</last-search>
+      <last-search>clases</last-search>
       <last-offset />
-      <last-pattern>deepcopy</last-pattern>
+      <last-pattern>clases</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>batch3</entry>
         <entry>Handle</entry>
         <entry>BATCH</entry>
         <entry>ubuntu</entry>
@@ -394,6 +396,7 @@
         <entry>mean</entry>
         <entry>std</entry>
         <entry>deepcopy</entry>
+        <entry>clases</entry>
       </history-search>
       <history-cmd />
       <history-expr />
