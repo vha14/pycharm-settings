@@ -31,12 +31,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559085478711">
-        <mark key="'" line="16" column="33" />
-        <mark key="[" line="185" column="43" />
-        <mark key="]" line="185" column="43" />
-        <mark key="." line="185" column="43" />
-        <mark key="^" line="78" column="34" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559167937038">
+        <mark key="'" line="123" column="23" />
+        <mark key="[" line="103" column="56" />
+        <mark key="]" line="103" column="56" />
+        <mark key="." line="103" column="56" />
+        <mark key="^" line="103" column="55" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558040641765">
         <mark key="[" line="133" column="33" />
@@ -117,12 +117,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559165737887">
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559168532281">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
         <mark key="[" line="33" column="0" />
@@ -193,7 +193,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559165757986">
+      <file name="/Dummy.txt" timestamp="1559166614215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
@@ -326,46 +326,48 @@
       <jump line="49" column="13" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="16" column="33" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="100" column="11" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="120" column="23" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>clases</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoKQo=</text>
+        <text encoding="base64">ZXhwLnVwZGF0ZV9hbmFseXplX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoY29uZl90aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEpCg==</text>
+        <text encoding="base64">Ilx0Ii5qb2luKFtzdHIoaSkgZm9yIGkgaW4gWzEsMiwzXV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlnbm9yZSBiYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBtZWFzdXJlX2RldGFpbHMoc2VsZiwgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ZXhwLm1lYXN1cmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9hbmFseXplX2t3YXJncygqKmt3YXJncykK</text>
+        <text encoding="base64">ZXhwLmt3YXJncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9hbmFseXplX2t3YXJncygqKmt3YXJncykK</text>
+        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoY29uZl90aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImt3YXJnczoge3NlbGYua3dhcmdzfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlnbm9yZSBiYWNrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBtZWFzdXJlX2RldGFpbHMoc2VsZiwgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9hbmFseXplX2t3YXJncygqKmt3YXJncykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9hbmFseXplX2t3YXJncygqKmt3YXJncykK</text>
       </register>
     </registers>
     <search>
