@@ -52,6 +52,9 @@
       <file name="$USER_HOME$/work/piv/.style.yapf" timestamp="1557803447017">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.6.8/envs/piv/lib/python3.6/site-packages/fastai/vision/transform.py" timestamp="1559191741182">
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" timestamp="1558067262710">
         <mark key="'" line="22" column="12" />
       </file>
@@ -96,14 +99,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559004185070">
-        <mark key="[" line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1557716058379">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/work/piv/requirements.txt" timestamp="1559192144930">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -132,6 +132,12 @@
         <mark key="[" line="83" column="12" />
         <mark key="]" line="83" column="12" />
         <mark key="." line="83" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559192512991">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -196,6 +202,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/README.md" timestamp="1559192220787">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
         <mark key="[" line="154" column="43" />
         <mark key="]" line="154" column="44" />
@@ -230,21 +241,24 @@
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1557796398394">
-        <mark key="[" line="95" column="73" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1559191583462">
+        <mark key="[" line="65" column="71" />
+        <mark key="]" line="65" column="71" />
+        <mark key="^" line="65" column="37" />
+        <mark key="." line="65" column="71" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" timestamp="1558991152440">
         <mark key="'" line="79" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/requirements.txt" timestamp="1559192138511">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="11" />
       </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="36" column="29" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="37" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
       <jump line="41" column="15" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
@@ -344,43 +358,44 @@
       <jump line="114" column="17" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
       <jump line="78" column="34" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
       <jump line="79" column="10" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.8/envs/piv/lib/python3.6/site-packages/fastai/vision/transform.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>--exclude src/scripts src</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>--exclude src/scripts src</text>
       </register>
       <register name="/" type="4">
         <text>multip</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;piv1a00107_c0000464_f417.jpg&quot;])</text>
+      <register name="0" type="2">
+        <text encoding="base64">dGVuc29yYm9hcmRYCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGluY2x1ZGVfb3JpZ2luYWw6CiAgICAgICAgeF9zaG93KHgsIGF4PWF4c1tpX2F4LCAwXSkK</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIHRvcmNodmlzaW9uPT0wLjMuMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIGh0dHBzOi8vZG93bmxvYWQucHl0b3JjaC5vcmcvd2hsL2NwdS90b3JjaC0xLjAuMS5wb3N0Mi1jcDM2LWNwMzZtLWxpbnV4X3g4Nl82NC53aGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZWRfY29sID0gMiBpZiBpbmNsdWRlX29yaWdpbmFsIGVsc2UgMQo=</text>
+        <text encoding="base64">ICAgIGBgYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGd0X2NvbCA9IDEgaWYgaW5jbHVkZV9vcmlnaW5hbCBlbHNlIDAK</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIG1hdHBsb3RsaWIgcGlsbG93IHRlbnNvcmJvYXJkWCB0cWRtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFsxLCAyXSArIDEK</text>
+        <text encoding="base64">ICAgIGBgYFNoZWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgxLCAyKSArIDEK</text>
+        <text encoding="base64">ICAgIEZvciBjdXN0b20gZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aXRsZTpPcHRpb25hbFtzdHJdPU5vbmUsIGhpZGVfYXhpczpib29sPVRydWUsICoqa3dhcmdzKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LmludGVyYWN0aXZlKFRydWUpCg==</text>
+        <text encoding="base64">ICAgIEZvciBQeVRvcmNoIGRlcGVuZGVuY3ksIHNlZSBbcHl0b3JjaC5vcmddKGh0dHBzOi8vcHl0b3JjaC5vcmcvKSBmb3IgbW9yZSBkZXRhaWxzLgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
