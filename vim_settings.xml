@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1557807657775">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557445679398">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -15,6 +18,9 @@
         <mark key="." line="74" column="71" />
         <mark key="^" line="74" column="71" />
       </file>
+      <file name="/a.dummy" timestamp="1559240094460">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="33" column="0" />
@@ -26,9 +32,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559236668717">
-        <mark key="[" line="84" column="31" />
-        <mark key="]" line="84" column="61" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559239513143">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="42" />
         <mark key="^" line="84" column="61" />
         <mark key="." line="84" column="61" />
       </file>
@@ -98,6 +104,9 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559234139182">
         <mark key="[" line="27" column="10" />
         <mark key="]" line="28" column="11" />
@@ -109,17 +118,20 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/pascal_callback.py" timestamp="1557803416084">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/work/piv/training/detection/pascal_callback.py" timestamp="1559239990464">
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="46" column="48" />
+        <mark key="." line="46" column="48" />
+        <mark key="^" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1559237375075">
         <mark key="[" line="40" column="52" />
         <mark key="]" line="40" column="74" />
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
+      </file>
+      <file name="/fragment.py" timestamp="1558674235721">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/doc/tensorflow/tflite_conversion_and_deploy.md" timestamp="1558288049849">
         <mark key="[" line="83" column="12" />
@@ -144,12 +156,6 @@
         <mark key="]" line="5" column="60" />
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="60" />
-      </file>
-      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559238657080">
-        <mark key="[" line="48" column="102" />
-        <mark key="]" line="48" column="51" />
-        <mark key="^" line="48" column="51" />
-        <mark key="." line="48" column="51" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_batch4.py" timestamp="1557448234150">
         <mark key="[" line="14" column="65" />
@@ -178,6 +184,9 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558672997065">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
         <mark key="[" line="3" column="23" />
@@ -237,6 +246,9 @@
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" timestamp="1558760005593">
         <mark key="'" line="2" column="28" />
       </file>
+      <file name="/new_retina_exp" timestamp="1557671453893">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/README.md" timestamp="1559226323810">
         <mark key="[" line="68" column="52" />
         <mark key="]" line="68" column="30" />
@@ -246,9 +258,14 @@
       <file name="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" timestamp="1558991152440">
         <mark key="'" line="79" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/requirements.txt" timestamp="1559192138511">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="11" />
+      <file name="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" timestamp="1559240449382">
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="48" />
+        <mark key="^" line="75" column="33" />
+        <mark key="." line="75" column="48" />
+      </file>
+      <file name="/generate_piv_tfrecords" timestamp="1557446429186">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -354,44 +371,44 @@
       <jump line="0" column="4" filename="$USER_HOME$/work/piv/tox.ini" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjb25maWc6IEFuYWx5emUgY29uZmlnIG9iamVjdCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeSA9IHNlbGYuZGF0YS52YWxpZF9kc1tpZHhdWzFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlvdV90aHJlc2g9c2VsZi5pb3VfdGhyZXNoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGFuYWx5emVfa3dhcmdzOiBEaWN0W3N0ciwgYW55XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBtZWFzdXJlKHNlbGYsIGltYWdlcywgYW5hbHl6ZV9jb25maWc6IGFuYWx5emUuQW5hbHl6ZUNvbmZpZyA9IGFuYWx5emUuQW5hbHl6ZUNvbmZpZygpKToK</text>
+        <text encoding="base64">ICAgIGlvdV90aHJlc2g6IGZsb2F0ID0gMC41Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltYWdlcyA9IGRldGVjdG9yLmxlYXJuLmRhdGEudmFsaWRfZHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBubXNfdG9wazogVG9wIGsgZm9yIG5vbiBtYXhpbXVtIHN1cHByZXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeiA9IHNlbGYucmF3X291dHB1dFtpZHhdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBubXNfb3ZlcmxhcDogVGhlc2hvbGQgZm9yIG5vbi1tYXhpbXVtIHN1cHByZXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeSA9IHNlbGYuZGF0YS52YWxpZF9kc1tpZHhdWzFdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkIGFyZSBjb25zaWRlcmVkLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZCA9IFsoaW1nLCBzZWxmLmltZzJpZHhbaW1nXSkgZm9yIGltZyBpbiBpbWFnZXNdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBubXNfdG9wayA9IGFuYWx5emVfa3dhcmdzWyJubXNfdG9wayJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFjbGFzc2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBubXNfb3ZlcmxhcCA9IGFuYWx5emVfa3dhcmdzWyJubXNfb3ZlcmxhcCJdCg==</text>
       </register>
     </registers>
     <search>
