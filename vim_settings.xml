@@ -98,6 +98,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559234139182">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -114,9 +120,6 @@
         <mark key="]" line="28" column="40" />
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="21" />
-      </file>
-      <file name="/Python Console" timestamp="1559233187819">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558674235721">
         <mark key="[" line="0" column="0" />
@@ -357,17 +360,17 @@
       <jump line="0" column="4" filename="$USER_HOME$/work/piv/tox.ini" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRFU1RJTkcgPSAxCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgWmVyb0RpdmlzaW9uRXJyb3I6CiAgICAgICAgICAgIHJldHVybiBmbG9hdCgibmFuIikK</text>
+        <text encoding="base64">ZGZfZGV2aWNlcy5hcnRlcnlfQVAuZGVzY3JpYmUoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRFU1RJTkcgPSAxCg==</text>
