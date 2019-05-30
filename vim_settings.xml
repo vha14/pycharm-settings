@@ -12,11 +12,17 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1557809403867">
-        <mark key="'" line="34" column="8" />
+      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1559194460786">
+        <mark key="'" line="293" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1558557008783">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
         <mark key="[" line="5" column="0" />
@@ -69,20 +75,6 @@
         <mark key="." line="157" column="14" />
         <mark key="^" line="157" column="14" />
       </file>
-      <file name="$USER_HOME$/work/piv/inference/piv_retina_detector.py" timestamp="1557809650183">
-        <mark key="'" line="40" column="33" />
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="39" column="48" />
-        <mark key="." line="39" column="48" />
-        <mark key="^" line="38" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1558014771648">
-        <mark key="'" line="60" column="33" />
-        <mark key="[" line="111" column="55" />
-        <mark key="]" line="111" column="67" />
-        <mark key="^" line="111" column="67" />
-        <mark key="." line="111" column="67" />
-      </file>
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
@@ -133,11 +125,12 @@
         <mark key="]" line="83" column="12" />
         <mark key="." line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559192512991">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559194662373">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="6" column="77" />
+        <mark key="]" line="6" column="77" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="77" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -173,13 +166,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/aux.py" timestamp="1558556839894">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="118" column="11" />
-      </file>
       <file name="/Dummy.txt" timestamp="1558672997065">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,6 +198,9 @@
         <mark key="]" line="154" column="44" />
         <mark key="." line="154" column="44" />
         <mark key="^" line="153" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/piv/demo/overlay.py" timestamp="1559194332388">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/mnv1_ssd_quantized_200x200.config" timestamp="1557448717504">
         <mark key="[" line="170" column="0" />
@@ -259,11 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="29" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
-      <jump line="37" column="35" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
-      <jump line="41" column="15" filename="$USER_HOME$/work/piv/modeling/src/scripts/generate_piv_tfrecords.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
-      <jump line="9" column="31" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="11" column="27" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
@@ -359,58 +343,62 @@
       <jump line="78" column="34" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
       <jump line="79" column="10" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
       <jump line="23" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.8/envs/piv/lib/python3.6/site-packages/fastai/vision/transform.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/overlay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/training/detection/ssd.py" />
+      <jump line="23" column="16" filename="$USER_HOME$/work/piv/training/detection/ssd.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
+      <jump line="0" column="4" filename="$USER_HOME$/work/piv/tox.ini" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>--exclude src/scripts src</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>--exclude src/scripts src</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>multip</text>
+        <text>yapf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVuc29yYm9hcmRYCg==</text>
+        <text encoding="base64">ICAgICMgeWFwZjogZGlzYWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIHRvcmNodmlzaW9uPT0wLjMuMAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIGh0dHBzOi8vZG93bmxvYWQucHl0b3JjaC5vcmcvd2hsL2NwdS90b3JjaC0xLjAuMS5wb3N0Mi1jcDM2LWNwMzZtLWxpbnV4X3g4Nl82NC53aGwK</text>
+        <text encoding="base64">ICAgICMgeWFwZjogZW5hYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGBgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIG1hdHBsb3RsaWIgcGlsbG93IHRlbnNvcmJvYXJkWCB0cWRtCg==</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIHRvcmNodmlzaW9uPT0wLjMuMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGBgYFNoZWxsCg==</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIGh0dHBzOi8vZG93bmxvYWQucHl0b3JjaC5vcmcvd2hsL2NwdS90b3JjaC0xLjAuMS5wb3N0Mi1jcDM2LWNwMzZtLWxpbnV4X3g4Nl82NC53aGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZvciBjdXN0b20gZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">ICAgIGBgYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIG1hdHBsb3RsaWIgcGlsbG93IHRlbnNvcmJvYXJkWCB0cWRtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZvciBQeVRvcmNoIGRlcGVuZGVuY3ksIHNlZSBbcHl0b3JjaC5vcmddKGh0dHBzOi8vcHl0b3JjaC5vcmcvKSBmb3IgbW9yZSBkZXRhaWxzLgo=</text>
+        <text encoding="base64">ICAgIGBgYFNoZWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZvciBjdXN0b20gZGVwZW5kZW5jaWVzOgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>multip</last-search>
+      <last-search>yapf</last-search>
       <last-offset />
-      <last-pattern>multip</last-pattern>
+      <last-pattern>yapf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dataset_co</entry>
         <entry>datasets_co</entry>
         <entry>tc</entry>
         <entry>Learn</entry>
@@ -430,6 +418,7 @@
         <entry>plt</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>multip</entry>
+        <entry>yapf</entry>
       </history-search>
       <history-cmd />
       <history-expr />
