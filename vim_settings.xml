@@ -98,9 +98,6 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559230361732">
-        <mark key="[" line="23" column="28" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -118,6 +115,9 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="/Python Console" timestamp="1559233187819">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1558674235721">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,12 +126,12 @@
         <mark key="]" line="83" column="12" />
         <mark key="." line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559194662373">
+      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559233371527">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="6" column="77" />
-        <mark key="]" line="6" column="77" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="77" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -221,11 +221,10 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/.travis.yml" timestamp="1559229560691">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
+      <file name="$USER_HOME$/work/piv/.travis.yml" timestamp="1559233315790">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -359,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRFU1RJTkcgPSAxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
@@ -371,31 +370,31 @@
         <text encoding="base64">ICAgICAgICBleGNlcHQgWmVyb0RpdmlzaW9uRXJyb3I6CiAgICAgICAgICAgIHJldHVybiBmbG9hdCgibmFuIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRFU1RJTkcgPSAxCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC1yIHt0b3hpbmlkaXJ9L3JlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCgibmFuIikK</text>
+        <text encoding="base64">ICAtIHBpcCBpbnN0YWxsIG51bXB5PT0xLjE2LjMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnVtcHk9PTEuMTYuMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJhZ2dfcHJlY2lzaW9uIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bnVtcHk9PTEuMTYuMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHljb2NvdG9vbHM9PTIuMAo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCgibmFuIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9jb2NvZGF0YXNldC9jb2NvYXBpLmdpdCNzdWJkaXJlY3Rvcnk9UHl0aG9uQVBJCg==</text>
+        <text encoding="base64">bnVtcHk9PTEuMTYuMwo=</text>
       </register>
     </registers>
     <search>
