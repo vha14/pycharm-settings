@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1557807657775">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch4.py" timestamp="1557445679398">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -21,9 +18,6 @@
         <mark key="." line="74" column="71" />
         <mark key="^" line="74" column="71" />
       </file>
-      <file name="/a.dummy" timestamp="1558557008783">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="33" column="0" />
@@ -35,11 +29,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559235636662">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="153" column="61" />
-        <mark key="^" line="153" column="60" />
-        <mark key="." line="153" column="60" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559236668717">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="61" />
+        <mark key="^" line="84" column="61" />
+        <mark key="." line="84" column="61" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558564652463">
         <mark key="'" line="72" column="53" />
@@ -96,13 +90,11 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558545553335">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1559236723332">
+        <mark key="[" line="68" column="44" />
+        <mark key="]" line="66" column="38" />
+        <mark key="." line="66" column="38" />
+        <mark key="^" line="66" column="38" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559234139182">
         <mark key="[" line="27" column="10" />
@@ -121,14 +113,11 @@
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1558041267341">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="21" />
-      </file>
-      <file name="/fragment.py" timestamp="1558674235721">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1559237375075">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="74" />
+        <mark key="." line="40" column="74" />
+        <mark key="^" line="40" column="74" />
       </file>
       <file name="$USER_HOME$/work/piv/doc/tensorflow/tflite_conversion_and_deploy.md" timestamp="1558288049849">
         <mark key="[" line="83" column="12" />
@@ -181,9 +170,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558672997065">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
         <mark key="[" line="3" column="23" />
@@ -243,9 +229,6 @@
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" timestamp="1558760005593">
         <mark key="'" line="2" column="28" />
       </file>
-      <file name="/new_retina_exp" timestamp="1557671453893">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/README.md" timestamp="1559226323810">
         <mark key="[" line="68" column="52" />
         <mark key="]" line="68" column="30" />
@@ -258,9 +241,6 @@
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/requirements.txt" timestamp="1559192138511">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="11" />
-      </file>
-      <file name="/generate_piv_tfrecords" timestamp="1557446429186">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -367,16 +347,21 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGRlZiBtZWFzdXJlX2ltYWdlcyhzZWxmLCBpbWFnZXMpOgogICAgICAgIGlvdV90aHJlc2gsIHZlc3NlbF9ubXMsIGFuYWx5emVfa3dhcmdzID0gc2VsZi51bnBhY2tfa3dhcmdzKCkKICAgICAgICBndF9ib3hlcyA9IGRlZmF1bHRkaWN0KGxhbWJkYTogZGVmYXVsdGRpY3QobGlzdCkpCiAgICAgICAgZGV0X2JveGVzID0gZGVmYXVsdGRpY3QobGlzdCkKICAgICAgICBzZWxlY3RlZCA9IFsoaW1nLCBzZWxmLmltZzJpZHhbaW1nXSkgZm9yIGltZyBpbiBpbWFnZXNdCiAgICAgICAgZm9yIGltZywgaWR4IGluIHNlbGVjdGVkOgogICAgICAgICAgICB5ID0gc2VsZi5kYXRhLnZhbGlkX2RzW2lkeF1bMV0KICAgICAgICAgICAgeiA9IHNlbGYucmF3X291dHB1dFtpZHhdCiAgICAgICAgICAgIGZvciBiYm94LCBjbGFzIGluIHppcCgqeS5kYXRhKToKICAgICAgICAgICAgICAgIGNsID0gaW50KGNsYXMuaXRlbSgpKSAgIyBmbG9hdCB0ZW5zb3IgdG8gaW50CiAgICAgICAgICAgICAgICBpZiBjbCAhPSAwOiAgIyBpZ25vcmUgYmFja2dyb3VuZCBjbGFzcwogICAgICAgICAgICAgICAgICAgIGd0X2JveGVzW2NsXVtpbWddLmFwcGVuZChiYm94KQoKICAgICAgICAgICAgcHJlZCA9IHV0aWxzLmFuYWx5emVfcHJlZCh6LCBjb25maWc9c2VsZi5kZXRlY3Rvci5jb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiphbmFseXplX2t3YXJncykKICAgICAgICAgICAgaWYgcHJlZCBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGJveGVzLCBjbGFzZXMsIGNvbmZzID0gcHJlZAogICAgICAgICAgICAgICAgaWYgdmVzc2VsX25tczoKICAgICAgICAgICAgICAgICAgICAjIFJ1biBub24tbWF4IHN1cHByZXNzaW9uIGFjcm9zcyB2ZXNzZWxzIChhcnRlcnkvdmVpbikKICAgICAgICAgICAgICAgICAgICBubXNfb3ZlcmxhcCA9IGFuYWx5emVfa3dhcmdzWyJubXNfb3ZlcmxhcCJdCiAgICAgICAgICAgICAgICAgICAgbm1zX3RvcGsgPSBhbmFseXplX2t3YXJnc1sibm1zX3RvcGsiXQogICAgICAgICAgICAgICAgICAgIGlkcywgY291bnQgPSB1dGlscy5ubXMoYm94ZXMsIGNvbmZzLCBvdmVybGFwPW5tc19vdmVybGFwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9wX2s9bm1zX3RvcGspCiAgICAgICAgICAgICAgICAgICAgaWRzID0gaWRzWzpjb3VudF0KICAgICAgICAgICAgICAgICAgICBwcmVkID0gYm94ZXNbaWRzXSwgY2xhc2VzW2lkc10sIGNvbmZzW2lkc10KICAgICAgICAgICAgICAgIGZvciBiYm94LCBjbGFzLCBjb25mIGluIHppcCgqcHJlZCk6CiAgICAgICAgICAgICAgICAgICAgZGV0X2JveGVzW2ludChjbGFzLml0ZW0oKSldLmFwcGVuZCgoY29uZiwgaW1nLCBiYm94KSkKCiAgICAgICAgcmV0dXJuIHBhc2NhbF9tZXRyaWNzLnZvY19tZXRyaWNzKGd0X2JveGVzLCBkZXRfYm94ZXMsIGd0X2JveGVzLmtleXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW91X3RocmVzaD1pb3VfdGhyZXNoKQo=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>list(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiBtZWFzdXJlX2ltYWdlcyhzZWxmLCBpbWFnZXMpOgogICAgICAgIGlvdV90aHJlc2gsIHZlc3NlbF9ubXMsIGFuYWx5emVfa3dhcmdzID0gc2VsZi51bnBhY2tfa3dhcmdzKCkKICAgICAgICBndF9ib3hlcyA9IGRlZmF1bHRkaWN0KGxhbWJkYTogZGVmYXVsdGRpY3QobGlzdCkpCiAgICAgICAgZGV0X2JveGVzID0gZGVmYXVsdGRpY3QobGlzdCkKICAgICAgICBzZWxlY3RlZCA9IFsoaW1nLCBzZWxmLmltZzJpZHhbaW1nXSkgZm9yIGltZyBpbiBpbWFnZXNdCiAgICAgICAgZm9yIGltZywgaWR4IGluIHNlbGVjdGVkOgogICAgICAgICAgICB5ID0gc2VsZi5kYXRhLnZhbGlkX2RzW2lkeF1bMV0KICAgICAgICAgICAgeiA9IHNlbGYucmF3X291dHB1dFtpZHhdCiAgICAgICAgICAgIGZvciBiYm94LCBjbGFzIGluIHppcCgqeS5kYXRhKToKICAgICAgICAgICAgICAgIGNsID0gaW50KGNsYXMuaXRlbSgpKSAgIyBmbG9hdCB0ZW5zb3IgdG8gaW50CiAgICAgICAgICAgICAgICBpZiBjbCAhPSAwOiAgIyBpZ25vcmUgYmFja2dyb3VuZCBjbGFzcwogICAgICAgICAgICAgICAgICAgIGd0X2JveGVzW2NsXVtpbWddLmFwcGVuZChiYm94KQoKICAgICAgICAgICAgcHJlZCA9IHV0aWxzLmFuYWx5emVfcHJlZCh6LCBjb25maWc9c2VsZi5kZXRlY3Rvci5jb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiphbmFseXplX2t3YXJncykKICAgICAgICAgICAgaWYgcHJlZCBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGJveGVzLCBjbGFzZXMsIGNvbmZzID0gcHJlZAogICAgICAgICAgICAgICAgaWYgdmVzc2VsX25tczoKICAgICAgICAgICAgICAgICAgICAjIFJ1biBub24tbWF4IHN1cHByZXNzaW9uIGFjcm9zcyB2ZXNzZWxzIChhcnRlcnkvdmVpbikKICAgICAgICAgICAgICAgICAgICBubXNfb3ZlcmxhcCA9IGFuYWx5emVfa3dhcmdzWyJubXNfb3ZlcmxhcCJdCiAgICAgICAgICAgICAgICAgICAgbm1zX3RvcGsgPSBhbmFseXplX2t3YXJnc1sibm1zX3RvcGsiXQogICAgICAgICAgICAgICAgICAgIGlkcywgY291bnQgPSB1dGlscy5ubXMoYm94ZXMsIGNvbmZzLCBvdmVybGFwPW5tc19vdmVybGFwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9wX2s9bm1zX3RvcGspCiAgICAgICAgICAgICAgICAgICAgaWRzID0gaWRzWzpjb3VudF0KICAgICAgICAgICAgICAgICAgICBwcmVkID0gYm94ZXNbaWRzXSwgY2xhc2VzW2lkc10sIGNvbmZzW2lkc10KICAgICAgICAgICAgICAgIGZvciBiYm94LCBjbGFzLCBjb25mIGluIHppcCgqcHJlZCk6CiAgICAgICAgICAgICAgICAgICAgZGV0X2JveGVzW2ludChjbGFzLml0ZW0oKSldLmFwcGVuZCgoY29uZiwgaW1nLCBiYm94KSkKCiAgICAgICAgcmV0dXJuIHBhc2NhbF9tZXRyaWNzLnZvY19tZXRyaWNzKGd0X2JveGVzLCBkZXRfYm94ZXMsIGd0X2JveGVzLmtleXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW91X3RocmVzaD1pb3VfdGhyZXNoKQo=</text>
+        <text>def _get_raw_output(learn: basic_train.Learner):
+    learn.model.eval()
+    for xb, yb in learn.data.valid_dl:
+        output = tc.to_detach(learn.model(xb))
+        for i in range(xb.shape[0]):
+            yield tc.grab_idx(output, i)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRFU1RJTkcgPSAxCg==</text>
