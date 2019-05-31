@@ -29,6 +29,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559340450560">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="11" />
+      </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558564652463">
         <mark key="'" line="72" column="53" />
       </file>
@@ -92,12 +98,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559338122442">
-        <mark key="'" line="270" column="0" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="250" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559339856726">
+        <mark key="'" line="241" column="0" />
+        <mark key="[" line="239" column="35" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="240" column="0" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -356,44 +362,44 @@
       <jump line="265" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>, conf_thresh=0.1, nms_overlap=0.1</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
       </register>
-      <register name="0" type="4">
-        <text>piv1a00106_c0000461_f272</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIHJhbmRvbV9pbWFnZXMobnVtPTUpOgogICAgc3RhcnRfaWR4ID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGV4cC52YWxpZF9pbWFnZXMpIC0gbnVtKQogICAgcmV0dXJuIGV4cC52YWxpZF9pbWFnZXNbc3RhcnRfaWR4OnN0YXJ0X2lkeCArIG51bV0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyUlIFNob3cgdmlkZW9zL2RldmljZXMgdGhhdCBoYXZlIHBvb3IgYWNjdXJhY3kKCmRlZiBzaG93X2JhZF92aWRlbyh2ZXNzZWw9InZlaW4iLCAqKmt3YXJncyk6CiAgICBtZiA9IGYie3Zlc3NlbH1fQVAiCiAgICBpZHggPSAwCiAgICBmb3IgdmlkZW9pZCwgbUFQIGluIGJhZF9ncm91cCh3aGF0PXZlc3NlbCkuc29ydF92YWx1ZXMoYnk9bWYpW21mXS5pdGVtcygpOgogICAgICAgIHByaW50KGYie3ZpZGVvaWR9OiB7bUFQfSIpCiAgICAgICAgc2hvd192aWRlbyh2aWRlb2lkLCAqKmt3YXJncykKICAgICAgICBpZHggKz0gMQogICAgICAgIGlmIGlkeCA+IDM6CiAgICAgICAgICAgIGJyZWFrCgpzaG93X2JhZF92aWRlbyh2ZXNzZWw9ImFydGVyeSIpCnNob3dfYmFkX3ZpZGVvKHZlc3NlbD0idmVpbiIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNob3dfaW1hZ2VzKGltYWdlcywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHNob3dfbGFzdF9pbWFnZXMoKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBzaG93X2JhZF92aWRlbyh2ZXNzZWw9ImFydGVyeSIsIGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xKQpzaG93X2JhZF92aWRlbyh2ZXNzZWw9InZlaW4iLCBjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RyaWN0X2NvbmYgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xLCBhZ2dfbm1zPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1hZ2VzID0gc2hvd19yYW5kb21faW1hZ2VzKGluY2x1ZGVfb3JpZ2luYWw9VHJ1ZSkK</text>
+        <text encoding="base64">IyUlIFF1ZXJpZXMK</text>
       </register>
     </registers>
     <search>
