@@ -32,11 +32,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559242488671">
-        <mark key="[" line="57" column="13" />
-        <mark key="]" line="57" column="34" />
-        <mark key="^" line="57" column="34" />
-        <mark key="." line="57" column="34" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559273537249">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="98" column="47" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1559241613865">
         <mark key="'" line="26" column="0" />
@@ -100,11 +101,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559234139182">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="11" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559273916524">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -156,11 +157,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559241071061">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-        <mark key="^" line="37" column="26" />
+      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559273884868">
+        <mark key="[" line="66" column="49" />
+        <mark key="]" line="66" column="58" />
+        <mark key="." line="66" column="58" />
+        <mark key="^" line="66" column="58" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/BUILD" timestamp="1559241504643">
         <mark key="[" line="39" column="9" />
@@ -203,6 +204,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/deploy/BUILD" timestamp="1559272781102">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/visualize.py" timestamp="1557808092943">
         <mark key="[" line="47" column="0" />
@@ -268,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="56" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="113" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
@@ -368,46 +373,52 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="103" column="4" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="108" column="9" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RGljdFtzdHIsIGFueV0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBleHAudXBkYXRlX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGljdFtzdHIsIGFueV0g</text>
+        <text>vessels (artery/vein)</text>
       </register>
       <register name="/" type="4">
         <text>replace</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeSA9IHNlbGYuZGF0YS52YWxpZF9kc1tpZHhdWzFdCg==</text>
+        <text encoding="base64">ICAgIHlzID0gW2RldGVjdG9yLmxlYXJuLmRhdGEudmFsaWRfZHNbaWR4XVsxXSBmb3IgaWR4IGluIHJhbmdlKGxlbih2YWxpZF9kcykpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBleHAudXBkYXRlX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBleHAubWVhc3VyZShwcmludF9zdW1tYXJ5PVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X1ZFU1NFTF9OTVMgPSBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy51cGRhdGUoaW91X3RocmVzaD1fREVGQVVMVF9JT1VfVEhSRVNILCB2ZXNzZWxfbm1zPV9WRVNTRUxfTk1TKQo=</text>
+      <register name="5" type="4">
+        <text>def _get_raw_output(learn: basic_train.Learner):
+    learn.model.eval()
+    for xb, yb in learn.data.valid_dl:
+        output = tc.to_detach(learn.model(xb))
+        for i in range(xb.shape[0]):
+            yield tc.grab_idx(output, i)</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X0RFRkFVTFRfSU9VX1RIUkVTSCA9IDAuNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbmluZy5kZXRlY3Rpb24udXRpbHMgaW1wb3J0IERldGVjdENvbmZpZywgbm1zCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIHNlbGVjdGl2ZV91cGRhdGUoZGljdDEsIGRpY3QyKToKICAgICIiIlVwZGF0ZSBrZXksIHZhbCB3aXRoIHZhbHVlcyBpbiBkaWN0MiBmb3Iga2V5cyBpbiBkaWN0MSwgbGVhdmluZyBkaWN0MSBhbmQKICAgICBkaWN0MiB1bmNoYW5nZWQuCiAgICAiIiIKICAgIHJlcyA9IGNvcHkuZGVlcGNvcHkoZGljdDEpCiAgICBmb3IgaywgdiBpbiBkaWN0Mi5pdGVtcygpOgogICAgICAgIGlmIGsgaW4gZGljdDE6CiAgICAgICAgICAgIHJlc1trXSA9IHYKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChmIldhcm5pbmc6IHtrfToge3Z9IGlnbm9yZWQiKQogICAgcmV0dXJuIHJlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbmluZy5kZXRlY3Rpb24gaW1wb3J0IGRldGVjdF9saXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
