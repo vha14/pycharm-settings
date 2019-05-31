@@ -92,12 +92,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559326530275">
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559336812035">
         <mark key="'" line="265" column="0" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
-        <mark key="^" line="266" column="106" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -357,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICwgZjI0MiAobGFiZWxpbmcgZXJyb3I/KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;piv1b00222_c0000954_f409.jpg&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
@@ -369,31 +368,31 @@
         <text>piv1a00007_c0000157_f232.jpg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICwgZjI0MiAobGFiZWxpbmcgZXJyb3I/KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGYzNzAsIGY0MDkK</text>
+        <text encoding="base64">IyAgICwgZjI0MiAobGFiZWxpbmcgZXJyb3I/KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGYzNzAsIGY0MDkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2hvd19pbWFnZXMoWyJwaXYxYjAwNDc0X2MwMDAxOTYzX2YwMDMuanBnIl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hvd19pbWFnZXMoWyJwaXYxYjAwNDc0X2MwMDAxOTYzX2YwMDMuanBnIl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlIElzc3VlOiBleHRyZW1lbHkgc21hbGwgdmVzc2VsczogcGl2MWIwMDQ3NF9jMDAwMTk2M19mMDAzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgIHBpdjFhMDAwMTNfYzAwMDAxNzVfZjA3Ngo=</text>
+        <text encoding="base64">IyUlIElzc3VlOiBleHRyZW1lbHkgc21hbGwgdmVzc2VsczogcGl2MWIwMDQ3NF9jMDAwMTk2M19mMDAzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBEZWJ1ZyBubXM6Cg==</text>
+        <text encoding="base64">IyAgIHBpdjFhMDAwMTNfYzAwMDAxNzVfZjA3Ngo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBEZWJ1ZyBubXM6Cg==</text>
       </register>
     </registers>
     <search>
