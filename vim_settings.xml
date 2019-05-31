@@ -92,11 +92,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559325455322">
-        <mark key="[" line="197" column="20" />
-        <mark key="]" line="197" column="20" />
-        <mark key="." line="197" column="20" />
-        <mark key="^" line="263" column="55" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559326530275">
+        <mark key="'" line="265" column="0" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
+        <mark key="^" line="266" column="106" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -253,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="27" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" />
@@ -353,43 +353,44 @@
       <jump line="23" column="16" filename="$USER_HOME$/work/piv/training/detection/ssd.py" />
       <jump line="293" column="0" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
       <jump line="0" column="4" filename="$USER_HOME$/work/piv/tox.ini" />
+      <jump line="265" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICwgZjI0MiAobGFiZWxpbmcgZXJyb3I/KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>, &quot;piv1b00222_c0000954_f409.jpg&quot;</text>
       </register>
       <register name="/" type="4">
         <text>yapf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgWmVyb0RpdmlzaW9uRXJyb3I6CiAgICAgICAgICAgIHJldHVybiBmbG9hdCgibmFuIikK</text>
+      <register name="0" type="4">
+        <text>piv1a00007_c0000157_f232.jpg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICwgZjI0MiAobGFiZWxpbmcgZXJyb3I/KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGYzNzAsIGY0MDkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">c2hvd19pbWFnZXMoWyJwaXYxYjAwNDc0X2MwMDAxOTYzX2YwMDMuanBnIl0pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwLm1lYXN1cmUoY29uZl90aHJlc2g9MC4yKQo=</text>
+        <text encoding="base64">IyUlIElzc3VlOiBleHRyZW1lbHkgc21hbGwgdmVzc2VsczogcGl2MWIwMDQ3NF9jMDAwMTk2M19mMDAzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIHBpdjFhMDAwMTNfYzAwMDAxNzVfZjA3Ngo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBEZWJ1ZyBubXM6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
