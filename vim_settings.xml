@@ -32,12 +32,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559281217694">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="94" column="46" />
-        <mark key="]" line="94" column="46" />
-        <mark key="^" line="94" column="46" />
-        <mark key="." line="94" column="46" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559282231331">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="119" column="64" />
+        <mark key="]" line="119" column="64" />
+        <mark key="^" line="92" column="63" />
+        <mark key="." line="119" column="64" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1559241613865">
         <mark key="'" line="26" column="0" />
@@ -69,12 +69,12 @@
         <mark key="^" line="86" column="60" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1559241243272">
+      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1559282037828">
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="104" column="13" />
+        <mark key="[" line="107" column="20" />
+        <mark key="]" line="107" column="20" />
         <mark key="^" line="104" column="13" />
-        <mark key="." line="104" column="13" />
+        <mark key="." line="107" column="20" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
         <mark key="[" line="129" column="0" />
@@ -101,11 +101,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559279938586">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559316776089">
+        <mark key="[" line="91" column="36" />
+        <mark key="]" line="91" column="36" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="91" column="36" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -377,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stat</text>
+        <text>, iou_thresh=iou_thresh, **kwargs</text>
       </register>
       <register name="-" type="4">
-        <text>stat</text>
+        <text>, iou_thresh=iou_thresh, **kwargs</text>
       </register>
       <register name="/" type="4">
         <text>replace</text>
@@ -389,36 +389,31 @@
         <text encoding="base64">ICAgIHlzID0gW2RldGVjdG9yLmxlYXJuLmRhdGEudmFsaWRfZHNbaWR4XVsxXSBmb3IgaWR4IGluIHJhbmdlKGxlbih2YWxpZF9kcykpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG0gaW4gbWV0czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBleHAudXBkYXRlX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
+        <text encoding="base64">ZGYuZGVzY3JpYmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBleHAubWVhc3VyZShwcmludF9zdW1tYXJ5PVRydWUpCg==</text>
+        <text encoding="base64">ZGZfZGV2aWNlcy52ZWluX0FQCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYgPSBleHAubWVhc3VyZV9kZXRhaWxzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG0gaW4gbWV0czoK</text>
       </register>
-      <register name="6" type="4">
-        <text>def _get_raw_output(learn: basic_train.Learner):
-    learn.model.eval()
-    for xb, yb in learn.data.valid_dl:
-        output = tc.to_detach(learn.model(xb))
-        for i in range(xb.shape[0]):
-            yield tc.grab_idx(output, i)</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBleHAudXBkYXRlX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBleHAubWVhc3VyZShwcmludF9zdW1tYXJ5PVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIHNlbGVjdGl2ZV91cGRhdGUoZGljdDEsIGRpY3QyKToKICAgICIiIlVwZGF0ZSBrZXksIHZhbCB3aXRoIHZhbHVlcyBpbiBkaWN0MiBmb3Iga2V5cyBpbiBkaWN0MSwgbGVhdmluZyBkaWN0MSBhbmQKICAgICBkaWN0MiB1bmNoYW5nZWQuCiAgICAiIiIKICAgIHJlcyA9IGNvcHkuZGVlcGNvcHkoZGljdDEpCiAgICBmb3IgaywgdiBpbiBkaWN0Mi5pdGVtcygpOgogICAgICAgIGlmIGsgaW4gZGljdDE6CiAgICAgICAgICAgIHJlc1trXSA9IHYKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChmIldhcm5pbmc6IHtrfToge3Z9IGlnbm9yZWQiKQogICAgcmV0dXJuIHJlcwo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
