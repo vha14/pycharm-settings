@@ -32,12 +32,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559280475290">
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559281217694">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="89" column="18" />
-        <mark key="]" line="89" column="18" />
-        <mark key="^" line="89" column="18" />
-        <mark key="." line="89" column="18" />
+        <mark key="[" line="94" column="46" />
+        <mark key="]" line="94" column="46" />
+        <mark key="^" line="94" column="46" />
+        <mark key="." line="94" column="46" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1559241613865">
         <mark key="'" line="26" column="0" />
@@ -123,9 +123,6 @@
         <mark key="]" line="40" column="74" />
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
-      </file>
-      <file name="/Python Console" timestamp="1559280135743">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559280150505">
         <mark key="[" line="0" column="0" />
@@ -380,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>stat</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>stat</text>
       </register>
       <register name="/" type="4">
         <text>replace</text>
@@ -392,18 +389,21 @@
         <text encoding="base64">ICAgIHlzID0gW2RldGVjdG9yLmxlYXJuLmRhdGEudmFsaWRfZHNbaWR4XVsxXSBmb3IgaWR4IGluIHJhbmdlKGxlbih2YWxpZF9kcykpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBleHAudXBkYXRlX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG0gaW4gbWV0czoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBleHAubWVhc3VyZShwcmludF9zdW1tYXJ5PVRydWUpCg==</text>
+        <text encoding="base64">IyBleHAudXBkYXRlX2t3YXJncyhjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBleHAubWVhc3VyZShwcmludF9zdW1tYXJ5PVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>def _get_raw_output(learn: basic_train.Learner):
     learn.model.eval()
     for xb, yb in learn.data.valid_dl:
@@ -411,17 +411,14 @@
         for i in range(xb.shape[0]):
             yield tc.grab_idx(output, i)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIHNlbGVjdGl2ZV91cGRhdGUoZGljdDEsIGRpY3QyKToKICAgICIiIlVwZGF0ZSBrZXksIHZhbCB3aXRoIHZhbHVlcyBpbiBkaWN0MiBmb3Iga2V5cyBpbiBkaWN0MSwgbGVhdmluZyBkaWN0MSBhbmQKICAgICBkaWN0MiB1bmNoYW5nZWQuCiAgICAiIiIKICAgIHJlcyA9IGNvcHkuZGVlcGNvcHkoZGljdDEpCiAgICBmb3IgaywgdiBpbiBkaWN0Mi5pdGVtcygpOgogICAgICAgIGlmIGsgaW4gZGljdDE6CiAgICAgICAgICAgIHJlc1trXSA9IHYKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChmIldhcm5pbmc6IHtrfToge3Z9IGlnbm9yZWQiKQogICAgcmV0dXJuIHJlcwo=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ZGVmIHNlbGVjdGl2ZV91cGRhdGUoZGljdDEsIGRpY3QyKToKICAgICIiIlVwZGF0ZSBrZXksIHZhbCB3aXRoIHZhbHVlcyBpbiBkaWN0MiBmb3Iga2V5cyBpbiBkaWN0MSwgbGVhdmluZyBkaWN0MSBhbmQKICAgICBkaWN0MiB1bmNoYW5nZWQuCiAgICAiIiIKICAgIHJlcyA9IGNvcHkuZGVlcGNvcHkoZGljdDEpCiAgICBmb3IgaywgdiBpbiBkaWN0Mi5pdGVtcygpOgogICAgICAgIGlmIGsgaW4gZGljdDE6CiAgICAgICAgICAgIHJlc1trXSA9IHYKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChmIldhcm5pbmc6IHtrfToge3Z9IGlnbm9yZWQiKQogICAgcmV0dXJuIHJlcwo=</text>
       </register>
     </registers>
     <search>
