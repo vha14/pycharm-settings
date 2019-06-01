@@ -101,12 +101,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559363840666">
-        <mark key="'" line="34" column="78" />
-        <mark key="[" line="62" column="28" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="62" column="30" />
-        <mark key="^" line="62" column="30" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559364677054">
+        <mark key="'" line="83" column="2" />
+        <mark key="[" line="94" column="30" />
+        <mark key="]" line="83" column="2" />
+        <mark key="." line="83" column="2" />
+        <mark key="^" line="83" column="2" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -124,6 +124,9 @@
         <mark key="]" line="40" column="74" />
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
+      </file>
+      <file name="/Python Console" timestamp="1559364962362">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559280150505">
         <mark key="[" line="0" column="0" />
@@ -275,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="14" column="10" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
       <jump line="171" column="2" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
@@ -375,6 +377,7 @@
       <jump line="108" column="9" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="33" column="78" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="83" column="2" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -384,7 +387,7 @@
         <text>50%</text>
       </register>
       <register name="/" type="4">
-        <text>strict</text>
+        <text>232</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9yIG0gaW4gbWV0czogcHJpbnQobSkK</text>
@@ -418,15 +421,14 @@
       </register>
     </registers>
     <search>
-      <last-search>strict</last-search>
+      <last-search>232</last-search>
       <last-offset />
-      <last-pattern>strict</last-pattern>
+      <last-pattern>232</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>device</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>quant</entry>
         <entry>mean</entry>
@@ -446,6 +448,7 @@
         <entry>utils</entry>
         <entry>replace</entry>
         <entry>strict</entry>
+        <entry>232</entry>
       </history-search>
       <history-cmd />
       <history-expr />
