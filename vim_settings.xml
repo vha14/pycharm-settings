@@ -69,12 +69,12 @@
         <mark key="^" line="86" column="60" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1559282037828">
+      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1559353664734">
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="107" column="20" />
-        <mark key="]" line="107" column="20" />
-        <mark key="^" line="104" column="13" />
-        <mark key="." line="107" column="20" />
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="37" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
         <mark key="[" line="129" column="0" />
@@ -100,6 +100,13 @@
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559363840666">
+        <mark key="'" line="34" column="78" />
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="62" column="30" />
+        <mark key="." line="62" column="30" />
+        <mark key="^" line="62" column="30" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -268,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="113" column="18" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="18" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/train_tfmodel.py" />
       <jump line="14" column="10" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
@@ -368,58 +374,58 @@
       <jump line="103" column="4" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="108" column="9" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="33" column="78" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, agg_nms=True</text>
+        <text>50%</text>
       </register>
       <register name="-" type="4">
-        <text>, agg_nms=True</text>
+        <text>50%</text>
       </register>
       <register name="/" type="4">
-        <text>replace</text>
+        <text>strict</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNob3dfaW1hZ2VzKFtmIntpbWd9LmpwZyJdLCBjb25mX3RocmVzaD0wLjEsIG5tc19vdmVybGFwPTAuMSwgYWdnX25tcz1UcnVlKQo=</text>
+        <text encoding="base64">Zm9yIG0gaW4gbWV0czogcHJpbnQobSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZzID0gdG9yY2guY2F0KGNvbmZzLCBkaW09MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzZXMgPSB0b3JjaC5jYXQoY2xhc3NlcywgZGltPTApCg==</text>
+        <text encoding="base64">c3RyaWN0X21ldHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJib3hlcyA9IHRvcmNoLmNhdChiYm94ZXMsIGRpbT0wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMsIGNsYXNlcywgY29uZnMgPSBwcmVkCg==</text>
+        <text encoding="base64">IyBtZXRzID0gYW5hbHl6ZS5tZWFzdXJlKGV4cC5kZXRlY3RvciwgZXhwLmFuYWx5emVfY29uZmlnLCBleHAucmF3X291dHB1dCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYW5hbHl6ZV9jb25maWcuYWdnX25tczoKICAgICAgICAgICAgICAgICMgUnVuIG5vbi1tYXggc3VwcHJlc3Npb24gYWNyb3NzIGNhdGVnb3JpZXMKICAgICAgICAgICAgICAgIGlkcywgY291bnQgPSBfbm1zKGJveGVzLCBjb25mcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJsYXA9YW5hbHl6ZV9jb25maWcubm1zX292ZXJsYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3Bfaz1hbmFseXplX2NvbmZpZy5ubXNfdG9waykKICAgICAgICAgICAgICAgIGlkcyA9IGlkc1s6Y291bnRdCiAgICAgICAgICAgICAgICBwcmVkID0gYm94ZXNbaWRzXSwgY2xhc2VzW2lkc10sIGNvbmZzW2lkc10=</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBtZXRzID0gYW5hbHl6ZS5tZWFzdXJlKGV4cC5kZXRlY3RvciwgZXhwLmFuYWx5emVfY29uZmlnLCBleHAucmF3X291dHB1dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc2VzID0gZXhwLmRldGVjdG9yLmxlYXJuLmRhdGEudHJhaW5fZHMueS5jbGFzc2VzCg==</text>
+        <text encoding="base64">c3RyaWN0X2NvbmYgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xLCBhZ2dfbm1zPVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwLm1lYXN1cmUoY29uZl90aHJlc2g9MC4xLCBubXNfb3ZlcmxhcD0wLjEpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZzID0gdG9yY2guY2F0KGNvbmZzLCBkaW09MCkK</text>
       </register>
     </registers>
     <search>
-      <last-search>replace</last-search>
+      <last-search>strict</last-search>
       <last-offset />
-      <last-pattern>replace</last-pattern>
+      <last-pattern>strict</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>devide</entry>
         <entry>device</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>quant</entry>
@@ -439,6 +445,7 @@
         <entry>detect</entry>
         <entry>utils</entry>
         <entry>replace</entry>
+        <entry>strict</entry>
       </history-search>
       <history-cmd />
       <history-expr />
