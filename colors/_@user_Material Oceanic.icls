@@ -1,15 +1,15 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-05-12T11:54:52</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-13T20:02:55</property>
+    <property name="modified">2019-06-01T14:06:41</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -276,7 +276,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
