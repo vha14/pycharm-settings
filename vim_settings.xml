@@ -99,11 +99,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559588244258">
-        <mark key="[" line="230" column="74" />
-        <mark key="]" line="230" column="21" />
-        <mark key="^" line="230" column="21" />
-        <mark key="." line="230" column="21" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559588823188">
+        <mark key="[" line="226" column="45" />
+        <mark key="]" line="226" column="45" />
+        <mark key="^" line="226" column="45" />
+        <mark key="." line="226" column="45" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -149,11 +149,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559587847869">
-        <mark key="[" line="72" column="52" />
-        <mark key="]" line="71" column="16" />
-        <mark key="^" line="71" column="16" />
-        <mark key="." line="72" column="56" />
+      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559588629165">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="15" />
+        <mark key="^" line="73" column="7" />
+        <mark key="." line="75" column="15" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_batch4.py" timestamp="1557448234150">
         <mark key="[" line="14" column="65" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.update(area_conf))),</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>.update(area_conf))),</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -381,31 +381,31 @@
         <text encoding="base64">c3RyaWN0X2NvbmYgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xLCBhZ2dfbm1zPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2wgPSBpbnQoY2xhcy5pdGVtKCkpICAjIGZsb2F0IHRlbnNvciB0byBpbnQK</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX2ZpbHRlciA9IGFuYWx5emVfY29uZmlnLmFyZWFfZmlsdGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJlYSA9IHV0aWxzLmJveF9hcmVhKGJib3gudW5zcXVlZXplKGRpbT0wKSkuaXRlbSgpCiAgICAgICAgICAgIGFyZWFfZmlsdGVyID0gYW5hbHl6ZV9jb25maWcuYXJlYV9maWx0ZXIKICAgICAgICAgICAgYXJlYV9jb25kaXRpb24gPSBhcmVhX2ZpbHRlciBpcyBOb25lIG9yIGFyZWFfZmlsdGVyKGFyZWEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2wgPSBpbnQoY2xhcy5pdGVtKCkpICAjIGZsb2F0IHRlbnNvciB0byBpbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJ1ZSBvciBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXJ0ZXJ5X2FyZWFzLnBsb3QuaGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmVpbl9hcmVhcy5kZXNjcmliZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJ1ZSBvciBGYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmVpbl9hcmVhc1t2ZWluX2FyZWFzID4gMC41XS5zaGFwZQo=</text>
+        <text encoding="base64">YXJ0ZXJ5X2FyZWFzLnBsb3QuaGlzdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwbHQuZ3JpZChheGlzPSd5JywgYWxwaGE9MC43NSkK</text>
+        <text encoding="base64">dmVpbl9hcmVhcy5kZXNjcmliZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXgueGF4aXMuc2V0X21ham9yX2xvY2F0b3IodGlja2VyLk11bHRpcGxlTG9jYXRvcigwLjA1KSkKYXguZ3JpZChGYWxzZSkK</text>
+        <text encoding="base64">dmVpbl9hcmVhc1t2ZWluX2FyZWFzID4gMC41XS5zaGFwZQo=</text>
       </register>
     </registers>
     <search>
