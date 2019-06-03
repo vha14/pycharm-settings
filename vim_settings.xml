@@ -98,12 +98,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559347215316">
-        <mark key="'" line="10" column="59" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="44" column="27" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559579458332">
+        <mark key="[" line="171" column="4" />
+        <mark key="]" line="171" column="4" />
+        <mark key="^" line="171" column="9" />
+        <mark key="." line="171" column="4" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -362,11 +361,11 @@
       <jump line="10" column="59" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>item()</text>
       </register>
       <register name="-" type="4">
-        <text>Show videos/devices that have poor accuracy</text>
+        <text>item()</text>
       </register>
       <register name="/" type="4">
         <text>exp\.</text>
