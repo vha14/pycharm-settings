@@ -29,7 +29,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559345623892">
+      <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559579751808">
+        <mark key="'" line="228" column="33" />
         <mark key="[" line="214" column="31" />
         <mark key="]" line="214" column="36" />
         <mark key="." line="214" column="36" />
@@ -98,11 +99,11 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559579458332">
-        <mark key="[" line="171" column="4" />
-        <mark key="]" line="171" column="4" />
-        <mark key="^" line="171" column="9" />
-        <mark key="." line="171" column="4" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559581295715">
+        <mark key="[" line="191" column="12" />
+        <mark key="]" line="191" column="15" />
+        <mark key="." line="191" column="15" />
+        <mark key="^" line="191" column="15" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -259,15 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
-      <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
-      <jump line="168" column="5" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="157" column="64" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="172" column="2" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="68" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="22" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="58" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="53" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
@@ -359,58 +351,66 @@
       <jump line="129" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="143" column="4" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="10" column="59" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="170" column="8" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="15" column="24" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="56" column="57" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="59" column="24" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="60" column="44" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
+      <jump line="228" column="33" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item()</text>
+        <text>Count</text>
       </register>
       <register name="-" type="4">
-        <text>item()</text>
+        <text>Count</text>
       </register>
       <register name="/" type="4">
-        <text>exp\.</text>
+        <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBleHAubG9hZF9tYXAoKQpkZl9kZXZpY2VzID0gZXhwLmRldmljZV9tYXBzKCkKZGZfdmlkZW9zID0gZXhwLnZpZGVvX21hcHMoKQo=</text>
+        <text encoding="base64">YXJ0ZXJ5X2FyZWFzLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXJ0ZXJ5X2FyZWFzLmRlc2NyaWJlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2hvd19iYWRfdmlkZW8odmVzc2VsPSJ2ZWluIikK</text>
+        <text encoding="base64">ZXhwLnNob3dfaW1hZ2VzKFsicGl2MWIwMDU2NF9jMDAwMjMzMF9mMDUzLmpwZyJdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2hvd19iYWRfdmlkZW8odmVzc2VsPSJhcnRlcnkiKQo=</text>
+        <text encoding="base64">ZXhwLmRhdGEudmFsaWRfZHMuaXRlbXNbMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXRpbHMuYm94X2FyZWEoYikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">YiwgbCA9IGV4cC5kYXRhLnZhbGlkX2RzWzBdWzFdLmRhdGEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAncGl2MWIwMDQxMCcsICdwaXYxYjAwNDc0J10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IydwaXYxYTAwMDA3JywgJ3BpdjFiMDAwMjInLCAncGl2MWIwMDAzMycsICdwaXYxYjAwMjc2JywgJ3BpdjFiMDAzNzAnLAo=</text>
+        <text encoding="base64">Zm9vLnRvbGlzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwLmJhZF9ncm91cChncm91cD0iZGV2aWNlIiwgdmVzc2VsPSJhcnRlcnkiLCB0aHJlc2g9MC4xKQo=</text>
+        <text encoding="base64">Zm9vID0gdG9yY2guVGVuc29yKFsyLDNdKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>exp\.</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>exp\.</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>devide</entry>
         <entry>device</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>quant</entry>
@@ -430,6 +430,7 @@
         <entry encoding="base64">XDxiYWRfZ3JvdXBcPg==</entry>
         <entry>0175</entry>
         <entry>exp\.</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd />
       <history-expr />
