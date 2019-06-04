@@ -93,10 +93,27 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="32" />
       </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" timestamp="1559668435931">
+        <mark key="'" line="95" column="48" />
+        <mark key="[" line="63" column="31" />
+        <mark key="]" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+        <mark key="^" line="63" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1559238669516">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" timestamp="1559668809667">
+        <mark key="'" line="33" column="27" />
+        <mark key="." line="42" column="51" />
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
@@ -118,7 +135,7 @@
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
       </file>
-      <file name="/Python Console" timestamp="1559453109911">
+      <file name="/Python Console" timestamp="1559667948838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559280150505">
@@ -129,12 +146,12 @@
         <mark key="]" line="83" column="12" />
         <mark key="." line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559233371527">
+      <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559668835456">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1559240650705">
         <mark key="'" line="15" column="4" />
@@ -147,6 +164,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/util/datasets/piv_to_mscoco.py" timestamp="1559668507005">
+        <mark key="'" line="19" column="1" />
+        <mark key="[" line="85" column="5" />
+        <mark key="]" line="86" column="16" />
+        <mark key="." line="86" column="16" />
+        <mark key="^" line="86" column="16" />
       </file>
       <file name="$USER_HOME$/work/piv/.bazelrc" timestamp="1557696295171">
         <mark key="[" line="5" column="60" />
@@ -197,7 +221,8 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1559615223094">
+      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1559667999944">
+        <mark key="'" line="200" column="0" />
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
@@ -283,11 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="10" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
-      <jump line="171" column="2" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
-      <jump line="60" column="33" filename="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" />
       <jump line="93" column="0" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="40" column="21" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="57" column="33" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
@@ -383,22 +403,27 @@
       <jump line="33" column="78" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="83" column="2" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="35" column="3" filename="/June2019.ipynb" />
+      <jump line="200" column="0" filename="$USER_HOME$/work/piv/training/detection/explore.py" />
+      <jump line="95" column="48" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" />
+      <jump line="19" column="1" filename="$USER_HOME$/work/piv/util/datasets/piv_to_mscoco.py" />
+      <jump line="19" column="21" filename="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" />
+      <jump line="33" column="27" filename="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>find  {toxinidir} -not -path &quot;*/\.*&quot; -type f -name &quot;*.py&quot; -print0 | xargs -0 -n1 -P8 yapf -i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>find  {toxinidir} -not -path &quot;*/\.*&quot; -type f -name &quot;*.py&quot; -print0 | xargs -0 -n1 -P8 yapf -i</text>
       </register>
       <register name="/" type="4">
-        <text>232</text>
+        <text>info</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGhyZXNoID0gMC41CnByaW50KGYiQ29tcHV0aW5nIG1BUEBJb1U9e3RocmVzaH0gb24gYmF0Y2g0IGZvciB7ZXhwLm1vZGVsX2ZpbGV9LCBwbGVhc2Ugd2FpdCAuLi4iKQptZXRzID0gYW5hbHl6ZS5tZWFzdXJlKGV4cC5kZXRlY3RvciwgZXhwLmFuYWx5emVfY29uZmlnLCBleHAucmF3X291dHB1dCkKbWFwcyA9IFttZXQuQVAgZm9yIG1ldCBpbiBtZXRzXQpwcmludChmIm1BUEBJb1U9e3RocmVzaH0gPSB7c3VtKG1hcHMpIC8gbGVuKG1hcHMpfS4gRGV0YWlscyAoYXJ0ZXJ5PTEsIHZlaW49Mik6IikKZm9yIG1ldCBpbiBtZXRzOgogICAgcHJpbnQoZiJ7bWV0LmNsYXN9OiB7bWV0fSIpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhc2ggLWMgJ2ZpbmQgIHt0b3hpbmlkaXJ9IC1ub3QgLXBhdGggIiovXC4qIiAtdHlwZSBmIC1uYW1lICIqLnB5IiAtcHJpbnQwIHwgeGFyZ3MgLTAgLW4xIC1QOCB5YXBmIC1pJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB5YQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -407,34 +432,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie21ldC5jbGFzfToge21ldH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIG1ldCBpbiBtZXRzOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYie21ldC5jbGFzfToge21ldH0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZiJtQVBASW9VPTAuNSA9IHtzdW0obWFwcykgLyBsZW4obWFwcyl9LiBEZXRhaWxzIChhcnRlcnk9MSwgdmVpbj0yKToiKQo=</text>
+        <text encoding="base64">Zm9yIG1ldCBpbiBtZXRzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFwcyA9IFttZXQuQVAgZm9yIG1ldCBpbiBtZXRzXQo=</text>
+        <text encoding="base64">cHJpbnQoZiJtQVBASW9VPTAuNSA9IHtzdW0obWFwcykgLyBsZW4obWFwcyl9LiBEZXRhaWxzIChhcnRlcnk9MSwgdmVpbj0yKToiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWV0cyA9IGFuYWx5emUubWVhc3VyZShleHAuZGV0ZWN0b3IsIGV4cC5hbmFseXplX2NvbmZpZywgZXhwLnJhd19vdXRwdXQpCg==</text>
+        <text encoding="base64">bWFwcyA9IFttZXQuQVAgZm9yIG1ldCBpbiBtZXRzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZiJDb21wdXRpbmcgbUFQQElvVT0wLjUgb24gYmF0Y2g0IGZvciB7ZXhwLm1vZGVsX2ZpbGV9LCBwbGVhc2Ugd2FpdCAuLi4iKQo=</text>
+        <text encoding="base64">bWV0cyA9IGFuYWx5emUubWVhc3VyZShleHAuZGV0ZWN0b3IsIGV4cC5hbmFseXplX2NvbmZpZywgZXhwLnJhd19vdXRwdXQpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>232</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>232</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry>quant</entry>
         <entry>mean</entry>
         <entry>std</entry>
@@ -454,6 +478,7 @@
         <entry>replace</entry>
         <entry>strict</entry>
         <entry>232</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd />
       <history-expr />
