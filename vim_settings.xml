@@ -12,6 +12,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/inference/BUILD" timestamp="1559674006433">
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="35" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics_test.py" timestamp="1559235484152">
         <mark key="[" line="74" column="73" />
         <mark key="]" line="74" column="71" />
@@ -308,9 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
-      <jump line="40" column="21" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
-      <jump line="57" column="33" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/.style.yapf" />
       <jump line="49" column="61" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="67" column="21" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
@@ -408,19 +411,22 @@
       <jump line="19" column="1" filename="$USER_HOME$/work/piv/util/datasets/piv_to_mscoco.py" />
       <jump line="19" column="21" filename="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" />
       <jump line="33" column="27" filename="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/work/piv/inference/BUILD" />
+      <jump line="83" column="55" filename="$USER_HOME$/work/piv/inference/BUILD" />
+      <jump line="45" column="15" filename="$USER_HOME$/work/piv/inference/BUILD" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>find  {toxinidir} -not -path &quot;*/\.*&quot; -type f -name &quot;*.py&quot; -print0 | xargs -0 -n1 -P8 yapf -i</text>
+        <text>retina</text>
       </register>
       <register name="-" type="4">
-        <text>find  {toxinidir} -not -path &quot;*/\.*&quot; -type f -name &quot;*.py&quot; -print0 | xargs -0 -n1 -P8 yapf -i</text>
+        <text>retina</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>types</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhc2ggLWMgJ2ZpbmQgIHt0b3hpbmlkaXJ9IC1ub3QgLXBhdGggIiovXC4qIiAtdHlwZSBmIC1uYW1lICIqLnB5IiAtcHJpbnQwIHwgeGFyZ3MgLTAgLW4xIC1QOCB5YXBmIC1pJwo=</text>
+        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb24vcmV0aW5hIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyB5YQo=</text>
@@ -451,15 +457,14 @@
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>types</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>types</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>quant</entry>
         <entry>mean</entry>
         <entry>std</entry>
         <entry>valid</entry>
@@ -474,11 +479,12 @@
         <entry>detect_list</entry>
         <entry>list</entry>
         <entry>detect</entry>
-        <entry>utils</entry>
         <entry>replace</entry>
         <entry>strict</entry>
         <entry>232</entry>
         <entry>info</entry>
+        <entry>utils</entry>
+        <entry>types</entry>
       </history-search>
       <history-cmd />
       <history-expr />
