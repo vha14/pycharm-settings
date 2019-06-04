@@ -250,12 +250,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/June2019.ipynb" timestamp="1559617315384">
+      <file name="/June2019.ipynb" timestamp="1559617917335">
         <mark key="'" line="29" column="3" />
-        <mark key="[" line="118" column="63" />
-        <mark key="]" line="119" column="3" />
-        <mark key="^" line="119" column="3" />
-        <mark key="." line="119" column="3" />
+        <mark key="[" line="157" column="51" />
+        <mark key="]" line="156" column="57" />
+        <mark key="." line="156" column="57" />
+        <mark key="^" line="156" column="57" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
         <mark key="[" line="9" column="0" />
@@ -385,8 +385,8 @@
       <jump line="35" column="3" filename="/June2019.ipynb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -404,25 +404,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie21ldC5jbGFzfToge21ldH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIG1ldCBpbiBtZXRzOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYie21ldC5jbGFzfToge21ldH0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZiJtQVBASW9VPTAuNSA9IHtzdW0obWFwcykgLyBsZW4obWFwcyl9LiBEZXRhaWxzIChhcnRlcnk9MSwgdmVpbj0yKToiKQo=</text>
+        <text encoding="base64">Zm9yIG1ldCBpbiBtZXRzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFwcyA9IFttZXQuQVAgZm9yIG1ldCBpbiBtZXRzXQo=</text>
+        <text encoding="base64">cHJpbnQoZiJtQVBASW9VPTAuNSA9IHtzdW0obWFwcykgLyBsZW4obWFwcyl9LiBEZXRhaWxzIChhcnRlcnk9MSwgdmVpbj0yKToiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWV0cyA9IGFuYWx5emUubWVhc3VyZShleHAuZGV0ZWN0b3IsIGV4cC5hbmFseXplX2NvbmZpZywgZXhwLnJhd19vdXRwdXQpCg==</text>
+        <text encoding="base64">bWFwcyA9IFttZXQuQVAgZm9yIG1ldCBpbiBtZXRzXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZiJDb21wdXRpbmcgbUFQQElvVT0wLjUgb24gYmF0Y2g0IGZvciB7ZXhwLm1vZGVsX2ZpbGV9LCBwbGVhc2Ugd2FpdCAuLi4iKQo=</text>
+        <text encoding="base64">bWV0cyA9IGFuYWx5emUubWVhc3VyZShleHAuZGV0ZWN0b3IsIGV4cC5hbmFseXplX2NvbmZpZywgZXhwLnJhd19vdXRwdXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWV0cyA9IGFuYWx5emUubWVhc3VyZSgpCg==</text>
+        <text encoding="base64">cHJpbnQoZiJDb21wdXRpbmcgbUFQQElvVT0wLjUgb24gYmF0Y2g0IGZvciB7ZXhwLm1vZGVsX2ZpbGV9LCBwbGVhc2Ugd2FpdCAuLi4iKQo=</text>
       </register>
     </registers>
     <search>
