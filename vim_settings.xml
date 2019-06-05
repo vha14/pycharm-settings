@@ -24,6 +24,12 @@
         <mark key="." line="74" column="71" />
         <mark key="^" line="74" column="71" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1559693209399">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="199" column="64" />
+      </file>
       <file name="/a.dummy" timestamp="1559240094460">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,7 +226,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559272225967">
+      <file name="/Dummy.txt" timestamp="1559693829368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
@@ -316,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/.style.yapf" />
       <jump line="49" column="61" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="67" column="21" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="70" column="39" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
@@ -416,13 +421,14 @@
       <jump line="0" column="8" filename="$USER_HOME$/work/piv/inference/BUILD" />
       <jump line="83" column="55" filename="$USER_HOME$/work/piv/inference/BUILD" />
       <jump line="45" column="15" filename="$USER_HOME$/work/piv/inference/BUILD" />
+      <jump line="10" column="0" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>retina</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>retina</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>types</text>
@@ -431,31 +437,31 @@
         <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb24vcmV0aW5hIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB5YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdKSkudW5zcXVlZXplKDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFnIGluIGdyaWRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie21ldC5jbGFzfToge21ldH0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWzEgLyBhZyBmb3IgaSBpbiByYW5nZShhZyAqIGFnKSBmb3IgbywgcCBpbiBhbmNob3Jfc2NhbGVzXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIG1ldCBpbiBtZXRzOgo=</text>
+        <text encoding="base64">ICAgICAgICBucC5jb25jYXRlbmF0ZShbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZiJtQVBASW9VPTAuNSA9IHtzdW0obWFwcykgLyBsZW4obWFwcyl9LiBEZXRhaWxzIChhcnRlcnk9MSwgdmVpbj0yKToiKQo=</text>
+        <text encoding="base64">ICAgIGdyaWRfaGFsZnNpemVzID0gdG9yY2guVGVuc29yKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFwcyA9IFttZXQuQVAgZm9yIG1ldCBpbiBtZXRzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB5YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWV0cyA9IGFuYWx5emUubWVhc3VyZShleHAuZGV0ZWN0b3IsIGV4cC5hbmFseXplX2NvbmZpZywgZXhwLnJhd19vdXRwdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
