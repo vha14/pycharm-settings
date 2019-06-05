@@ -88,6 +88,12 @@
         <mark key="." line="157" column="14" />
         <mark key="^" line="157" column="14" />
       </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" timestamp="1559760693177">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="34" />
+        <mark key="]" line="70" column="34" />
+        <mark key="." line="70" column="34" />
+      </file>
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
@@ -99,7 +105,7 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559598563469">
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559759972985">
         <mark key="'" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
@@ -119,7 +125,7 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1559758905139">
+      <file name="/Python Console" timestamp="1559760043854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559595981035">
@@ -149,11 +155,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559598601703">
-        <mark key="[" line="86" column="47" />
-        <mark key="]" line="87" column="15" />
-        <mark key="." line="87" column="15" />
-        <mark key="^" line="87" column="15" />
+      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559761257932">
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="76" column="45" />
+        <mark key="." line="76" column="45" />
+        <mark key="^" line="76" column="45" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_batch4.py" timestamp="1557448234150">
         <mark key="[" line="14" column="65" />
@@ -237,7 +243,7 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="/June2019.ipynb" timestamp="1559758916552">
+      <file name="/June2019.ipynb" timestamp="1559759857016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
@@ -269,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="53" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="12" column="11" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="32" column="19" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
@@ -369,19 +374,20 @@
       <jump line="60" column="44" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="228" column="33" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFRydWU6Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIF9hcmVhX2ZpbHRlcihiYm94KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB5YXBmOmRpc2FibGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFRydWU6Cg==</text>
