@@ -266,6 +266,12 @@
       <file name="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" timestamp="1558991152440">
         <mark key="'" line="79" column="10" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" timestamp="1559766389277">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/requirements.txt" timestamp="1559192138511">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="11" />
@@ -378,16 +384,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>retina.PYRAMID_LEVELS</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>retina.PYRAMID_LEVELS</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB5YXBmOmRpc2FibGUK</text>
+        <text encoding="base64">ICAgICJweXJhbWlkX2xldmVscyI6IHJldGluYS5QWVJBTUlEX0xFVkVMUywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFRydWU6Cg==</text>
