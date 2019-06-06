@@ -12,10 +12,13 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1559587604925">
-        <mark key="'" line="293" column="0" />
+      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1559853430695">
+        <mark key="'" line="202" column="35" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1558557008783">
+      <file name="/a.dummy" timestamp="1559854664813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
@@ -97,10 +100,11 @@
       <file name="$USER_HOME$/work/piv/demo/frame_source.py" timestamp="1557808688566">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1558545553335">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1559854678186">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="10" />
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
@@ -266,22 +270,11 @@
       <file name="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" timestamp="1558991152440">
         <mark key="'" line="79" column="10" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" timestamp="1559766389277">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
-      </file>
-      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/requirements.txt" timestamp="1559192138511">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="11" />
-      </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="12" column="11" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="32" column="19" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
       <jump line="29" column="25" filename="$USER_HOME$/work/piv/experimental/vu/aux.py" />
@@ -381,46 +374,47 @@
       <jump line="228" column="33" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="60" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" />
+      <jump line="202" column="35" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>retina.PYRAMID_LEVELS</text>
+        <text>, 7</text>
       </register>
       <register name="-" type="4">
-        <text>retina.PYRAMID_LEVELS</text>
+        <text>, 7</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJweXJhbWlkX2xldmVscyI6IHJldGluYS5QWVJBTUlEX0xFVkVMUywK</text>
+        <text encoding="base64">UFlSQU1JRF9MRVZFTFMgPSAoMywgNCwgNSwgNiwgNykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgX2FyZWFfZmlsdGVyKGJib3gpOgo=</text>
+        <text encoding="base64">ICAgICAgICBtM194ID0gdXBzYW1wbGUobTRfeCkgKyBzZWxmLm0zKGMzX3gpCiAgICAgICAgcDNfeCA9IHNlbGYucDMobTNfeCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqKnN0cmljdF9jb25mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAxNDAxMzAwMjY1MTU5NTIgPSB7c3RyfSAncGl2MWEwMDA4M19jMDAwMDM5Ml9mNDQ4LmpwZycK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGV2ZWwgaW4gc2VsZi5weXJhbWlkX2xldmVscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAxNDAxMzAwNTI2NjY4MzIgPSB7c3RyfSAncGl2MWEwMDAyOV9jMDAwMDIyMl9mMzgwLmpwZycK</text>
+        <text encoding="base64">ICAgIGRlZiBfaGFzX2xldmVsKHNlbGYsIGxldmVsOiBpbnQpIC0+IGJvb2w6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAxNDAxMzAwMjY1Mzc5NjggPSB7c3RyfSAncGl2MWEwMDA4M19jMDAwMDM5Ml9mMDIxLmpwZycK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB5cmFtaWRfbGV2ZWxzID0gcHlyYW1pZF9sZXZlbHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAxNDAxMzAwNDYyOTIwOTYgPSB7c3RyfSAncGl2MWEwMDA3NF9jMDAwMDM2NV9mMDM0LmpwZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAxNDAxMzAwMzg1OTM5MzYgPSB7c3RyfSAncGl2MWIwMDAyNF9jMDAwMDE2MV9mMDE0LmpwZycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAxNDAxMzAwNDk2MTU4NzIgPSB7c3RyfSAncGl2MWIwMDAwMl9jMDAwMDA3NV9mMTEwLmpwZycK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgaGFzX2xldmVsKHNlbGYsIGxldmVsOiBpbnQpIC0+IGJvb2w6CiAgICAgICAgICAgIGxldmVsIGluIHNlbGYuCg==</text>
       </register>
     </registers>
     <search>
