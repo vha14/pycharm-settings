@@ -27,11 +27,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559579751808">
         <mark key="'" line="228" column="33" />
         <mark key="[" line="214" column="31" />
@@ -42,22 +37,17 @@
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1558564652463">
         <mark key="'" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1558062466228">
-        <mark key="[" line="18" column="68" />
-        <mark key="]" line="18" column="69" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="18" column="69" />
+      <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1559856742154">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1557808526737">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/deploy/test_snapshot.py" timestamp="1556925156588">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557669638950">
         <mark key="[" line="39" column="0" />
@@ -79,11 +69,6 @@
       </file>
       <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" timestamp="1558067262710">
         <mark key="'" line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_resnet50_v1_fpn_256x256.config" timestamp="1557592003714">
         <mark key="[" line="157" column="13" />
@@ -112,11 +97,6 @@
       <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1559759972985">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/training/detection/pascal_callback.py" timestamp="1557803416084">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="11" />
@@ -134,11 +114,6 @@
       </file>
       <file name="/fragment.py" timestamp="1559595981035">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/doc/tensorflow/tflite_conversion_and_deploy.md" timestamp="1558288049849">
-        <mark key="[" line="83" column="12" />
-        <mark key="]" line="83" column="12" />
-        <mark key="." line="83" column="12" />
       </file>
       <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559194662373">
         <mark key="'" line="0" column="4" />
@@ -174,11 +149,6 @@
       <file name="$USER_HOME$/work/piv/demo/video_overlay_window.py" timestamp="1557808702823">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/aux.py" timestamp="1557803975990">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" timestamp="1558064375450">
         <mark key="'" line="21" column="12" />
       </file>
@@ -188,12 +158,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559597208429">
+      <file name="/Dummy.txt" timestamp="1559856391408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/batch3.py" timestamp="1557445623783">
@@ -204,21 +169,6 @@
       </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" timestamp="1558979928693">
         <mark key="'" line="114" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/visualize.py" timestamp="1557808092943">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/README.md" timestamp="1559192220787">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
         <mark key="[" line="154" column="43" />
@@ -250,11 +200,6 @@
       <file name="/June2019.ipynb" timestamp="1559759857016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" timestamp="1558760005593">
         <mark key="'" line="2" column="28" />
       </file>
@@ -269,6 +214,12 @@
       </file>
       <file name="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" timestamp="1558991152440">
         <mark key="'" line="79" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" timestamp="1559856275365">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
         <mark key="[" line="0" column="0" />
@@ -378,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 7</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>, 7</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
