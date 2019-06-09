@@ -130,10 +130,12 @@
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1560109183442">
-        <mark key="[" line="228" column="41" />
-        <mark key="]" line="228" column="42" />
-        <mark key="." line="228" column="42" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1560114095541">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="240" column="60" />
+        <mark key="]" line="240" column="61" />
+        <mark key="." line="240" column="61" />
+        <mark key="^" line="240" column="30" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
         <mark key="[" line="60" column="0" />
@@ -146,7 +148,6 @@
         <mark key="." line="46" column="48" />
         <mark key="^" line="41" column="53" />
       </file>
-      <file name="/explore.py" timestamp="1560104869503" />
       <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1559237375075">
         <mark key="[" line="40" column="52" />
         <mark key="]" line="40" column="74" />
@@ -324,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="61" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="67" column="21" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="70" column="39" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="75" column="42" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
@@ -424,6 +424,7 @@
       <jump line="83" column="55" filename="$USER_HOME$/work/piv/inference/BUILD" />
       <jump line="45" column="15" filename="$USER_HOME$/work/piv/inference/BUILD" />
       <jump line="10" column="0" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
