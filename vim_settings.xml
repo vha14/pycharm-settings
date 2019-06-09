@@ -30,7 +30,7 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="199" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1559240094460">
+      <file name="/a.dummy" timestamp="1560105199669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
@@ -146,6 +146,7 @@
         <mark key="." line="46" column="48" />
         <mark key="^" line="41" column="53" />
       </file>
+      <file name="/explore.py" timestamp="1560104869503" />
       <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1559237375075">
         <mark key="[" line="40" column="52" />
         <mark key="]" line="40" column="74" />
@@ -235,11 +236,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1559667999944">
+      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1560105718671">
         <mark key="'" line="200" column="0" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="66" />
+        <mark key="." line="38" column="66" />
+        <mark key="^" line="38" column="66" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
         <mark key="[" line="21" column="0" />
@@ -425,43 +427,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>959</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>959</text>
       </register>
       <register name="/" type="4">
         <text>types</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ6b29tcyI6IHJldGluYS5QSVZfWk9PTVMK</text>
+        <text encoding="base64">X01PREVMX0ZJTEUgPSAicmVkdWNlZF9tb2RlbF83OS45NTkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBfTU9ERUxfRklMRSA9ICJyZWR1Y2VkX21vZGVsXzc5Ljk1OSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBfTU9ERV9GSUxFID0gIm1vZGVsXzgwLjUzNyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdKSkudW5zcXVlZXplKDEpCg==</text>
+        <text encoding="base64">IyBfTU9ERV9GSUxFID0gIm1vZGVsXzgwLjUzNyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFnIGluIGdyaWRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWzEgLyBhZyBmb3IgaSBpbiByYW5nZShhZyAqIGFnKSBmb3IgbywgcCBpbiBhbmNob3Jfc2NhbGVzXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBucC5jb25jYXRlbmF0ZShbCg==</text>
+        <text encoding="base64">ICAgICAgICBdKSkudW5zcXVlZXplKDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyaWRfaGFsZnNpemVzID0gdG9yY2guVGVuc29yKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFnIGluIGdyaWRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB5YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuYXJyYXkoWzEgLyBhZyBmb3IgaSBpbiByYW5nZShhZyAqIGFnKSBmb3IgbywgcCBpbiBhbmNob3Jfc2NhbGVzXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBucC5jb25jYXRlbmF0ZShbCg==</text>
       </register>
     </registers>
     <search>
