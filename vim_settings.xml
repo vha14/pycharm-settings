@@ -93,6 +93,12 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="32" />
       </file>
+      <file name="$USER_HOME$/work/piv/doc/running_experiments.md" timestamp="1560186770475">
+        <mark key="[" line="8" column="75" />
+        <mark key="]" line="8" column="75" />
+        <mark key="." line="8" column="75" />
+        <mark key="^" line="8" column="75" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1560185651317">
         <mark key="'" line="76" column="8" />
         <mark key="[" line="136" column="15" />
@@ -383,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PyramidFeatures, self).__init__()</text>
+        <text>conda</text>
       </register>
       <register name="-" type="4">
-        <text>PyramidFeatures, self).__init__()</text>
+        <text>conda</text>
       </register>
       <register name="/" type="4">
         <text>super</text>
