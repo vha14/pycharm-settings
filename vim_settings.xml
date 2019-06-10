@@ -71,11 +71,12 @@
         <mark key="^" line="86" column="60" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1560124676259">
+      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1560126368969">
         <mark key="'" line="160" column="59" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+        <mark key="[" line="176" column="20" />
+        <mark key="]" line="176" column="23" />
+        <mark key="." line="176" column="23" />
+        <mark key="^" line="176" column="23" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_resnet50_v1_fpn_256x256.config" timestamp="1557592003714">
         <mark key="[" line="157" column="13" />
@@ -163,11 +164,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1559616402212">
-        <mark key="[" line="91" column="74" />
-        <mark key="]" line="91" column="74" />
-        <mark key="^" line="91" column="74" />
-        <mark key="." line="91" column="74" />
+      <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1560126488833">
+        <mark key="[" line="104" column="68" />
+        <mark key="]" line="105" column="65" />
+        <mark key="^" line="105" column="65" />
+        <mark key="." line="105" column="65" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/BUILD" timestamp="1559241504643">
         <mark key="[" line="39" column="9" />
@@ -203,11 +204,11 @@
         <mark key="." line="38" column="66" />
         <mark key="^" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1560123390941">
+      <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1560126651369">
         <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="6" />
-        <mark key="^" line="35" column="6" />
-        <mark key="." line="35" column="6" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
         <mark key="[" line="154" column="43" />
@@ -358,43 +359,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmVpbl9mbnNbMF0K</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>gts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2V0X21hcCgqKnsqKmRpY3QoY29uZl90aHJlc2g9MC4yLCBubXNfb3ZlcmxhcD0wLjEpLCAqKmV4dHJhX2NvbmZ9KQo=</text>
+        <text encoding="base64">dmVpbl9mbnMsIHZlaW5fZnBzLCAgPSBtZXRzWzBdLmZhbHNlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmVpbl9mbnNbMF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGt3YXJnc1tdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZm9yIG5hbWUsIGxhYmVscyBpbiBndHMuaXRlbXMoKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZm9yIGNvZGUsIGxhYmVsIGluIHppcChtYXRjaGVkW25hbWVdLCBsYWJlbHMpIGlmIG5vdCBjb2RlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZV9uZWdhdGl2ZXMgPSBbRmFsc2VOZWdhdGl2ZShuYW1lLCBsYWJlbCkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZV9uZWdhdGl2ZXMgPSBbXQo=</text>
+        <text encoding="base64">dmVpbl9mcHNbMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">bGVuKHZlaW5fZnBzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxzZV9uZWdhdGl2ZXMuYXBwZW5kKEZhbHNlTmVnYXRpdmUobmFtZSwgbGFiZWwpKSAgICAK</text>
+        <text encoding="base64">dmVpbl9mbnNbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBjb2RlOgo=</text>
+        <text encoding="base64">bGVuKHZlaW5fZm5zKQo=</text>
       </register>
     </registers>
     <search>
