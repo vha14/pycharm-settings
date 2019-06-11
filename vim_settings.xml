@@ -69,12 +69,12 @@
         <mark key="^" line="86" column="60" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1559353664734">
+      <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1560291141765">
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="37" />
-        <mark key="^" line="52" column="37" />
-        <mark key="." line="52" column="37" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="29" column="38" />
+        <mark key="^" line="29" column="38" />
+        <mark key="." line="29" column="38" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
         <mark key="[" line="129" column="0" />
@@ -228,11 +228,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1560289336824">
-        <mark key="[" line="78" column="52" />
-        <mark key="]" line="78" column="52" />
-        <mark key="." line="78" column="52" />
-        <mark key="^" line="82" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1560291848054">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="72" column="46" />
+        <mark key="]" line="73" column="2" />
+        <mark key="." line="73" column="2" />
+        <mark key="^" line="73" column="2" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/BUILD" timestamp="1559240809773">
         <mark key="[" line="37" column="0" />
@@ -294,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/config/ssd_mobilenet_v1_200x200.config" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/modeling/src/scripts/visualize.py" />
       <jump line="60" column="33" filename="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" />
       <jump line="93" column="0" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="40" column="21" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
@@ -394,10 +393,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="76" column="8" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
       <jump line="125" column="0" filename="$USER_HOME$/work/piv/training/detection/retina.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/piv/experimental/vu/falses.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/piv/experimental/vu/falses.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzY2FsZWRfZmxvdy5mbGlwKDEpLmxvbmcoKS5zcXVlZXplKCkK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -406,34 +407,34 @@
         <text>super</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbWFnZS5zY2FsZV9mbG93KGZmLCB0b191bml0PUZhbHNlKS5mbG93LnZpZXcoLTEsIDQpLmxvbmcoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzY2FsZWRfZmxvdy5mbGlwKDEpLnZpZXcoLTEsIDQpLmxvbmcoKS5zcXVlZXplKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzY2FsZWRfZmxvdy5mbGlwKDEpLmxvbmcoKS5zcXVlZXplKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgZXhwLmRldGVjdG9yLmxlYXJuLmRhdGEudmFsaWRfZHMuaXRlbXNdCg==</text>
+        <text encoding="base64">IyB2ZWluX2Zwc1swXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2l6ZXMgPSBbSW1hZ2Uub3BlbihpbWdfbmFtZSkuc2l6ZSBmb3IgaW1nX25hbWUgaW4K</text>
+        <text encoding="base64">IyBleHAuc2hvd19pbWFnZXMoW3ZlaW5fZnBzWzBdLmltZ19uYW1lXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ZGF0YSA9IHZlaW5fZnBzWzBdLmJib3gudmlldygtMSwgMikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2l6ZXMK</text>
+        <text encoding="base64">dmVpbl9mcHNbMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2l6ZXMgPSBzZXQoc2l6ZXMpCg==</text>
+        <text encoding="base64">bGVuKHZlaW5fZnBzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGltZ19uYW1lIGluIGV4cC5kZXRlY3Rvci5sZWFybi5kYXRhLnZhbGlkX2RzLml0ZW1zOgo=</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBpbWFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltZy5zaXplCg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkudmlzaW9uIGltcG9ydCBpbWFnZQo=</text>
       </register>
     </registers>
     <search>
