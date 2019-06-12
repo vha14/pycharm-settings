@@ -80,11 +80,11 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="32" />
       </file>
-      <file name="$USER_HOME$/work/piv/doc/running_experiments.md" timestamp="1560186770475">
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="8" column="75" />
-        <mark key="." line="8" column="75" />
-        <mark key="^" line="8" column="75" />
+      <file name="$USER_HOME$/work/piv/doc/running_experiments.md" timestamp="1560373017959">
+        <mark key="[" line="74" column="46" />
+        <mark key="]" line="74" column="46" />
+        <mark key="." line="74" column="46" />
+        <mark key="^" line="67" column="45" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/fastai/vision/image.py" timestamp="1560284505878">
         <mark key="[" line="326" column="0" />
@@ -267,11 +267,11 @@
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/README.md" timestamp="1559226323810">
-        <mark key="[" line="68" column="52" />
-        <mark key="]" line="68" column="30" />
-        <mark key="^" line="68" column="30" />
-        <mark key="." line="68" column="30" />
+      <file name="$USER_HOME$/work/piv/README.md" timestamp="1560372232243">
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="96" column="32" />
+        <mark key="^" line="96" column="32" />
+        <mark key="." line="96" column="32" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" timestamp="1560185582695">
         <mark key="'" line="108" column="9" />
@@ -388,10 +388,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>super</text>
@@ -400,28 +400,28 @@
         <text encoding="base64">ZnBfY29uZiA9IGRpY3QoaW91X3RocmVzaD0wLjIsIGNvbmZfdGhyZXNoPTAuNSwgbm1zX292ZXJsYXA9MC4xLCBhZ2dfbm1zPVRydWUpCm1ldHMgPSBnZXRfbWV0cygqKmZwX2NvbmYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZiJGb3VuZCB7bGVuKGFydGVyeV9mcHMpfSBmYWxzZSBwb3NpdGl2ZXMgZm9yIGFydGVyeSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZiJGb3VuZCB7bGVuKHZlaW5fZnBzKX0gZmFsc2UgcG9zaXRpdmVzIGZvciB2ZWluIikK</text>
+        <text encoding="base64">cHJpbnQoZiJGb3VuZCB7bGVuKGFydGVyeV9mcHMpfSBmYWxzZSBwb3NpdGl2ZXMgZm9yIGFydGVyeSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZiJGb3VuZCB7bGVuKHZlaW5fZnBzKX0gZmFsc2UgcG9zaXRpdmVzIGZvciB2ZWluIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnBfY29uZiA9IGRpY3QoaW91X3RocmVzaD0wLjIsIGNvbmZfdGhyZXNoPTAuNSwgbm1zX292ZXJsYXA9MC4xLCBhZ2dfbm1zPVRydWUpCg==</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnBfY29uZiA9IGRpY3QoaW91X3RocmVzaD0wLjIsIGNvbmZfdGhyZXNoPTAuNSwgbm1zX292ZXJsYXA9MC4xLCBhZ2dfbm1zPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
