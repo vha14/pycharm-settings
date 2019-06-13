@@ -235,6 +235,12 @@
         <mark key="." line="176" column="58" />
         <mark key="^" line="176" column="58" />
       </file>
+      <file name="$USER_HOME$/work/piv/doc/June13_2019.md" timestamp="1560465314611">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+      </file>
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
       </file>
@@ -358,44 +364,44 @@
       <jump line="160" column="59" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vein_fns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBFeHBlcmltZW50cyB0byB1bmRlcnN0YW5kIHRoZSBwb3RlbnRpYWwgb2YgYWRkaW5nIG1vcmUgdHJhaW5pbmcgZGF0YS4K</text>
       </register>
       <register name="-" type="4">
-        <text>vein_fns</text>
+        <text>May 13 - May 17</text>
       </register>
       <register name="/" type="4">
         <text>gts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwLnNob3dfaW1hZ2VzKFt2ZWluX2Zuc1tpXS5pbWdfbmFtZSBmb3IgaSBpbiByYW5nZSg1KV0sICoqc3RyaWN0X2NvbmYpCgojJSUK</text>
+        <text encoding="base64">IyMjIyBXb3JrIHBsYW5uZWQgSnVuZSAxMCAtIEp1bmUgMTQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">LSBFeHBlcmltZW50cyB0byB1bmRlcnN0YW5kIHRoZSBwb3RlbnRpYWwgb2YgYWRkaW5nIG1vcmUgdHJhaW5pbmcgZGF0YS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICoqc3RyaWN0X2NvbmYK</text>
+        <text encoding="base64">YmFja2JvbmUgc3VwcG9ydC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFydGVyeV9mcHNbMF0uaW1nX25hbWVdLCAK</text>
+        <text encoding="base64">LSBDb250aW51ZSBzZWdtZW50YXRpb24gZXhwZXJpbWVudHMgd2l0aCBEZWVwbGFiVjMsIGFkZGluZyBNb2JpbGVOZXRWMiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFydGVyeV9mbnNbMF0uaW1nX25hbWUsCg==</text>
+        <text encoding="base64">LSBDb250aW51ZSBhbmFseXNpcyBvZiBkZXRlY3Rpb24gZmFpbHVyZSBtb2Rlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlaW5fZnBzWzBdLmltZ19uYW1lLAo=</text>
+        <text encoding="base64">LSBDb250aW51ZSB2aXN1YWxpemF0aW9uIGFuZCBkZWJ1Z2dpbmcgdG9vbGluZyBmb3Igb2JqZWN0IGRldGVjdGlvbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RyaWN0X2NvbmYgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">LSBBbmFseXNpcyBvZiBkZXRlY3Rpb24gZmFpbHVyZSBtb2Rlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWV0cyA9IGdldF9tZXRzKCkK</text>
+        <text encoding="base64">LSBWaXN1YWxpemF0aW9uIGFuZCBkZWJ1Z2dpbmcgdG9vbGluZyBmb3Igb2JqZWN0IGRldGVjdGlvbi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RyaWN0X2NvbmYgPSBkaWN0KGNvbmZfdGhyZXNoPTAuMSwgbm1zX292ZXJsYXA9MC4xKQpleHRyYV9jb25mID0gZGljdChndF9vbmx5PVRydWUsIGFyZWFfZmlsdGVyPWxhbWJkYSB4OiB4ID4gMC4wNikKbWV0cyA9IGdldF9tZXRzKGNvbmZfdGhyZXNoPTAuMiwgbm1zX292ZXJsYXA9MC4xLCAqKmV4dHJhX2NvbmYpCg==</text>
+        <text encoding="base64">cHJldmVudHMgbnVtZXJpY2FsIGJlbmNobWFya2luZyBhdCB0aGlzIHBvaW50Lgo=</text>
       </register>
     </registers>
     <search>
