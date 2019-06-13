@@ -235,11 +235,12 @@
         <mark key="." line="176" column="58" />
         <mark key="^" line="176" column="58" />
       </file>
-      <file name="$USER_HOME$/work/piv/doc/June13_2019.md" timestamp="1560465314611">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/work/piv/doc/June13_2019.md" timestamp="1560466838319">
+        <mark key="'" line="17" column="38" />
+        <mark key="[" line="22" column="78" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
@@ -262,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/frame_source.py" />
       <jump line="25" column="13" filename="$USER_HOME$/work/piv/demo/frame_source.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/video_overlay_window.py" />
       <jump line="40" column="33" filename="$USER_HOME$/work/piv/inference/piv_retina_detector.py" />
@@ -362,13 +362,14 @@
       <jump line="148" column="53" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
       <jump line="153" column="67" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
       <jump line="160" column="59" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
+      <jump line="18" column="38" filename="$USER_HOME$/work/piv/doc/June13_2019.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBFeHBlcmltZW50cyB0byB1bmRlcnN0YW5kIHRoZSBwb3RlbnRpYWwgb2YgYWRkaW5nIG1vcmUgdHJhaW5pbmcgZGF0YS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>May 13 - May 17</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>gts</text>
@@ -377,31 +378,53 @@
         <text encoding="base64">IyMjIyBXb3JrIHBsYW5uZWQgSnVuZSAxMCAtIEp1bmUgMTQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBFeHBlcmltZW50cyB0byB1bmRlcnN0YW5kIHRoZSBwb3RlbnRpYWwgb2YgYWRkaW5nIG1vcmUgdHJhaW5pbmcgZGF0YS4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YmFja2JvbmUgc3VwcG9ydC4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSBDb250aW51ZSBzZWdtZW50YXRpb24gZXhwZXJpbWVudHMgd2l0aCBEZWVwbGFiVjMsIGFkZGluZyBNb2JpbGVOZXRWMiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSBDb250aW51ZSBhbmFseXNpcyBvZiBkZXRlY3Rpb24gZmFpbHVyZSBtb2Rlcy4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSBDb250aW51ZSB2aXN1YWxpemF0aW9uIGFuZCBkZWJ1Z2dpbmcgdG9vbGluZyBmb3Igb2JqZWN0IGRldGVjdGlvbi4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LSBUdmVyc2t5IGxvc3MgZXhwZXJpbWVudHMgKFtQUiAjMTQ4XShodHRwczovL2dpdGh1Yi5jb20vQUkySW5jdWJhdG9yL3Bpdi9wdWxsLzE0OCkpLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cmVzdWx0IGlzIGJlc3QgZm9yIHJlc25ldCBidXQgbm90IHRoZSBiZXN0IG92ZXJhbGwuIFNlZSBDb21ldCBmb3IgZGV0YWlscy4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VGhlIFJlc05ldCAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>launch the benchmark and a selectable text view to copy the results from 
+(results can be mailed to self using e.g. phone's email client). The actual benchmark is implemented as an 
+AsyncTask. Other benchmarks will use roughly the same pattern, making them easy
+ to swap in and out.
+
+**Results**
+
+Pixel3 doesn't seem to be practically usable with Qualcomm SDK, but initial 
+research shows that this might be a problem of Pixel3 rather than of all phones 
+with the SD845 SoC. Maybe we should get a different SD845-based phone, it's 
+not clear if FFSS is going to use Pixel3. OTOH the older Aquos phone allows the 
+use of GPU and achieves 10.19fps with this model.
+
+CPU performance on this model is very bad on Pixel3: 2.33fps, requiring further
+investigation. We will try quantization, which is also supported by Qualcomm 
+tooling. This will be done in a subsequent PR.
+
+This PR also introduces the Android build that does not require Android Studio 
+Bazel plugin, and lets us work with the java code in Android Studio, and at the 
+same time to build native dependencies, download deps and data, etc, using 
+Bazel. It also adds Maven integration which does not require the user to 
+install Maven, and can figure out and download the transitive closure of 
+dependencies. This Maven integration is officially supported by the Bazel team.</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBBbmFseXNpcyBvZiBkZXRlY3Rpb24gZmFpbHVyZSBtb2Rlcy4K</text>
+        <text encoding="base64">VGhlIGFwcCBjb250YWlucyBhIGJ1dHRvbiB0byAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBWaXN1YWxpemF0aW9uIGFuZCBkZWJ1Z2dpbmcgdG9vbGluZyBmb3Igb2JqZWN0IGRldGVjdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJldmVudHMgbnVtZXJpY2FsIGJlbmNobWFya2luZyBhdCB0aGlzIHBvaW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
