@@ -39,6 +39,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/detect/pascal_metrics.py" timestamp="1557068497359">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559365580963">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="219" column="33" />
@@ -65,6 +70,11 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/deploy/test_snapshot.py" timestamp="1556925156588">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/retina.py" timestamp="1557669638950">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -77,6 +87,11 @@
         <mark key="]" line="176" column="23" />
         <mark key="." line="176" column="23" />
         <mark key="^" line="176" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/test_track.py" timestamp="1556924363933">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/config/ssd_resnet50_v1_fpn_256x256.config" timestamp="1557592003714">
         <mark key="[" line="157" column="13" />
@@ -103,6 +118,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/detection/retina.py" timestamp="1559238669516">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" timestamp="1559668809667">
         <mark key="'" line="33" column="27" />
         <mark key="." line="42" column="51" />
@@ -116,6 +136,11 @@
         <mark key="]" line="252" column="25" />
         <mark key="." line="239" column="59" />
         <mark key="^" line="239" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/opencv/utils.py" timestamp="1556924288911">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/pascal_callback.py" timestamp="1559239990464">
         <mark key="[" line="46" column="48" />
@@ -131,6 +156,11 @@
       </file>
       <file name="/fragment.py" timestamp="1560124733509">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/doc/tensorflow/tflite_conversion_and_deploy.md" timestamp="1558288049849">
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="83" column="12" />
+        <mark key="." line="83" column="12" />
       </file>
       <file name="$USER_HOME$/work/piv/tox.ini" timestamp="1559668835456">
         <mark key="'" line="0" column="4" />
@@ -176,17 +206,32 @@
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/detection/utils_test.py" timestamp="1560616727476">
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+      </file>
       <file name="$USER_HOME$/work/piv/modeling/src/scripts/process_batch4.py" timestamp="1557448234150">
         <mark key="[" line="14" column="65" />
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/aux.py" timestamp="1557803975990">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/requirements-tf.txt" timestamp="1559226359290">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/opencv/common.py" timestamp="1556924644480">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1560137367297">
         <mark key="[" line="0" column="0" />
@@ -204,11 +249,36 @@
         <mark key="." line="38" column="66" />
         <mark key="^" line="38" column="66" />
       </file>
+      <file name="$USER_HOME$/work/piv/modeling/README.md" timestamp="1557373865052">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/deploy/BUILD" timestamp="1559272781102">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/visualize.py" timestamp="1557808092943">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/README.md" timestamp="1559192220787">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1560570091955">
         <mark key="[" line="41" column="36" />
         <mark key="]" line="41" column="37" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/piv/datasets/piv/BUILD" timestamp="1559240809773">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
         <mark key="[" line="154" column="43" />
@@ -228,6 +298,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/work/piv/.travis.yml" timestamp="1559233315790">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/June2019.ipynb" timestamp="1559618953242">
         <mark key="'" line="29" column="3" />
         <mark key="[" line="181" column="31" />
@@ -241,6 +316,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/modeling/src/tests/detect/test_pascal_metrics.py" timestamp="1556925248066">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
