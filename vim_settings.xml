@@ -53,11 +53,11 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1558062466228">
-        <mark key="[" line="18" column="68" />
-        <mark key="]" line="18" column="69" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="18" column="69" />
+      <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1560747767308">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1557808526737">
         <mark key="[" line="34" column="30" />
@@ -380,17 +380,17 @@
       <jump line="18" column="38" filename="$USER_HOME$/work/piv/doc/June13_2019.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGNvbW1vbgo=</text>
+      <register name="&quot;" type="4">
+        <text>vision.get_transforms())</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vision.get_transforms())</text>
       </register>
       <register name="/" type="4">
         <text>gts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzID0gc2VnbWVudGVyLlRmTGl0ZVNlZ21lbnRlcihwYXRobGliLlBhdGgoX01PREVMX1BBVEgpKQogICAgICAgIGltZyA9IHBpbC5vcGVuKF9JTUFHRV9QQVRIKS5jb252ZXJ0KCJSR0IiKQogICAgICAgIHJlc3VsdCA9IHMucHJvY2VzcyhpbWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRmbXM9dmlzaW9uLmdldF90cmFuc2Zvcm1zKCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGNvbW1vbgo=</text>
