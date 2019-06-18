@@ -103,11 +103,11 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1560873728421">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="51" column="15" />
-        <mark key="^" line="51" column="15" />
-        <mark key="." line="51" column="15" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1560875544013">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="24" column="54" />
+        <mark key="." line="24" column="54" />
+        <mark key="^" line="24" column="54" />
       </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
         <mark key="[" line="0" column="0" />
@@ -231,12 +231,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1560105718671">
+      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1560874849401">
         <mark key="'" line="200" column="0" />
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="66" />
-        <mark key="." line="38" column="66" />
-        <mark key="^" line="38" column="66" />
+        <mark key="[" line="277" column="58" />
+        <mark key="]" line="277" column="63" />
+        <mark key="." line="277" column="63" />
+        <mark key="^" line="277" column="63" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
         <mark key="[" line="154" column="43" />
@@ -395,43 +395,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__class__</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>__class__</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Path</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHZpZGVvID0gY3YyLlZpZGVvQ2FwdHVyZShzdHIoYXV4LnNhbXBsZV92aWRlb19wYXRoKCkpKQogICAgb3V0ID0gY3YyLlZpZGVvV3JpdGVyKG91dF92aWRlbywgTVA0X0NPREUsIEZQUywgVklEX1NJWkUpCgogICAgY3VyX2ZyYW1lID0gTm9uZQogICAgTEFCRUxfSURYID0gNjkKICAgIGZvciBpIGluIHJhbmdlKExBQkVMX0lEWCk6CiAgICAgICAgb2ssIGN1cl9mcmFtZSA9IHZpZGVvLnJlYWQoKQogICAgICAgIGFzc2VydCBvawoKICAgIGRlZiBmcmFtZV9nZW4oKToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICByZWFkX29rLCBmcmFtZSA9IHZpZGVvLnJlYWQoKQogICAgICAgICAgICBpZiByZWFkX29rOiB5aWVsZCBmcmFtZQogICAgICAgICAgICBlbHNlOiBicmVhawo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNhbGwoWyJ4ZGctb3BlbiIsIHN0cihjb21tb24ucmVzb2x2ZV92aWRlbyh2aWRlb19pZCkpXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZTogYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVhZF9vazogeWllbGQgZnJhbWUK</text>
+        <text encoding="base64">ZnJhbWVfaWRzWzBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZF9vaywgZnJhbWUgPSB2aWRlby5yZWFkKCkK</text>
+        <text encoding="base64">Y3VyX2ZyYW1lLnNoYXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
+        <text encoding="base64">dmFsaWRfdmlkZW9zID0gc2V0KFsiXyIuam9pbihpbWcuc3BsaXQoIl8iKVs6Ml0pIGZvciBpbWcgaW4gZXhwLnZhbGlkX2ltYWdlc10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBmcmFtZV9nZW4oKToK</text>
+        <text encoding="base64">aW1hZ2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMQUJFTF9JRFggPSA2OQo=</text>
+        <text encoding="base64">dmlkZW9faWQgaW4gdmFsaWRfdmlkZW9zCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dmlkZW8gPSAicGl2MWEwMDAwN19jMDAwMDE1NSIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGltYWdlcyA9IFsKICAgICAgICBpbWcgZm9yIGltZyBpbiBleHAudmFsaWRfaW1hZ2VzCiAgICAgICAgaWYgY29tbW9uLmdyb3VwYnkoYnk9ImZpcnN0X3NlY29uZCIsIGltZ19uYW1lPWltZykgPT0gdmlkZW9faWQKICAgIF0KICAgIGltZ19pZHMgPSBbaW50KGltZy5zcGxpdCgiXyIpWy0xXVsxOjRdKSBmb3IgaW1nIGluIGltYWdlc10KICAgIGltZ19pZHMuc29ydCgp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FsbChbInhkZy1vcGVuIiwgZiJ+L0Rvd25sb2Fkcy97dmlkZW99Lm1wNCJdKQo=</text>
+        <text encoding="base64">dmlkZW8K</text>
       </register>
     </registers>
     <search>
