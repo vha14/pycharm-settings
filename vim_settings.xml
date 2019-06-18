@@ -103,11 +103,11 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1560868641826">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="33" column="31" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1560869428378">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
         <mark key="[" line="0" column="0" />
@@ -162,9 +162,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/resolver.py" timestamp="1560867788597">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="27" />
+      <file name="$USER_HOME$/work/piv/datasets/resolver.py" timestamp="1560869312715">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="12" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/params.py" timestamp="1557414633822">
         <mark key="[" line="6" column="112" />
@@ -286,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/work/piv/demo/frame_source.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/video_overlay_window.py" />
       <jump line="40" column="33" filename="$USER_HOME$/work/piv/inference/piv_retina_detector.py" />
       <jump line="34" column="8" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
@@ -386,46 +388,47 @@
       <jump line="153" column="67" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
       <jump line="160" column="59" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
       <jump line="18" column="38" filename="$USER_HOME$/work/piv/doc/June13_2019.md" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/piv/datasets/resolver.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB1dGlsLmF3cyBpbXBvcnQgYXBpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>_file</text>
       </register>
       <register name="/" type="4">
         <text>gts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0RBVEFfUk9PVERJUiA9IHBhdGhsaWIuUGF0aCgifi9kYXRhIikuZXhwYW5kdXNlcigpCl9EQVRBX1MzQlVDS0VUID0gImZ1amktcGl2Igo=</text>
+        <text encoding="base64">ICAgIHMzID0gYXBpLkhhbmRsZS5zZXNzaW9uKCkucmVzb3VyY2UoJ3MzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlsLmF3cyBpbXBvcnQgYXBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHMzID0gYm90bzMuY2xpZW50KCJzMyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHN0cihkb3dubG9hZF9maWxlX3BhdGgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzMy5tZXRhLmNsaWVudC5kb3dubG9hZF9maWxlKF9EQVRBX1MzQlVDS0VULCBzdHIoX0RBVEFfUzNfRElSIC8gZmlsZV9uYW1lKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHMzLm1ldGEuY2xpZW50LmRvd25sb2FkX2ZpbGUoREFUQV9TM0JVQ0tFVCwgc3JjLCBkZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIkRvd25sb2FkaW5nIHtkYXRhc2V0X25hbWV9IGZyb20gUzMuIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gdXRpbC5hd3MgaW1wb3J0IGFwaQo=</text>
+        <text encoding="base64">ICAgIHMzID0gYXBpLkhhbmRsZS5zZXNzaW9uKCkucmVzb3VyY2UoJ3MzJylkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiRG93bmxvYWRpbmcgZnJvbSBTMzogczM6Ly97REFUQV9TM0JVQ0tFVH0ve3NyY30gdG8ge2Rlc3R9IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIntmaWxlX25hbWV9IGZvdW5kLCBza2lwcGluZyBkb3dubG9hZC4iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlc3QgPSBmIntzdHIoREFUQV9ST09URElSIC8gdGd6X2ZpbGUpfSIK</text>
+        <text encoding="base64">ICAgIHMzID0gYm90bzMuY2xpZW50KCJzMyIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNyYyA9IGYie0RBVEFfUzNGT0xERVJ9L3t0Z3pfZmlsZX0iCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIHJlc29sdmVfZmlsZShmaWxlX25hbWU6IHN0ciwgczNfa2V5OiBzdHIsIGJ1Y2tldDogc3RyID0gX0RBVEFfUzNCVUNLRVQpIC0+IHBhdGhsaWIuUGF0aDoKICAgIHJlcyA9IHBhdGhsaWIuUGF0aChmaWxlX25hbWUpCiAgICBpZiByZXMuZXhpc3RzKCk6CiAgICAgICAgcHJpbnQoZiJ7ZmlsZV9uYW1lfSBmb3VuZCwgc2tpcHBpbmcgZG93bmxvYWQuIikKICAgICAgICByZXR1cm4gcmVzCgogICAgczMgPSBhcGkuSGFuZGxlLnNlc3Npb24oKS5yZXNvdXJjZSgnczMnKQogICAgcHJpbnQoZiJEb3dubG9hZGluZyB7czNfa2V5fSBmcm9tIFMzIHRvIHtmaWxlX25hbWV9IC4uLiAiLCBlbmQ9IiIpCiAgICBzMy5tZXRhLmNsaWVudC5kb3dubG9hZF9maWxlKGJ1Y2tldCwgczNfa2V5LCBmaWxlX25hbWUpCiAgICBwcmludCgiRG9uZS4iKQogICAgcmV0dXJuIHJlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIKaW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
     </registers>
     <search>
