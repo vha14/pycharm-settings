@@ -103,6 +103,12 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561085065859">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="52" column="30" />
+      </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="27" />
@@ -139,9 +145,6 @@
         <mark key="]" line="40" column="74" />
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
-      </file>
-      <file name="/Python Console" timestamp="1561082575717">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1560124733509">
         <mark key="[" line="0" column="0" />
@@ -387,56 +390,55 @@
       <jump line="160" column="19" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwMV9jMDAwMDEzNSIK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>720</text>
       </register>
       <register name="/" type="4">
-        <text>Path</text>
+        <text encoding="base64">XDwyNDJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbGwoWyJ4ZGctb3BlbiIsIHN0cihjb21tb24ucmVzb2x2ZV92aWRlbyh2aWRlb19pZCkpXSkK</text>
+        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwMV9jMDAwMDEzNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IyUlCgp2aWRlb19pZCA9ICJwaXYxYTAwMDA3X2MwMDAwMTU1Igp2aWRlb19mbiA9IHN0cihjb21tb24ucmVzb2x2ZV92aWRlbyh2aWRlb19pZCkpCnZpZGVvID0gY3YyLlZpZGVvQ2FwdHVyZSh2aWRlb19mbikKCmZyYW1lcyA9IFtdCm9rID0gVHJ1ZQp3aGlsZSBvazoKICAgIG9rLCBjdXJfZnJhbWUgPSB2aWRlby5yZWFkKCkKICAgIGZyYW1lcy5hcHBlbmQoY3VyX2ZyYW1lKQoKbGVuKGZyYW1lcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJhbWVfaWRzWzBdCg==</text>
+        <text encoding="base64">IyBvdXQgPSBjdjIuVmlkZW9Xcml0ZXIob3V0X3ZpZGVvLCBNUDRfQ09ERSwgRlBTLCBWSURfU0laRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3VyX2ZyYW1lLnNoYXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsaWRfdmlkZW9zID0gc2V0KFsiXyIuam9pbihpbWcuc3BsaXQoIl8iKVs6Ml0pIGZvciBpbWcgaW4gZXhwLnZhbGlkX2ltYWdlc10pCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1hZ2VzCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmlkZW9faWQgaW4gdmFsaWRfdmlkZW9zCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBpbWc6IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGltYWdlcyA9IFsKICAgICAgICBpbWcgZm9yIGltZyBpbiBleHAudmFsaWRfaW1hZ2VzCiAgICAgICAgaWYgY29tbW9uLmdyb3VwYnkoYnk9ImZpcnN0X3NlY29uZCIsIGltZ19uYW1lPWltZykgPT0gdmlkZW9faWQKICAgIF0KICAgIGltZ19pZHMgPSBbaW50KGltZy5zcGxpdCgiXyIpWy0xXVsxOjRdKSBmb3IgaW1nIGluIGltYWdlc10KICAgIGltZ19pZHMuc29ydCgp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmlkZW8K</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>Path</last-search>
+      <last-search encoding="base64">XDwyNDJcPg==</last-search>
       <last-offset />
-      <last-pattern>Path</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwyNDJcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid</entry>
         <entry encoding="base64">XDwyNVw+</entry>
         <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
         <entry>y</entry>
@@ -456,6 +458,7 @@
         <entry>types</entry>
         <entry>gts</entry>
         <entry>Path</entry>
+        <entry encoding="base64">XDwyNDJcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
