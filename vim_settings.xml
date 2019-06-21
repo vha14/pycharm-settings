@@ -96,6 +96,12 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="32" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/track.py" timestamp="1561094296450">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" timestamp="1559668435931">
         <mark key="'" line="95" column="48" />
         <mark key="[" line="63" column="31" />
@@ -103,11 +109,11 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561092918281">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="26" column="32" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561094477598">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
         <mark key="[" line="0" column="0" />
@@ -146,11 +152,11 @@
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561093133205">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="46" column="8" />
-        <mark key="^" line="46" column="8" />
-        <mark key="." line="46" column="8" />
+      <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561094057141">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1560124733509">
         <mark key="[" line="0" column="0" />
@@ -298,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
       <jump line="168" column="5" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="157" column="64" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
@@ -398,46 +403,61 @@
       <jump line="160" column="19" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="149" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/piv/training/video.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgID4+PiB0aHJlZV9kaWdpdHMoMTMpCg==</text>
+      <register name="0" type="4">
+        <text>def kcf_mil(frames, initial_corners):
+    kcf = getattr(cv2, f&quot;TrackerKCF_create&quot;)()
+    mil = getattr(cv2, f&quot;TrackerMIL_create&quot;)()
+    x1, y1, x2, y2 = initial_corners
+    initial = (x1, y1, x2 - x1, y2 - y1)
+    start_frame = frames[0]
+    _ = kcf.init(start_frame, initial)
+    _ = mil.init(start_frame, initial)
+
+    for idx, frame in enumerate(frames[1:]):
+        track_ok, _ = kcf.update(frame)
+        _, cur = mil.update(frame)
+        if track_ok:
+            x1, y1, w, h = cur
+            yield (x1, y1, x1 + w, y1 + h)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpZDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBmcmFtZV9ubzogCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2aWRlb19pZDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QkxVRSA9ICgwLCAwLCAyNTUpCkdSRUVOID0gKDUwLCAxNzAsIDUwKQo=</text>
+        <text encoding="base64">dmlkZW9fZm4gPSBzdHIoY29tbW9uLnJlc29sdmVfdmlkZW8odmlkZW9faWQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJBTUVfU0laRSA9ICg0NTUsIDM2MCkKTVA0X0NPREUgPSAweDc2MzQ3MDZkCkZQUyA9IDE1Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
