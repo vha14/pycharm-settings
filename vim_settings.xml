@@ -96,10 +96,11 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="32" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/track.py" timestamp="1561096593774">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/piv/training/track.py" timestamp="1561099955548">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" timestamp="1559668435931">
         <mark key="'" line="95" column="48" />
@@ -108,11 +109,11 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561098360980">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="21" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561100795319">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="76" column="48" />
+        <mark key="." line="76" column="48" />
+        <mark key="^" line="76" column="48" />
       </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
         <mark key="[" line="0" column="0" />
@@ -151,12 +152,12 @@
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561098280807">
+      <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561101403627">
         <mark key="'" line="65" column="29" />
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="49" />
-        <mark key="^" line="37" column="49" />
-        <mark key="." line="37" column="49" />
+        <mark key="[" line="66" column="48" />
+        <mark key="]" line="66" column="48" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="66" column="48" />
       </file>
       <file name="/fragment.py" timestamp="1560124733509">
         <mark key="[" line="0" column="0" />
@@ -406,44 +407,44 @@
       <jump line="62" column="29" filename="$USER_HOME$/work/piv/training/video.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0bGliLnJlbG9hZCh2aWRlbykK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">a2NmX3RyYWNrZWQgPSAia2NmX3RyYWNrZWQubXA0Igo=</text>
+        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwN19jMDAwMDE1NSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0bGliLnJlbG9hZCh2aWRlbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5pdGlhbF9iYm94ID0gW2ludCh4KSBmb3IgeCBpbiBpbml0aWFsX2Jib3hdCg==</text>
+        <text encoding="base64">bWlsX3RyYWNrZWQgPSAibWlsX3RyYWNrZWQubXA0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbMSwyLDNdWzotMV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5pdGlhbF9iYm94ID0gaW1nMmJib3hbaW1nX25hbWVdWzBdWzBdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBpbWcgPSBjdjIuaW1yZWFkKHN0cihjb21tb24uaW1hZ2VfZmlsZShpbWdfbmFtZSkpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bGVuKGxpc3QodmlkZW8uZ2V0X2ZyYW1lcyhrY2ZfdHJhY2tlZCkpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGVuKGxpc3QodmlkZW8uZ2V0X2ZyYW1lcyhrY2ZfdHJhY2tlZCkpKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCB2aWRlby5pbWdfd2l0aF9sYWJlbChpbWcsIGJib3gpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
