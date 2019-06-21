@@ -30,7 +30,7 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="199" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1560105199669">
+      <file name="/a.dummy" timestamp="1561093056360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
@@ -46,12 +46,12 @@
         <mark key="^" line="219" column="60" />
         <mark key="." line="219" column="60" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1561085258606">
-        <mark key="'" line="160" column="19" />
-        <mark key="[" line="180" column="35" />
-        <mark key="]" line="180" column="45" />
-        <mark key="." line="180" column="45" />
-        <mark key="^" line="180" column="45" />
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1561092691580">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="184" column="11" />
+        <mark key="]" line="184" column="11" />
+        <mark key="." line="184" column="11" />
+        <mark key="^" line="182" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1560747767308">
         <mark key="[" line="19" column="29" />
@@ -103,11 +103,11 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561086493151">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561092918281">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="26" column="32" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/tools/devenv/run-yapf.sh" timestamp="1559668801646">
         <mark key="[" line="0" column="0" />
@@ -145,6 +145,12 @@
         <mark key="]" line="40" column="74" />
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561093133205">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="46" column="8" />
+        <mark key="^" line="46" column="8" />
+        <mark key="." line="46" column="8" />
       </file>
       <file name="/fragment.py" timestamp="1560124733509">
         <mark key="[" line="0" column="0" />
@@ -209,15 +215,19 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/tracking.py" timestamp="1560873470514">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="34" column="23" />
+      <file name="$USER_HOME$/work/piv/experimental/scripts/tracking.py" timestamp="1561091726713">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="61" />
       </file>
       <file name="$USER_HOME$/work/piv/requirements-tf.txt" timestamp="1559226359290">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/tracking_aux.py" timestamp="1561090790002">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1561086368660">
         <mark key="[" line="0" column="0" />
@@ -228,12 +238,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1560874849401">
-        <mark key="'" line="200" column="0" />
-        <mark key="[" line="277" column="58" />
-        <mark key="]" line="277" column="63" />
-        <mark key="." line="277" column="63" />
-        <mark key="^" line="277" column="63" />
+      <file name="$USER_HOME$/work/piv/training/detection/explore.py" timestamp="1561092642686">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="25" />
       </file>
       <file name="$USER_HOME$/work/piv/modeling/src/detect/datasets/common.py" timestamp="1557445582004">
         <mark key="[" line="154" column="43" />
@@ -288,8 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
-      <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
       <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_200x200_quantized.config" />
       <jump line="168" column="5" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
@@ -388,58 +396,59 @@
       <jump line="133" column="39" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="159" column="45" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="160" column="19" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyNDJcPg==</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwMV9jMDAwMDEzNSIK</text>
+        <text encoding="base64">ICAgID4+PiB0aHJlZV9kaWdpdHMoMTMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBpZDogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB2aWRlb19pZCA9ICJwaXYxYTAwMDAxX2MwMDAwMTM1Igo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBmcmFtZV9ubzogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwN19jMDAwMDE1NSIK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB2aWRlb19pZDogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwMV9jMDAwMDEzNSIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBtYXRwbG90bGliLnVzZSgiVGtBZ2ciKQo=</text>
+        <text encoding="base64">QkxVRSA9ICgwLCAwLCAyNTUpCkdSRUVOID0gKDUwLCAxNzAsIDUwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpbXBvcnQgbWF0cGxvdGxpYgo=</text>
+        <text encoding="base64">RlJBTUVfU0laRSA9ICg0NTUsIDM2MCkKTVA0X0NPREUgPSAweDc2MzQ3MDZkCkZQUyA9IDE1Cgo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyNDJcPg==</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyNDJcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>parse</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyNVw+</entry>
         <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
         <entry>y</entry>
         <entry>seed</entry>
@@ -459,6 +468,7 @@
         <entry>gts</entry>
         <entry>Path</entry>
         <entry encoding="base64">XDwyNDJcPg==</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd />
       <history-expr />
