@@ -24,20 +24,8 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="117" column="26" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1559693209399">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="199" column="64" />
-      </file>
       <file name="/a.dummy" timestamp="1561093056360">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/training/detection/ssd.py" timestamp="1559194848230">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/explore.py" timestamp="1559365580963">
         <mark key="'" line="63" column="0" />
@@ -90,6 +78,13 @@
         <mark key="." line="157" column="14" />
         <mark key="^" line="157" column="14" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v2_fpn_256x256.config" timestamp="1561677045760">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/work/piv/inference/piv_retina_detector.py" timestamp="1559238071123">
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="32" />
@@ -109,6 +104,12 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1561676996705">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="65" />
+        <mark key="." line="24" column="65" />
+        <mark key="^" line="24" column="61" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561100795319">
         <mark key="[" line="74" column="26" />
         <mark key="]" line="76" column="48" />
@@ -120,12 +121,6 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/piv/training/segmentation/loss/smooth_tversky.py" timestamp="1560618436281">
-        <mark key="'" line="33" column="27" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
@@ -146,6 +141,7 @@
       <file name="/Clipboard.txt" timestamp="1560618030985">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/object_detection/models/ssd_mobilenet_v2_fpn_feature_extractor.py" timestamp="1561676474534" />
       <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1559237375075">
         <mark key="[" line="40" column="52" />
         <mark key="]" line="40" column="74" />
@@ -168,12 +164,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="29" column="19" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1559240650705">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/resolver.py" timestamp="1560869312715">
         <mark key="'" line="23" column="0" />
@@ -308,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="64" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="172" column="2" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
@@ -408,19 +397,20 @@
       <jump line="70" column="0" filename="$USER_HOME$/work/piv/training/video.py" />
       <jump line="62" column="29" filename="$USER_HOME$/work/piv/training/video.py" />
       <jump line="47" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/mbnetv2_exp.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v2_fpn_256x256.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>retina</text>
+        <text>quant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwN19jMDAwMDE1NSIK</text>
+        <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICJleHBlcmltZW50YWwvY29uZmlnL3NzZF9yZXNuZXQ1MF92MV9mcG5fMjU2eDI1Ni5jb25maWciCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -451,15 +441,14 @@
       </register>
     </registers>
     <search>
-      <last-search>retina</last-search>
+      <last-search>quant</last-search>
       <last-offset />
-      <last-pattern>retina</last-pattern>
+      <last-pattern>quant</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>y</entry>
         <entry>seed</entry>
         <entry>plt</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
@@ -479,6 +468,7 @@
         <entry encoding="base64">XDwyNDJcPg==</entry>
         <entry>parse</entry>
         <entry>retina</entry>
+        <entry>quant</entry>
       </history-search>
       <history-cmd />
       <history-expr />
