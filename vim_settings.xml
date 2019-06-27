@@ -222,6 +222,9 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/mbnetv2_exp.py" timestamp="1561610761262">
+        <mark key="'" line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/tracking.py" timestamp="1561091726713">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="61" />
@@ -305,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="157" column="64" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="172" column="2" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
@@ -405,6 +407,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
       <jump line="70" column="0" filename="$USER_HOME$/work/piv/training/video.py" />
       <jump line="62" column="29" filename="$USER_HOME$/work/piv/training/video.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/mbnetv2_exp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -414,7 +417,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>retina</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmlkZW9faWQgPSAicGl2MWEwMDAwN19jMDAwMDE1NSIK</text>
@@ -448,15 +451,14 @@
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>retina</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>retina</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3ViX21hcHNcPg==</entry>
         <entry>y</entry>
         <entry>seed</entry>
         <entry>plt</entry>
@@ -476,6 +478,7 @@
         <entry>Path</entry>
         <entry encoding="base64">XDwyNDJcPg==</entry>
         <entry>parse</entry>
+        <entry>retina</entry>
       </history-search>
       <history-cmd />
       <history-expr />
