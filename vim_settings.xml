@@ -110,11 +110,11 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562248241634">
-        <mark key="[" line="156" column="4" />
-        <mark key="]" line="157" column="3" />
-        <mark key="." line="157" column="3" />
-        <mark key="^" line="157" column="3" />
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562249168998">
+        <mark key="[" line="61" column="22" />
+        <mark key="]" line="61" column="22" />
+        <mark key="." line="61" column="22" />
+        <mark key="^" line="61" column="22" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1561676996705">
         <mark key="[" line="24" column="64" />
@@ -415,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_DetectModel, self</text>
+        <text>FPNNet</text>
       </register>
       <register name="-" type="4">
-        <text>_DetectModel, self</text>
+        <text>FPNNet</text>
       </register>
       <register name="/" type="4">
         <text>quant</text>
@@ -427,31 +427,31 @@
         <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgogICAgICAgIHJldHVybiBbc2VsZi5jNCwgc2VsZi5mcG4ubTVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW3NlbGYuYzQsIHNlbGYuZnBuLm01XQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW3NlbGYuYzQsIHNlbGYuZnBuLm01XQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
