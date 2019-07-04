@@ -117,10 +117,11 @@
         <mark key="^" line="63" column="46" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/piv/lib/python3.6/site-packages/torchvision/models/mobilenet.py" timestamp="1562252166809" />
-      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562250037855">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562253725730">
+        <mark key="[" line="61" column="33" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+        <mark key="^" line="61" column="37" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1561676996705">
         <mark key="[" line="24" column="64" />
@@ -170,6 +171,9 @@
         <mark key="]" line="40" column="74" />
         <mark key="." line="40" column="74" />
         <mark key="^" line="40" column="74" />
+      </file>
+      <file name="/Python Console" timestamp="1562254005649">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561101403627">
         <mark key="'" line="65" column="29" />
@@ -417,10 +421,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=True</text>
+        <text>(pretrained=True)</text>
       </register>
       <register name="-" type="4">
-        <text>=True</text>
+        <text>(pretrained=True)</text>
       </register>
       <register name="/" type="4">
         <text>quant</text>
