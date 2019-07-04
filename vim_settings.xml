@@ -110,6 +110,12 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562216138735">
+        <mark key="[" line="51" column="61" />
+        <mark key="]" line="52" column="22" />
+        <mark key="^" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1561676996705">
         <mark key="[" line="24" column="64" />
         <mark key="]" line="24" column="65" />
@@ -218,9 +224,6 @@
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/mbnetv2_exp.py" timestamp="1561610761262">
-        <mark key="'" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/tracking.py" timestamp="1561091726713">
         <mark key="[" line="107" column="0" />
@@ -408,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.0.55</text>
+        <text>RetinaNet</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.55</text>
+        <text>RetinaNet</text>
       </register>
       <register name="/" type="4">
         <text>quant</text>
@@ -420,31 +423,31 @@
         <text encoding="base64">REVURUNUSU9OX1BJUEVMSU5FX0NPTkZJRyA9ICJleHBlcmltZW50YWwvY29uZmlnL3NzZF9yZXNuZXQ1MF92MV9mcG5fMjU2eDI1Ni5jb25maWciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxheWVyIGluIFtzZWxmLmMzLCBzZWxmLmM0LCBzZWxmLmM1XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWlsX3RyYWNrZWQgPSAibWlsX3RyYWNrZWQubXA0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzbmV0X2Jsb2NrX291dF9jaGFubmVscyhsYXllcikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldGF0dHIobGFzdF9ibG9jaywgbGFzdF9jb252KS5vdXRfY2hhbm5lbHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVuKGxpc3QodmlkZW8uZ2V0X2ZyYW1lcyhrY2ZfdHJhY2tlZCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgJ2NvbnYzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVuKGxpc3QodmlkZW8uZ2V0X2ZyYW1lcyhrY2ZfdHJhY2tlZCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9jb252ID0gJ2NvbnYyJyBpZiBpc2luc3RhbmNlKGxhc3RfYmxvY2ssIHJlc25ldC5CYXNpY0Jsb2NrKSBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxheWVyLmNoaWxkcmVuKCkpWy0xXQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
