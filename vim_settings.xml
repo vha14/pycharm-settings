@@ -47,6 +47,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562250355838">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+      </file>
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1557808526737">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="34" />
@@ -110,11 +116,10 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562249168998">
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562250037855">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/train_tfmodel.py" timestamp="1561676996705">
         <mark key="[" line="24" column="64" />
@@ -312,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="2" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="68" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
@@ -412,46 +416,47 @@
       <jump line="62" column="29" filename="$USER_HOME$/work/piv/training/video.py" />
       <jump line="47" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/mbnetv2_exp.py" />
       <jump line="51" column="4" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v2_fpn_256x256.config" />
+      <jump line="83" column="20" filename="$USER_HOME$/work/piv/training/detection/fpn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FPNNet</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>FPNNet</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>quant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgogICAgICAgIHJldHVybiBbc2VsZi5jNCwgc2VsZi5mcG4ubTVdCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlsIGltcG9ydCBjb21ldCBhcyBjb21ldF91dGlscwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">a2tra2tra2tra2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSB1dGlsIGltcG9ydCBjb21ldCBhcyBjb21ldF91dGlscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW3NlbGYuYzQsIHNlbGYuZnBuLm01XQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlZiB0cmFpbihzZWxmLCAKICAgICAgICAgICAgICBscj02RS0wNSwKICAgICAgICAgICAgICBjeWNsZV9sZW5ndGg9KDIwLCAxMCwgMTApLAogICAgICAgICAgICAgIHVzZV9jb21ldD1UcnVlLCAKICAgICAgICAgICAgICBzYXZlX2NoZWNrcG9pbnRzPVRydWUpOgogICAgICAgIAogICAgICAgIGV4cGVyaW1lbnQgPSBOb25lCiAgICAgICAgaWYgdXNlX2NvbWV0OgogICAgICAgICAgICBleHBlcmltZW50ID0gY29tZXRfdXRpbHMuY3JlYXRlX2V4cGVyaW1lbnQoCiAgICAgICAgICAgICAgICBjb21ldF91dGlscy5PQkpFQ1RfREVURUNUSU9OX1BST0pFQ1QpCgogICAgICAgIGRlZiBsb2dfcGFyYW1zKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgICAgIGlmIHVzZV9jb21ldDoKICAgICAgICAgICAgICAgIGV4cGVyaW1lbnQubG9nX3BhcmFtZXRlcnMoKmFyZ3MsICoqa3dhcmdzKQoKICAgICAgICBkYXRhX3BhcmFtc1sidHJhaW5fc2l6ZSJdID0gbGVuKGRhdGEudHJhaW5fZHMpCiAgICAgICAgZGF0YV9wYXJhbXNbInZhbGlkX3NpemUiXSA9IGxlbihkYXRhLnZhbGlkX2RzKQogICAgICAgIHRyYWluX3RmbXMsIHZhbGlkX3RmbXMgPSBkYXRhX3BhcmFtcy5wb3AoInRmbXMiKQogICAgICAgIGZvciBpZHgsIHRyYWluX3RmbSBpbiBlbnVtZXJhdGUodHJhaW5fdGZtcyk6CiAgICAgICAgICAgIGRhdGFfcGFyYW1zW2YidHJhaW5fdGZtX3tpZHh9Il0gPSBzdHIodHJhaW5fdGZtKQogICAgICAgIGZvciBpZHgsIHZhbGlkX3RmbSBpbiBlbnVtZXJhdGUodmFsaWRfdGZtcyk6CiAgICAgICAgICAgIGRhdGFfcGFyYW1zW2YidmFsaWRfdGZtX3tpZHh9Il0gPSBzdHIodmFsaWRfdGZtKQogICAgICAgIGxvZ19wYXJhbXMoY29tZXRfdXRpbHMuZml4X2pzb24oZGF0YV9wYXJhbXMpLCBwcmVmaXg9ImRhdGEiKQogICAgICAgIGxvZ19wYXJhbXMoY29tZXRfdXRpbHMuZml4X2pzb24oUkVUSU5BX1BBUkFNUyksIHByZWZpeD0icmV0aW5hIikKCiAgICAgICAgcmV0aW5hX2RldGVjdG9yID0gcmV0aW5hLlJldGluYURldGVjdG9yKGRhdGEsICoqUkVUSU5BX1BBUkFNUykKCiAgICAgICAgbG9nX3BhcmFtcyhkYXRhY2xhc3Nlcy5hc2RpY3QoQU5BTFlaRV9DT05GSUcpLCBwcmVmaXg9ImFuYWx5emVfY29uZmlnIikKICAgICAgICBtYWluX21ldHJpYyA9ICJtQVBASW9VPTAuNSIKICAgICAgICBtQVA1MCA9IHBhc2NhbF9jYWxsYmFjay5WT0NNZXRyaWMoCiAgICAgICAgICAgIG5hbWU9bWFpbl9tZXRyaWMsIGRldGVjdG9yPXJldGluYV9kZXRlY3RvciwgY29tZXRfZXhwPWV4cGVyaW1lbnQsCiAgICAgICAgICAgIGFuYWx5emVfY29uZmlnPUFOQUxZWkVfQ09ORklHKQogICAgICAgIG1BUDc1ID0gcGFzY2FsX2NhbGxiYWNrLlZPQ01ldHJpYygKICAgICAgICAgICAgbmFtZT0ibUFQQElvVT0wLjc1IiwgZGV0ZWN0b3I9cmV0aW5hX2RldGVjdG9yLCBjb21ldF9leHA9ZXhwZXJpbWVudCwKICAgICAgICAgICAgYW5hbHl6ZV9jb25maWc9ZGF0YWNsYXNzZXMucmVwbGFjZShBTkFMWVpFX0NPTkZJRywgaW91X3RocmVzaD0wLjc1KSkKICAgICAgICByZXRpbmFfZGV0ZWN0b3IubGVhcm4ubWV0cmljcyA9IFttQVA1MCwgbUFQNzVdCgogICAgICAgICMgU2F2ZSBtaW5pbXVtIGxvc3MgYW5kIG1heGltdW0gVk9DIG1ldHJpYyBjaGVja3BvaW50cyBmb3IgZnV0dXJlIHVzZS4KICAgICAgICBpZiBzYXZlX2NoZWNrcG9pbnRzOgogICAgICAgICAgICByZXRpbmFfZGV0ZWN0b3IubGVhcm4uY2FsbGJhY2tfZm5zLmV4dGVuZChbCiAgICAgICAgICAgICAgICBmdW5jdG9vbHMucGFydGlhbChmYXN0YWkuY2FsbGJhY2tzLlNhdmVNb2RlbENhbGxiYWNrLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0ibWluLWxvc3MiKSwKICAgICAgICAgICAgICAgIGZ1bmN0b29scy5wYXJ0aWFsKGZhc3RhaS5jYWxsYmFja3MuU2F2ZU1vZGVsQ2FsbGJhY2ssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPWYibWF4LXttYWluX21ldHJpY30iLCBtb2RlPSJtYXgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9uaXRvcj1tYWluX21ldHJpYyksCiAgICAgICAgICAgIF0pCgogICAgICAgIHByaW50KGYiU3RhcnRpbmcgZXhwZXJpbWVudCB3aXRoIHtyZXRpbmFfZGV0ZWN0b3IubGVhcm4uZGF0YS5kZXZpY2V9IikKICAgICAgICBsb2dfcGFyYW1zKGxlYXJuZXJfcGFyYW1zLCBwcmVmaXg9ImxlYXJuZXIiKQogICAgICAgIGZyZWV6ZV9pZHggPSAxCiAgICAgICAgZm9yIGVwb2NoLCBsciBpbiB6aXAobGVhcm5lcl9wYXJhbXNbImVwb2NocyJdLCBsZWFybmVyX3BhcmFtc1sibHJzIl0pOgogICAgICAgICAgICBwcmludChmIk9uZSBjeWNsZSB0cmFpbmluZyBmb3IgY3ljbGUgbGVuZ3RoIHtlcG9jaH0gIgogICAgICAgICAgICAgICAgICBmIndpdGggbWF4IGxlYXJuaW5nIHJhdGUge2xyfSwgZnJlZXppbmcgdG8ge2ZyZWV6ZV9pZHh9IikKICAgICAgICAgICAgcmV0aW5hX2RldGVjdG9yLmxlYXJuLmZyZWV6ZV90byhmcmVlemVfaWR4KQogICAgICAgICAgICByZXRpbmFfZGV0ZWN0b3IubGVhcm4uZml0X29uZV9jeWNsZShlcG9jaCwgbWF4X2xyPWxyKQogICAgICAgICAgICBpZiBmcmVlemVfaWR4ID4gMDoKICAgICAgICAgICAgICAgIGZyZWV6ZV9pZHggLT0gMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjX19FbmQgZXhwZXJpbWVudCBjb25maWd1cmF0aW9uX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWFybmVyX3BhcmFtcyA9IHsiZXBvY2hzIjogWzIwLCAxMCwgMTBdLCAibHJzIjogW2xyLCBsciAvIDIsIGxyIC8gNF19LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3BsaXRzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZWFybmVyX3BhcmFtcyA9IHsiZXBvY2hzIjogWzIwLCAxMCwgMTBdLCAibHJzIjogW2xyLCBsciAvIDIsIGxyIC8gNF19LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWFybmVyX3BhcmFtcyA9IHsiZXBvY2hzIjogWzIwLCAxMCwgMTBdLCAibHJzIjogW2xyLCBsciAvIDIsIGxyIC8gNF19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
