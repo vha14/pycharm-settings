@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+</keymap>
