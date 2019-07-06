@@ -56,11 +56,11 @@
         <mark key="." line="184" column="11" />
         <mark key="^" line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562254965632">
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
+      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562423028463">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1560126368969">
         <mark key="'" line="160" column="59" />
@@ -109,11 +109,16 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562261096663">
-        <mark key="[" line="172" column="32" />
-        <mark key="]" line="172" column="33" />
-        <mark key="^" line="146" column="39" />
-        <mark key="." line="172" column="33" />
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562424540623">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="221" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/piv/inference/piv_detector.py" timestamp="1562424230779">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="62" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561100795319">
         <mark key="[" line="74" column="26" />
@@ -279,44 +284,44 @@
       <jump line="83" column="20" filename="$USER_HOME$/work/piv/training/detection/fpn.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>quant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCJiYWNrYm9uZSIsIHJlcXVpcmVkPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcG5fY2xhc3MgPSBGUE5Nb2JpbGVOZXRWMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBleHBlcmltZW50YWwuc2NyaXB0cyBpbXBvcnQgZnBuX2V4cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGRlZmF1bHRfZnBuX3BhcmFtcygpOgogICAgcmV0dXJuIHsicHlyYW1pZF9sZXZlbHMiOiBSRURVQ0VEX1BZUkFNSURfTEVWRUxTLCAiem9vbXMiOiBaT09NU30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGRlZmF1bHRfYW5hbHl6ZV9jb25maWcoKToKICAgIHJldHVybiBhbmFseXplLkFuYWx5emVDb25maWcoY29uZl90aHJlc2g9MC4wNSwgbm1zX292ZXJsYXA9MC41LCBubXNfdG9waz01MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbmluZyBpbXBvcnQgdmlkZW8K</text>
+        <text encoding="base64">ICAgIHJldHVybiBmcG5fY2xzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBUeXBlRXJyb3IoZiJCYWNrYm9uZSB7YmFja2JvbmV9IGlzIG5laXRoZXIgUmVzTmV0IG5vciBNb2JpbGVOZXRWMiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXRpbmFfZXhwLkFOQUxZWkVfQ09ORklHCg==</text>
+        <text encoding="base64">ICAgICAgICBmcG5fY2xzID0gRlBOTW9iaWxlTmV0VjIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGRlZmF1bHRfYW5hbHl6ZV9jb25maWcoKSAtPiBhbmFseXplLkFuYWx5emVDb25maWc6Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgaXNpbnN0YW5jZShiYWNrYm9uZSwgbW9kZWxzLk1vYmlsZU5ldFYyKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcG5fY2xzID0gRlBOUmVzTmV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
