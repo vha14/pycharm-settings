@@ -1,5 +1,9 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
   <action id="ActivateFindToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 3" />
