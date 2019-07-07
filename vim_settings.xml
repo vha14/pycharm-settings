@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1562464797046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/inference/BUILD" timestamp="1562464950872">
-        <mark key="'" line="40" column="30" />
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
+      <file name="$USER_HOME$/work/piv/inference/BUILD" timestamp="1562470829790">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
         <mark key="^" line="36" column="29" />
       </file>
       <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561101403627">
@@ -23,6 +22,13 @@
       <file name="/fragment.py" timestamp="1562436180879">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1562470920570">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="69" column="3" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1562449484666">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,12 +39,11 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562464778325">
-        <mark key="'" line="32" column="30" />
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562470858242">
+        <mark key="'" line="8" column="24" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/util/datasets/piv_to_mscoco.py" timestamp="1559668507005">
         <mark key="'" line="19" column="1" />
@@ -61,11 +66,11 @@
         <mark key="^" line="85" column="56" />
         <mark key="." line="85" column="56" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/BUILD" timestamp="1562450036912">
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="49" column="14" />
-        <mark key="^" line="49" column="14" />
-        <mark key="." line="49" column="14" />
+      <file name="$USER_HOME$/work/piv/training/detection/BUILD" timestamp="1562470817356">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1561092691580">
         <mark key="'" line="0" column="0" />
@@ -80,12 +85,12 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562452228063">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="71" column="0" />
+      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562470727256">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562465098600">
         <mark key="[" line="72" column="30" />
@@ -99,12 +104,6 @@
         <mark key="]" line="176" column="23" />
         <mark key="." line="176" column="23" />
         <mark key="^" line="176" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/piv/requirements-deploy.txt" timestamp="1561699863106">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
       </file>
       <file name="/fpn_exp" timestamp="1562426596838">
         <mark key="[" line="0" column="0" />
@@ -126,12 +125,6 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/track.py" timestamp="1561099955548">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="7" column="43" />
-      </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" timestamp="1559668435931">
         <mark key="'" line="95" column="48" />
         <mark key="[" line="63" column="31" />
@@ -139,23 +132,17 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562452297402">
-        <mark key="'" line="269" column="0" />
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562470941001">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
       </file>
       <file name="$USER_HOME$/work/piv/inference/piv_detector.py" timestamp="1562465140395">
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="41" />
         <mark key="." line="28" column="44" />
         <mark key="^" line="27" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1561100795319">
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="76" column="48" />
-        <mark key="." line="76" column="48" />
-        <mark key="^" line="76" column="48" />
       </file>
       <file name="$USER_HOME$/work/piv/doc/running_experiments.md" timestamp="1562428910940">
         <mark key="[" line="57" column="75" />
@@ -205,25 +192,17 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/config.py" timestamp="1562451258376">
-        <mark key="[" line="70" column="20" />
-        <mark key="]" line="70" column="35" />
-        <mark key="^" line="70" column="35" />
-        <mark key="." line="70" column="35" />
+      <file name="$USER_HOME$/work/piv/training/detection/config.py" timestamp="1562470746566">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/generate_piv_tfrecords" timestamp="1557446429186">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="73" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
-      <jump line="72" column="53" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" />
-      <jump line="2" column="28" filename="$USER_HOME$/work/piv/third_party/deeplab_v3_tf/coco2voc/coco2voc.py" />
-      <jump line="21" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="24" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="25" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="27" column="52" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
       <jump line="28" column="22" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
       <jump line="29" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
       <jump line="33" column="62" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
@@ -316,46 +295,54 @@
       <jump line="20" column="13" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
       <jump line="32" column="30" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
       <jump line="38" column="30" filename="$USER_HOME$/work/piv/inference/BUILD" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/work/piv/training/detection/BUILD" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/piv/training/detection/BUILD" />
+      <jump line="5" column="14" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
+      <jump line="33" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
+      <jump line="22" column="24" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
+      <jump line="8" column="24" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
+      <jump line="35" column="25" filename="$USER_HOME$/work/piv/training/detection/fpn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>analyze</text>
+        <text>, config as conf</text>
       </register>
       <register name="-" type="4">
-        <text>analyze</text>
+        <text>, config as conf</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246dXRpbHMiLAo=</text>
+        <text encoding="base64">ICAgICAgICA+Pj4gRGV0ZWN0Q29uZmlnKHB5cmFtaWRfbGV2ZWxzPV9QWVJBTUlEX0xFVkVMUywgaW1nX3NpemU9MzIwKS5jYWxjX2dyaWRzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZhc3RhaS5jYWxsYmFja3MK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbWV0X21sCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmIF9sb2dfcGFyYW1zKGRldGVjdG9yOiBGUE5EZXRlY3RvciwgdHJhaW5fY29uZmlnOiBjb25mLlRyYWluQ29uZmlnLCBleHBlcmltZW50OiBPcHRpb25hbFtjb21ldF9tbC5FeHBlcmltZW50XSk6CgogICAgZGVmIGxvZ19wYXJhbXMoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBpZiBleHBlcmltZW50IGlzIG5vdCBOb25lOgogICAgICAgICAgICBleHBlcmltZW50LmxvZ19wYXJhbWV0ZXJzKCphcmdzLCAqKmt3YXJncykKICAgIAogICAgZGV0ZWN0b3IuZGF0YV9wYXJhbXNbInRyYWluX3NpemUiXSA9IGxlbihkZXRlY3Rvci5kYXRhLnRyYWluX2RzKQogICAgZGV0ZWN0b3IuZGF0YV9wYXJhbXNbInZhbGlkX3NpemUiXSA9IGxlbihkZXRlY3Rvci5kYXRhLnZhbGlkX2RzKQogICAgdHJhaW5fdGZtcywgdmFsaWRfdGZtcyA9IGRldGVjdG9yLmRhdGFfcGFyYW1zLnBvcCgidGZtcyIpCiAgICBmb3IgaWR4LCB0cmFpbl90Zm0gaW4gZW51bWVyYXRlKHRyYWluX3RmbXMpOgogICAgICAgIGRldGVjdG9yLmRhdGFfcGFyYW1zW2YidHJhaW5fdGZtX3tpZHh9Il0gPSBzdHIodHJhaW5fdGZtKQogICAgZm9yIGlkeCwgdmFsaWRfdGZtIGluIGVudW1lcmF0ZSh2YWxpZF90Zm1zKToKICAgICAgICBkZXRlY3Rvci5kYXRhX3BhcmFtc1tmInZhbGlkX3RmbV97aWR4fSJdID0gc3RyKHZhbGlkX3RmbSkKICAgIGxvZ19wYXJhbXMoY29tZXRfdXRpbHMuZml4X2pzb24oZGV0ZWN0b3IuZGF0YV9wYXJhbXMpLCBwcmVmaXg9ImRhdGEiKQogICAgbG9nX3BhcmFtcyhkaWN0KGJhY2tib25lPWRldGVjdG9yLmJhY2tib25lX25hbWUpLCBwcmVmaXg9ImJhY2tib25lIikKICAgIGxvZ19wYXJhbXMoZGF0YWNsYXNzZXMuYXNkaWN0KGRldGVjdG9yLmZwbl9jb25maWcpLCBwcmVmaXg9ImZwbl9jb25maWciKQogICAgbG9nX3BhcmFtcygKICAgICAgICBkYXRhY2xhc3Nlcy5hc2RpY3QoZGV0ZWN0b3IuYW5hbHl6ZV9jb25maWcpLCBwcmVmaXg9ImFuYWx5emVfY29uZmlnIikKCiAgICBsb2dfcGFyYW1zKGRpY3QoaW5pdGlhbF9scj10cmFpbl9jb25maWcuaW5pdGlhbF9sciwgaGN5Y2xlX2xlbmd0aD10cmFpbl9jb25maWcuY3ljbGVfbGVuZ3RocyksIHByZWZpeD0ibGVhcm5lciIpCiAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBfbG9nX3BhcmFtcyhzZWxmLCB0cmFpbl9jb25maWcsIGV4cGVyaW1lbnQpCgogICAgICAgIG1haW5fbWV0cmljID0gIm1BUEBJb1U9MC41IgogICAgICAgIG1BUDUwID0gcGFzY2FsX2NhbGxiYWNrLlZPQ01ldHJpYyhuYW1lPW1haW5fbWV0cmljLCBkZXRlY3Rvcj1zZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21ldF9leHA9ZXhwZXJpbWVudCkKICAgICAgICBzZWxmLmFuYWx5emVfY29uZmlnID0gZGF0YWNsYXNzZXMucmVwbGFjZShzZWxmLmFuYWx5emVfY29uZmlnLCBpb3VfdGhyZXNoPTAuNzUpCiAgICAgICAgbUFQNzUgPSBwYXNjYWxfY2FsbGJhY2suVk9DTWV0cmljKG5hbWU9Im1BUEBJb1U9MC43NSIsIGRldGVjdG9yPXNlbGYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbWV0X2V4cD1leHBlcmltZW50KQogICAgICAgIHNlbGYubGVhcm4ubWV0cmljcyA9IFttQVA1MCwgbUFQNzVdCgogICAgICAgICMgU2F2ZSBtaW5pbXVtIGxvc3MgYW5kIG1heGltdW0gVk9DIG1ldHJpYyBjaGVja3BvaW50cyBmb3IgZnV0dXJlIHVzZS4KICAgICAgICBpZiB0cmFpbl9jb25maWcuc2F2ZV9jaGVja3BvaW50czoKICAgICAgICAgICAgc2VsZi5sZWFybi5jYWxsYmFja19mbnMuZXh0ZW5kKFsKICAgICAgICAgICAgICAgIGZ1bmN0b29scy5wYXJ0aWFsKGZhc3RhaS5jYWxsYmFja3MuU2F2ZU1vZGVsQ2FsbGJhY2ssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJtaW4tbG9zcyIpLAogICAgICAgICAgICAgICAgZnVuY3Rvb2xzLnBhcnRpYWwoZmFzdGFpLmNhbGxiYWNrcy5TYXZlTW9kZWxDYWxsYmFjaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ZiJtYXgte21haW5fbWV0cmljfSIsIG1vZGU9Im1heCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb25pdG9yPW1haW5fbWV0cmljKSwKICAgICAgICAgICAgXSkKCiAgICAgICAgcHJpbnQoZiJTdGFydGluZyBleHBlcmltZW50IHdpdGgge3NlbGYubGVhcm4uZGF0YS5kZXZpY2V9IikKICAgICAgICBmcmVlemVfaWR4ID0gMQogICAgICAgIG1heF9sciA9IHRyYWluX2NvbmZpZy5pbml0aWFsX2xyCiAgICAgICAgZm9yIGxlbmd0aCBpbiB0cmFpbl9jb25maWcuY3ljbGVfbGVuZ3RoczoKICAgICAgICAgICAgcHJpbnQoZiJPbmUgY3ljbGUgdHJhaW5pbmcgZm9yIGN5Y2xlIGxlbmd0aCB7bGVuZ3RofSAiCiAgICAgICAgICAgICAgICAgIGYid2l0aCBtYXggbGVhcm5pbmcgcmF0ZSB7bWF4X2xyfSwgZnJlZXppbmcgdG8ge2ZyZWV6ZV9pZHh9IikKICAgICAgICAgICAgc2VsZi5sZWFybi5mcmVlemVfdG8oZnJlZXplX2lkeCkKICAgICAgICAgICAgc2VsZi5sZWFybi5maXRfb25lX2N5Y2xlKGxlbmd0aCwgbWF4X2xyPW1heF9scikKICAgICAgICAgICAgaWYgZnJlZXplX2lkeCA+IDA6CiAgICAgICAgICAgICAgICBmcmVlemVfaWR4IC09IDEKCiAgICAgICAgICAgIG1heF9sciAvPSAyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRldGVjdG9yLnRyYWluKHRyYWluX2NvbmZpZywgZXhwZXJpbWVudCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFpbihzZWxmLCB0cmFpbl9jb25maWc6IGNvbmYuVHJhaW5Db25maWcsIGV4cGVyaW1lbnQ6IE9wdGlvbmFsW2NvbWV0X21sLkV4cGVyaW1lbnRdKToK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVyaW1lbnQgPSBOb25lCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZV9jb21ldDoK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246Y29uZmlnIiwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246Y29uZmlnIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cHlfbGlicmFyeSgKICAgIG5hbWUgPSAiY29uZmlnIiwKICAgIHNyY3MgPSBbImNvbmZpZy5weSJdLAogICAgZGVwcyA9IFsiOnV0aWxzIl0sCikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiOmNvbmZpZyIsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAiY29uZmlnIiwK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">QGRhdGFjbGFzc2VzLmRhdGFjbGFzcwpjbGFzcyBBbmFseXplQ29uZmlnOgogICAgaW91X3RocmVzaDogZmxvYXQgPSAwLjUKICAgIGNvbmZfdGhyZXNoOiBmbG9hdCA9IDAuMDUKICAgIG5tc19vdmVybGFwOiBmbG9hdCA9IDAuNQogICAgbm1zX3RvcGs6IGludCA9IDUwCiAgICBhZ2dfbm1zOiBib29sID0gRmFsc2UKICAgIGFyZWFfZmlsdGVyOiBPcHRpb25hbFtDYWxsYWJsZVtbZmxvYXRdLCBib29sXV0gPSBOb25lCiAgICBndF9vbmx5OiBib29sID0gRmFsc2UKICAgIGZhbHNlczogYm9vbCA9IEZhbHNlCgoKREVGQVVMVF9BTkFMWVpFX0NPTkZJRyA9IEFuYWx5emVDb25maWcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -370,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>multip</entry>
         <entry>yapf</entry>
         <entry>detect_list</entry>
         <entry>list</entry>
@@ -389,6 +375,7 @@
         <entry>quant</entry>
         <entry>analyze</entry>
         <entry>fpn</entry>
+        <entry>conf</entry>
         <entry>config</entry>
       </history-search>
       <history-cmd>
