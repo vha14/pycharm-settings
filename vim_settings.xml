@@ -86,11 +86,11 @@
         <mark key="^" line="173" column="52" />
         <mark key="." line="173" column="52" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1562476356289">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/work/piv/experimental/vu/falses.py" timestamp="1562544899704">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="67" />
+        <mark key="^" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/BUILD" timestamp="1562473237112">
         <mark key="[" line="16" column="0" />
@@ -111,7 +111,7 @@
         <mark key="^" line="54" column="71" />
         <mark key="." line="54" column="71" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1562476341146">
+      <file name="$USER_HOME$/work/piv/experimental/vu/track.py" timestamp="1562545007606">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
@@ -124,13 +124,6 @@
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/piv/experimental/vu/visualize.py" timestamp="1562476274363">
-        <mark key="'" line="58" column="22" />
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="29" />
       </file>
       <file name="/new_retina_exp" timestamp="1557671453893">
         <mark key="[" line="0" column="0" />
@@ -257,11 +250,11 @@
       <jump line="58" column="22" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>The RetinaNet detector.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>measure</text>
