@@ -18,6 +18,12 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/generate_small_validation.py" timestamp="1562639141688">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1562474391667">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="27" />
@@ -30,11 +36,12 @@
       <file name="/a.dummy" timestamp="1562635025331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562475459346">
+      <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562639101091">
         <mark key="'" line="8" column="24" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/analyze.py" timestamp="1562543987928">
         <mark key="'" line="5" column="0" />
@@ -42,12 +49,6 @@
         <mark key="]" line="111" column="71" />
         <mark key="^" line="111" column="71" />
         <mark key="." line="111" column="71" />
-      </file>
-      <file name="$USER_HOME$/work/piv/training/detection/BUILD" timestamp="1562470817356">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1562473594934">
         <mark key="'" line="0" column="0" />
@@ -61,11 +62,6 @@
         <mark key="]" line="35" column="43" />
         <mark key="^" line="35" column="43" />
         <mark key="." line="35" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1562472768286">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/demo/pytorch_detector_demo.py" timestamp="1562635162302">
         <mark key="[" line="18" column="18" />
@@ -106,11 +102,6 @@
         <mark key="." line="16" column="67" />
         <mark key="^" line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/BUILD" timestamp="1562473237112">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562634793142">
         <mark key="'" line="36" column="25" />
         <mark key="[" line="27" column="45" />
@@ -130,11 +121,6 @@
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/work/piv/doc/running_experiments.md" timestamp="1562428910940">
-        <mark key="[" line="57" column="75" />
-        <mark key="]" line="57" column="75" />
-        <mark key="." line="57" column="75" />
       </file>
       <file name="/tflite_ssd_detector_demo" timestamp="1557723980247">
         <mark key="[" line="0" column="0" />
@@ -264,8 +250,8 @@
       <jump line="80" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGJhdGNoNAo=</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -277,31 +263,31 @@
         <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogUG9zdC1mb3J3YXJkLXByb3BhZ2F0aW9uIHNldHRpbmdzLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGJhdGNoNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6cGFyYW1zIiwK</text>
+        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6YmF0Y2g0IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6YmF0Y2g0IiwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6YmF0Y2gzIiwK</text>
+        <text encoding="base64">ICAgICAgICAiLy91dGlsOmNvbWV0IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbmluZy5kZXRlY3Rpb24gaW1wb3J0IGZwbiwgYW5hbHl6ZSwgdXRpbHMK</text>
+        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246cGFzY2FsX2NhbGxiYWNrIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0cmFpbmluZy5kZXRlY3Rpb24gaW1wb3J0IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246ZnBuIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246Y29uZmlnIiwK</text>
+        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246YW5hbHl6ZSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6YmF0Y2g0IiwK</text>
+        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6dm9jMDciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6YmF0Y2gzIiwK</text>
+        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6Y29tbW9uIiwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
