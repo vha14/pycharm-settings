@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1562464797046">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/deploy/deploy_exp.py" timestamp="1562633902304">
+        <mark key="[" line="22" column="60" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+      </file>
       <file name="$USER_HOME$/work/piv/inference/BUILD" timestamp="1562474590148">
         <mark key="[" line="37" column="30" />
         <mark key="]" line="37" column="34" />
@@ -50,11 +56,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/demo/piv_detector_demo.py" timestamp="1562474672896">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/work/piv/demo/piv_detector_demo.py" timestamp="1562633837392">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="43" />
+        <mark key="^" line="35" column="43" />
+        <mark key="." line="35" column="43" />
       </file>
       <file name="$USER_HOME$/work/piv/datasets/piv/params.py" timestamp="1562472768286">
         <mark key="[" line="5" column="0" />
@@ -251,10 +257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mbnv2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mbnv2</text>
       </register>
       <register name="/" type="4">
         <text>measure</text>
