@@ -12,11 +12,11 @@
         <mark key="." line="22" column="67" />
         <mark key="^" line="22" column="67" />
       </file>
-      <file name="$USER_HOME$/work/piv/inference/BUILD" timestamp="1562474590148">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/work/piv/inference/BUILD" timestamp="1562634980112">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1562474391667">
         <mark key="[" line="29" column="27" />
@@ -27,7 +27,7 @@
       <file name="/fragment.py" timestamp="1562436180879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1562474044801">
+      <file name="/a.dummy" timestamp="1562635025331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562475459346">
@@ -67,6 +67,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/demo/pytorch_detector_demo.py" timestamp="1562635162302">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562474798170">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="81" column="56" />
@@ -74,10 +80,12 @@
         <mark key="." line="81" column="56" />
         <mark key="^" line="81" column="57" />
       </file>
-      <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562474616951">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562635140030">
+        <mark key="'" line="80" column="11" />
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="/fpn_exp" timestamp="1562426596838">
         <mark key="[" line="0" column="0" />
@@ -103,12 +111,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562474432645">
-        <mark key="'" line="35" column="25" />
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="80" />
-        <mark key="." line="42" column="80" />
-        <mark key="^" line="42" column="80" />
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1562634793142">
+        <mark key="'" line="36" column="25" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="79" />
+        <mark key="." line="27" column="79" />
+        <mark key="^" line="27" column="79" />
       </file>
       <file name="$USER_HOME$/work/piv/inference/piv_detector.py" timestamp="1562475304372">
         <mark key="'" line="16" column="0" />
@@ -154,22 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="20" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="110" column="28" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="111" column="12" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="112" column="8" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="114" column="17" filename="$USER_HOME$/work/piv/third_party/deeplab_v3/train.py" />
-      <jump line="78" column="34" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
-      <jump line="79" column="10" filename="$USER_HOME$/work/piv/experimental/dmitry/pretraining/pretrain_classifier.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.8/envs/piv/lib/python3.6/site-packages/fastai/vision/transform.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/overlay.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/piv/training/detection/ssd.py" />
-      <jump line="23" column="16" filename="$USER_HOME$/work/piv/training/detection/ssd.py" />
-      <jump line="293" column="0" filename="$USER_HOME$/work/piv/training/detection/utils.py" />
-      <jump line="0" column="4" filename="$USER_HOME$/work/piv/tox.ini" />
-      <jump line="15" column="4" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
-      <jump line="14" column="0" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
-      <jump line="98" column="11" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
       <jump line="12" column="31" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="26" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
@@ -254,16 +246,32 @@
       <jump line="17" column="15" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="54" column="15" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="58" column="22" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
+      <jump line="59" column="13" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="58" column="12" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="54" column="4" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="15" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="16" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="17" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="32" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="33" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="34" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="52" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="53" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="66" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="67" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="68" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="80" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mbnv2</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>mbnv2</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>measure</text>
+        <text>inference</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogUG9zdC1mb3J3YXJkLXByb3BhZ2F0aW9uIHNldHRpbmdzLgo=</text>
@@ -300,16 +308,14 @@
       </register>
     </registers>
     <search>
-      <last-search>measure</last-search>
+      <last-search>inference</last-search>
       <last-offset />
-      <last-pattern>measure</last-pattern>
+      <last-pattern>inference</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>detect_list</entry>
-        <entry>list</entry>
         <entry>detect</entry>
         <entry>replace</entry>
         <entry>strict</entry>
@@ -328,6 +334,8 @@
         <entry>analyze</entry>
         <entry>utils</entry>
         <entry>measure</entry>
+        <entry>piv_detector</entry>
+        <entry>inference</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
