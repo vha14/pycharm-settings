@@ -69,13 +69,6 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562474798170">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="81" column="56" />
-        <mark key="]" line="81" column="56" />
-        <mark key="." line="81" column="56" />
-        <mark key="^" line="81" column="57" />
-      </file>
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562635140030">
         <mark key="'" line="80" column="11" />
         <mark key="[" line="59" column="14" />
@@ -250,11 +243,11 @@
       <jump line="80" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGJhdGNoNAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>inference</text>
