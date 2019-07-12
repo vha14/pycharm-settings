@@ -16,6 +16,12 @@
       <file name="/fragment.py" timestamp="1560124733509">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/training/detection/utils.py" timestamp="1562967087824">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="/a.dummy" timestamp="1562248223572">
         <mark key="[" line="0" column="0" />
       </file>
@@ -275,11 +281,11 @@
       <jump line="63" column="27" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text>avg</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>plus</text>
