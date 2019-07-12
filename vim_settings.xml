@@ -26,6 +26,9 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562955665703">
+        <mark key="'" line="63" column="27" />
+      </file>
       <file name="$USER_HOME$/work/piv/util/datasets/piv_to_mscoco.py" timestamp="1559668507005">
         <mark key="'" line="19" column="1" />
         <mark key="[" line="85" column="5" />
@@ -53,6 +56,7 @@
         <mark key="." line="184" column="11" />
         <mark key="^" line="182" column="0" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562955258677" />
       <file name="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" timestamp="1562888071920">
         <mark key="'" line="160" column="59" />
         <mark key="[" line="197" column="0" />
@@ -168,9 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="21" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
-      <jump line="68" column="14" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="22" column="12" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v1_300x300_quantized_coco.config" />
       <jump line="19" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="58" column="0" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
@@ -268,6 +269,9 @@
       <jump line="47" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/mbnetv2_exp.py" />
       <jump line="51" column="4" filename="$USER_HOME$/work/piv/experimental/config/ssd_mobilenet_v2_fpn_256x256.config" />
       <jump line="83" column="20" filename="$USER_HOME$/work/piv/training/detection/fpn.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
+      <jump line="64" column="28" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
+      <jump line="63" column="27" filename="$USER_HOME$/work/piv/experimental/scripts/BUILD" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -277,7 +281,7 @@
         <text>avg</text>
       </register>
       <register name="/" type="4">
-        <text>quant</text>
+        <text>plus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCJiYWNrYm9uZSIsIHJlcXVpcmVkPTEpCg==</text>
@@ -314,15 +318,14 @@
       </register>
     </registers>
     <search>
-      <last-search>quant</last-search>
+      <last-search>plus</last-search>
       <last-offset />
-      <last-pattern>quant</last-pattern>
+      <last-pattern>plus</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seed</entry>
         <entry>plt</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>multip</entry>
@@ -342,6 +345,7 @@
         <entry>parse</entry>
         <entry>retina</entry>
         <entry>quant</entry>
+        <entry>plus</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
