@@ -55,12 +55,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1561092691580">
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1563215382887">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="184" column="11" />
-        <mark key="]" line="184" column="11" />
-        <mark key="." line="184" column="11" />
-        <mark key="^" line="182" column="0" />
+        <mark key="[" line="228" column="31" />
+        <mark key="]" line="228" column="42" />
+        <mark key="." line="228" column="42" />
+        <mark key="^" line="228" column="42" />
       </file>
       <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1562955258677" />
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562961983214" />
@@ -103,6 +103,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/piv/inference/pytorch_segmenter.py" timestamp="1563214349114">
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="19" />
+        <mark key="^" line="80" column="19" />
+        <mark key="." line="80" column="19" />
       </file>
       <file name="$USER_HOME$/work/piv/third_party/deeplab_v3/dataloaders/datasets/coco.py" timestamp="1559668435931">
         <mark key="'" line="95" column="48" />
@@ -282,43 +288,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>plus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCJiYWNrYm9uZSIsIHJlcXVpcmVkPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZiJObyBiYXRjaCBuYW1lZCB7YmF0Y2hfYWxpYXN9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eCA9IHgvMTAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQkFUQ0g0X1BMVVMucGx1c19sb2FkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzdGF0aXN0aWNzIGltcG9ydCBtZWFuLCBzdGRldgo=</text>
+        <text encoding="base64">ICAgIGVsaWYgYmF0Y2hfYWxpYXMgPT0gImJhdGNoNF9wbHVzIjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RkZXYoeCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWVhbih4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eCA9IGxpc3QocmFuZ2UoMTApKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9iYXRjaChiYXRjaF9hbGlhczogc3RyKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhY2xhc3Nlcy5yZXBsYWNlKGRldGVjdG9yLmFuYWx5emVfY29uZmlnLCBpb3VfdGhyZXNoPTAuNzUpCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRldGVjdG9yLmFuYWx5emVfY29uZmlnID0gXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuYWx5emVfY29uZmlnOiBPcHRpb25hbFt1dGlscy5BbmFseXplQ29uZmlnXSA9IE5vbmUK</text>
+        <text encoding="base64">eCA9IHgvMTAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
