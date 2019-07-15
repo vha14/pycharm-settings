@@ -55,7 +55,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1563215382887">
+      <file name="$USER_HOME$/work/piv/datasets/piv/common.py" timestamp="1563229332512">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="228" column="31" />
         <mark key="]" line="228" column="42" />
@@ -77,11 +77,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/work/piv/doc/MidJuly2019.md" timestamp="1563228943809">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="57" />
-        <mark key="^" line="7" column="57" />
-        <mark key="." line="7" column="57" />
+      <file name="$USER_HOME$/work/piv/doc/MidJuly2019.md" timestamp="1563232221876">
+        <mark key="[" line="25" column="126" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1562260087986">
         <mark key="[" line="0" column="0" />
@@ -283,43 +283,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>plus</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZiJObyBiYXRjaCBuYW1lZCB7YmF0Y2hfYWxpYXN9IikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bUFQQDAuNSA9IDgyJSBhbmQgbUFQQDAuNzUgPSA0NCUgaW4gYWJvdXQgb25lIGhvdXIuIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIFdvcmsgZG9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQkFUQ0g0X1BMVVMucGx1c19sb2FkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsaWYgYmF0Y2hfYWxpYXMgPT0gImJhdGNoNF9wbHVzIjoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQkFUQ0g0X1BMVVMucGx1c19sb2FkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgYmF0Y2hfYWxpYXMgPT0gImJhdGNoNF9wbHVzIjoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9iYXRjaChiYXRjaF9hbGlhczogc3RyKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ZGVmIGdldF9iYXRjaChiYXRjaF9hbGlhczogc3RyKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eCA9IHgvMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
