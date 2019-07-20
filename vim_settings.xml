@@ -76,7 +76,8 @@
         <mark key="." line="59" column="19" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" timestamp="1563633892567">
+      <file name="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" timestamp="1563636734186">
+        <mark key="'" line="488" column="4" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -146,10 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="31" filename="$USER_HOME$/work/piv/training/detection/pascal_metrics.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/work/piv/datasets/piv/common.py" />
-      <jump line="103" column="4" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="108" column="9" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="33" column="78" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
@@ -246,6 +243,10 @@
       <jump line="67" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
       <jump line="68" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
       <jump line="80" column="11" filename="$USER_HOME$/work/piv/demo/BUILD" />
+      <jump line="601" column="0" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
+      <jump line="661" column="16" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
+      <jump line="487" column="4" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
+      <jump line="488" column="4" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,7 +256,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>inference</text>
+        <text>TORCH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogUG9zdC1mb3J3YXJkLXByb3BhZ2F0aW9uIHNldHRpbmdzLgo=</text>
@@ -292,15 +293,14 @@
       </register>
     </registers>
     <search>
-      <last-search>inference</last-search>
+      <last-search>TORCH</last-search>
       <last-offset />
-      <last-pattern>inference</last-pattern>
+      <last-pattern>TORCH</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>detect</entry>
         <entry>replace</entry>
         <entry>strict</entry>
         <entry>232</entry>
@@ -320,6 +320,7 @@
         <entry>measure</entry>
         <entry>piv_detector</entry>
         <entry>inference</entry>
+        <entry>TORCH</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
