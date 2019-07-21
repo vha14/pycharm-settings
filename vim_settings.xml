@@ -69,6 +69,7 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/work/Benchmarks/src/benchmark/numpy/__main__.py" timestamp="1563738196620" />
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562635140030">
         <mark key="'" line="80" column="11" />
         <mark key="[" line="59" column="14" />
@@ -76,7 +77,7 @@
         <mark key="." line="59" column="19" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" timestamp="1563636734186">
+      <file name="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" timestamp="1563738215601">
         <mark key="'" line="488" column="4" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -256,7 +257,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>TORCH</text>
+        <text>half</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogUG9zdC1mb3J3YXJkLXByb3BhZ2F0aW9uIHNldHRpbmdzLgo=</text>
@@ -293,15 +294,14 @@
       </register>
     </registers>
     <search>
-      <last-search>TORCH</last-search>
+      <last-search>half</last-search>
       <last-offset />
-      <last-pattern>TORCH</last-pattern>
+      <last-pattern>half</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>replace</entry>
         <entry>strict</entry>
         <entry>232</entry>
         <entry>info</entry>
@@ -321,6 +321,7 @@
         <entry>piv_detector</entry>
         <entry>inference</entry>
         <entry>TORCH</entry>
+        <entry>half</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
