@@ -18,9 +18,6 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1563913122923">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/piv/training/video.py" timestamp="1561101403627">
         <mark key="'" line="65" column="29" />
         <mark key="[" line="66" column="48" />
@@ -56,6 +53,13 @@
       <file name="$USER_HOME$/work/piv/experimental/scripts/BUILD" timestamp="1562639101091">
         <mark key="'" line="8" column="24" />
         <mark key="^" line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/pytorch-transformers/scratch.py" timestamp="1563915140503">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="50" column="88" />
+        <mark key="]" line="54" column="48" />
+        <mark key="^" line="54" column="48" />
+        <mark key="." line="54" column="48" />
       </file>
       <file name="$USER_HOME$/work/piv/util/datasets/piv_to_mscoco.py" timestamp="1559668507005">
         <mark key="'" line="19" column="1" />
@@ -236,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="9" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="33" column="78" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="83" column="2" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
@@ -336,6 +339,7 @@
       <jump line="661" column="16" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
       <jump line="487" column="4" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
       <jump line="488" column="4" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/work/pytorch-transformers/scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
