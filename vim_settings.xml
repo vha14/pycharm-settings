@@ -66,6 +66,13 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" timestamp="1563931103294">
+        <mark key="'" line="48" column="33" />
+        <mark key="[" line="121" column="27" />
+        <mark key="]" line="121" column="59" />
+        <mark key="^" line="121" column="59" />
+        <mark key="." line="121" column="59" />
+      </file>
       <file name="$USER_HOME$/work/piv/demo/BUILD" timestamp="1562635140030">
         <mark key="'" line="80" column="11" />
         <mark key="[" line="59" column="14" />
@@ -103,6 +110,12 @@
         <mark key="]" line="16" column="67" />
         <mark key="." line="16" column="67" />
         <mark key="^" line="16" column="67" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/detection/fpn.py" timestamp="1563930143475">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="$USER_HOME$/work/piv/inference/piv_detector.py" timestamp="1562475304372">
         <mark key="'" line="16" column="0" />
@@ -143,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="9" filename="$USER_HOME$/work/piv/experimental/scripts/retina_exp.py" />
       <jump line="63" column="0" filename="$USER_HOME$/work/piv/experimental/vu/explore.py" />
       <jump line="33" column="78" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
       <jump line="83" column="2" filename="$USER_HOME$/work/piv/experimental/vu/visualize.py" />
@@ -243,61 +255,61 @@
       <jump line="661" column="16" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
       <jump line="487" column="4" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
       <jump line="488" column="4" filename="$USER_HOME$/work/Benchmarks/src/benchmark/cpp_new/__main__.py" />
+      <jump line="48" column="33" filename="$USER_HOME$/work/piv/experimental/scripts/fpn_exp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IXBpcCBpbnN0YWxsIC1xIHRlbnNvcmZsb3cgbWF0cGxvdGxpYgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>half</text>
+        <text>initial</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhbmFseXplX2NvbmZpZzogUG9zdC1mb3J3YXJkLXByb3BhZ2F0aW9uIHNldHRpbmdzLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IXBpcCBpbnN0YWxsIC1xIHRlbnNvcmZsb3cgbWF0cGxvdGxpYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGhhc2VzLmFwcGVuZChwaGFzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IXBpcCBpbnN0YWxsIC1xIC1VIHRlbnNvcjJ0ZW5zb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbl9jb25maWcud2VpZ2h0X2RlY2F5KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGRlcHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbl9jb25maWcuY3ljbGVfbGVuZ3RoLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG1rbC9ta2wuaD4K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbHIsIG51bV9lcG9jaHMsIHdkIGluIHppcCh0cmFpbl9jb25maWcubWF4X2xyLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0cy5waXYgaW1wb3J0IGJhdGNoNAo=</text>
+        <text encoding="base64">ICAgICAgICBwaGFzZXMgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiLy9kYXRhc2V0cy9waXY6YmF0Y2g0IiwK</text>
+        <text encoding="base64">ICAgICAgICBwaGFzZXMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbl9jb25maWcud2VpZ2h0X2RlY2F5KToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiLy91dGlsOmNvbWV0IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbl9jb25maWcuY3ljbGVfbGVuZ3RoLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiLy90cmFpbmluZy9kZXRlY3Rpb246cGFzY2FsX2NhbGxiYWNrIiwK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbHIsIG51bV9lcG9jaHMsIHdkIGluIHppcCh0cmFpbl9jb25maWcubWF4X2xyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>half</last-search>
+      <last-search>initial</last-search>
       <last-offset />
-      <last-pattern>half</last-pattern>
+      <last-pattern>initial</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>strict</entry>
         <entry>232</entry>
         <entry>info</entry>
         <entry>types</entry>
@@ -317,6 +329,7 @@
         <entry>inference</entry>
         <entry>TORCH</entry>
         <entry>half</entry>
+        <entry>initial</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
