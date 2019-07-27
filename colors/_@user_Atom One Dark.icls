@@ -1,21 +1,11 @@
 <scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2019-04-30T17:13:09</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-12T07:02:05</property>
+    <property name="modified">2019-07-27T07:08:14</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
