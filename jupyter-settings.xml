@@ -5,8 +5,7 @@
         <entry key="$USER_HOME$/work/piv/.idea/piv.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="f5199de84b59256d84d5c1d048ab905bbea1771416d3a7d8" />
-              <option name="urlString" value="http://localhost:8888/" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
