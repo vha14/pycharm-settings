@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
