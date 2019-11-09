@@ -1,9 +1,10 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="33">
+        <list size="38">
           <item index="0" class="java.lang.String" itemvalue="tensorflow" />
           <item index="1" class="java.lang.String" itemvalue="pathspec" />
           <item index="2" class="java.lang.String" itemvalue="hiddenlayer" />
@@ -35,8 +36,13 @@
           <item index="28" class="java.lang.String" itemvalue="tensorboardX" />
           <item index="29" class="java.lang.String" itemvalue="jupyter-contrib-nbextensions" />
           <item index="30" class="java.lang.String" itemvalue="pycocotools" />
-          <item index="31" class="java.lang.String" itemvalue="spacy" />
-          <item index="32" class="java.lang.String" itemvalue="gunicorn" />
+          <item index="31" class="java.lang.String" itemvalue="tqdm" />
+          <item index="32" class="java.lang.String" itemvalue="spacy" />
+          <item index="33" class="java.lang.String" itemvalue="pytorch-transformers" />
+          <item index="34" class="java.lang.String" itemvalue="falcon" />
+          <item index="35" class="java.lang.String" itemvalue="torch" />
+          <item index="36" class="java.lang.String" itemvalue="flask" />
+          <item index="37" class="java.lang.String" itemvalue="gunicorn" />
         </list>
       </value>
     </option>
