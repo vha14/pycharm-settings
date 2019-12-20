@@ -9,6 +9,7 @@
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
       <mapping pattern="fp" type="PLAIN_TEXT" />
+      <mapping pattern=".quokka" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".yapf.style" type="PLAIN_TEXT" />
       <mapping pattern="machine-types" type="PLAIN_TEXT" />
