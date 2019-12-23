@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" />
+    <notification groupId="Material Theme Notifications" displayType="NONE" />
+    <notification groupId="Quokka Notifications" displayType="NONE" />
   </component>
 </application>
