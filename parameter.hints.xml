@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="renderToString(tex,options)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
