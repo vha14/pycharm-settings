@@ -5,7 +5,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="38">
+        <list size="40">
           <item index="0" class="java.lang.String" itemvalue="tensorflow" />
           <item index="1" class="java.lang.String" itemvalue="pathspec" />
           <item index="2" class="java.lang.String" itemvalue="hiddenlayer" />
@@ -44,6 +44,8 @@
           <item index="35" class="java.lang.String" itemvalue="torch" />
           <item index="36" class="java.lang.String" itemvalue="flask" />
           <item index="37" class="java.lang.String" itemvalue="gunicorn" />
+          <item index="38" class="java.lang.String" itemvalue="tensorboard" />
+          <item index="39" class="java.lang.String" itemvalue="seqeval" />
         </list>
       </value>
     </option>
