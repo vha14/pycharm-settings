@@ -2,6 +2,14 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -29,6 +37,43 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/GraphQL.result.json" timestamp="1586627122669">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/detection/tf_fpn.py" timestamp="1571165673710">
+        <mark key="[" line="148" column="26" />
+        <mark key="]" line="148" column="26" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="148" column="26" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>True</text>
+      </register>
+      <register name="-" type="4">
+        <text>True</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
