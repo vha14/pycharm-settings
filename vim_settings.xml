@@ -1,6 +1,19 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>input_tensor</entry>
+        <entry>vocab</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
@@ -26,11 +39,110 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586631065844">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="164" column="72" />
+        <mark key="]" line="165" column="2" />
+        <mark key="^" line="165" column="2" />
+        <mark key="." line="165" column="1" />
+      </file>
+      <file name="/Python Console" timestamp="1587076872478">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587076895042">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1586631921930">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/detection/tf_fpn.py" timestamp="1571165673710">
+        <mark key="[" line="148" column="26" />
+        <mark key="]" line="148" column="26" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="148" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/email/sendcat/captum_exp.py" timestamp="1586631876578">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="195" column="135" />
+        <mark key="]" line="198" column="137" />
+        <mark key="^" line="198" column="137" />
+        <mark key="." line="198" column="136" />
+      </file>
+      <file name="/" timestamp="1586630907849">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="101" column="0" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
+      <jump line="86" column="4" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
+      <jump line="89" column="21" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
+      <jump line="145" column="2" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="138" column="18" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="43" column="23" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="48" column="38" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="133" column="25" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlucHV0X3RlbnNvciA9IHRvcmNoLmZyb21fbnVtcHkodHJhaW5fZmVhdHVyZXMpLnR5cGUodG9yY2guRmxvYXRUZW5zb3IpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>exp</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">SW4gWzI3XToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">SW4gWzI4XToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>exp</text>
+      </register>
+      <register name="/" type="4">
+        <text>vocab</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>vocab</last-search>
+      <last-offset />
+      <last-pattern>vocab</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
