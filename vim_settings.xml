@@ -75,6 +75,11 @@
         <mark key="^" line="198" column="137" />
         <mark key="." line="198" column="136" />
       </file>
+      <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588392642898">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
@@ -109,16 +114,25 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>exp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW4gWzI3XToK</text>
+        <text encoding="base64">dGYudGVzdC5pc19ncHVfYXZhaWxhYmxlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW4gWzI4XToK</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">SW4gWzI3XToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">SW4gWzI4XToK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
       </register>
       <register name="-" type="4">
