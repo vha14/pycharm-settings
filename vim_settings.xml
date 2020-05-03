@@ -44,6 +44,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
+        <mark key="'" line="335" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588455074732">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,6 +111,7 @@
       <jump line="48" column="38" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
       <jump line="133" column="25" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
       <jump line="174" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="335" column="35" filename="$USER_HOME$/work/biopic/pytorch_vae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
