@@ -44,7 +44,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586631065844">
+      <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
+        <mark key="'" line="335" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588455074732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
@@ -54,9 +57,6 @@
         <mark key="^" line="165" column="2" />
         <mark key="." line="165" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1587076872478">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1587076895042">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,23 +65,11 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-      </file>
       <file name="$USER_HOME$/work/piv/training/detection/tf_fpn.py" timestamp="1571165673710">
         <mark key="[" line="148" column="26" />
         <mark key="]" line="148" column="26" />
         <mark key="^" line="55" column="22" />
         <mark key="." line="148" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/cygia/requirements.txt" timestamp="1587076956084">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/email/sendcat/captum_exp.py" timestamp="1586631876578">
         <mark key="'" line="11" column="0" />
@@ -90,7 +78,23 @@
         <mark key="^" line="198" column="137" />
         <mark key="." line="198" column="136" />
       </file>
-      <file name="/" timestamp="1586630907849">
+      <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
+        <mark key="'" line="209" column="25" />
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="43" column="10" />
+        <mark key="." line="42" column="7" />
+      </file>
+      <file name="/keras_vae" timestamp="1588457877536">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="/" timestamp="1588435583753">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -108,36 +112,55 @@
       <jump line="48" column="38" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
       <jump line="133" column="25" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
       <jump line="174" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
+      <jump line="335" column="35" filename="$USER_HOME$/work/biopic/pytorch_vae.py" />
+      <jump line="297" column="0" filename="$USER_HOME$/work/biopic/keras_vae.py" />
+      <jump line="208" column="25" filename="$USER_HOME$/work/biopic/keras_vae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlucHV0X3RlbnNvciA9IHRvcmNoLmZyb21fbnVtcHkodHJhaW5fZmVhdHVyZXMpLnR5cGUodG9yY2guRmxvYXRUZW5zb3IpCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z2l0K2dpdDovL2dpdGh1Yi5jb20vaHVnZ2luZ2ZhY2UvdHJhbnNmb3JtZXJzCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0K2dpdDovL2dpdGh1Yi5jb20vaHVnZ2luZ2ZhY2UvdHJhbnNmb3JtZXJzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">SW4gWzI3XToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">SW4gWzI4XToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>exp</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>vocab</text>
+      </register>
+      <register name="0" type="4">
+        <text>plt.figure()
+plt.scatter(Y[:1000, 0], Y[:1000, 1], c=&quot;r&quot;, alpha=.5)
+plt.figure()
+plt.scatter(Y[1000:, 0], Y[1000:, 1], c=&quot;g&quot;, alpha=.5)
+plt.show()</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Zm9vCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGx0LnNjYXR0ZXIoWVsxMTQ6LCAwXSwgWVsxMTQ6LCAxXSwgYz0iZyIsIGFscGhhPS41KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I3BsdC5maWd1cmUoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dHNuZV9wcmVkID0gCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">WQo=</text>
       </register>
     </registers>
   </component>
