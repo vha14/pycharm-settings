@@ -44,18 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
-        <mark key="'" line="335" column="35" />
+      <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
+        <mark key="'" line="131" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1588455074732">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="164" column="72" />
-        <mark key="]" line="165" column="2" />
-        <mark key="^" line="165" column="2" />
-        <mark key="." line="165" column="1" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1587076895042">
         <mark key="[" line="0" column="0" />
@@ -64,19 +57,6 @@
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/piv/training/detection/tf_fpn.py" timestamp="1571165673710">
-        <mark key="[" line="148" column="26" />
-        <mark key="]" line="148" column="26" />
-        <mark key="^" line="55" column="22" />
-        <mark key="." line="148" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/email/sendcat/captum_exp.py" timestamp="1586631876578">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="195" column="135" />
-        <mark key="]" line="198" column="137" />
-        <mark key="^" line="198" column="137" />
-        <mark key="." line="198" column="136" />
       </file>
       <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
         <mark key="'" line="209" column="25" />
@@ -97,6 +77,29 @@
       <file name="/" timestamp="1588435583753">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
+        <mark key="'" line="335" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="164" column="72" />
+        <mark key="]" line="165" column="2" />
+        <mark key="^" line="165" column="2" />
+        <mark key="." line="165" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/piv/training/detection/tf_fpn.py" timestamp="1571165673710">
+        <mark key="[" line="148" column="26" />
+        <mark key="]" line="148" column="26" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="148" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/email/sendcat/captum_exp.py" timestamp="1586631876578">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="195" column="135" />
+        <mark key="]" line="198" column="137" />
+        <mark key="^" line="198" column="137" />
+        <mark key="." line="198" column="136" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="0" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
@@ -115,6 +118,7 @@
       <jump line="335" column="35" filename="$USER_HOME$/work/biopic/pytorch_vae.py" />
       <jump line="297" column="0" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="208" column="25" filename="$USER_HOME$/work/biopic/keras_vae.py" />
+      <jump line="131" column="63" filename="$USER_HOME$/work/biopic/vae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
