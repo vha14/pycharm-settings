@@ -46,6 +46,10 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="FindNext" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />

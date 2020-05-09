@@ -8,6 +8,9 @@
         <entry>input_tensor</entry>
         <entry>vocab</entry>
         <entry>bem</entry>
+        <entry>mailsync</entry>
+        <entry>default</entry>
+        <entry>MailS</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -94,7 +97,7 @@
         <mark key="^" line="198" column="137" />
         <mark key="." line="198" column="136" />
       </file>
-      <file name="/" timestamp="1588871408197">
+      <file name="/" timestamp="1589063151262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
@@ -105,12 +108,21 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/work/mailspring/app/src/browser/application.ts" timestamp="1589062918921">
+        <mark key="'" line="75" column="18" />
+      </file>
       <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
         <mark key="'" line="209" column="25" />
         <mark key="[" line="42" column="7" />
         <mark key="]" line="42" column="7" />
         <mark key="^" line="43" column="10" />
         <mark key="." line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/mailspring/package.json" timestamp="1589060127551">
+        <mark key="'" line="65" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/mailspring/app/src/browser/main.js" timestamp="1589062587752">
+        <mark key="'" line="288" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -134,6 +146,15 @@
       <jump line="188" column="2" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
       <jump line="159" column="23" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
+      <jump line="65" column="23" filename="$USER_HOME$/work/mailspring/package.json" />
+      <jump line="45" column="0" filename="$USER_HOME$/work/mailspring/app/src/browser/main.js" />
+      <jump line="288" column="0" filename="$USER_HOME$/work/mailspring/app/src/browser/main.js" />
+      <jump line="140" column="4" filename="$USER_HOME$/work/mailspring/app/src/browser/application.ts" />
+      <jump line="224" column="9" filename="$USER_HOME$/work/mailspring/app/src/browser/application.ts" />
+      <jump line="330" column="10" filename="$USER_HOME$/work/mailspring/app/src/browser/application.ts" />
+      <jump line="555" column="8" filename="$USER_HOME$/work/mailspring/app/src/browser/application.ts" />
+      <jump line="641" column="45" filename="$USER_HOME$/work/mailspring/app/src/browser/application.ts" />
+      <jump line="75" column="18" filename="$USER_HOME$/work/mailspring/app/src/browser/application.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -145,7 +166,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>bem</text>
+        <text>MailS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -181,9 +202,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bem</last-search>
+      <last-search>MailS</last-search>
       <last-offset />
-      <last-pattern>bem</last-pattern>
+      <last-pattern>MailS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
