@@ -8,6 +8,7 @@
         <entry>input_tensor</entry>
         <entry>vocab</entry>
         <entry>bem</entry>
+        <entry>keytar</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -53,6 +54,9 @@
       </file>
       <file name="/Python Console" timestamp="1588823159913">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589001458882">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/email/search/searchkit/src/index.css" timestamp="1588824228489">
         <mark key="[" line="4" column="11" />
@@ -138,6 +142,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
       <jump line="159" column="23" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
       <jump line="62" column="19" filename="$USER_HOME$/work/email/search/searchkit/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/Mailspring/app/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -149,7 +154,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>bem</text>
+        <text>keytar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -185,9 +190,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bem</last-search>
+      <last-search>keytar</last-search>
       <last-offset />
-      <last-pattern>bem</last-pattern>
+      <last-pattern>keytar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
