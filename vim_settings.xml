@@ -10,6 +10,7 @@
         <entry>bem</entry>
         <entry>keytar</entry>
         <entry>ThreadList</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -56,7 +57,7 @@
       <file name="/Python Console" timestamp="1588823159913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589001458882">
+      <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589047281224">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/email/search/searchkit/src/index.css" timestamp="1588824228489">
@@ -163,7 +164,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ThreadList</text>
+        <text>sync</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -199,9 +200,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ThreadList</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>ThreadList</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
