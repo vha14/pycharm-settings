@@ -52,7 +52,7 @@
       <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
         <mark key="'" line="131" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589048169336">
+      <file name="/Dummy.txt" timestamp="1589048970473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1588823159913">
@@ -69,15 +69,10 @@
       <file name="/GraphQL.result.json" timestamp="1587076895042">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1586631921930">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" timestamp="1589044226915">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="/console" timestamp="1589048170574">
+      <file name="/console" timestamp="1589048971242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
@@ -96,7 +91,7 @@
       <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
         <mark key="'" line="335" column="35" />
       </file>
-      <file name="/a.sql" timestamp="1589048169325">
+      <file name="/a.sql" timestamp="1589048970461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
@@ -105,6 +100,12 @@
         <mark key="]" line="165" column="2" />
         <mark key="^" line="165" column="2" />
         <mark key="." line="165" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6854c01d-e8a7-4e30-ad21-a20de5b1a951/console.sql" timestamp="1589049515931">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d589cab-98cf-494b-864e-3d5b38eb0fb1/console.sql" timestamp="1589048256494">
         <mark key="[" line="0" column="0" />
@@ -150,11 +151,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>sql</text>
