@@ -9,6 +9,7 @@
         <entry>vocab</entry>
         <entry>bem</entry>
         <entry>keytar</entry>
+        <entry>ThreadList</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -70,6 +71,9 @@
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" timestamp="1589044226915">
+        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
         <mark key="'" line="209" column="25" />
@@ -143,6 +147,11 @@
       <jump line="159" column="23" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
       <jump line="62" column="19" filename="$USER_HOME$/work/email/search/searchkit/src/App.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/Mailspring/app/package.json" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
+      <jump line="13" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
+      <jump line="14" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
+      <jump line="17" column="6" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -154,7 +163,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>keytar</text>
+        <text>ThreadList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -190,9 +199,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>keytar</last-search>
+      <last-search>ThreadList</last-search>
       <last-offset />
-      <last-pattern>keytar</last-pattern>
+      <last-pattern>ThreadList</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
