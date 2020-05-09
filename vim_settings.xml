@@ -7,6 +7,7 @@
       <history-search>
         <entry>input_tensor</entry>
         <entry>vocab</entry>
+        <entry>bem</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -44,18 +45,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
-        <mark key="'" line="335" column="35" />
+      <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
+        <mark key="'" line="131" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1588455074732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="164" column="72" />
-        <mark key="]" line="165" column="2" />
-        <mark key="^" line="165" column="2" />
-        <mark key="." line="165" column="1" />
+      <file name="/Python Console" timestamp="1588823159913">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/email/search/searchkit/src/index.css" timestamp="1588824228489">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1587076895042">
         <mark key="[" line="0" column="0" />
@@ -64,6 +66,37 @@
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/theming/vars.scss" timestamp="1588826440012" />
+      <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
+        <mark key="'" line="209" column="25" />
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="43" column="10" />
+        <mark key="." line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/theming/components/_arrows.scss" timestamp="1588872015016" />
+      <file name="/keras_vae" timestamp="1588457877536">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="/" timestamp="1588871408197">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
+        <mark key="'" line="335" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="164" column="72" />
+        <mark key="]" line="165" column="2" />
+        <mark key="^" line="165" column="2" />
+        <mark key="." line="165" column="1" />
       </file>
       <file name="$USER_HOME$/work/piv/training/detection/tf_fpn.py" timestamp="1571165673710">
         <mark key="[" line="148" column="26" />
@@ -78,24 +111,8 @@
         <mark key="^" line="198" column="137" />
         <mark key="." line="198" column="136" />
       </file>
-      <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
-        <mark key="'" line="209" column="25" />
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="42" column="7" />
-      </file>
-      <file name="/keras_vae" timestamp="1588457877536">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/aruei/pipeline-components/gpt-lm/gpt-server.py" timestamp="1572457637590">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-      </file>
-      <file name="/" timestamp="1588435583753">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" timestamp="1588825064967">
+        <mark key="'" line="159" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -115,60 +132,60 @@
       <jump line="335" column="35" filename="$USER_HOME$/work/biopic/pytorch_vae.py" />
       <jump line="297" column="0" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="208" column="25" filename="$USER_HOME$/work/biopic/keras_vae.py" />
+      <jump line="131" column="63" filename="$USER_HOME$/work/biopic/vae.py" />
+      <jump line="188" column="2" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
+      <jump line="159" column="23" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>vocab</text>
+        <text>bem</text>
       </register>
-      <register name="0" type="4">
-        <text>plt.figure()
-plt.scatter(Y[:1000, 0], Y[:1000, 1], c=&quot;r&quot;, alpha=.5)
-plt.figure()
-plt.scatter(Y[1000:, 0], Y[1000:, 1], c=&quot;g&quot;, alpha=.5)
-plt.show()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
+        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoWVsxMTQ6LCAwXSwgWVsxMTQ6LCAxXSwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3BsdC5maWd1cmUoKQo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoWVsxMTQ6LCAwXSwgWVsxMTQ6LCAxXSwgYz0iZyIsIGFscGhhPS41KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3BsdC5maWd1cmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHNuZV9wcmVkID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WQo=</text>
+        <text encoding="base64">dHNuZV9wcmVkID0gCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>vocab</last-search>
+      <last-search>bem</last-search>
       <last-offset />
-      <last-pattern>vocab</last-pattern>
+      <last-pattern>bem</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
