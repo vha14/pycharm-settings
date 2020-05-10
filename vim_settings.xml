@@ -101,11 +101,11 @@
         <mark key="^" line="165" column="2" />
         <mark key="." line="165" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6854c01d-e8a7-4e30-ad21-a20de5b1a951/console.sql" timestamp="1589049515931">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6854c01d-e8a7-4e30-ad21-a20de5b1a951/console.sql" timestamp="1589049811695">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d589cab-98cf-494b-864e-3d5b38eb0fb1/console.sql" timestamp="1589048256494">
         <mark key="[" line="0" column="0" />
@@ -152,10 +152,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>data from Message where accountId = 'fe2fe9c7'</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>data from Message where accountId = 'fe2fe9c7'</text>
       </register>
       <register name="/" type="4">
         <text>sql</text>
