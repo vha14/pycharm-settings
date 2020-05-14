@@ -12,6 +12,8 @@
         <entry>ThreadList</entry>
         <entry>sync</entry>
         <entry>sql</entry>
+        <entry>gram</entry>
+        <entry>loss</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -82,6 +84,9 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="42" column="7" />
       </file>
+      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" timestamp="1589476348817">
+        <mark key="'" line="121" column="33" />
+      </file>
       <file name="/keras_vae" timestamp="1588457877536">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,6 +152,18 @@
       <jump line="25" column="0" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="62" column="14" filename="$USER_HOME$/work/Mailspring/app/package.json" />
       <jump line="15" column="39" filename="$USER_HOME$/work/Mailspring/app/package.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="79" column="4" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="86" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="112" column="21" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="124" column="58" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="81" column="4" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="70" column="11" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="90" column="17" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="108" column="13" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="109" column="39" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="121" column="33" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -158,7 +175,7 @@
         <text>data from Message where accountId = 'fe2fe9c7'</text>
       </register>
       <register name="/" type="4">
-        <text>sql</text>
+        <text>loss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -194,9 +211,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sql</last-search>
+      <last-search>loss</last-search>
       <last-offset />
-      <last-pattern>sql</last-pattern>
+      <last-pattern>loss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
