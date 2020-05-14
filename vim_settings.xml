@@ -15,6 +15,7 @@
         <entry>gram</entry>
         <entry>loss</entry>
         <entry>critic</entry>
+        <entry>resize</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -85,8 +86,8 @@
         <mark key="^" line="43" column="10" />
         <mark key="." line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" timestamp="1589476348817">
-        <mark key="'" line="121" column="33" />
+      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" timestamp="1589481835723">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/keras_vae" timestamp="1588457877536">
         <mark key="[" line="0" column="0" />
@@ -162,7 +163,6 @@
       <jump line="112" column="21" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="124" column="58" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="81" column="4" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="70" column="11" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="90" column="17" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="108" column="13" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
@@ -172,6 +172,8 @@
       <jump line="165" column="9" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
       <jump line="174" column="13" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
       <jump line="196" column="5" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
+      <jump line="97" column="2" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -183,7 +185,7 @@
         <text>data from Message where accountId = 'fe2fe9c7'</text>
       </register>
       <register name="/" type="4">
-        <text>critic</text>
+        <text>resize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -219,9 +221,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>critic</last-search>
+      <last-search>resize</last-search>
       <last-offset />
-      <last-pattern>critic</last-pattern>
+      <last-pattern>resize</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
