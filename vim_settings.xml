@@ -14,6 +14,7 @@
         <entry>sql</entry>
         <entry>gram</entry>
         <entry>loss</entry>
+        <entry>critic</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -115,6 +116,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d589cab-98cf-494b-864e-3d5b38eb0fb1/console.sql" timestamp="1589048256494">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" timestamp="1589480757957">
+        <mark key="'" line="196" column="5" />
+      </file>
       <file name="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" timestamp="1588825064967">
         <mark key="'" line="159" column="23" />
       </file>
@@ -164,6 +168,10 @@
       <jump line="108" column="13" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="109" column="39" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="121" column="33" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
+      <jump line="165" column="9" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
+      <jump line="174" column="13" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
+      <jump line="196" column="5" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -175,7 +183,7 @@
         <text>data from Message where accountId = 'fe2fe9c7'</text>
       </register>
       <register name="/" type="4">
-        <text>loss</text>
+        <text>critic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -211,9 +219,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>loss</last-search>
+      <last-search>critic</last-search>
       <last-offset />
-      <last-pattern>loss</last-pattern>
+      <last-pattern>critic</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
