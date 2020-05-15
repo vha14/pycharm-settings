@@ -95,11 +95,12 @@
       <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
         <mark key="'" line="335" column="35" />
       </file>
-      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589574909982">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="91" column="22" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589577025431">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+        <mark key="^" line="242" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589048970461">
         <mark key="[" line="0" column="0" />
@@ -178,6 +179,7 @@
       <jump line="97" column="2" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/fastaiv1/lib/python3.7/site-packages/fastai/vision/image.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -198,28 +200,28 @@
         <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhwYXRoX2dlbi5scygpWzBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJjaAo=</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
+        <text encoding="base64">cGx0LmludGVyYWN0aXZlKFRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
+        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">YXJjaAo=</text>
       </register>
     </registers>
   </component>
