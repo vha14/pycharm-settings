@@ -48,6 +48,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -56,10 +59,7 @@
       <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
         <mark key="'" line="131" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589048970473">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1588823159913">
+      <file name="/Dummy.txt" timestamp="1589561882526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589048515651">
@@ -98,15 +98,14 @@
       <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
         <mark key="'" line="335" column="35" />
       </file>
+      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589562253743">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1589048970461">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" timestamp="1586649334875">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="164" column="72" />
-        <mark key="]" line="165" column="2" />
-        <mark key="^" line="165" column="2" />
-        <mark key="." line="165" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6854c01d-e8a7-4e30-ad21-a20de5b1a951/console.sql" timestamp="1589049811695">
         <mark key="[" line="0" column="14" />
@@ -178,11 +177,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>data from Message where accountId = 'fe2fe9c7'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>data from Message where accountId = 'fe2fe9c7'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>resize</text>
@@ -191,31 +190,31 @@
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
+        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">YXJjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
+        <text encoding="base64">YXJjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoWVsxMTQ6LCAwXSwgWVsxMTQ6LCAxXSwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3BsdC5maWd1cmUoKQo=</text>
+        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHNuZV9wcmVkID0gCg==</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoWVsxMTQ6LCAwXSwgWVsxMTQ6LCAxXSwgYz0iZyIsIGFscGhhPS41KQo=</text>
       </register>
     </registers>
   </component>
