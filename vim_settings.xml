@@ -59,6 +59,9 @@
       <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
         <mark key="'" line="131" column="63" />
       </file>
+      <file name="/start_script.py" timestamp="1589575103456">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589561882526">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,9 +72,6 @@
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587076895042">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" timestamp="1589044226915">
         <mark key="'" line="25" column="0" />
@@ -89,20 +89,17 @@
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" timestamp="1589481835723">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/keras_vae" timestamp="1588457877536">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/" timestamp="1588871408197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/pytorch_vae.py" timestamp="1588477842229">
         <mark key="'" line="335" column="35" />
       </file>
-      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589562253743">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589574909982">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="91" column="22" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589048970461">
         <mark key="[" line="0" column="0" />
@@ -124,6 +121,13 @@
       </file>
       <file name="$USER_HOME$/work/email/search/searchkit/src/App.js" timestamp="1588905160282">
         <mark key="'" line="62" column="19" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/fastaiv1/lib/python3.7/site-packages/fastai/vision/image.py" timestamp="1589574722227">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="539" column="80" />
+        <mark key="]" line="539" column="108" />
+        <mark key="^" line="539" column="108" />
+        <mark key="." line="539" column="107" />
       </file>
     </filemarks>
     <jumps>
@@ -173,12 +177,13 @@
       <jump line="196" column="5" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" />
       <jump line="97" column="2" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
+      <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/fastaiv1/lib/python3.7/site-packages/fastai/vision/image.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -190,31 +195,31 @@
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJjaAo=</text>
+        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJjCg==</text>
+        <text encoding="base64">YXJjaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
+        <text encoding="base64">YXJjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDoxNXB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
+        <text encoding="base64">Zm9vID0gcGQuY29uY2F0KFtwcmVkLCBzZXFfdGVzdC50cmFuc3Bvc2UoKV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">c2VxX3Rlc3QyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoWVsxMTQ6LCAwXSwgWVsxMTQ6LCAxXSwgYz0iZyIsIGFscGhhPS41KQo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIodHNuZV9ndCwgYz0iZyIsIGFscGhhPS41KQo=</text>
       </register>
     </registers>
   </component>
