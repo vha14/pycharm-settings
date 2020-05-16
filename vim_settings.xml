@@ -16,6 +16,7 @@
         <entry>loss</entry>
         <entry>critic</entry>
         <entry>resize</entry>
+        <entry>num_samples</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -63,6 +64,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589561882526">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1589653377333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589048515651">
@@ -191,7 +195,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>num_samples</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -227,9 +231,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>resize</last-search>
+      <last-search>num_samples</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>num_samples</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
