@@ -17,6 +17,7 @@
         <entry>critic</entry>
         <entry>resize</entry>
         <entry>num_samples</entry>
+        <entry>bulma</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -57,14 +58,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/biopic/vae.py" timestamp="1588538330050">
-        <mark key="'" line="131" column="63" />
-      </file>
       <file name="/start_script.py" timestamp="1589575103456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589561882526">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/react-firebase-admin/src/state/reducers/auth/auth.test.js" timestamp="1589741912212">
+        <mark key="'" line="24" column="0" />
       </file>
       <file name="/Python Console" timestamp="1589653377333">
         <mark key="[" line="0" column="0" />
@@ -72,27 +73,24 @@
       <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589048515651">
         <mark key="'" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/work/email/search/searchkit/src/index.css" timestamp="1588824228489">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-      </file>
       <file name="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" timestamp="1589044226915">
         <mark key="'" line="25" column="0" />
       </file>
       <file name="/console" timestamp="1589474479643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PyTorch-GAN/implementations/srgan/srgan.py" timestamp="1589741253551" />
-      <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1588532413931">
-        <mark key="'" line="209" column="25" />
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="42" column="7" />
-      </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" timestamp="1589481835723">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/react-firebase-admin/.gitignore" timestamp="1589741570078">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="6" />
+        <mark key="^" line="86" column="7" />
+        <mark key="." line="86" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/react-firebase-admin/src/assets/css/main.css" timestamp="1589742362476">
+        <mark key="'" line="2120" column="2" />
       </file>
       <file name="/" timestamp="1588871408197">
         <mark key="[" line="0" column="0" />
@@ -182,18 +180,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/fastaiv1/lib/python3.7/site-packages/fastai/vision/image.py" />
       <jump line="148" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/react-firebase-admin/.gitignore" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/react-firebase-admin/src/state/reducers/auth/auth.test.js" />
+      <jump line="2120" column="2" filename="$USER_HOME$/work/react-firebase-admin/src/assets/css/main.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>num_samples</text>
+        <text>bulma</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6MTVweDsK</text>
@@ -229,9 +230,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>num_samples</last-search>
+      <last-search>bulma</last-search>
       <last-offset />
-      <last-pattern>num_samples</last-pattern>
+      <last-pattern>bulma</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
