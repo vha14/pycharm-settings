@@ -89,11 +89,14 @@
         <mark key="^" line="86" column="7" />
         <mark key="." line="86" column="6" />
       </file>
+      <file name="$USER_HOME$/work/react-firebase-admin/package.json" timestamp="1589756848379">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="59" />
+        <mark key="^" line="35" column="59" />
+        <mark key="." line="35" column="58" />
+      </file>
       <file name="$USER_HOME$/work/react-firebase-admin/src/assets/css/main.css" timestamp="1589742362476">
         <mark key="'" line="2120" column="2" />
-      </file>
-      <file name="/" timestamp="1588871408197">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589577025431">
         <mark key="'" line="148" column="0" />
@@ -104,6 +107,13 @@
       </file>
       <file name="/a.sql" timestamp="1589048970461">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/react-firebase-admin/functions/requests/routes/users.js" timestamp="1589757010819">
+        <mark key="'" line="190" column="21" />
+        <mark key="[" line="188" column="2" />
+        <mark key="]" line="188" column="7" />
+        <mark key="." line="188" column="6" />
+        <mark key="^" line="188" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6854c01d-e8a7-4e30-ad21-a20de5b1a951/console.sql" timestamp="1589049811695">
         <mark key="[" line="0" column="14" />
@@ -116,9 +126,6 @@
       </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" timestamp="1589480757957">
         <mark key="'" line="196" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" timestamp="1588825064967">
-        <mark key="'" line="159" column="23" />
       </file>
       <file name="$USER_HOME$/work/email/search/searchkit/src/App.js" timestamp="1588905160282">
         <mark key="'" line="62" column="19" />
@@ -183,15 +190,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/react-firebase-admin/.gitignore" />
       <jump line="24" column="0" filename="$USER_HOME$/work/react-firebase-admin/src/state/reducers/auth/auth.test.js" />
       <jump line="2120" column="2" filename="$USER_HOME$/work/react-firebase-admin/src/assets/css/main.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/react-firebase-admin/functions/requests/routes/users.js" />
+      <jump line="190" column="21" filename="$USER_HOME$/work/react-firebase-admin/functions/requests/routes/users.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>bulma</text>

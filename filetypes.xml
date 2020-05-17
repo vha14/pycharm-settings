@@ -7,6 +7,7 @@
       <mapping pattern="pyenv-notes" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
       <mapping pattern="fp" type="PLAIN_TEXT" />
       <mapping pattern=".quokka" type="PLAIN_TEXT" />
