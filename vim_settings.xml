@@ -18,6 +18,7 @@
         <entry>resize</entry>
         <entry>num_samples</entry>
         <entry>bulma</entry>
+        <entry>extra</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -74,9 +75,6 @@
       <file name="/Python Console" timestamp="1589653377333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Mailspring/app/package.json" timestamp="1589048515651">
-        <mark key="'" line="15" column="39" />
-      </file>
       <file name="/console" timestamp="1589474479643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,15 +108,18 @@
       <file name="$USER_HOME$/work/react-firebase-admin/src/assets/css/main.css" timestamp="1589742362476">
         <mark key="'" line="2120" column="2" />
       </file>
+      <file name="$USER_HOME$/work/hackernews-react-graphql/.eslintrc.js" timestamp="1589827151397">
+        <mark key="[" line="74" column="52" />
+        <mark key="]" line="74" column="53" />
+        <mark key="^" line="74" column="5" />
+        <mark key="." line="74" column="53" />
+      </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589577025431">
         <mark key="'" line="148" column="0" />
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
         <mark key="^" line="242" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1589048970461">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/react-firebase-admin/functions/requests/routes/users.js" timestamp="1589757010819">
         <mark key="'" line="190" column="21" />
@@ -215,7 +216,7 @@
         <text>, &quot;*.js&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>bulma</text>
+        <text>extra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICc8RklSRUJBU0VfQ0xPVURfRlVOQ1RJT05TX1VSTD4vcmVxdWVzdHNBcHAnCg==</text>
@@ -251,9 +252,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bulma</last-search>
+      <last-search>extra</last-search>
       <last-offset />
-      <last-pattern>bulma</last-pattern>
+      <last-pattern>extra</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
