@@ -108,11 +108,16 @@
       <file name="$USER_HOME$/work/react-firebase-admin/src/assets/css/main.css" timestamp="1589742362476">
         <mark key="'" line="2120" column="2" />
       </file>
-      <file name="$USER_HOME$/work/hackernews-react-graphql/.eslintrc.js" timestamp="1589827151397">
-        <mark key="[" line="74" column="52" />
-        <mark key="]" line="74" column="53" />
-        <mark key="^" line="74" column="5" />
-        <mark key="." line="74" column="53" />
+      <file name="$USER_HOME$/work/hackernews-react-graphql/package.json" timestamp="1589827332526">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/hackernews-react-graphql/.eslintrc.js" timestamp="1589827221972">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.py" timestamp="1589577025431">
         <mark key="'" line="148" column="0" />
@@ -127,12 +132,6 @@
         <mark key="]" line="188" column="7" />
         <mark key="." line="188" column="6" />
         <mark key="^" line="188" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6854c01d-e8a7-4e30-ad21-a20de5b1a951/console.sql" timestamp="1589049811695">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" timestamp="1589480757957">
         <mark key="'" line="196" column="5" />
@@ -210,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;*.js&quot;</text>
+        <text encoding="base64">IC0tY29uZmlnIC0tcnVuSW5CYW5kIGplc3QuY29uZmlnLmpz</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;*.js&quot;</text>
+        <text encoding="base64">IC0tY29uZmlnIC0tcnVuSW5CYW5kIGplc3QuY29uZmlnLmpz</text>
       </register>
       <register name="/" type="4">
         <text>extra</text>
@@ -222,28 +221,28 @@
         <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICc8RklSRUJBU0VfQ0xPVURfRlVOQ1RJT05TX1VSTD4vcmVxdWVzdHNBcHAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3NjcmlwdD4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL2ZpcmViYXNlanMvNy4xNC40L2ZpcmViYXNlLWFwcC5qcyI+PC9zY3JpcHQ+Cgo8IS0tIFRPRE86IEFkZCBTREtzIGZvciBGaXJlYmFzZSBwcm9kdWN0cyB0aGF0IHlvdSB3YW50IHRvIHVzZQogICAgIGh0dHBzOi8vZmlyZWJhc2UuZ29vZ2xlLmNvbS9kb2NzL3dlYi9zZXR1cCNhdmFpbGFibGUtbGlicmFyaWVzIC0tPgoKPHNjcmlwdD4KICAvLyBZb3VyIHdlYiBhcHAncyBGaXJlYmFzZSBjb25maWd1cmF0aW9uCiAgdmFyIGZpcmViYXNlQ29uZmlnID0gewogICAgYXBpS2V5OiAiCiAgICBhdXRoRG9tYWluOiAKICAgIGRhdGFiYXNlVVJMOiAiCiAgICBwcm9qZWN0SWQ6ICIKICAgIHN0b3JhZ2VCdWNrZXQ6ICIKICAgIG1lc3NhZ2luZ1NlbmRlcklkOiAiCiAgICBhcHBJZDogIgogIH07CiAgLy8gSW5pdGlhbGl6ZSBGaXJlYmFzZQogIGZpcmViYXNlLmluaXRpYWxpemVBcHAoZmlyZWJhc2VDb25maWcpOwo8</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICd0eXBlc2NyaXB0LWVzbGludC9leHBsaWNpdC1mdW5jdGlvbi1yZXR1cm4tdHlwZSc6ICdvZmYnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBUaGUgY29yZSBGaXJlYmFzZSBKUyBTREsgaXMgYWx3YXlzIHJlcXVpcmVkIGFuZCBtdXN0IGJlIGxpc3RlZCBmaXJzdCAtLT4K</text>
+        <text encoding="base64">L3NjcmlwdD4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">UkVBQ1RfQVBQX0ZJUkVfQkFTRV9NRUFTVVJNRU5UX0lEID0gJycK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL2ZpcmViYXNlanMvNy4xNC40L2ZpcmViYXNlLWFwcC5qcyI+PC9zY3JpcHQ+Cgo8IS0tIFRPRE86IEFkZCBTREtzIGZvciBGaXJlYmFzZSBwcm9kdWN0cyB0aGF0IHlvdSB3YW50IHRvIHVzZQogICAgIGh0dHBzOi8vZmlyZWJhc2UuZ29vZ2xlLmNvbS9kb2NzL3dlYi9zZXR1cCNhdmFpbGFibGUtbGlicmFyaWVzIC0tPgoKPHNjcmlwdD4KICAvLyBZb3VyIHdlYiBhcHAncyBGaXJlYmFzZSBjb25maWd1cmF0aW9uCiAgdmFyIGZpcmViYXNlQ29uZmlnID0gewogICAgYXBpS2V5OiAiCiAgICBhdXRoRG9tYWluOiAKICAgIGRhdGFiYXNlVVJMOiAiCiAgICBwcm9qZWN0SWQ6ICIKICAgIHN0b3JhZ2VCdWNrZXQ6ICIKICAgIG1lc3NhZ2luZ1NlbmRlcklkOiAiCiAgICBhcHBJZDogIgogIH07CiAgLy8gSW5pdGlhbGl6ZSBGaXJlYmFzZQogIGZpcmViYXNlLmluaXRpYWxpemVBcHAoZmlyZWJhc2VDb25maWcpOwo8</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICc8RklSRUJBU0VfQ0xPVURfRlVOQ1RJT05TX1VSTD4vcmVxdWVzdHNBcHAnCg==</text>
+        <text encoding="base64">PCEtLSBUaGUgY29yZSBGaXJlYmFzZSBKUyBTREsgaXMgYWx3YXlzIHJlcXVpcmVkIGFuZCBtdXN0IGJlIGxpc3RlZCBmaXJzdCAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICdodHRwczovL3VzLWNlbnRyYWwxLXBsYXlncm91bmQtMTk4ZDIuY2xvdWRmdW5jdGlvbnMubmV0L3JlcXVlc3RzQXBwJwo=</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0ZJUkVfQkFTRV9NRUFTVVJNRU5UX0lEID0gJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICc8RklSRUJBU0VfQ0xPVURfRlVOQ1RJT05TX1VSTD4vcmVxdWVzdHNBcHAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhwYXRoX2dlbi5scygpWzBdKQo=</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICdodHRwczovL3VzLWNlbnRyYWwxLXBsYXlncm91bmQtMTk4ZDIuY2xvdWRmdW5jdGlvbnMubmV0L3JlcXVlc3RzQXBwJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">cGx0LnNob3coKQo=</text>
