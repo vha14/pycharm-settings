@@ -61,7 +61,7 @@
       <file name="/start_script.py" timestamp="1589575103456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/react-firebase-admin/.env.example" timestamp="1589757370385">
+      <file name="$USER_HOME$/work/react-firebase-admin/.env.example" timestamp="1589769590655">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="81" />
       </file>
@@ -80,11 +80,10 @@
       <file name="/console" timestamp="1589474479643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/react-firebase-admin/.env" timestamp="1589757419562">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="105" />
-        <mark key="." line="0" column="104" />
-        <mark key="^" line="0" column="105" />
+      <file name="$USER_HOME$/work/react-firebase-admin/.env" timestamp="1589769722563">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" timestamp="1589481835723">
         <mark key="'" line="0" column="0" />
@@ -133,6 +132,12 @@
       </file>
       <file name="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres-gan.ipynb" timestamp="1589480757957">
         <mark key="'" line="196" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/react-firebase-admin/.firebaserc" timestamp="1589770137391">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/fastaiv1/lib/python3.7/site-packages/fastai/vision/image.py" timestamp="1589574722227">
         <mark key="'" line="0" column="0" />
@@ -201,10 +206,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PEZJUkVCQVNFX0NMT1VEX0ZVTkNUSU9OU19VUkw+</text>
+        <text>react-firebase-admin-eeac2&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEZJUkVCQVNFX0NMT1VEX0ZVTkNUSU9OU19VUkw+</text>
+        <text>react-firebase-admin-eeac2&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>bulma</text>
@@ -213,31 +218,31 @@
         <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICc8RklSRUJBU0VfQ0xPVURfRlVOQ1RJT05TX1VSTD4vcmVxdWVzdHNBcHAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">L3NjcmlwdD4=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhwYXRoX2dlbi5scygpWzBdKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL2ZpcmViYXNlanMvNy4xNC40L2ZpcmViYXNlLWFwcC5qcyI+PC9zY3JpcHQ+Cgo8IS0tIFRPRE86IEFkZCBTREtzIGZvciBGaXJlYmFzZSBwcm9kdWN0cyB0aGF0IHlvdSB3YW50IHRvIHVzZQogICAgIGh0dHBzOi8vZmlyZWJhc2UuZ29vZ2xlLmNvbS9kb2NzL3dlYi9zZXR1cCNhdmFpbGFibGUtbGlicmFyaWVzIC0tPgoKPHNjcmlwdD4KICAvLyBZb3VyIHdlYiBhcHAncyBGaXJlYmFzZSBjb25maWd1cmF0aW9uCiAgdmFyIGZpcmViYXNlQ29uZmlnID0gewogICAgYXBpS2V5OiAiCiAgICBhdXRoRG9tYWluOiAKICAgIGRhdGFiYXNlVVJMOiAiCiAgICBwcm9qZWN0SWQ6ICIKICAgIHN0b3JhZ2VCdWNrZXQ6ICIKICAgIG1lc3NhZ2luZ1NlbmRlcklkOiAiCiAgICBhcHBJZDogIgogIH07CiAgLy8gSW5pdGlhbGl6ZSBGaXJlYmFzZQogIGZpcmViYXNlLmluaXRpYWxpemVBcHAoZmlyZWJhc2VDb25maWcpOwo8</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">PCEtLSBUaGUgY29yZSBGaXJlYmFzZSBKUyBTREsgaXMgYWx3YXlzIHJlcXVpcmVkIGFuZCBtdXN0IGJlIGxpc3RlZCBmaXJzdCAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0ZJUkVfQkFTRV9NRUFTVVJNRU5UX0lEID0gJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LmludGVyYWN0aXZlKFRydWUpCg==</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICc8RklSRUJBU0VfQ0xPVURfRlVOQ1RJT05TX1VSTD4vcmVxdWVzdHNBcHAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0NMT1VEX0ZVTkNUSU9OU19SRVNUX0FQSSA9ICdodHRwczovL3VzLWNlbnRyYWwxLXBsYXlncm91bmQtMTk4ZDIuY2xvdWRmdW5jdGlvbnMubmV0L3JlcXVlc3RzQXBwJwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGlzdChwYXRoX2xyLml0ZXJkaXIoKSkuX19sZW5fXygpCg==</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhwYXRoX2dlbi5scygpWzBdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXJjaAo=</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
     </registers>
   </component>
