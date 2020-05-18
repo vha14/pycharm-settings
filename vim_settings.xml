@@ -80,6 +80,12 @@
       <file name="/console" timestamp="1589474479643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/hackernews-react-graphql/tsconfig.json" timestamp="1589822998915">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="44" />
+        <mark key="^" line="23" column="51" />
+        <mark key="." line="23" column="44" />
+      </file>
       <file name="$USER_HOME$/work/react-firebase-admin/.env" timestamp="1589769722563">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -203,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>yarn</text>
+        <text>, &quot;*.js&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>yarn</text>
+        <text>, &quot;*.js&quot;</text>
       </register>
       <register name="/" type="4">
         <text>bulma</text>
