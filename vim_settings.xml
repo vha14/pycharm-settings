@@ -72,9 +72,6 @@
       <file name="/Dummy.txt" timestamp="1589915280184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589996709915">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/hackernews-react-graphql/tsconfig.json" timestamp="1589822998915">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="44" />
@@ -132,11 +129,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1589912702279">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1589996935995">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/work/trvaep/sample_notebook.py" timestamp="1589911456600">
         <mark key="[" line="8" column="0" />
@@ -204,7 +201,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBJblsxMl06Cgo=</text>
+        <text encoding="base64">dHJhaW5lci5kZXZpY2UK</text>
       </register>
       <register name="-" type="4">
         <text>pyplot</text>
@@ -216,31 +213,31 @@
         <text encoding="base64">dHJ2YWVwLnBsLnB5cGxvdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBJblsxMl06Cgo=</text>
+        <text encoding="base64">dHJhaW5lci5kZXZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">IyBJblsxMl06Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YDEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0CnBsdC5pbnRlcmFjdGl2ZShUcnVlKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIuLi8iKQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YDEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0CnBsdC5pbnRlcmFjdGl2ZShUcnVlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIuLi8iKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICd0eXBlc2NyaXB0LWVzbGludC9leHBsaWNpdC1mdW5jdGlvbi1yZXR1cm4tdHlwZSc6ICdvZmYnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
