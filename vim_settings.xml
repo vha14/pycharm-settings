@@ -145,10 +145,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1590255969263">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1590256957574">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/work/trvaep/sample_notebook.py" timestamp="1589911456600">
         <mark key="[" line="8" column="0" />
@@ -219,11 +220,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>__dir__()</text>
       </register>
       <register name="-" type="4">
-        <text>stim</text>
+        <text>__dir__()</text>
       </register>
       <register name="/" type="4">
         <text>isview</text>
