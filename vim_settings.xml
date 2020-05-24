@@ -21,6 +21,9 @@
         <entry>extra</entry>
         <entry>is_view</entry>
         <entry>isview</entry>
+        <entry>tbn</entry>
+        <entry>tf</entry>
+        <entry>lrelu</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -64,7 +67,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1590253697749">
+      <file name="/start_script.py" timestamp="1590341839779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/react-firebase-admin/.env.example" timestamp="1589769590655">
@@ -85,8 +88,8 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590339402522">
-        <mark key="'" line="344" column="48" />
+      <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
+        <mark key="'" line="22" column="6" />
       </file>
       <file name="$USER_HOME$/work/hackernews-react-graphql/tsconfig.json" timestamp="1589822998915">
         <mark key="[" line="23" column="44" />
@@ -132,12 +135,12 @@
         <mark key="." line="188" column="6" />
         <mark key="^" line="188" column="7" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590339458647">
+      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590342636084">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="33" />
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/work/trvaep/trvaep/model/train.py" timestamp="1590253722147">
         <mark key="[" line="127" column="0" />
@@ -225,56 +228,66 @@
       <jump line="344" column="48" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
       <jump line="26" column="36" filename="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="29" column="11" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="28" column="11" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="27" column="6" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="6" column="23" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="24" column="13" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
+      <jump line="22" column="6" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>describe()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>describe()</text>
       </register>
       <register name="/" type="4">
-        <text>isview</text>
+        <text>lrelu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0CnBsdC5pbnRlcmFjdGl2ZShUcnVlKQo=</text>
+        <text encoding="base64">b3MuZW52aXJvblsnTERfTElCUkFSWV9QQVRIJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQob3MuZW52aXJvblsnTERfTElCUkFSWV9QQVRIJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIHYgaW4gc2V0KGFkYXRhLm9icy5jZWxsX3R5cGUudmFsdWVzKTogcHJpbnQodikK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcHRydmFlCg==</text>
+        <text encoding="base64">b3MuZW52aXJvbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRhdGEub2JzLmNvbmRpdGlvbgo=</text>
+        <text encoding="base64">Zm9yIHYgaW4gc2V0KGFkYXRhLm9icy5jZWxsX3R5cGUudmFsdWVzKTogcHJpbnQodikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRhdGEub2JzWydvcmlnLmlkZW50J10K</text>
+        <text encoding="base64">aW1wb3J0IHJlcHRydmFlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRhdGEub2JzLmRlc2NyaWJlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRhdGEub2JzLnNldXJhdF9hbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">YWRhdGEub2JzLmNvbmRpdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRhdGEub2JzLmNvbHVtbnMK</text>
+        <text encoding="base64">YWRhdGEub2JzWydvcmlnLmlkZW50J10K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isview</last-search>
+      <last-search>lrelu</last-search>
       <last-offset />
-      <last-pattern>isview</last-pattern>
+      <last-pattern>lrelu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
