@@ -74,7 +74,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590342750309">
+      <file name="/Dummy.txt" timestamp="1590345434337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/trvaep/tests/sample_notebook.py" timestamp="1590339274329">
@@ -135,12 +135,12 @@
         <mark key="." line="188" column="6" />
         <mark key="^" line="188" column="7" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590344176398">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="66" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590345081773">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="63" column="10" />
+        <mark key="]" line="63" column="10" />
+        <mark key="^" line="76" column="57" />
+        <mark key="." line="63" column="10" />
       </file>
       <file name="$USER_HOME$/work/trvaep/trvaep/model/train.py" timestamp="1590253722147">
         <mark key="[" line="127" column="0" />
@@ -242,11 +242,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>f&quot;/home/vu/.data/biopic/{data_name}_normalized.h5ad&quot;)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>lrelu</text>
