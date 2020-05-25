@@ -111,12 +111,12 @@
         <mark key="^" line="73" column="57" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590424073452">
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590428272244">
         <mark key="'" line="16" column="73" />
-        <mark key="[" line="387" column="41" />
-        <mark key="]" line="387" column="45" />
-        <mark key="." line="386" column="56" />
-        <mark key="^" line="387" column="45" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="132" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
@@ -269,10 +269,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>self.cvae_model.outputs[1].name</text>
+        <text>dropout</text>
       </register>
       <register name="/" type="4">
         <text>Earl</text>
@@ -281,31 +281,31 @@
         <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzLm1vZGVscyBpbXBvcnQgTW9kZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVjb2Rlcl9tb2RlbCwgZGVjb2Rlcl9tbWRfbW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9J2RlY29kZXJfbW1kJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVyX21tZF9tb2RlbCA9IE1vZGVsKGlucHV0cz1bc2VsZi56LCBzZWxmLmRlY29kZXJfbGFiZWxzXSwgb3V0cHV0cz1oX21tZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVyX21vZGVsID0gTW9kZWwoaW5wdXRzPVtzZWxmLnosIHNlbGYuZGVjb2Rlcl9sYWJlbHNdLCBvdXRwdXRzPWgsIG5hbWU9bmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJtbWRfbG9zcyIsIHJldXNlPXRmLkFVVE9fUkVVU0UpOgo=</text>
+        <text encoding="base64">ICAgICAgICBoID0gQUNUSVZBVElPTlNbc2VsZi5vdXRwdXRfYWN0aXZhdGlvbl0oaCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgICAgICBoID0gRGVuc2Uoc2VsZi54X2RpbSwgKipzZWxmLmtlcm5lbF9rd2FyZykoaCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cua2VyYXMgYXMga2VyYXMK</text>
+        <text encoding="base64">ICAgICAgICBoID0gc2VsZi5fYmxyZCgpKGgpCg==</text>
       </register>
     </registers>
   </component>
