@@ -23,8 +23,8 @@
         <entry>load_m</entry>
         <entry>Earl</entry>
         <entry>categ</entry>
-        <entry>K</entry>
         <entry>log</entry>
+        <entry>K</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -121,12 +121,12 @@
         <mark key="^" line="73" column="57" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590434816684">
-        <mark key="'" line="98" column="12" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="64" column="61" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590438168782">
+        <mark key="'" line="215" column="82" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="122" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
@@ -153,11 +153,11 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590424619409">
-        <mark key="[" line="63" column="82" />
-        <mark key="]" line="74" column="15" />
-        <mark key="." line="74" column="14" />
-        <mark key="^" line="74" column="15" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590439068161">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="38" />
+        <mark key="." line="47" column="38" />
+        <mark key="^" line="47" column="37" />
       </file>
       <file name="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" timestamp="1590354039823">
         <mark key="'" line="12" column="0" />
@@ -168,11 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
-      <jump line="17" column="6" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
-      <jump line="25" column="0" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
-      <jump line="62" column="14" filename="$USER_HOME$/work/Mailspring/app/package.json" />
-      <jump line="15" column="39" filename="$USER_HOME$/work/Mailspring/app/package.json" />
       <jump line="9" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="79" column="4" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
       <jump line="86" column="0" filename="$USER_HOME$/work/fastai/course-v3/nbs/dl1/lesson7-superres.ipynb" />
@@ -268,56 +263,61 @@
       <jump line="5" column="17" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="7" column="47" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="0" column="28" filename="/fragment.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="398" column="18" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="99" column="43" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="379" column="33" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="215" column="82" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ension</text>
       </register>
       <register name="-" type="4">
-        <text>kl_mse</text>
+        <text>ension</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>K</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IEJhdGNoTm9ybWFsaXphdGlvbigpKHgpCiAgICAgICAgICAgIHggPSBMZWFreVJlTFUoKSh4KQogICAgICAgICAgICByZXR1cm4gRHJvcG91dChzZWxmLmRyX3JhdGUpKHgpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaCA9IERlbnNlKHVuaXRzLCB1c2VfYmlhcz1GYWxzZSwgKipzZWxmLmtlcm5lbF9rd2FyZykoaCkKICAgICAgICAgICAgaCA9IEJhdGNoTm9ybWFsaXphdGlvbigpKGgpCiAgICAgICAgICAgIGlmIGlkeCA9PSAwOgogICAgICAgICAgICAgICAgaF9tbWQgPSBMZWFreVJlTFUobmFtZT0ibW1kIikoaCkKICAgICAgICAgICAgICAgIGggPSBoX21tZAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaCA9IExlYWt5UmVMVSgpKGgpCiAgICAgICAgICAgIGggPSBEcm9wb3V0KHNlbGYuZHJfcmF0ZSkoaCk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvbnN0cnVjdGlvbl9vdXRwdXQgPSBMYW1iZGEobGFtYmRhIHg6IHgsIG5hbWU9ImtsX21zZSIpKGRlY29kZXJfb3V0cHV0KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0idHJ2YWUiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0cz1bcmVjb25zdHJ1Y3Rpb25fb3V0cHV0LCBtbWRfb3V0cHV0XSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRydmFlX21vZGVsID0gTW9kZWwoaW5wdXRzPWlucHV0cywK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">bmV0d29yayA9IFRyVkFFKHhfZGltPW5ldF90cmFpbl9hZGF0YS5zaGFwZVsxXSwKICAgICAgICAgICAgICAgIHpfZGltPTYwLAogICAgICAgICAgICAgICAgbW1kX2RpbT0xMjgsCiAgICAgICAgICAgICAgICBuX2NvbmRpdGlvbnM9bGVuKG5ldF90cmFpbl9hZGF0YS5vYnNbY29uZGl0aW9uX2tleV0udW5pcXVlKCkpLAogICAgICAgICAgICAgICAgYWxwaGE9MWUtNiwKICAgICAgICAgICAgICAgIGJldGE9MTAwLAogICAgICAgICAgICAgICAgZXRhPTEwMCwKICAgICAgICAgICAgICAgIGNsaXBfdmFsdWU9MTAwLAogICAgICAgICAgICAgICAgbGFtYmRhX2wxPTAuMCwKICAgICAgICAgICAgICAgIGxhbWJkYV9sMj0wLjAsCiAgICAgICAgICAgICAgICBscj0wLjAwMSwKICAgICAgICAgICAgICAgIG1vZGVsX3RvX3VzZT1mIi4vbW9kZWxzL3RyVkFFTXVsdGkvYmVzdC97ZGF0YV9uYW1lfS17c3BlY2lmaWNfY2VsbHR5cGV9LyIsCiAgICAgICAgICAgICAgICBkcl9yYXRlPTAuMiwKICAgICAgICAgICAgICAgIG91dHB1dF9hY3RpdmF0aW9uPSdyZWx1JykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmV0X3RyYWluX2FkYXRhLm9icy5ncm91cGJ5KFtjZWxsX3R5cGVfa2V5LCBjb25kaXRpb25fa2V5XSkuc2l6ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbGlkX2FkYXRhLm9ic1tjb25kaXRpb25fa2V5XS5pc2luKHRhcmdldF9jb25kaXRpb25zKSkpXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtbWRfb3V0cHV0ID0gTGFtYmRhKGxhbWJkYSB4OiB4LCBuYW1lPSJtbWQiKShtbWRfb3V0cHV0KQo=</text>
+        <text encoding="base64">bmV0X3ZhbGlkX2FkYXRhID0gdmFsaWRfYWRhdGFbfigodmFsaWRfYWRhdGEub2JzW2NlbGxfdHlwZV9rZXldID09IHNwZWNpZmljX2NlbGx0eXBlKSAmICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
+        <text encoding="base64">ICAgIHRyYWluX2FkYXRhLm9ic1tjb25kaXRpb25fa2V5XS5pc2luKHRhcmdldF9jb25kaXRpb25zKSkpXQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>log</last-search>
+      <last-search>K</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>K</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
