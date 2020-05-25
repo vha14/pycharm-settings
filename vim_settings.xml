@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>num_samples</entry>
-        <entry>bulma</entry>
-        <entry>extra</entry>
         <entry>is_view</entry>
         <entry>isview</entry>
         <entry>tbn</entry>
@@ -25,6 +22,9 @@
         <entry>catego</entry>
         <entry>load_m</entry>
         <entry>Earl</entry>
+        <entry>categ</entry>
+        <entry>K</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -71,11 +71,14 @@
       <file name="/start_script.py" timestamp="1590379872336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590424520846">
-        <mark key="[" line="90" column="35" />
-        <mark key="]" line="90" column="40" />
-        <mark key="^" line="90" column="40" />
-        <mark key="." line="90" column="39" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590430578387">
+        <mark key="[" line="75" column="14" />
+        <mark key="]" line="75" column="15" />
+        <mark key="^" line="75" column="15" />
+        <mark key="." line="75" column="14" />
+      </file>
+      <file name="/Python Console" timestamp="1590428675191">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/keras/optimizers.py" timestamp="1590423175720" />
       <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
@@ -89,10 +92,12 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590424377490">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590429884216">
+        <mark key="'" line="7" column="47" />
+        <mark key="[" line="77" column="60" />
+        <mark key="]" line="76" column="44" />
+        <mark key="." line="77" column="64" />
+        <mark key="^" line="76" column="44" />
       </file>
       <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
         <mark key="^" line="153" column="21" />
@@ -104,6 +109,13 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/work/biopic/tflow/models/activations.py" timestamp="1590429321142">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590354064461">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="25" column="0" />
@@ -111,21 +123,15 @@
         <mark key="^" line="73" column="57" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590428272244">
-        <mark key="'" line="16" column="73" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="132" column="8" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590429166017">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="118" column="43" />
+        <mark key="]" line="118" column="64" />
+        <mark key="." line="118" column="63" />
+        <mark key="^" line="118" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/tests/sample_notebook.py" timestamp="1590339274329">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590423289153">
         <mark key="'" line="401" column="0" />
@@ -164,23 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="138" column="18" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="43" column="23" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="48" column="38" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="133" column="25" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="174" column="0" filename="$USER_HOME$/work/email/sendcat/IMDB_TorchText_Interpret.py" />
-      <jump line="335" column="35" filename="$USER_HOME$/work/biopic/pytorch_vae.py" />
-      <jump line="297" column="0" filename="$USER_HOME$/work/biopic/keras_vae.py" />
-      <jump line="208" column="25" filename="$USER_HOME$/work/biopic/keras_vae.py" />
-      <jump line="131" column="63" filename="$USER_HOME$/work/biopic/vae.py" />
-      <jump line="188" column="2" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
-      <jump line="159" column="23" filename="$USER_HOME$/work/email/search/searchkit/node_modules/searchkit/src/components/search/search-box/SearchBox.tsx" />
-      <jump line="62" column="19" filename="$USER_HOME$/work/email/search/searchkit/src/App.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/Mailspring/app/package.json" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="13" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="14" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="17" column="6" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
@@ -264,56 +253,73 @@
       <jump line="240" column="12" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="13" column="52" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="16" column="73" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="98" column="12" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/models/activations.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="8" column="24" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="149" column="11" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="16" column="24" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="103" column="73" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="110" column="33" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="126" column="22" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="127" column="21" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="136" column="28" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="137" column="21" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="5" column="17" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="7" column="47" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>dropout</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>Earl</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzLm1vZGVscyBpbXBvcnQgTW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IEJhdGNoTm9ybWFsaXphdGlvbigpKHgpCiAgICAgICAgICAgIHggPSBMZWFreVJlTFUoKSh4KQogICAgICAgICAgICByZXR1cm4gRHJvcG91dChzZWxmLmRyX3JhdGUpKHgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVjb2Rlcl9tb2RlbCwgZGVjb2Rlcl9tbWRfbW9kZWwK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9J2RlY29kZXJfbW1kJykK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93X2NvcmUucHl0aG9uLmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVyX21tZF9tb2RlbCA9IE1vZGVsKGlucHV0cz1bc2VsZi56LCBzZWxmLmRlY29kZXJfbGFiZWxzXSwgb3V0cHV0cz1oX21tZCwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVyX21vZGVsID0gTW9kZWwoaW5wdXRzPVtzZWxmLnosIHNlbGYuZGVjb2Rlcl9sYWJlbHNdLCBvdXRwdXRzPWgsIG5hbWU9bmFtZSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGVuKGEpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ygo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoID0gQUNUSVZBVElPTlNbc2VsZi5vdXRwdXRfYWN0aXZhdGlvbl0oaCkK</text>
+        <text encoding="base64">YiA9IGFbOjotMV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoID0gRGVuc2Uoc2VsZi54X2RpbSwgKipzZWxmLmtlcm5lbF9rd2FyZykoaCkK</text>
+        <text encoding="base64">YSA9ICgxLDIsMykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoID0gc2VsZi5fYmxyZCgpKGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Earl</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>Earl</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
