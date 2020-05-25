@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>keytar</entry>
-        <entry>ThreadList</entry>
-        <entry>sync</entry>
-        <entry>sql</entry>
-        <entry>gram</entry>
         <entry>loss</entry>
         <entry>critic</entry>
         <entry>resize</entry>
@@ -25,6 +20,11 @@
         <entry>sample_z</entry>
         <entry>ACT</entry>
         <entry>label_en</entry>
+        <entry>utils2</entry>
+        <entry>pl</entry>
+        <entry>compute_mmd</entry>
+        <entry>nelem</entry>
+        <entry>VGG</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -68,8 +68,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1590354132810">
+      <file name="/start_script.py" timestamp="1590379872336">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
+        <mark key="'" line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
+        <mark key="^" line="153" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tf/exps/train_haber.py" timestamp="1590379798104">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590354064461">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="73" column="57" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/trvaep/trvaep/model/train.py" timestamp="1590253722147">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="16" />
+        <mark key="." line="127" column="15" />
+        <mark key="^" line="127" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/trvaep/sample_notebook.py" timestamp="1589911456600">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
@@ -85,60 +121,30 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1590367426362">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590421878492">
+        <mark key="'" line="410" column="0" />
+        <mark key="[" line="386" column="34" />
+        <mark key="]" line="386" column="36" />
+        <mark key="." line="386" column="35" />
+        <mark key="^" line="386" column="36" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
-        <mark key="'" line="22" column="6" />
-      </file>
-      <file name="$USER_HOME$/work/hackernews-react-graphql/tsconfig.json" timestamp="1589822998915">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="44" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="44" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590377108948">
-        <mark key="'" line="417" column="0" />
-        <mark key="[" line="97" column="31" />
-        <mark key="]" line="97" column="31" />
-        <mark key="." line="97" column="31" />
-        <mark key="^" line="101" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/react-firebase-admin/package.json" timestamp="1589770205842">
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="81" column="36" />
-        <mark key="^" line="81" column="36" />
-        <mark key="." line="81" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/hackernews-react-graphql/package.json" timestamp="1589827332526">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
+      <file name="$USER_HOME$/work/biopic/tf/utils.py" timestamp="1590379703597">
+        <mark key="'" line="313" column="24" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/anndata/_core/anndata.py" timestamp="1590254906963">
         <mark key="'" line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/work/hackernews-react-graphql/.eslintrc.js" timestamp="1589827221972">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="6" />
-      </file>
-      <file name="$USER_HOME$/work/hackernews-react-graphql/.gitignore" timestamp="1589836362695">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/work/biopic/tf/models/aux.py" timestamp="1590380415764">
+        <mark key="'" line="78" column="39" />
+        <mark key="[" line="91" column="52" />
+        <mark key="]" line="91" column="52" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="91" column="52" />
       </file>
       <file name="$USER_HOME$/work/biopic/tf/train_haber.py" timestamp="1590366438964">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" timestamp="1590354039823">
         <mark key="'" line="12" column="0" />
@@ -147,34 +153,14 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590354064461">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="73" column="57" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/trvaep/trvaep/model/train.py" timestamp="1590253722147">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="16" />
-        <mark key="." line="127" column="15" />
-        <mark key="^" line="127" column="16" />
-      </file>
       <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1590256957574">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/work/trvaep/sample_notebook.py" timestamp="1589911456600">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
       <jump line="86" column="4" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
       <jump line="89" column="21" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
       <jump line="145" column="2" filename="$USER_HOME$/work/email/sendcat/captum_exp.py" />
@@ -256,56 +242,75 @@
       <jump line="320" column="34" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="445" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="421" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
+      <jump line="411" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="8" column="23" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="313" column="24" filename="$USER_HOME$/work/biopic/tf/utils.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="0" column="33" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="42" column="45" filename="$USER_HOME$/work/biopic/tf/exps/train_haber.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="5" column="20" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="35" column="32" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="39" column="32" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="78" column="39" filename="$USER_HOME$/work/biopic/tf/models/aux.py" />
+      <jump line="106" column="21" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="54" column="18" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="3" column="26" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
+      <jump line="1" column="27" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>axis=1, scale=True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBrZXJhc192Z2dmYWNlIGltcG9ydCBWR0dGYWNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>axis=1, scale=True</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>label_en</text>
+        <text>VGG</text>
       </register>
-      <register name="0" type="4">
-        <text>kernel_initializer=self.init_w, kernel_regularizer=self.regularizer,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBoID0gc2VsZi5ibHJkKGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBrZXJhc192Z2dmYWNlIGltcG9ydCBWR0dGYWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYucmVndWxhcml6ZXIgPSBsMV9sMihzZWxmLmxhbWJkYV9sMSwgc2VsZi5sYW1iZGFfbDIpCg==</text>
+        <text encoding="base64">ICAgICJwZXJjZXB0dWFsIjogcGVyY2VwdHVhbF9sb3NzLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfdyA9IGdsb3JvdF9ub3JtYWwoKQogICAgICAgIHNlbGYucmVndWxhcml6ZXIgPSBsMV9sMihzZWxmLmxhbWJkYV9sMSwgc2VsZi5sYW1iZGFfbDIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGVuc29yZmxvd19jb3JlLnB5dGhvbi5rZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIHBlcmNlcHR1YWxfbG9zcyh4X2RpbSwgZ2FtbWE9MS4wKToKICAgIGRlZiBwZXJjZXB0X2xvc3MoaW5wdXRfaW1hZ2UsIHJlY29uc3RydWN0ZWRfaW1hZ2UpOgogICAgICAgIHZnZ2ZhY2UgPSBWR0dGYWNlKGluY2x1ZGVfdG9wPUZhbHNlLCBpbnB1dF9zaGFwZT14X2RpbSwgbW9kZWw9J3ZnZzE2JykKICAgICAgICB2Z2dfbGF5ZXJzID0gWydjb252MV8xJ10KICAgICAgICBvdXRwdXRzID0gW3ZnZ2ZhY2UuZ2V0X2xheWVyKGwpLm91dHB1dCBmb3IgbCBpbiB2Z2dfbGF5ZXJzXQogICAgICAgIG1vZGVsID0gTW9kZWwoaW5wdXRzPXZnZ2ZhY2UuaW5wdXQsIG91dHB1dHM9b3V0cHV0cykKCiAgICAgICAgZm9yIGxheWVyIGluIG1vZGVsLmxheWVyczoKICAgICAgICAgICAgbGF5ZXIudHJhaW5hYmxlID0gRmFsc2UKCiAgICAgICAgaW5wdXRfaW1hZ2UgKj0gMjU1LjAKICAgICAgICByZWNvbnN0cnVjdGVkX2ltYWdlICo9IDI1NS4wCgogICAgICAgIGlucHV0X2ltYWdlID0gcHJlcHJvY2Vzc19pbnB1dChpbnB1dF9pbWFnZSwgbW9kZT0ndGYnLCBkYXRhX2Zvcm1hdD0nY2hhbm5lbHNfbGFzdCcpCiAgICAgICAgcmVjb25zdHJ1Y3RlZF9pbWFnZSA9IHByZXByb2Nlc3NfaW5wdXQocmVjb25zdHJ1Y3RlZF9pbWFnZSwgbW9kZT0ndGYnLCBkYXRhX2Zvcm1hdD0nY2hhbm5lbHNfbGFzdCcpCgogICAgICAgIGgxX2xpc3QgPSBtb2RlbChpbnB1dF9pbWFnZSkKICAgICAgICBoMl9saXN0ID0gbW9kZWwocmVjb25zdHJ1Y3RlZF9pbWFnZSkKCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoaDFfbGlzdCwgbGlzdCk6CiAgICAgICAgICAgIGgxX2xpc3QgPSBbaDFfbGlzdF0KICAgICAgICAgICAgaDJfbGlzdCA9IFtoMl9saXN0XQoKICAgICAgICBwX2xvc3MgPSAwLjAKICAgICAgICBmb3IgaDEsIGgyIGluIHppcChoMV9saXN0LCBoMl9saXN0KToKICAgICAgICAgICAgaDEgPSBLLmJhdGNoX2ZsYXR0ZW4oaDEpCiAgICAgICAgICAgIGgyID0gSy5iYXRjaF9mbGF0dGVuKGgyKQogICAgICAgICAgICBwX2xvc3MgKz0gSy5tZWFuKEsuc3F1YXJlKGgxIC0gaDIpLCBheGlzPS0xKQoKICAgICAgICByZXR1cm4gZ2FtbWEgKiBwX2xvc3MKCiAgICByZXR1cm4gcGVyY2VwdF9sb3NzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ZnJvbSBrZXJhc192Z2dmYWNlIGltcG9ydCBWR0dGYWNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLCBNb2RlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93X2NvcmUucHl0aG9uLmtlcmFzIGltcG9ydCBpbml0aWFsaXplcnMsIHJlZ3VsYXJpemVycywgbGF5ZXJzLCBvcHRpbWl6ZXJzLCBtb2RlbHMsIFwK</text>
+        <text encoding="base64">ZnJvbSAuLnV0aWxzIGltcG9ydCBjb21wdXRlX21tZCwgX25lbGVtLCBfbmFuMnplcm8sIF9uYW4yaW5mLCBfcmVkdWNlX21lYW4K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>label_en</last-search>
+      <last-search>VGG</last-search>
       <last-offset />
-      <last-pattern>label_en</last-pattern>
+      <last-pattern>VGG</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
