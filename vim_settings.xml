@@ -71,32 +71,30 @@
       <file name="/start_script.py" timestamp="1590379872336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590430578387">
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="75" column="15" />
-        <mark key="^" line="75" column="15" />
-        <mark key="." line="75" column="14" />
-      </file>
-      <file name="/Python Console" timestamp="1590428675191">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590435465505">
+        <mark key="[" line="38" column="61" />
+        <mark key="]" line="38" column="69" />
+        <mark key="^" line="38" column="69" />
+        <mark key="." line="38" column="68" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/keras/optimizers.py" timestamp="1590423175720" />
       <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
         <mark key="'" line="22" column="6" />
       </file>
-      <file name="/fragment.py" timestamp="1590422513777">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.py" timestamp="1590435296469">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590429884216">
+      <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590431016907">
         <mark key="'" line="7" column="47" />
-        <mark key="[" line="77" column="60" />
-        <mark key="]" line="76" column="44" />
-        <mark key="." line="77" column="64" />
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="8" />
+        <mark key="." line="48" column="8" />
         <mark key="^" line="76" column="44" />
       </file>
       <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
@@ -123,12 +121,12 @@
         <mark key="^" line="73" column="57" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590429166017">
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590434816684">
         <mark key="'" line="98" column="12" />
-        <mark key="[" line="118" column="43" />
-        <mark key="]" line="118" column="64" />
-        <mark key="." line="118" column="63" />
-        <mark key="^" line="118" column="64" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="64" column="61" />
       </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
@@ -170,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="14" column="7" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="17" column="6" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
       <jump line="25" column="0" filename="$USER_HOME$/work/Mailspring/app/internal_packages/thread-list/lib/thread-list-columns.tsx" />
@@ -270,15 +267,16 @@
       <jump line="137" column="21" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="5" column="17" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="7" column="47" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="0" column="28" filename="/fragment.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>kl_mse</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -287,31 +285,31 @@
         <text encoding="base64">ICAgICAgICAgICAgeCA9IEJhdGNoTm9ybWFsaXphdGlvbigpKHgpCiAgICAgICAgICAgIHggPSBMZWFreVJlTFUoKSh4KQogICAgICAgICAgICByZXR1cm4gRHJvcG91dChzZWxmLmRyX3JhdGUpKHgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93X2NvcmUucHl0aG9uLmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
+        <text encoding="base64">ICAgICAgICByZWNvbnN0cnVjdGlvbl9vdXRwdXQgPSBMYW1iZGEobGFtYmRhIHg6IHgsIG5hbWU9ImtsX21zZSIpKGRlY29kZXJfb3V0cHV0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0idHJ2YWUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVuKGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0cz1bcmVjb25zdHJ1Y3Rpb25fb3V0cHV0LCBtbWRfb3V0cHV0XSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ygo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRydmFlX21vZGVsID0gTW9kZWwoaW5wdXRzPWlucHV0cywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YiA9IGFbOjotMV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YSA9ICgxLDIsMykK</text>
+        <text encoding="base64">ICAgICAgICBtbWRfb3V0cHV0ID0gTGFtYmRhKGxhbWJkYSB4OiB4LCBuYW1lPSJtbWQiKShtbWRfb3V0cHV0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzIGltcG9ydCBiYWNrZW5kIGFzIEsK</text>
       </register>
     </registers>
   </component>
