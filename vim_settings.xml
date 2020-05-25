@@ -71,10 +71,6 @@
       <file name="/start_script.py" timestamp="1590354132810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/react-firebase-admin/.env.example" timestamp="1589769590655">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="81" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,6 +85,9 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1590366403323">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
         <mark key="'" line="22" column="6" />
       </file>
@@ -98,10 +97,12 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/work/react-firebase-admin/.env" timestamp="1589769722563">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590367119107">
+        <mark key="'" line="395" column="31" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="8" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/react-firebase-admin/package.json" timestamp="1589770205842">
         <mark key="[" line="81" column="29" />
@@ -129,6 +130,16 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/work/biopic/tf/train_haber.py" timestamp="1590366438964">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" timestamp="1590354039823">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -148,12 +159,6 @@
         <mark key="]" line="127" column="16" />
         <mark key="." line="127" column="15" />
         <mark key="^" line="127" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/react-firebase-admin/.firebaserc" timestamp="1589770137391">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1590256957574">
         <mark key="[" line="15" column="39" />
@@ -241,48 +246,49 @@
       <jump line="22" column="6" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
       <jump line="10" column="23" filename="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" />
       <jump line="11" column="0" filename="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" />
+      <jump line="401" column="31" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tensorflow.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Leak</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YV9jb3VudF9maWxlID0gJy9ob21lL3Z1Ly5kYXRhL2Jpb3BpYy9oYWJlcl9jb3VudC5oNWFkJwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLnhfZGltID0geF9kaW1lbnNpb24KICAgICAgICBzZWxmLnpfZGltID0gel9kaW1lbnNpb24KICAgICAgICBzZWxmLm1tZF9kaW0gPSBrd2FyZ3MuZ2V0KCdtbWRfZGltZW5zaW9uJywgMTI4KQogICAgICAgIHNlbGYubl9jb25kaXRpb25zID0gbl9jb25kaXRpb25zCgogICAgICAgIHNlbGYubHIgPSBrd2FyZ3MuZ2V0KCJsZWFybmluZ19yYXRlIiwgMC4wMDEpCiAgICAgICAgc2VsZi5hbHBoYSA9IGt3YXJncy5nZXQoImFscGhhIiwgMC4wMDAwMDEpCiAgICAgICAgc2VsZi5iZXRhID0ga3dhcmdzLmdldCgiYmV0YSIsIDEwMCkKICAgICAgICBzZWxmLmV0YSA9IGt3YXJncy5nZXQoImV0YSIsIDEwMCkKICAgICAgICBzZWxmLmRyX3JhdGUgPSBrd2FyZ3MuZ2V0KCJkcm9wb3V0X3JhdGUiLCAwLjIpCiAgICAgICAgc2VsZi5tb2RlbF90b191c2UgPSBrd2FyZ3MuZ2V0KCJtb2RlbF9wYXRoIiwgIi4vIikKICAgICAgICBzZWxmLmtlcm5lbF9tZXRob2QgPSBrd2FyZ3MuZ2V0KCJrZXJuZWwiLCAibXVsdGktc2NhbGUtcmJmIikKICAgICAgICBzZWxmLm91dHB1dF9hY3RpdmF0aW9uID0ga3dhcmdzLmdldCgib3V0cHV0X2FjdGl2YXRpb24iLCAncmVsdScpCiAgICAgICAgc2VsZi5tbWRfY29tcHV0YXRpb25fd2F5ID0ga3dhcmdzLmdldCgibW1kX2NvbXB1dGF0aW9uX3dheSIsICJnZW5lcmFsIikKICAgICAgICBzZWxmLmNsaXBfdmFsdWUgPSBrd2FyZ3MuZ2V0KCdjbGlwX3ZhbHVlJywgMWU2KQogICAgICAgIHNlbGYubGFtYmRhX2wxID0ga3dhcmdzLmdldCgnbGFtYmRhX2wxJywgMC4wKQogICAgICAgIHNlbGYubGFtYmRhX2wyID0ga3dhcmdzLmdldCgnbGFtYmRhX2wyJywgMC4wKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRhdGEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93X2NvcmUucHl0aG9uLmtlcmFzLmxheWVycyBpbXBvcnQgTGVha3lSZUxVCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YWRhdGEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyUlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzLmxheWVycy5hZHZhbmNlZF9hY3RpdmF0aW9ucyBpbXBvcnQgTGVha3lSZUxVCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bWJlciBvZiBsYXRlbnQgc3BhY2UgZGltZW5zaW9ucy4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgel9kaW1lbnNpb246IGludGVnZXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bWJlciBvZiBnZW5lIGV4cHJlc3Npb24gc3BhY2UgZGltZW5zaW9ucy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeF9kaW1lbnNpb246IGludGVnZXIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRhdGEub2JzLmNvbHVtbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZXRhIGNvZWZmaWNpZW50IGZvciBsb3NzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YV9ub3JtYWxpemVkX2ZpbGUgPSAnL2hvbWUvdnUvLmRhdGEvYmlvcGljL2hhYmVyX25vcm1hbGl6ZWQuaDVhZCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogYGJldGFgOiBmbG9hdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YV9uYW1lID0gImhhYmVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHBoYSBjb2VmZmljaWVudCBmb3IgbG9zcy4K</text>
       </register>
     </registers>
   </component>
