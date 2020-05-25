@@ -71,42 +71,6 @@
       <file name="/start_script.py" timestamp="1590379872336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
-        <mark key="'" line="22" column="6" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
-        <mark key="^" line="153" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/exps/train_haber.py" timestamp="1590379798104">
-        <mark key="'" line="41" column="45" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590354064461">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="73" column="57" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/trvaep/trvaep/model/train.py" timestamp="1590253722147">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="16" />
-        <mark key="." line="127" column="15" />
-        <mark key="^" line="127" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/trvaep/sample_notebook.py" timestamp="1589911456600">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590353922665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,6 +84,12 @@
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" timestamp="1590342286414">
+        <mark key="'" line="22" column="6" />
+      </file>
+      <file name="/fragment.py" timestamp="1590422513777">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590421878492">
         <mark key="'" line="410" column="0" />
@@ -146,6 +116,21 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
+        <mark key="^" line="153" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tf/exps/train_haber.py" timestamp="1590379798104">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" timestamp="1590354039823">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -153,11 +138,29 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590354064461">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="73" column="57" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/trvaep/trvaep/model/train.py" timestamp="1590253722147">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="16" />
+        <mark key="." line="127" column="15" />
+        <mark key="^" line="127" column="16" />
+      </file>
       <file name="$USER_HOME$/work/trvaep/tests/sample_notebook.py" timestamp="1590256957574">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/trvaep/sample_notebook.py" timestamp="1589911456600">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
