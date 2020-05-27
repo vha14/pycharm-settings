@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nelem</entry>
         <entry>VGG</entry>
         <entry>catego</entry>
         <entry>load_m</entry>
@@ -25,6 +24,7 @@
         <entry>kernel_me</entry>
         <entry>mmd_com</entry>
         <entry>conf</entry>
+        <entry>plot</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -91,6 +91,11 @@
       <file name="$USER_HOME$/work/biopic/tf/utils.py" timestamp="1590379703597">
         <mark key="'" line="313" column="24" />
       </file>
+      <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1590605625067">
+        <mark key="'" line="101" column="20" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="45" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" timestamp="1590525635275">
         <mark key="'" line="1187" column="7" />
       </file>
@@ -106,11 +111,11 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590602154138">
-        <mark key="[" line="41" column="68" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="44" column="3" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590605654020">
+        <mark key="[" line="45" column="61" />
+        <mark key="]" line="45" column="61" />
+        <mark key="^" line="45" column="61" />
+        <mark key="." line="45" column="61" />
       </file>
       <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
         <mark key="[" line="1" column="1" />
@@ -141,13 +146,6 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" timestamp="1590354039823">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/work/biopic/trvaep/example/train_haber.py" timestamp="1590354064461">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="25" column="0" />
@@ -164,10 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
-      <jump line="22" column="6" filename="$USER_HOME$/work/biopic/trvaep/trvaep/utils2.py" />
-      <jump line="10" column="23" filename="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" />
       <jump line="401" column="31" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="405" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
@@ -264,21 +258,25 @@
       <jump line="86" column="34" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="88" column="28" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="89" column="41" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/keras_vae.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/work/biopic/keras_vae.py" />
+      <jump line="20" column="35" filename="$USER_HOME$/work/biopic/keras_vae.py" />
+      <jump line="101" column="20" filename="$USER_HOME$/work/biopic/keras_vae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>plot</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gTE9TU0VTWydtc2UnXShtdSwgbG9nX3Zhciwgc2VsZi5hbHBoYSwgc2VsZi5ldGEpCiAgICAgICAgbW1kX2xvc3MgPSBMT1NTRVNbJ21tZCddKHNlbGYubl9jb25kaXRpb25zLCBzZWxmLmJldGEsIHNlbGYua2VybmVsX21ldGhvZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5tbWRfY29tcHV0YXRpb25fd2F5KQogICAgICAgIHNlbGYuY3ZhZV9vcHRpbWl6ZXIgPSBBZGFtKGxyPXNlbGYubHIsIGNsaXB2YWx1ZT1zZWxmLmNsaXBfdmFsdWUpCiAgICAgICAgc2VsZi5jdmFlX21vZGVsLmNvbXBpbGUob3B0aW1pemVyPXNlbGYuY3ZhZV9vcHRpbWl6ZXIsIGxvc3M9W2xvc3MsIG1tZF9sb3NzXSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzLnV0aWxzIGltcG9ydCBwbG90X21vZGVsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyUlCg==</text>
@@ -311,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>conf</last-search>
+      <last-search>plot</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
+      <last-pattern>plot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
