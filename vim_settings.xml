@@ -118,11 +118,11 @@
         <mark key="^" line="73" column="57" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590553143618">
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590595788069">
         <mark key="'" line="176" column="15" />
-        <mark key="[" line="80" column="31" />
-        <mark key="]" line="80" column="36" />
-        <mark key="." line="80" column="35" />
+        <mark key="[" line="80" column="32" />
+        <mark key="]" line="80" column="32" />
+        <mark key="." line="80" column="32" />
         <mark key="^" line="80" column="36" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/imperative_grad.py" timestamp="1590525984215" />
@@ -151,12 +151,12 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590553322926">
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590553693795">
         <mark key="'" line="45" column="38" />
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="54" column="3" />
-        <mark key="^" line="54" column="3" />
-        <mark key="." line="54" column="2" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/trvaep/reptrvae/models/_trvae.py" timestamp="1590354039823">
         <mark key="'" line="12" column="0" />
@@ -271,11 +271,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>wrap_backward</text>
@@ -284,31 +284,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmVuY29kZXIgPSBzZWxmLl9lbmNvZGVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYW5weSBhcyBzYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYW5weSBhcyBzYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LmludGVyYWN0aXZlKFRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">cGx0LmludGVyYWN0aXZlKFRydWUpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZGVmIHNhbXBsZV96KGFyZ3MpOgogICAgIiIiCgogICAgICAgIE5vIHBhcmFtZXRlcnMgYXJlIG5lZWRlZC4KICAgICMgUmV0dXJucwogICAgICAgIFRoZSBjb21wdXRlZCBUZW5zb3Igb2Ygc2FtcGxlcyB3aXRoIHNoYXBlIFtzaXplLCB6X2RpbV0uCiAgICAiIiIKICAgIG11LCBsb2dfdmFyID0gYXJncwogICAgYmF0Y2hfc2l6ZSA9IHRmLnNoYXBlKG11KVswXQogICAgel9kaW0gPSB0Zi5zaGFwZShtdSlbMV0KICAgIGVwcyA9IHRmLnJhbmRvbS5ub3JtYWwoc2hhcGU9W2JhdGNoX3NpemUsIHpfZGltXSkKICAgIHJldHVybiBtdSArIHRmLmV4cChsb2dfdmFyIC8gMikgKiBlcHMK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN2YWVfbW9kZWwuc3VtbWFyeSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb21waWxlX25ldHdvcmsobXUsIGxvZ192YXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN2YWVfbW9kZWwuc3VtbWFyeSgpCg==</text>
       </register>
     </registers>
   </component>
