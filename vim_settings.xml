@@ -63,6 +63,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -99,6 +102,10 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="22" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1590612476283">
+        <mark key="'" line="251" column="8" />
+        <mark key="[" line="254" column="73" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" timestamp="1590525635275">
         <mark key="'" line="1187" column="7" />
       </file>
@@ -114,16 +121,11 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590611829165">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="23" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590612658796">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="23" />
+        <mark key="." line="60" column="23" />
         <mark key="^" line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/requirements.txt" timestamp="1590366397648">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590439611936">
         <mark key="'" line="121" column="32" />
@@ -158,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="408" column="0" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
       <jump line="35" column="4" filename="$USER_HOME$/work/biopic/tf/models/trvae.py" />
@@ -258,6 +259,7 @@
       <jump line="20" column="35" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="101" column="20" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="160" column="10" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="251" column="8" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
