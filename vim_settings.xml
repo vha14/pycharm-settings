@@ -121,12 +121,12 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590689130043">
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590690112393">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="72" column="63" />
-        <mark key="]" line="72" column="64" />
-        <mark key="." line="72" column="63" />
-        <mark key="^" line="72" column="64" />
+        <mark key="[" line="72" column="60" />
+        <mark key="]" line="72" column="79" />
+        <mark key="." line="72" column="78" />
+        <mark key="^" line="72" column="79" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590687917755">
         <mark key="'" line="121" column="32" />
@@ -264,10 +264,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, valid_labels_encoded]</text>
+        <text>mse</text>
       </register>
       <register name="-" type="4">
-        <text>, valid_labels_encoded]</text>
+        <text>mse</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
