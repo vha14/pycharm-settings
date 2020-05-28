@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Earl</entry>
         <entry>categ</entry>
         <entry>log</entry>
         <entry>K</entry>
@@ -25,6 +24,7 @@
         <entry>model</entry>
         <entry>self</entry>
         <entry>eager</entry>
+        <entry>shape</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -121,11 +121,11 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590699358085">
-        <mark key="[" line="93" column="23" />
-        <mark key="]" line="93" column="33" />
-        <mark key="." line="93" column="32" />
-        <mark key="^" line="93" column="33" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590700013585">
+        <mark key="[" line="101" column="76" />
+        <mark key="]" line="101" column="84" />
+        <mark key="." line="101" column="83" />
+        <mark key="^" line="101" column="84" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590687917755">
         <mark key="'" line="121" column="32" />
@@ -144,6 +144,9 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
+        <mark key="'" line="282" column="17" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/activations.py" timestamp="1590615989368">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="15" />
@@ -160,16 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="20" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="35" column="32" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="39" column="32" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="78" column="39" filename="$USER_HOME$/work/biopic/tf/models/aux.py" />
-      <jump line="106" column="21" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="54" column="18" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="3" column="26" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="1" column="27" filename="$USER_HOME$/work/biopic/tf/models/losses.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="240" column="12" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="13" column="52" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="16" column="73" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
@@ -260,56 +253,66 @@
       <jump line="128" column="13" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="239" column="13" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="35" column="4" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
+      <jump line="258" column="4" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="259" column="25" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="269" column="46" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="270" column="51" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="271" column="39" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="272" column="63" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="274" column="35" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="275" column="56" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="277" column="23" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
+      <jump line="282" column="17" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoei5fX2NsYXNzX18pCg==</text>
+        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>(batch, dim))</text>
       </register>
       <register name="/" type="4">
-        <text>eager</text>
+        <text>shape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBkaW0gPSB0Zi5rZXJhcy5iYWNrZW5kLmludF9zaGFwZShtdSlbMV0K</text>
+        <text encoding="base64">IyBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPShiYXRjaCwgZGltKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoei5fX2NsYXNzX18pCg==</text>
+        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmF0Y2gsIGRpbSA9IHRmLmtlcmFzLmJhY2tlbmQuaW50X3NoYXBlKG11KVs6Ml0K</text>
+        <text encoding="base64">cHJpbnQoei5fX2NsYXNzX18pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmF0Y2gsIGRpbSA9IHRmLmtlcmFzLmJhY2tlbmQuaW50X3NoYXBlKG11KVs6Ml0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaCA9IF92YWVfb25lX2Jsb2NrKGxheWVyX3NpemUsIHByZWZpeD0nZGVjb2RlcicsIGRyb3BvdXQ9ZHJvcG91dCwgKipkZW5zZV9rd2FyZykoaCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaCA9IF92YWVfb25lX2Jsb2NrKGxheWVyX3NpemUsIHByZWZpeD0nZGVjb2RlcicsIGRyb3BvdXQ9ZHJvcG91dCwgKipkZW5zZV9rd2FyZykoaCkK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>eager</last-search>
+      <last-search>shape</last-search>
       <last-offset />
-      <last-pattern>eager</last-pattern>
+      <last-pattern>shape</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
