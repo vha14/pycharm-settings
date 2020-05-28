@@ -152,12 +152,12 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590684904064">
-        <mark key="'" line="162" column="10" />
-        <mark key="[" line="55" column="54" />
-        <mark key="]" line="55" column="55" />
-        <mark key="." line="55" column="55" />
-        <mark key="^" line="55" column="39" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590685280948">
+        <mark key="'" line="163" column="10" />
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -266,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>model</text>
