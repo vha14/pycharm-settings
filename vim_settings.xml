@@ -121,12 +121,12 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590688810187">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="51" column="16" />
-        <mark key="]" line="51" column="16" />
-        <mark key="." line="51" column="16" />
-        <mark key="^" line="64" column="23" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590689130043">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="72" column="63" />
+        <mark key="]" line="72" column="64" />
+        <mark key="." line="72" column="63" />
+        <mark key="^" line="72" column="64" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590687917755">
         <mark key="'" line="121" column="32" />
@@ -152,10 +152,10 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590687521422">
-        <mark key="[" line="149" column="8" />
-        <mark key="]" line="149" column="8" />
-        <mark key="." line="149" column="8" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590689428036">
+        <mark key="[" line="141" column="31" />
+        <mark key="]" line="141" column="31" />
+        <mark key="." line="141" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -264,16 +264,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>, valid_labels_encoded]</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>, valid_labels_encoded]</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBfa2xfbG9zcyA9IDAuNSAqIHRmLnJlZHVjZV9tZWFuKHRmLmV4cChsb2dfdmFyKSArIHRmLnNxdWFyZShtdSkgLSAxLiAtIGxvZ192YXIpCiAgICAgICAgcmVjb25fbG9zcyA9IDAuNSAqIHRmLnJlZHVjZV9zdW0odGYuc3F1YXJlKCh5X3RydWUgLSB5X3ByZWQpKSkKICAgICAgICByZXR1cm4gZXRhICogcmVjb25fbG9zcyArIGFscGhhICogX2tsX2xvc3MK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB5X3ZhbGlkID0gW3ZhbGlkX2FkYXRhLlgsIHZhbGlkX2xhYmVsc19lbmNvZGVkXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
