@@ -152,12 +152,12 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590611417566">
-        <mark key="'" line="160" column="10" />
-        <mark key="[" line="50" column="53" />
-        <mark key="]" line="50" column="56" />
-        <mark key="^" line="50" column="55" />
-        <mark key="." line="50" column="56" />
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590684904064">
+        <mark key="'" line="162" column="10" />
+        <mark key="[" line="55" column="54" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -265,8 +265,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93X2NvcmUucHl0aG9uLmZyYW1ld29yay5vcHMgaW1wb3J0IGRpc2FibGVfZWFnZXJfZXhlY3V0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -278,31 +278,31 @@
         <text encoding="base64">dGYuY29tcGF0LnYxLmRpc2FibGVfZWFnZXJfZXhlY3V0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93X2NvcmUucHl0aG9uLmZyYW1ld29yay5vcHMgaW1wb3J0IGRpc2FibGVfZWFnZXJfZXhlY3V0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5fX2luaXRfXygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB0Zi5jb21wYXQudjEuZGlzYWJsZV9lYWdlcl9leGVjdXRpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXUsIGxvZ192YXIsIHoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5mcmFtZXdvcmsub3BzIGltcG9ydCBkaXNhYmxlX2VhZ2VyX2V4ZWN1dGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dGYuY29tcGF0LnYxLmRpc2FibGVfZWFnZXJfZXhlY3V0aW9uKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y2xhc3MgU2FtcGxlWkxheWVyKExheWVyKToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICAKICAgIGRlZiBjYWxsKHNlbGYsIGlucCk6CiAgICAgICAgX211LCBfbG9nX3ZhciA9IGlucAogICAgICAgICMgIFNhbXBsZXMgZnJvbSBzdGFuZGFyZCBOb3JtYWwgZGlzdHJpYnV0aW9uIGFuZCBhcHBsaWVzIHJlLXBhcmFtZXRyaXphdGlvbiB0cmljay4KICAgICAgICBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPXRmLnNoYXBlKF9sb2dfdmFyKSkKICAgICAgICByZXR1cm4gX211ICsgdGYuZXhwKF9sb2dfdmFyIC8gMikgKiBlcHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGltID0gdGYuc2hhcGUoX2xvZ192YXIpWzFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IHRmLnNoYXBlKF9sb2dfdmFyKVswXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
+        <text encoding="base64">ICAgIHogPSBMYW1iZGEoZnVuY3Rpb249X3NhbXBsZSwgb3V0cHV0X3NoYXBlPSh6X2RpbSwpLCBuYW1lPSdzYW1wbGVfeicpKChtdSwgbG9nX3ZhcikpCg==</text>
       </register>
     </registers>
   </component>
