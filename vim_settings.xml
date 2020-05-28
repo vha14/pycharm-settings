@@ -144,12 +144,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/activations.py" timestamp="1590429321142">
+      <file name="$USER_HOME$/work/biopic/tflow/models/activations.py" timestamp="1590615989368">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
         <mark key="^" line="5" column="35" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590611417566">
         <mark key="'" line="160" column="10" />
@@ -264,11 +264,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+      <register name="&quot;" type="4">
+        <text>python</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>python</text>
       </register>
       <register name="/" type="4">
         <text>model</text>
