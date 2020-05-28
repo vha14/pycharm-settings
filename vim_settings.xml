@@ -121,11 +121,11 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590700013585">
-        <mark key="[" line="101" column="76" />
-        <mark key="]" line="101" column="84" />
-        <mark key="." line="101" column="83" />
-        <mark key="^" line="101" column="84" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590700087871">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="99" column="84" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590687917755">
         <mark key="'" line="121" column="32" />
@@ -268,7 +268,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
+        <text encoding="base64">ZXBzID0gdGYucmFuZG9tLm5vcm1hbChzaGFwZT10Zi5zaGFwZShtdSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(batch, dim))</text>
@@ -280,31 +280,31 @@
         <text encoding="base64">IyBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPShiYXRjaCwgZGltKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
+        <text encoding="base64">ZXBzID0gdGYucmFuZG9tLm5vcm1hbChzaGFwZT10Zi5zaGFwZShtdSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoei5fX2NsYXNzX18pCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmF0Y2gsIGRpbSA9IHRmLmtlcmFzLmJhY2tlbmQuaW50X3NoYXBlKG11KVs6Ml0K</text>
+        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoei5fX2NsYXNzX18pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmF0Y2gsIGRpbSA9IHRmLmtlcmFzLmJhY2tlbmQuaW50X3NoYXBlKG11KVs6Ml0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgaCA9IF92YWVfb25lX2Jsb2NrKGxheWVyX3NpemUsIHByZWZpeD0nZGVjb2RlcicsIGRyb3BvdXQ9ZHJvcG91dCwgKipkZW5zZV9rd2FyZykoaCkK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
     </registers>
   </component>
