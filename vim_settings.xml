@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>kl_mse_loss</entry>
         <entry>reduce_mean</entry>
         <entry>sample_z</entry>
         <entry>wrap_back</entry>
@@ -25,6 +24,7 @@
         <entry>alpha</entry>
         <entry>Sam</entry>
         <entry>Sample</entry>
+        <entry>Adam</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -71,9 +71,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1590379872336">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590793949945">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -86,15 +83,20 @@
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1590794486694">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1590794667947">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590423289153">
         <mark key="'" line="401" column="0" />
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/utils.py" timestamp="1590379703597">
-        <mark key="'" line="313" column="24" />
       </file>
       <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1590691642470">
         <mark key="'" line="239" column="13" />
@@ -115,16 +117,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="91" column="52" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tf/train_haber.py" timestamp="1590366438964">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590794048336">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="63" column="75" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="14" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590794271375">
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590793962056">
         <mark key="'" line="78" column="0" />
@@ -139,12 +136,11 @@
       <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
         <mark key="^" line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tf/exps/train_haber.py" timestamp="1590379798104">
-        <mark key="'" line="41" column="45" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590795008974">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -156,16 +152,20 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590794160184">
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590794756514">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="110" column="46" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="116" column="38" />
+        <mark key="]" line="116" column="70" />
+        <mark key="^" line="116" column="70" />
+        <mark key="." line="116" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1590794970872">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="21" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="136" column="28" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="137" column="21" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="0" column="28" filename="/fragment.py" />
@@ -265,18 +265,19 @@
       <jump line="75" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="2" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="81" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJldGEgPSA1MAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Sample</text>
+        <text>Adam</text>
       </register>
       <register name="0" type="4">
         <text>def recon_loss(y_true, y_pred):
@@ -287,13 +288,13 @@ mmd_loss = mmd(n_conditions, beta, kernel_method='multi-scale-rbf', computation_
 model.compile(optimizer=(Adam(lr=0.2, clipvalue=1e6)), loss=[mse, mmd_loss])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJldGEgPSA1MAo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJldGEgPSA1MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmV0YSA9IDUwCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaWN0aW9uYXJ5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -305,21 +306,21 @@ model.compile(optimizer=(Adam(lr=0.2, clipvalue=1e6)), loss=[mse, mmd_loss])</te
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMuYXV4IGltcG9ydCBjb21wdXRlX21tZCwgbmFuMnplcm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIG5hbjJ6ZXJvKHgpOgogICAgcmV0dXJuIHRmLndoZXJlKHRmLm1hdGguaXNfbmFuKHgpLCB0Zi56ZXJvc19saWtlKHgpLCB4KQoK</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHNxdWFyZWRfZGlzdGFuY2UoeCwgeSk6ICAjIHJldHVybnMgdGhlIHBhaXJ3aXNlIGV1Y2xpZGVhbiBkaXN0YW5jZQogICAgciA9IHRmLmV4cGFuZF9kaW1zKHgsIGF4aXM9MSkKICAgIHJldHVybiB0Zi5yZWR1Y2Vfc3VtKHRmLnNxdWFyZShyIC0geSksIGF4aXM9LTEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Sample</last-search>
+      <last-search>Adam</last-search>
       <last-offset />
-      <last-pattern>Sample</last-pattern>
+      <last-pattern>Adam</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
