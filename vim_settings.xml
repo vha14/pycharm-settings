@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>K</entry>
         <entry>kl_mse_loss</entry>
         <entry>reduce_mean</entry>
         <entry>sample_z</entry>
@@ -25,6 +24,7 @@
         <entry>eager</entry>
         <entry>alpha</entry>
         <entry>Sam</entry>
+        <entry>Sample</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -83,9 +83,6 @@
       <file name="/Dummy.txt" timestamp="1590608060364">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1590785019778">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1590435296469">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="28" />
@@ -124,12 +121,12 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590786036535">
-        <mark key="'" line="133" column="63" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="128" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590792696179">
+        <mark key="'" line="129" column="45" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590785834080">
         <mark key="'" line="121" column="32" />
@@ -170,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
-      <jump line="149" column="11" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="41" column="4" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="103" column="73" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="110" column="33" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
@@ -270,56 +265,58 @@
       <jump line="125" column="49" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
       <jump line="5" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
       <jump line="133" column="63" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
+      <jump line="129" column="45" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Sam</text>
+        <text>Sample</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZWNvbl9sb3NzID0gMC41ICogdGYucmVkdWNlX3N1bSh0Zi5zcXVhcmUoKHlfdHJ1ZSAtIHlfcHJlZCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWVhblNxdWFyZWRFcnJvcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVjb25fbG9zcyA9IDAuNSAqIHRmLnJlZHVjZV9zdW0odGYuc3F1YXJlKCh5X3RydWUgLSB5X3ByZWQpKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVjb25zdHJ1Y3Rpb25fbG9zcyA9IExPU1NFU1snbXNlJ10obXUsIGxvZ192YXIsIGFscGhhPTAuMDAwMDAxLCBldGE9MTAwKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGYuZXhlY3V0aW5nX2VhZ2VybHkoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVjb2Rlcl9sYWJlbHMgPSBJbnB1dChzaGFwZT0obl9jb25kaXRpb25zLCksIG5hbWU9ImRlY29kZXJfbGFiZWxzIikK</text>
+        <text encoding="base64">TWVhblNxdWFyZWRFcnJvcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB6ID0gdGYuaWRlbnRpdHkoeiwgbmFtZT0nc2FtcGxlX3onKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB6ID0gbXUgKyB0Zi5leHAobG9nX3ZhciAvIDIpICogZXBzCg==</text>
+        <text encoding="base64">cmVjb25fbG9zcyA9IDAuNSAqIHRmLnJlZHVjZV9zdW0odGYuc3F1YXJlKCh5X3RydWUgLSB5X3ByZWQpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPShiYXRjaCwgZGltKSkK</text>
+        <text encoding="base64">cmVjb25zdHJ1Y3Rpb25fbG9zcyA9IExPU1NFU1snbXNlJ10obXUsIGxvZ192YXIsIGFscGhhPTAuMDAwMDAxLCBldGE9MTAwKQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Sam</last-search>
+      <last-search>Sample</last-search>
       <last-offset />
-      <last-pattern>Sam</last-pattern>
+      <last-pattern>Sample</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
