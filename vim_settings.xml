@@ -121,12 +121,12 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590777209950">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="47" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590784686054">
+        <mark key="'" line="74" column="33" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590687917755">
         <mark key="'" line="121" column="32" />
@@ -155,7 +155,7 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590777989131">
+      <file name="$USER_HOME$/work/biopic/tflow/models/trvae.py" timestamp="1590784639423">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="19" />
@@ -164,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="12" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/models/activations.py" />
       <jump line="2" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
       <jump line="8" column="24" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
@@ -264,12 +263,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="90" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
+      <jump line="75" column="33" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBtb2RlbHMudHJ2YWUgaW1wb3J0IHRyYWluLCBTYW1wbGVaTGF5ZXIK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -281,31 +281,31 @@
         <text encoding="base64">ICAgICAgICBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPShiYXRjaCwgZGltKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMudHJ2YWUgaW1wb3J0IHRyYWluLCBTYW1wbGVaTGF5ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoYXBlID0gaW5wdXRfc2hhcGVbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBidWlsZChzZWxmLCBpbnB1dF9zaGFwZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoYXBlID0gaW5wdXRfc2hhcGVbMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPXNlbGYuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBidWlsZChzZWxmLCBpbnB1dF9zaGFwZSk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ3NoJykK</text>
+        <text encoding="base64">ICAgICAgICBlcHMgPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPXNlbGYuc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNodWZmbGU9VHJ1ZSwgdmVyYm9zZT0wKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3NoJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVhcmx5X3N0b3BfbGltaXQ9MzAwLCBscl9yZWR1Y2VyPTI1MCwgdGhyZXNob2xkPTAuMCwgbW9uaXRvcj0ndmFsX2xvc3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNodWZmbGU9VHJ1ZSwgdmVyYm9zZT0wKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5fZXBvY2hzPTEwMDAwLCBiYXRjaF9zaXplPTEwMjQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVhcmx5X3N0b3BfbGltaXQ9MzAwLCBscl9yZWR1Y2VyPTI1MCwgdGhyZXNob2xkPTAuMCwgbW9uaXRvcj0ndmFsX2xvc3MnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbmRpdGlvbl9lbmNvZGVyPU5vbmUsIGNvbmRpdGlvbl9rZXk9J2NvbmRpdGlvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5fZXBvY2hzPTEwMDAwLCBiYXRjaF9zaXplPTEwMjQsCg==</text>
       </register>
     </registers>
   </component>
