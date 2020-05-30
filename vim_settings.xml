@@ -76,9 +76,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1590797023129">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1590435296469">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="28" />
@@ -102,12 +99,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590796958906">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590813788636">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="13" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="89" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -146,10 +143,11 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1590794970872">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1590813885833">
+        <mark key="[" line="48" column="72" />
+        <mark key="]" line="48" column="81" />
+        <mark key="." line="48" column="80" />
+        <mark key="^" line="48" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -257,40 +255,35 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>losses</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBrbF9sb3NzID0gMC41ICogdGYucmVkdWNlX21lYW4odGYuZXhwKF9sb2dfdmFyKSArIHRmLnNxdWFyZShfbXUpIC0gMS4gLSBfbG9nX3ZhcikK</text>
       </register>
       <register name="-" type="4">
-        <text>losses</text>
+        <text>(batch, dim))</text>
       </register>
       <register name="/" type="4">
         <text>Adam</text>
       </register>
-      <register name="0" type="4">
-        <text>def recon_loss(y_true, y_pred):
-    return eta * mse(y_true, y_pred)
-
-beta = 50
-mmd_loss = mmd(n_conditions, beta, kernel_method='multi-scale-rbf', computation_way='general')
-model.compile(optimizer=(Adam(lr=0.2, clipvalue=1e6)), loss=[mse, mmd_loss])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlcHNpbG9uID0gdGYucmFuZG9tLm5vcm1hbChzaGFwZT0oYmF0Y2gsIGRpbSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICBrbF9sb3NzID0gMC41ICogdGYucmVkdWNlX21lYW4odGYuZXhwKF9sb2dfdmFyKSArIHRmLnNxdWFyZShfbXUpIC0gMS4gLSBfbG9nX3ZhcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9sb3NzKHNlbGYuYWxwaGEgKiBrbF9sb3NzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaWN0aW9uYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVwc2lsb24gPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPShiYXRjaCwgZGltKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVwc2lsb24gPSB0Zi5yYW5kb20ubm9ybWFsKHNoYXBlPShiYXRjaCwgZGltKSkKICAgICAgICBrbF9sb3NzID0gMC41ICogdGYucmVkdWNlX21lYW4odGYuZXhwKF9sb2dfdmFyKSArIHRmLnNxdWFyZShfbXUpIC0gMS4gLSBfbG9nX3ZhcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaCA9IHRmLnNoYXBlKF9tdSlbMF0KICAgICAgICBkaW0gPSB0Zi5zaGFwZShfbXUpWzFdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVwc2lsb24gPSB0Zi5rZXJhcy5iYWNrZW5kLnJhbmRvbV9ub3JtYWwoc2hhcGU9KGJhdGNoLCBkaW0pKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -298,8 +291,8 @@ model.compile(optimizer=(Adam(lr=0.2, clipvalue=1e6)), loss=[mse, mmd_loss])</te
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZGVmIF92YWVfb25lX2Jsb2NrKGxheWVyX3NpemUsIHByZWZpeCwgZHJvcG91dCwgKipkZW5zZV9rd2FyZyk6CiAgICBkZWYgX2lubmVyKHgpOgogICAgICAgIHggPSBEZW5zZShsYXllcl9zaXplLCBuYW1lPWYie3ByZWZpeH1fZGVuc2Vfe2xheWVyX3NpemV9IiwgKipkZW5zZV9rd2FyZykoeCkKICAgICAgICB4ID0gQmF0Y2hOb3JtYWxpemF0aW9uKG5hbWU9ZiJ7cHJlZml4fV9ibl97bGF5ZXJfc2l6ZX0iKSh4KQogICAgICAgIHggPSBMZWFreVJlTFUobmFtZT1mIntwcmVmaXh9X3JlbHVfe2xheWVyX3NpemV9IikoeCkKICAgICAgICB4ID0gRHJvcG91dChkcm9wb3V0LCBuYW1lPWYie3ByZWZpeH1fZHJvcG91dF97bGF5ZXJfc2l6ZX0iKSh4KQogICAgICAgIHJldHVybiB4CgogICAgcmV0dXJuIF9pbm5lcgo=</text>
       </register>
     </registers>
   </component>
