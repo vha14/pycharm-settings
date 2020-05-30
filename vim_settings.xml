@@ -76,27 +76,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590608060364">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1590435296469">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1590794486694">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1590794667947">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/models/trvae.py" timestamp="1590423289153">
-        <mark key="'" line="401" column="0" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
+      <file name="/a.dummy" timestamp="1590796913617">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/work/biopic/keras_vae.py" timestamp="1590691642470">
         <mark key="'" line="239" column="13" />
@@ -107,22 +92,6 @@
         <mark key="'" line="251" column="8" />
         <mark key="[" line="254" column="73" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" timestamp="1590525635275">
-        <mark key="'" line="1187" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/models/aux.py" timestamp="1590380415764">
-        <mark key="'" line="78" column="39" />
-        <mark key="[" line="91" column="52" />
-        <mark key="]" line="91" column="52" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="91" column="52" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590794271375">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="33" />
-        <mark key="^" line="52" column="34" />
-      </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590793962056">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="2" column="0" />
@@ -130,17 +99,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/" timestamp="1590784740782">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tf/models/losses.py" timestamp="1590380844954">
-        <mark key="^" line="153" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590795008974">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590796958906">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -158,6 +122,26 @@
         <mark key="]" line="116" column="70" />
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590608060364">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1590794486694">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" timestamp="1590525635275">
+        <mark key="'" line="1187" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590794271375">
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="34" />
+      </file>
+      <file name="/" timestamp="1590784740782">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1590794970872">
         <mark key="[" line="55" column="0" />
@@ -271,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>losses</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>losses</text>
       </register>
       <register name="/" type="4">
         <text>Adam</text>
