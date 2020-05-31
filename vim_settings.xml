@@ -96,12 +96,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590942069662">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590942171120">
         <mark key="'" line="76" column="36" />
-        <mark key="[" line="97" column="112" />
-        <mark key="]" line="97" column="113" />
-        <mark key="." line="97" column="112" />
-        <mark key="^" line="97" column="113" />
+        <mark key="[" line="77" column="47" />
+        <mark key="]" line="77" column="47" />
+        <mark key="." line="77" column="47" />
+        <mark key="^" line="77" column="25" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -259,10 +259,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>decoder_labels</text>
+        <text>, axis=None</text>
       </register>
       <register name="-" type="4">
-        <text>decoder_labels</text>
+        <text>, axis=None</text>
       </register>
       <register name="/" type="4">
         <text>Adam</text>
