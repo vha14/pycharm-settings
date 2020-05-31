@@ -96,12 +96,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590949919766">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1590950538597">
         <mark key="'" line="169" column="48" />
-        <mark key="[" line="178" column="50" />
-        <mark key="]" line="178" column="53" />
-        <mark key="^" line="178" column="53" />
-        <mark key="." line="178" column="52" />
+        <mark key="[" line="180" column="79" />
+        <mark key="]" line="180" column="84" />
+        <mark key="^" line="180" column="84" />
+        <mark key="." line="180" column="83" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -259,10 +259,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>mse_kl_loss</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>mse_kl_loss</text>
       </register>
       <register name="/" type="4">
         <text>recons</text>
@@ -271,31 +271,31 @@
         <text encoding="base64">ICAgIGlmIHNwYXJzZS5pc3NwYXJzZSh0cmFpbl9hZGF0YS5YKToKICAgICAgICB0cmFpbl9hZGF0YS5YID0gdHJhaW5fYWRhdGEuWC5BCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4X3ZhbGlkLCB5X3ZhbGlkID0gX2dlbl94eSh2YWxpZF9hZGF0YSkK</text>
+        <text encoding="base64">ICAgIG1fbWRfbG9zcyA9IG1tZChuX2NvbmRpdGlvbnMsIGJldGEsIGtlcm5lbF9tZXRob2QsIGNvbXB1dGF0aW9uX3dheSkKICAgIG1vZGVsLmNvbXBpbGUob3B0aW1pemVyPShBZGFtKGxyPTAuMiwgY2xpcHZhbHVlPTFlNikpLCBsb3NzPVttc2Vfa2xfbG9zcywgbW1kX2xvc3NdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4X3ZhbGlkLCB5X3ZhbGlkID0gX2dlbl94eSh2YWxpZF9hZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5X3ZhbGlkID0gW3ZhbGlkX2FkYXRhLlgsIHZhbGlkX2xhYmVsc19lbmNvZGVkXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4X3ZhbGlkID0gW3ZhbGlkX2FkYXRhLlgsIHZhbGlkX2xhYmVsc19vbmVob3QsIHZhbGlkX2xhYmVsc19vbmVob3RdCg==</text>
+        <text encoding="base64">ICAgICAgICB5X3ZhbGlkID0gW3ZhbGlkX2FkYXRhLlgsIHZhbGlkX2xhYmVsc19lbmNvZGVkXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZF9sYWJlbHNfb25laG90ID0gdG9fY2F0ZWdvcmljYWwodmFsaWRfbGFiZWxzX2VuY29kZWQsIG51bV9jbGFzc2VzPW5fY29uZGl0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICB4X3ZhbGlkID0gW3ZhbGlkX2FkYXRhLlgsIHZhbGlkX2xhYmVsc19vbmVob3QsIHZhbGlkX2xhYmVsc19vbmVob3RdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZF9sYWJlbHNfZW5jb2RlZCwgXyA9IF9sYWJlbF9lbmNvZGVyKHZhbGlkX2FkYXRhLCBjb25kaXRpb25fZW5jb2RlciwgY29uZGl0aW9uX2tleSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZF9sYWJlbHNfb25laG90ID0gdG9fY2F0ZWdvcmljYWwodmFsaWRfbGFiZWxzX2VuY29kZWQsIG51bV9jbGFzc2VzPW5fY29uZGl0aW9ucykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRfYWRhdGEuWCA9IHZhbGlkX2FkYXRhLlguQQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZF9sYWJlbHNfZW5jb2RlZCwgXyA9IF9sYWJlbF9lbmNvZGVyKHZhbGlkX2FkYXRhLCBjb25kaXRpb25fZW5jb2RlciwgY29uZGl0aW9uX2tleSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzcGFyc2UuaXNzcGFyc2UodmFsaWRfYWRhdGEuWCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRfYWRhdGEuWCA9IHZhbGlkX2FkYXRhLlguQQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9hZGF0YS5YID0gdHJhaW5fYWRhdGEuWC5BCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzcGFyc2UuaXNzcGFyc2UodmFsaWRfYWRhdGEuWCk6Cg==</text>
       </register>
     </registers>
   </component>
