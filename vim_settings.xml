@@ -76,7 +76,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1591203755306">
+      <file name="/Python Console" timestamp="1591209822157">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1591206228714">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,11 +91,11 @@
         <mark key="[" line="139" column="0" />
         <mark key="]" line="140" column="32" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1590612476283">
-        <mark key="'" line="251" column="8" />
-        <mark key="[" line="254" column="73" />
-      </file>
       <file name="/trvae.py" timestamp="1590945525241" />
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py" timestamp="1591205964620">
+        <mark key="[" line="310" column="9" />
+        <mark key="]" line="310" column="78" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590793962056">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="2" column="0" />
@@ -100,12 +103,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591204662123">
-        <mark key="'" line="123" column="11" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="145" column="35" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591209906162">
+        <mark key="'" line="140" column="11" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="38" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -147,12 +150,12 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591204553570">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591206012999">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="37" />
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="36" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -261,43 +264,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnJ1bl9lYWdlcmx5ID0gcnVuX2VhZ2VybHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>rest_sizes</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHgsIHkgPSBfZ2VuX3h5KHRyYWluX2FkYXRhKQo=</text>
+      <register name="0" type="4">
+        <text>Dense(self.layer_size, use_bias=False, name='mmd_dense', **self.dense_kwargs)(inputs)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnJ1bl9lYWdlcmx5ID0gcnVuX2VhZ2VybHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGYuY29uZmlnLnJ1bl9mdW5jdGlvbnNfZWFnZXJseShUcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdF9zaXplLCByZXN0X3NpemVzID0gbGF5ZXJfc2l6ZXNbMF0sIGxheWVyX3NpemVzWzE6XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0LCBoX21tZAo=</text>
+        <text encoding="base64">ICAgICAgICBsYXllcl9zaXplcyA9IGFyY2hpdGVjdHVyZVs6Oi0xXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZGVjb2Rlcih6LCBkZWNvZGVyX2xhYmVscyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhfbW1kID0gTGVha3lSZUxVKG5hbWU9J21tZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlY29kZXJfbGFiZWxzID0gSW5wdXQoc2hhcGU9KG5fY29uZGl0aW9ucywpLCBuYW1lPSJkZWNvZGVyX2xhYmVscyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlbnNlX2t3YXJncyA9IGRlbnNlX2t3YXJncwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheWVyX3NpemUgPSBsYXllcl9zaXplCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoX21tZF9sYXllci5hZGRfbG9zcyhtbWRfbG9zcyhkZWNvZGVyX2xhYmVscywgaF9tbWQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoX21tZCA9IGhfbW1kX2xheWVyKGgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShuX2Vwb2Nocyk6CiAgICAgICAgZm9yIHhfYmF0Y2hfdHJhaW4sIHlfYmF0Y2hfdHJhaW4gaW4gdHJhaW5fZGF0YXNldDoKICAgICAgICAgICAgeV9iYXRjaF90cnVlLCBiYXRjaF9kZWNvZGVyX2xhYmVscyA9IHlfYmF0Y2hfdHJhaW4KICAgICAgICAgICAgd2l0aCB0Zi5HcmFkaWVudFRhcGUoKSBhcyB0YXBlOgogICAgICAgICAgICAgICAgeV9iYXRjaF9wcmVkaWN0LCBoX21tZF9wcmVkaWN0LCBrbF9sb3NzID0gbW9kZWwoeF9iYXRjaF90cmFpbiwgdHJhaW5pbmc9VHJ1ZSkKICAgICAgICAgICAgICAgIHJlY29uc3RfbG9zcyA9IG1zZSh5X2JhdGNoX3RydWUsIHlfYmF0Y2hfcHJlZGljdCkKICAgICAgICAgICAgICAgIG1tZF9sb3NzID0gbW1kX2xvc3NfZm4oYmF0Y2hfZGVjb2Rlcl9sYWJlbHMsIGhfbW1kX3ByZWRpY3QpCiAgICAgICAgICAgICAgICBsb3NzID0gZXRhICogcmVjb25zdF9sb3NzICsgYWxwaGEgKiBrbF9sb3NzICsgYmV0YSAqIG1tZF9sb3NzCgogICAgICAgICAgICBncmFkcyA9IHRhcGUuZ3JhZGllbnQobG9zcywgbW9kZWwudHJhaW5hYmxlX3dlaWdodHMpCiAgICAgICAgICAgIG9wdGltaXplci5hcHBseV9ncmFkaWVudHMoemlwKGdyYWRzLCBtb2RlbC50cmFpbmFibGVfd2VpZ2h0cykpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBoX21tZF9sYXllciA9IExlYWt5UmVMVShuYW1lPSdtbWQnKQo=</text>
       </register>
     </registers>
   </component>
