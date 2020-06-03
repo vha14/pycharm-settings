@@ -76,7 +76,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1591200800841">
+      <file name="/fragment.py" timestamp="1591203755306">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,12 +100,12 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591200101470">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591204585016">
         <mark key="'" line="123" column="11" />
-        <mark key="[" line="125" column="19" />
-        <mark key="]" line="124" column="9" />
-        <mark key="." line="125" column="19" />
-        <mark key="^" line="124" column="9" />
+        <mark key="[" line="144" column="42" />
+        <mark key="]" line="145" column="35" />
+        <mark key="." line="145" column="34" />
+        <mark key="^" line="145" column="35" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -147,12 +147,12 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591200231160">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591204553570">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="53" column="14" />
-        <mark key="]" line="53" column="18" />
-        <mark key="." line="53" column="17" />
-        <mark key="^" line="53" column="18" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -260,11 +260,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGYuY29uZmlnLnJ1bl9mdW5jdGlvbnNfZWFnZXJseShUcnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
@@ -273,31 +273,31 @@
         <text encoding="base64">ICAgIHgsIHkgPSBfZ2VuX3h5KHRyYWluX2FkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGYuY29uZmlnLnJ1bl9mdW5jdGlvbnNfZWFnZXJseShUcnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0LCBoX21tZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZGVjb2Rlcih6LCBkZWNvZGVyX2xhYmVscyk6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShuX2Vwb2Nocyk6CiAgICAgICAgZm9yIHhfYmF0Y2hfdHJhaW4sIHlfYmF0Y2hfdHJhaW4gaW4gdHJhaW5fZGF0YXNldDoKICAgICAgICAgICAgeV9iYXRjaF90cnVlLCBiYXRjaF9kZWNvZGVyX2xhYmVscyA9IHlfYmF0Y2hfdHJhaW4KICAgICAgICAgICAgd2l0aCB0Zi5HcmFkaWVudFRhcGUoKSBhcyB0YXBlOgogICAgICAgICAgICAgICAgeV9iYXRjaF9wcmVkaWN0LCBoX21tZF9wcmVkaWN0LCBrbF9sb3NzID0gbW9kZWwoeF9iYXRjaF90cmFpbiwgdHJhaW5pbmc9VHJ1ZSkKICAgICAgICAgICAgICAgIHJlY29uc3RfbG9zcyA9IG1zZSh5X2JhdGNoX3RydWUsIHlfYmF0Y2hfcHJlZGljdCkKICAgICAgICAgICAgICAgIG1tZF9sb3NzID0gbW1kX2xvc3NfZm4oYmF0Y2hfZGVjb2Rlcl9sYWJlbHMsIGhfbW1kX3ByZWRpY3QpCiAgICAgICAgICAgICAgICBsb3NzID0gZXRhICogcmVjb25zdF9sb3NzICsgYWxwaGEgKiBrbF9sb3NzICsgYmV0YSAqIG1tZF9sb3NzCgogICAgICAgICAgICBncmFkcyA9IHRhcGUuZ3JhZGllbnQobG9zcywgbW9kZWwudHJhaW5hYmxlX3dlaWdodHMpCiAgICAgICAgICAgIG9wdGltaXplci5hcHBseV9ncmFkaWVudHMoemlwKGdyYWRzLCBtb2RlbC50cmFpbmFibGVfd2VpZ2h0cykpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlY29kZXJfbGFiZWxzID0gSW5wdXQoc2hhcGU9KG5fY29uZGl0aW9ucywpLCBuYW1lPSJkZWNvZGVyX2xhYmVscyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RhdGFzZXQgPSBfZ2VuX3h5KHRyYWluX2FkYXRhKS5zaHVmZmxlKGJ1ZmZlcl9zaXplPTEwMjQpLmJhdGNoKGJhdGNoX3NpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImVwb2NoIHtlcG9jaH0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyd5JzogYWRhdGEuWCwgJ2RlY29kZXJfbGFiZWxzJzogbGFiZWxzX2VuY29kZWR9KSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShuX2Vwb2Nocyk6CiAgICAgICAgZm9yIHhfYmF0Y2hfdHJhaW4sIHlfYmF0Y2hfdHJhaW4gaW4gdHJhaW5fZGF0YXNldDoKICAgICAgICAgICAgeV9iYXRjaF90cnVlLCBiYXRjaF9kZWNvZGVyX2xhYmVscyA9IHlfYmF0Y2hfdHJhaW4KICAgICAgICAgICAgd2l0aCB0Zi5HcmFkaWVudFRhcGUoKSBhcyB0YXBlOgogICAgICAgICAgICAgICAgeV9iYXRjaF9wcmVkaWN0LCBoX21tZF9wcmVkaWN0LCBrbF9sb3NzID0gbW9kZWwoeF9iYXRjaF90cmFpbiwgdHJhaW5pbmc9VHJ1ZSkKICAgICAgICAgICAgICAgIHJlY29uc3RfbG9zcyA9IG1zZSh5X2JhdGNoX3RydWUsIHlfYmF0Y2hfcHJlZGljdCkKICAgICAgICAgICAgICAgIG1tZF9sb3NzID0gbW1kX2xvc3NfZm4oYmF0Y2hfZGVjb2Rlcl9sYWJlbHMsIGhfbW1kX3ByZWRpY3QpCiAgICAgICAgICAgICAgICBsb3NzID0gZXRhICogcmVjb25zdF9sb3NzICsgYWxwaGEgKiBrbF9sb3NzICsgYmV0YSAqIG1tZF9sb3NzCgogICAgICAgICAgICBncmFkcyA9IHRhcGUuZ3JhZGllbnQobG9zcywgbW9kZWwudHJhaW5hYmxlX3dlaWdodHMpCiAgICAgICAgICAgIG9wdGltaXplci5hcHBseV9ncmFkaWVudHMoemlwKGdyYWRzLCBtb2RlbC50cmFpbmFibGVfd2VpZ2h0cykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeV9iYXRjaF90cnVlLCBkZWNvZGVyX2xhYmVscyA9IHlfYmF0Y2hfdHJhaW4K</text>
+        <text encoding="base64">ICAgIHRyYWluX2RhdGFzZXQgPSBfZ2VuX3h5KHRyYWluX2FkYXRhKS5zaHVmZmxlKGJ1ZmZlcl9zaXplPTEwMjQpLmJhdGNoKGJhdGNoX3NpemUpCg==</text>
       </register>
     </registers>
   </component>
