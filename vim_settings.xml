@@ -74,12 +74,13 @@
       <file name="/start_script.py" timestamp="1591295342097">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/functional.py" timestamp="1591308206690" />
       <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590793949945">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591294891989">
+      <file name="/Dummy.txt" timestamp="1591307381412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591206228714">
@@ -123,13 +124,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591306915319">
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="121" column="34" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591308600223">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="112" column="0" />
         <mark key="m" line="73" column="0" />
-        <mark key="]" line="121" column="35" />
-        <mark key="." line="121" column="35" />
-        <mark key="^" line="112" column="61" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="126" column="41" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -139,13 +140,6 @@
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/activations.py" timestamp="1590615989368">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/mmd_loss.py" timestamp="1591155820202">
         <mark key="[" line="17" column="25" />
@@ -160,12 +154,12 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591306332871">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591308617143">
         <mark key="'" line="88" column="18" />
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="17" />
-        <mark key="^" line="70" column="47" />
-        <mark key="." line="58" column="17" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="30" />
+        <mark key="^" line="52" column="30" />
+        <mark key="." line="52" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -274,10 +268,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>mmd_model</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>mmd_model</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -286,31 +280,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9sb3NzKHNlbGYuYWxwaGEqa2xfbG9zcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRhdGEub2JzbVsnel9sYXRlbnQnXSA9IHRvX2xhdGVudChlbmNvZGVyX21vZGVsLCBhZGF0YSwgbGFiZWxzLCByZXR1cm5fYWRhdGE9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGVuY29kZXJfbW9kZWwgPSBNb2RlbChpbnB1dHM9W3gsIGVuY29kZXJfbGFiZWxzXSwgb3V0cHV0cz16KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgcmV0dXJuX3o6Cg==</text>
+        <text encoding="base64">ICAgIGRlY29kZXJfbW9kZWwgPSBNb2RlbChpbnB1dHM9W3osIGRlY29kZXJfbGFiZWxzXSwgb3V0cHV0cz1vdXRwdXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Igo=</text>
+        <text encoding="base64">ICAgIG1tZF9tb2RlbCA9IE1vZGVsKGlucHV0cz1beiwgZGVjb2Rlcl9sYWJlbHNdLCBvdXRwdXRzPWhfbW1kKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRhdGEub2JzbVsnel9sYXRlbnQnXSA9IHRvX2xhdGVudChlbmNvZGVyX21vZGVsLCBhZGF0YSwgbGFiZWxzLCByZXR1cm5fYWRhdGE9RmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgcmV0dXJuX3o6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5rZXJhcy51dGlscy5ucF91dGlscyBpbXBvcnQgdG9fY2F0ZWdvcmljYWwK</text>
+        <text encoding="base64">Igo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhdGEuWCA9IGFkYXRhLlguQQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBnZXRfcmVjb25zdHJ1Y3Rpb25fZXJyb3Ioc2VsZiwgYWRhdGEsIGNvbmRpdGlvbl9rZXkpOgogICAgYWRhdGEgPSByZW1vdmVfc3BhcnNpdHkoYWRhdGEpCgogICAgbGFiZWxzX2VuY29kZWQsIF8gPSBsYWJlbF9lbmNvZGVyKGFkYXRhLCBOb25lLCBjb25kaXRpb25fa2V5KQogICAgbGFiZWxzX29uZWhvdCA9IHRvX2NhdGVnb3JpY2FsKGxhYmVsc19lbmNvZGVkLCBudW1fY2xhc3Nlcz1zZWxmLm5fY29uZGl0aW9ucykKCiAgICB4ID0gW2FkYXRhLlgsIGxhYmVsc19vbmVob3QsIGxhYmVsc19vbmVob3RdCiAgICB5ID0gW2FkYXRhLlgsIGxhYmVsc19lbmNvZGVkXQoKICAgIHJldHVybiBzZWxmLnRydmFlX21vZGVsLmV2YWx1YXRlKHgsIHksIHZlcmJvc2U9MCk=</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5rZXJhcy51dGlscy5ucF91dGlscyBpbXBvcnQgdG9fY2F0ZWdvcmljYWwK</text>
       </register>
     </registers>
   </component>
