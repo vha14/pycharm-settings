@@ -76,7 +76,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591291086174">
+      <file name="/Dummy.txt" timestamp="1591292133431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591206228714">
@@ -116,13 +116,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591214289542">
-        <mark key="'" line="140" column="11" />
-        <mark key="[" line="140" column="64" />
-        <mark key="]" line="140" column="63" />
-        <mark key="m" line="73" column="0" />
-        <mark key="^" line="140" column="63" />
-        <mark key="." line="140" column="62" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591291771517">
+        <mark key="'" line="141" column="11" />
+        <mark key="[" line="73" column="48" />
+        <mark key="]" line="73" column="49" />
+        <mark key="m" line="74" column="0" />
+        <mark key="^" line="73" column="14" />
+        <mark key="." line="73" column="49" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -147,12 +147,12 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591290955227">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591292032288">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="46" column="14" />
-        <mark key="]" line="46" column="18" />
-        <mark key="^" line="46" column="18" />
-        <mark key="." line="46" column="17" />
+        <mark key="[" line="47" column="14" />
+        <mark key="]" line="47" column="19" />
+        <mark key="^" line="47" column="19" />
+        <mark key="." line="47" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -261,16 +261,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
       </register>
-      <register name="0" type="4">
-        <text>Dense(self.layer_size, use_bias=False, name='mmd_dense', **self.dense_kwargs)(inputs)</text>
+      <register name="0" type="2">
+        <text encoding="base64">cnVuX2VhZ2VybHkgPSBUcnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
