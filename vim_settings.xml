@@ -22,9 +22,9 @@
         <entry>Sam</entry>
         <entry>Sample</entry>
         <entry>Adam</entry>
-        <entry>verbose</entry>
         <entry>recons</entry>
         <entry>com</entry>
+        <entry>verbose</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -71,6 +71,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1591295342097">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/models/aux.py" timestamp="1590793949945">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -96,6 +99,9 @@
         <mark key="[" line="139" column="0" />
         <mark key="]" line="140" column="32" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" timestamp="1591295433673">
+        <mark key="'" line="826" column="10" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py" timestamp="1591205964620">
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
@@ -116,13 +122,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591294987345">
-        <mark key="'" line="152" column="11" />
-        <mark key="[" line="171" column="61" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591295714320">
+        <mark key="'" line="155" column="11" />
+        <mark key="[" line="177" column="98" />
         <mark key="m" line="75" column="0" />
-        <mark key="]" line="172" column="10" />
-        <mark key="." line="172" column="9" />
-        <mark key="^" line="172" column="10" />
+        <mark key="]" line="178" column="14" />
+        <mark key="." line="178" column="13" />
+        <mark key="^" line="178" column="14" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" timestamp="1590699746974">
         <mark key="'" line="282" column="17" />
@@ -147,20 +153,15 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591295012668">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591295645964">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="59" column="14" />
-        <mark key="]" line="59" column="15" />
-        <mark key="^" line="52" column="97" />
-        <mark key="." line="59" column="15" />
+        <mark key="]" line="59" column="19" />
+        <mark key="^" line="59" column="19" />
+        <mark key="." line="59" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="4" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="5" column="18" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="171" column="20" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="176" column="15" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
       <jump line="939" column="30" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
       <jump line="1044" column="31" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
       <jump line="1065" column="7" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
@@ -256,56 +257,61 @@
       <jump line="53" column="21" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="13" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="127" column="11" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="997" column="50" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
+      <jump line="1061" column="24" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
+      <jump line="1063" column="12" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
+      <jump line="821" column="10" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
+      <jump line="826" column="10" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>verbose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9sb3NzKHNlbGYuYWxwaGEqa2xfbG9zcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXRfdmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV0YT0xMDAsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyB0Zi5leGVjdXRpbmdfZWFnZXJseSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVuX2VhZ2VybHkgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV0YT0xMDAsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9zaXplLCByZXN0X3NpemVzID0gbGF5ZXJfc2l6ZXNbMF0sIGxheWVyX3NpemVzWzE6XQo=</text>
+        <text encoding="base64">IyB0Zi5leGVjdXRpbmdfZWFnZXJseSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllcl9zaXplcyA9IGFyY2hpdGVjdHVyZVs6Oi0xXQo=</text>
+        <text encoding="base64">cnVuX2VhZ2VybHkgPSBGYWxzZQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>com</last-search>
+      <last-search>verbose</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>verbose</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
