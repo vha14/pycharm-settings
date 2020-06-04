@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/workbox-core" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/workbox-sw" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="react-dom.development" type="javaScript">
       <properties>
         <sourceFilesUrls>
