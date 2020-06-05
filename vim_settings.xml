@@ -83,7 +83,7 @@
       <file name="/Dummy.txt" timestamp="1591331129858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591332544822">
+      <file name="/Python Console" timestamp="1591334173950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591206228714">
@@ -127,13 +127,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591333505289">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="60" column="12" />
-        <mark key="m" line="82" column="0" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="29" />
-        <mark key="^" line="60" column="30" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591334148723">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="122" column="35" />
+        <mark key="m" line="80" column="0" />
+        <mark key="]" line="122" column="36" />
+        <mark key="." line="122" column="35" />
+        <mark key="^" line="122" column="36" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -157,16 +157,15 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591331592145">
-        <mark key="'" line="88" column="18" />
-        <mark key="[" line="77" column="6" />
-        <mark key="]" line="77" column="6" />
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591334024428">
+        <mark key="'" line="58" column="55" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="77" column="25" />
-        <mark key="." line="77" column="6" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1257" column="12" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
       <jump line="1229" column="9" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
       <jump line="1186" column="0" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
       <jump line="1187" column="7" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/eager/function.py" />
@@ -266,15 +265,16 @@
       <jump line="46" column="12" filename="$USER_HOME$/work/biopic/tflow/analyze.py" />
       <jump line="7" column="23" filename="$USER_HOME$/work/biopic/tflow/analyze.py" />
       <jump line="88" column="18" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
+      <jump line="58" column="55" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_vae_block(architecture, prefix='encoder', dropout=dropout, **dense_kwargs)(inputs)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhbmFseXplIGltcG9ydCBwcmVkaWN0LCB0b19tbWRfbGF5ZXIsIHRvX2xhdGVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_vae_block(architecture, prefix='encoder', dropout=dropout, **dense_kwargs)(inputs)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -283,31 +283,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gX1NhbXBsZVpMYXllcihhbHBoYSwgbmFtZT0nc2FtcGxlX3onKSgobXUsIGxvZ192YXIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBfaW5uZXIK</text>
+        <text encoding="base64">ZnJvbSBhbmFseXplIGltcG9ydCBwcmVkaWN0LCB0b19tbWRfbGF5ZXIsIHRvX2xhdGVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoX21tZCA9IGlucHV0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBfaW5uZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm11X2xheWVyID0K</text>
+        <text encoding="base64">ICAgIGRlZiBfaW5uZXIoaCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9vICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vID0gW10K</text>
+        <text encoding="base64">ICAgIHJldHVybiBfaW5uZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBTZXF1ZW50aWFsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
