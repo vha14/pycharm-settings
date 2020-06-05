@@ -80,7 +80,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591320213436">
+      <file name="/Dummy.txt" timestamp="1591331129858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591206228714">
@@ -124,13 +124,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591319918576">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="80" column="71" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591331461726">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="116" column="0" />
         <mark key="m" line="73" column="0" />
-        <mark key="]" line="80" column="70" />
-        <mark key="^" line="80" column="70" />
-        <mark key="." line="80" column="69" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="120" column="42" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -154,12 +154,12 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591320199650">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591331592145">
         <mark key="'" line="88" column="18" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="79" column="36" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="77" column="6" />
+        <mark key="]" line="77" column="6" />
+        <mark key="^" line="77" column="25" />
+        <mark key="." line="77" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -267,44 +267,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVmZXJlbmNlX2xhYmVscyA9IG5wLnplcm9zKGFkYXRhLnNoYXBlWzBdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>predict(model, adata, reference_labels, labels, return_adata=False)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
-      <register name="0" type="4">
-        <text>encoder(adata.X, labels_onehot)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVmZXJlbmNlX2xhYmVscyA9IG5wLnplcm9zKGFkYXRhLnNoYXBlWzBdKQo=</text>
+        <text encoding="base64">ICAgIGZpcnN0X3NpemUsIHJlc3Rfc2l6ZXMgPSBsYXllcl9zaXplc1swXSwgbGF5ZXJfc2l6ZXNbMTpdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlY29kZXIgPSBfbWFrZV9kZWNvZGVyKHJlc3Rfc2l6ZXMsIHhfZGltLCBkcm9wb3V0LCBvdXRwdXRfYWN0aXZhdGlvbiwgKipkZW5zZV9rd2FyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5jb2RlcihhZGF0YS5YLCBsYWJlbHNfb25laG90KQo=</text>
+        <text encoding="base64">ICAgICAgICBoX21tZCA9IG1tZF9sYXllcigoeiwgZGVjb2Rlcl9sYWJlbHMpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmVuY29kZXIoKA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuY29kZXJfbW9kZWwgPSBNb2RlbChpbnB1dHM9W3gsIGVuY29kZXJfbGFiZWxzXSwgb3V0cHV0cz16KQo=</text>
+        <text encoding="base64">ICAgIGhfbW1kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlY29kZXJfbW9kZWwgPSBNb2RlbChpbnB1dHM9W3osIGRlY29kZXJfbGFiZWxzXSwgb3V0cHV0cz1vdXRwdXQpCg==</text>
+        <text encoding="base64">cmVmZXJlbmNlX2xhYmVscyA9IG5wLnplcm9zKGFkYXRhLnNoYXBlWzBdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1tZF9tb2RlbCA9IE1vZGVsKGlucHV0cz1beiwgZGVjb2Rlcl9sYWJlbHNdLCBvdXRwdXRzPWhfbW1kKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRhdGEub2JzbVsnel9sYXRlbnQnXSA9IHRvX2xhdGVudChlbmNvZGVyX21vZGVsLCBhZGF0YSwgbGFiZWxzLCByZXR1cm5fYWRhdGE9RmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
