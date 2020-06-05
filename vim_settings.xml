@@ -83,6 +83,9 @@
       <file name="/Dummy.txt" timestamp="1591331129858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1591332544822">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1591206228714">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
@@ -124,13 +127,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591331461726">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591332676031">
         <mark key="'" line="166" column="0" />
-        <mark key="[" line="116" column="0" />
+        <mark key="[" line="15" column="0" />
         <mark key="m" line="73" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="120" column="42" />
-        <mark key="." line="116" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -267,11 +270,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5rZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -280,31 +283,31 @@
         <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X3NpemUsIHJlc3Rfc2l6ZXMgPSBsYXllcl9zaXplc1swXSwgbGF5ZXJfc2l6ZXNbMTpdCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5rZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlY29kZXIgPSBfbWFrZV9kZWNvZGVyKHJlc3Rfc2l6ZXMsIHhfZGltLCBkcm9wb3V0LCBvdXRwdXRfYWN0aXZhdGlvbiwgKipkZW5zZV9rd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBfaW5uZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfaW5uZXIoeCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoX21tZCA9IG1tZF9sYXllcigoeiwgZGVjb2Rlcl9sYWJlbHMpKQo=</text>
+        <text encoding="base64">ICAgIGZpcnN0X3NpemUsIHJlc3Rfc2l6ZXMgPSBsYXllcl9zaXplc1swXSwgbGF5ZXJfc2l6ZXNbMTpdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
+        <text encoding="base64">ICAgIGRlY29kZXIgPSBfbWFrZV9kZWNvZGVyKHJlc3Rfc2l6ZXMsIHhfZGltLCBkcm9wb3V0LCBvdXRwdXRfYWN0aXZhdGlvbiwgKipkZW5zZV9rd2FyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhfbW1kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVmZXJlbmNlX2xhYmVscyA9IG5wLnplcm9zKGFkYXRhLnNoYXBlWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBoX21tZCA9IG1tZF9sYXllcigoeiwgZGVjb2Rlcl9sYWJlbHMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhfbW1kCg==</text>
       </register>
     </registers>
   </component>
