@@ -127,13 +127,13 @@
       <file name="/" timestamp="1590784740782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591332676031">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="m" line="73" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591333505289">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="60" column="12" />
+        <mark key="m" line="82" column="0" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="29" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -270,44 +270,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5rZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwK</text>
+      <register name="&quot;" type="4">
+        <text>_vae_block(architecture, prefix='encoder', dropout=dropout, **dense_kwargs)(inputs)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>_vae_block(architecture, prefix='encoder', dropout=dropout, **dense_kwargs)(inputs)</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX1NhbXBsZVpMYXllcihhbHBoYSwgbmFtZT0nc2FtcGxlX3onKSgobXUsIGxvZ192YXIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5rZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiBfaW5uZXIK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfaW5uZXIoeCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X3NpemUsIHJlc3Rfc2l6ZXMgPSBsYXllcl9zaXplc1swXSwgbGF5ZXJfc2l6ZXNbMTpdCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm11X2xheWVyID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlY29kZXIgPSBfbWFrZV9kZWNvZGVyKHJlc3Rfc2l6ZXMsIHhfZGltLCBkcm9wb3V0LCBvdXRwdXRfYWN0aXZhdGlvbiwgKipkZW5zZV9rd2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoX21tZCA9IG1tZF9sYXllcigoeiwgZGVjb2Rlcl9sYWJlbHMpKQo=</text>
+        <text encoding="base64">Zm9vICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtbWRfbGF5ZXIgPSBfTU1ETGF5ZXIoYXJjaGl0ZWN0dXJlWzBdLCBkZW5zZV9rd2FyZ3MsIG1tZF9sb3NzKQo=</text>
+        <text encoding="base64">Zm9vID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhfbW1kCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBTZXF1ZW50aWFsKCkK</text>
       </register>
     </registers>
   </component>
