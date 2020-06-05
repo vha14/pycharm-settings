@@ -153,12 +153,12 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591374422483">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591376099435">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="55" column="55" />
-        <mark key="]" line="55" column="75" />
-        <mark key="^" line="55" column="75" />
-        <mark key="." line="55" column="74" />
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="67" column="52" />
+        <mark key="^" line="67" column="52" />
+        <mark key="." line="67" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -267,10 +267,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>umap</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>umap</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
