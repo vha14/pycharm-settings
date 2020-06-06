@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>x</entry>
-        <entry>kernel_me</entry>
         <entry>mmd_com</entry>
         <entry>conf</entry>
         <entry>plot</entry>
@@ -25,6 +23,8 @@
         <entry>predict</entry>
         <entry>self</entry>
         <entry>thresh</entry>
+        <entry>update</entry>
+        <entry>use_bias</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -82,9 +82,6 @@
       <file name="/Dummy.txt" timestamp="1591331129858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591462597027">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1591206228714">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
@@ -107,10 +104,11 @@
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" timestamp="1591295433673">
         <mark key="'" line="826" column="10" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae_repo_config.json" timestamp="1591465653545">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae_repo_config.json" timestamp="1591467025489">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py" timestamp="1591205964620">
         <mark key="[" line="310" column="9" />
@@ -129,13 +127,13 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591465827889">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="137" column="52" />
-        <mark key="m" line="80" column="0" />
-        <mark key="]" line="137" column="62" />
-        <mark key="^" line="137" column="62" />
-        <mark key="." line="137" column="61" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591468637836">
+        <mark key="'" line="91" column="48" />
+        <mark key="[" line="152" column="36" />
+        <mark key="m" line="82" column="0" />
+        <mark key="]" line="152" column="39" />
+        <mark key="^" line="152" column="39" />
+        <mark key="." line="152" column="38" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -156,30 +154,21 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591416670603">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591468663152">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="67" column="52" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591466519963">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="10" column="17" />
+      <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591468528905">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="32" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="73" column="37" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="74" column="42" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="60" column="30" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="94" column="4" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="123" column="68" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="82" column="47" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="83" column="49" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="84" column="61" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="85" column="65" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
@@ -242,7 +231,6 @@
       <jump line="76" column="36" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="138" column="23" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="174" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="112" column="24" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="122" column="76" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="123" column="7" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="128" column="12" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -271,56 +259,66 @@
       <jump line="49" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="66" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="99" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="53" column="56" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="70" column="37" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="92" column="45" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="111" column="16" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="112" column="16" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="124" column="64" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="125" column="64" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="55" column="48" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="91" column="48" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>thresh</text>
+        <text>use_bias</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVhcmx5X3N0b3BfbGltaXQ9MzAwLCBscl9yZWR1Y2VyPTI1MCwgdGhyZXNob2xkPTAuMCwgbW9uaXRvcj0ndmFsX2xvc3MnLCB2ZXJib3NlPUZhbHNlKToK</text>
+        <text encoding="base64">ICAgICAgICBlbmNvZGVyX3VzZV9iaWFzOiBib29sID0gRmFsc2UsCiAgICAgICAgZGVjb2Rlcl91c2VfYmlhczogYm9vbCA9IEZhbHNlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbHJfcmVkdWNlcj0wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgZWFybHlfc3RvcF9saW1pdD03NTAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkcm9wb3V0X3JhdGU9MC4yLA==</text>
+        <text encoding="base64">ICAgICAgYmF0Y2hfc2l6ZT01MTIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbF9wYXRoPWYiLi9tb2RlbHMvdHJWQUVNdWx0aS9iZXN0L3tkYXRhX25hbWV9LXtzcGVjaWZpY19jZWxsdHlwZX0vIiwK</text>
+        <text encoding="base64">ICAgICAgbl9lcG9jaHM9NTAwMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZWFybmluZ19yYXRlPTAuMDAxLAo=</text>
+        <text encoding="base64">ICAgICJjbGlwX3ZhbHVlIjogMTAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYW1iZGFfbDI9MC4wLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYW1iZGFfbDE9MC4wLAo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwX3ZhbHVlPTEwMCwK</text>
+        <text encoding="base64">ZFsnYSddID0gMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBldGE9MTAwLAo=</text>
+        <text encoding="base64">ZCA9IGRpY3QoYT0xLCBiPTIpCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>thresh</last-search>
+      <last-search>use_bias</last-search>
       <last-offset />
-      <last-pattern>thresh</last-pattern>
+      <last-pattern>use_bias</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
