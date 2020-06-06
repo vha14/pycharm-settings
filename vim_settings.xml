@@ -79,22 +79,19 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591331129858">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1591472241738">
+      <file name="/Dummy.txt" timestamp="1591475698695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591206228714">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591472238346">
-        <mark key="'" line="46" column="3" />
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="49" column="47" />
-        <mark key="." line="49" column="46" />
-        <mark key="^" line="49" column="47" />
+      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591476439553">
+        <mark key="'" line="55" column="13" />
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="38" />
+        <mark key="^" line="54" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1590796913617">
         <mark key="[" line="0" column="1" />
@@ -108,11 +105,11 @@
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" timestamp="1591295433673">
         <mark key="'" line="826" column="10" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae_repo_config.json" timestamp="1591468978329">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="28" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae_repo_config.json" timestamp="1591474256755">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py" timestamp="1591205964620">
         <mark key="[" line="310" column="9" />
@@ -158,24 +155,22 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591472343735">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591476974469">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="34" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591468877542">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591474320695">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="65" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="86" column="34" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="13" column="20" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="20" column="35" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="101" column="20" filename="$USER_HOME$/work/biopic/keras_vae.py" />
       <jump line="160" column="10" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
@@ -273,48 +268,51 @@
       <jump line="91" column="48" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="46" column="3" filename="$USER_HOME$/work/biopic/tflow/utils.py" />
       <jump line="61" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/biopic/tflow/repro_config.json" />
+      <jump line="27" column="0" filename="$USER_HOME$/work/biopic/tflow/repro_config.json" />
+      <jump line="52" column="13" filename="$USER_HOME$/work/biopic/tflow/utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>'./tflow/repro_config.json')</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'./tflow/repro_config.json')</text>
       </register>
       <register name="/" type="4">
         <text>use_bias</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbmNvZGVyX3VzZV9iaWFzOiBib29sID0gRmFsc2UsCiAgICAgICAgZGVjb2Rlcl91c2VfYmlhczogYm9vbCA9IEZhbHNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYW5weSBhcyBzYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSBqc29uLnJlYWQoY29uZmlnX2ZpbGUp</text>
+        <text encoding="base64">ICAgIHByaW50KCdEaXNhYmxpbmcgJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbHJfcmVkdWNlcj0wCg==</text>
+        <text encoding="base64">Y29uZGl0aW9uX2VuY29kZXIgPSB1dGlscy5jcmVhdGVfZGljdGlvbmFyeShjb25kaXRpb25zLCBbXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWFybHlfc3RvcF9saW1pdD03NTAsCg==</text>
+        <text encoding="base64">Y29uZGl0aW9ucyA9IFsnQ29udHJvbCcsICdIcG9seS5EYXkzJywgJ0hwb2x5LkRheTEwJywgJ1NhbG1vbmVsbGEnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmF0Y2hfc2l6ZT01MTIsCg==</text>
+        <text encoding="base64">bl9jb25kaXRpb25zID0gbGVuKGNvbmRpdGlvbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbl9lcG9jaHM9NTAwMCwK</text>
+        <text encoding="base64">ZGF0YV9uYW1lID0gImhhYmVyIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjbGlwX3ZhbHVlIjogMTAwLAo=</text>
+        <text encoding="base64">Y29uZGl0aW9uX2tleSA9ICJjb25kaXRpb24iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2VsbF90eXBlX2tleSA9ICJjZWxsX2xhYmVsIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ZGF0YV9uYW1lID0gImhhYmVyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZFsnYSddID0gMwo=</text>
+        <text encoding="base64">Y2VsbF90eXBlX2tleSA9ICJjZWxsX2xhYmVsIgo=</text>
       </register>
     </registers>
   </component>
