@@ -19,12 +19,12 @@
         <entry>Adam</entry>
         <entry>recons</entry>
         <entry>com</entry>
-        <entry>verbose</entry>
         <entry>predict</entry>
         <entry>self</entry>
         <entry>thresh</entry>
         <entry>update</entry>
         <entry>use_bias</entry>
+        <entry>verbose</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -93,8 +93,8 @@
         <mark key="." line="57" column="45" />
         <mark key="^" line="57" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1590796913617">
-        <mark key="[" line="0" column="1" />
+      <file name="/a.dummy" timestamp="1591498557063">
+        <mark key="[" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/repo_config.json" timestamp="1591464981045">
         <mark key="[" line="22" column="0" />
@@ -128,13 +128,13 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591468637836">
-        <mark key="'" line="91" column="48" />
-        <mark key="[" line="152" column="36" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591498629993">
+        <mark key="'" line="13" column="33" />
+        <mark key="[" line="97" column="0" />
         <mark key="m" line="82" column="0" />
-        <mark key="]" line="152" column="39" />
-        <mark key="^" line="152" column="39" />
-        <mark key="." line="152" column="38" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="98" column="42" />
+        <mark key="." line="161" column="82" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -155,12 +155,12 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591478045888">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="48" column="42" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591498668195">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="39" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="47" column="39" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591474320695">
         <mark key="'" line="27" column="0" />
@@ -171,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="10" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="251" column="8" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
       <jump line="43" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
       <jump line="88" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="89" column="35" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
@@ -271,56 +268,59 @@
       <jump line="52" column="13" filename="$USER_HOME$/work/biopic/tflow/utils.py" />
       <jump line="15" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="55" column="3" filename="$USER_HOME$/work/biopic/tflow/utils.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
+      <jump line="13" column="33" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>use_bias</text>
+        <text>verbose</text>
       </register>
-      <register name="0" type="4">
-        <text>haber_normalized.h5ad',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5hbWU9TU1EX0xBWUVSLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCoqa3dhcmdzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BlY2lmaWNfY2VsbHR5cGUgPSAnVHVmdCcK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCoqa3dhcmdzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBFTkNPREVSX05BTUUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzLmluaXRpYWxpemVycyBpbXBvcnQgSW5pdGlhbGl6ZXIsIGdsb3JvdF9ub3JtYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vdGhlaXNsYWIvdHJWQUUvYmxvYi9tYXN0ZXIvZXhhbXBsZXMvdHJWQUVfSGFiZXIuaXB5bmIK</text>
+        <text encoding="base64">bW9kZWwuZ2V0X2xheWVyKCdwcml2YXRlX19kZWNvZGVyJykuX19jbGFzc19fCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdEaXNhYmxpbmcgJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZGl0aW9uX2VuY29kZXIgPSB1dGlscy5jcmVhdGVfZGljdGlvbmFyeShjb25kaXRpb25zLCBbXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYXZlX2Jlc3Rfb25seT1UcnVlLCBtb25pdG9yPW1vbml0b3IsIHBlcmlvZD01MCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZGl0aW9ucyA9IFsnQ29udHJvbCcsICdIcG9seS5EYXkzJywgJ0hwb2x5LkRheTEwJywgJ1NhbG1vbmVsbGEnXQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFja3MuYXBwZW5kKE1vZGVsQ2hlY2twb2ludChmaWxlcGF0aD0nYmVzdF9tb2RlbC5oNScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bl9jb25kaXRpb25zID0gbGVuKGNvbmRpdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgIGlmIG1vbml0b3JfYmVzdDoK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>use_bias</last-search>
+      <last-search>verbose</last-search>
       <last-offset />
-      <last-pattern>use_bias</last-pattern>
+      <last-pattern>verbose</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
