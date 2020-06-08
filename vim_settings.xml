@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMYW1iZGFcPg==</entry>
         <entry>model</entry>
         <entry>shape</entry>
         <entry>sparse</entry>
@@ -25,6 +24,7 @@
         <entry>yinhan</entry>
         <entry>mnli</entry>
         <entry>ner</entry>
+        <entry>date_text</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -100,12 +100,12 @@
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
       </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591653452737">
-        <mark key="'" line="221" column="58" />
-        <mark key="[" line="183" column="109" />
-        <mark key="]" line="168" column="48" />
-        <mark key="^" line="168" column="65" />
-        <mark key="." line="168" column="48" />
+      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591655851096">
+        <mark key="'" line="12" column="26" />
+        <mark key="[" line="181" column="7" />
+        <mark key="]" line="181" column="13" />
+        <mark key="." line="181" column="12" />
+        <mark key="^" line="181" column="13" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591504494225">
         <mark key="'" line="13" column="33" />
@@ -171,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="63" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="274" column="35" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="275" column="56" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="277" column="23" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
@@ -271,56 +270,57 @@
       <jump line="64" column="119" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="156" column="11" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="221" column="58" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="12" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.resize((357, 166))</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>.resize((357, 166))</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text>ner</text>
+        <text>date_text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGxvYWRfcm9iZXJ0YV9tbmxpKCk6CiAgICByb2JlcnRhID0gdG9yY2guaHViLmxvYWQoJ3B5dG9yY2gvZmFpcnNlcScsICdyb2JlcnRhLmxhcmdlLm1ubGknKQogICAgcm9iZXJ0YS5ldmFsKCkK</text>
+        <text encoding="base64">ICAgIHN0LnRpdGxlKCdTZW50aW1lbnQgQW5hbHlzaXMgb24gVGltZWxpbmUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9hZF90cmFuc2xhdG9yKCdlbi1kZScpCg==</text>
+        <text encoding="base64">c3QudGl0bGUoJ0JpcmNoIERlbW8gZm9yIEFpcmxpbmVzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvYmVydGEuZXZhbCgpCg==</text>
+        <text encoding="base64">ZGF0ZV90ZXh0ID0gc3Quc2lkZWJhci5yYWRpbygiTW9zdCBSZWNlbnQgUmV2aWV3cyIsIFtrIGZvciBrIGluIGRhdGFbcmVzdF0uaW5kZXhbOjEwXV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvYmVydGEgPSB0b3JjaC5odWIubG9hZCgncHl0b3JjaC9mYWlyc2VxJywgJ3JvYmVydGEubGFyZ2UubW5saScpCg==</text>
+        <text encoding="base64">ICAgIGRhdGVfdGV4dCA9IHN0LnNpZGViYXIucmFkaW8oIk1vc3QgUmVjZW50IFJldmlld3MiLCBbayBmb3IgayBpbiBkYXRhW3Jlc3RdLmluZGV4WzoxMF1dKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5lciA9IHBpcGVsaW5lKCJuZXIiLCBkZXZpY2U9ZGV2aWNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRldmljZSA9IDAgIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSAtMQo=</text>
+        <text encoding="base64">c3Quc2lkZWJhci5oZWFkZXIoIkxhbmd1YWdlIG9wdGlvbnMiKQpwYWlycyA9IHN0LnNpZGViYXIuc2VsZWN0Ym94KCJzZWxlY3QgbGFuZ3VhZ2UgcGFpcnMiLCBbImVuLWRlIiwgImRlLWVuIiwgImVuLXJ1IiwgInJ1LWVuIiwgImVuLWZyIiwgInpoLWVuIl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gcGlwZWxpbmUoInF1ZXN0aW9uLWFuc3dlcmluZyIsIG1vZGVsPSJtcm04NDg4L3NwYW5iZXJ0LWxhcmdlLWZpbmV0dW5lZC1zcXVhZHYyIiwgdG9rZW5pemVyPSJTcGFuQkVSVC9zcGFuYmVydC1sYXJnZS1jYXNlZCIsIGRldmljZT1kZXZpY2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRldmljZSA9IDAgIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSAtMQo=</text>
+        <text encoding="base64">c3Quc2lkZWJhci5oZWFkZXIoIlN1bW1hcml6YXRpb24gTGVuZ3RoIENvbnRyb2wiKQptaW5fbGVuZ3RoID0gc3Quc2lkZWJhci5zbGlkZXIoJ21pbmltdW0gTGVuZ3RoJywgMTAsIDIwMCwgMjAsIDIwKQptYXhfbGVuZ3RoID0gc3Quc2lkZWJhci5zbGlkZXIoJ21heGltdW0gTGVuZ3RoJywgMTAwLCAxMDAwLCAyMDAsIDEwMCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIERFRkFVTFRTID0geydlbi1kZSc6ICd0cmFuc2Zvcm1lci53bXQxOS5lbi1kZScsCiAgICAgICAgICAgICAgICAnZGUtZW4nOiAndHJhbnNmb3JtZXIud210MTkuZGUtZW4nLAogICAgICAgICAgICAgICAgJ2VuLXJ1JzogJ3RyYW5zZm9ybWVyLndtdDE5LmVuLXJ1JywKICAgICAgICAgICAgICAgICdydS1lbic6ICd0cmFuc2Zvcm1lci53bXQxOS5ydS1lbicsCiAgICAgICAgICAgICAgICAnZW4tZnInOiAnZHluYW1pY2NvbnYuZ2x1LndtdDE0LmVuLWZyJywKICAgICAgICAgICAgICAgICd6aC1lbic6ICdkeW5hbWljY29udi5nbHUud210MTcuemgtZW4nfQogICAgbW9kZWxfbmFtZSA9IERFRkFVTFRTW3BhaXJdCiAgICBpZiBwYWlyIGluIFsnZW4tZnInLCAnemgtZW4nXToKICAgICAgICBtb2RlbCA9IHRvcmNoLmh1Yi5sb2FkKCdweXRvcmNoL2ZhaXJzZXEnLCBtb2RlbF9uYW1lLCB0b2tlbml6ZXI9J21vc2VzJywgYnBlPSdzdWJ3b3JkX25tdCcpCiAgICBlbGlmIHBhaXIgaW4gWydlbi1kZScsICdkZS1lbicsICdlbi1ydScsICdydS1lbiddOgogICAgICAgIG1vZGVsID0gdG9yY2guaHViLmxvYWQoJ3B5dG9yY2gvZmFpcnNlcScsIG1vZGVsX25hbWUsIGNoZWNrcG9pbnRfZmlsZT0nbW9kZWwxLnB0JywjOm1vZGVsMi5wdDptb2RlbDMucHQ6bW9kZWw0LnB0JywKICAgICAgICAgICAgICAgICAgICAgICB0b2tlbml6ZXI9J21vc2VzJywgYnBlPSdmYXN0YnBlJykKICAgIGVsc2U6CiAgICAgICAgbW9kZWwgPSBOb25l</text>
+      <register name="9" type="2">
+        <text encoding="base64">cmV2aWV3X3Jlc29sdXRpb24gPSBzdC5zaWRlYmFyLnNlbGVjdGJveCgiUmV2aWV3IGFnZ3JlZ2F0ZWQgYnkiLCBbIlllYXIiLCAiTW9udGgiLCAiRGF5Il0pCnllYXJzX2tleSA9IHN0LnNpZGViYXIuc2VsZWN0Ym94KCJZZWFyIHRvIFJldmlldyIsIFtzdHIoMjAxNiArIGkpIGZvciBpIGluIHJhbmdlKDUpXSwgNCkKZGF0ZV90ZXh0ID0gc3Quc2lkZWJhci5yYWRpbygiTW9zdCBSZWNlbnQgUmV2aWV3cyIsIFtrIGZvciBrIGluIGRhdGFbcmVzdF0uaW5kZXhbOjEwXV0pCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ner</last-search>
+      <last-search>date_text</last-search>
       <last-offset />
-      <last-pattern>ner</last-pattern>
+      <last-pattern>date_text</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
