@@ -128,13 +128,13 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591502903389">
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591504494225">
         <mark key="'" line="13" column="33" />
-        <mark key="[" line="165" column="48" />
+        <mark key="[" line="165" column="43" />
         <mark key="m" line="82" column="0" />
-        <mark key="]" line="165" column="60" />
-        <mark key="^" line="165" column="60" />
-        <mark key="." line="165" column="59" />
+        <mark key="]" line="165" column="43" />
+        <mark key="^" line="165" column="43" />
+        <mark key="." line="165" column="43" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
         <mark key="'" line="6" column="23" />
@@ -155,12 +155,12 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591502993627">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="52" column="143" />
-        <mark key="]" line="53" column="33" />
-        <mark key="." line="53" column="32" />
-        <mark key="^" line="53" column="33" />
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591504991698">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="39" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="71" column="38" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591474320695">
         <mark key="'" line="27" column="0" />
@@ -171,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
       <jump line="88" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="89" column="35" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
       <jump line="90" column="42" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
@@ -247,7 +246,6 @@
       <jump line="64" column="2" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="72" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="49" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="66" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="99" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -271,15 +269,17 @@
       <jump line="96" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="51" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="13" column="33" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>np.nan_to_num</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>np.nan_to_num</text>
       </register>
       <register name="/" type="4">
         <text>verbose</text>
@@ -288,31 +288,31 @@
         <text encoding="base64">bW9kZWwsIGVuY29kZXIsIG1tZF9sYXllciwgZGVjb2RlciA9IG1ha2VfdHJWQUUoCiAgICB4X2RpbT10cmFpbl9hZGF0YS5zaGFwZVsxXSwgbl9jb25kaXRpb25zPW5fY29uZGl0aW9ucywgcnVuX2VhZ2VybHk9cnVuX2VhZ2VybHksICoqdHJWQUVfY29uZmlnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnAubmFuX3RvX251bSh0Zi5rZXJhcy5iYWNrZW5kLmV2YWwoeikpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kZWwsIGVuY29kZXIsIG1tZF9sYXllciwgZGVjb2RlciA9IG1ha2VfdHJWQUUoeF9kaW09dHJhaW5fYWRhdGEuc2hhcGVbMV0sIG5fY29uZGl0aW9ucz1uX2NvbmRpdGlvbnMsIHJ1bl9lYWdlcmx5PXJ1bl9lYWdlcmx5LCAqKnRyVkFFX2NvbmZpZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kZWwubG9hZF93ZWlnaHRzKCdtb2RlbHMvdGVzdCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kZWwuc2F2ZV93ZWlnaHRzKCdtb2RlbHMvdGVzdCcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBFTkNPREVSX05BTUUK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmtlcmFzLmluaXRpYWxpemVycyBpbXBvcnQgSW5pdGlhbGl6ZXIsIGdsb3JvdF9ub3JtYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
