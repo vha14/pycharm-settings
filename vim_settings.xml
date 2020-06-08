@@ -100,10 +100,10 @@
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
       </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591636859670">
+      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591636965302">
         <mark key="'" line="188" column="26" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="73" column="14" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="78" column="18" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591504494225">
         <mark key="'" line="13" column="33" />
@@ -132,11 +132,11 @@
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1591636889073">
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="57" column="18" />
-        <mark key="." line="57" column="17" />
-        <mark key="^" line="57" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1591637412605">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="64" column="22" />
+        <mark key="." line="64" column="21" />
+        <mark key="^" line="64" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1591475698695">
         <mark key="[" line="0" column="0" />
@@ -275,43 +275,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>qa</text>
+        <text>maybe_down</text>
       </register>
       <register name="-" type="4">
-        <text>qa</text>
+        <text>maybe_down</text>
       </register>
       <register name="/" type="4">
         <text>yinhan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBtYXliZV9kb3dubG9hZF9xYSgpCg==</text>
+        <text encoding="base64">ZGVmIGxvYWRfcm9iZXJ0YV9tbmxpKCk6CiAgICByb2JlcnRhID0gdG9yY2guaHViLmxvYWQoJ3B5dG9yY2gvZmFpcnNlcScsICdyb2JlcnRhLmxhcmdlLm1ubGknKQogICAgcm9iZXJ0YS5ldmFsKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXIK</text>
+        <text encoding="base64">ICAgIHJvYmVydGEuZXZhbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kZWwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtb2RlbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE5vbmUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text>model.eval()</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bW9kZWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBtb2RlbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE5vbmUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>model.eval()</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bnAubmFuX3RvX251bSh0Zi5rZXJhcy5iYWNrZW5kLmV2YWwoeikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
