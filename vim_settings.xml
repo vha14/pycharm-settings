@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>plot</entry>
         <entry encoding="base64">XDxMYW1iZGFcPg==</entry>
         <entry>model</entry>
         <entry>shape</entry>
@@ -25,6 +24,7 @@
         <entry>verbose</entry>
         <entry>yinhan</entry>
         <entry>mnli</entry>
+        <entry>ner</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -100,8 +100,8 @@
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
       </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591640873519">
-        <mark key="'" line="155" column="28" />
+      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591641638604">
+        <mark key="'" line="221" column="58" />
         <mark key="[" line="168" column="47" />
         <mark key="]" line="168" column="48" />
         <mark key="^" line="168" column="48" />
@@ -171,13 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="13" filename="$USER_HOME$/work/biopic/keras_vae.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="258" column="4" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="259" column="25" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="269" column="46" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="270" column="51" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="271" column="39" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="272" column="63" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="274" column="35" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="275" column="56" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
@@ -271,6 +264,13 @@
       <jump line="119" column="4" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="121" column="27" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="155" column="28" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="293" column="35" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="300" column="25" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="48" column="9" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="49" column="24" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="64" column="119" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="156" column="11" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="221" column="58" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,7 +282,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>mnli</text>
+        <text>ner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGxvYWRfcm9iZXJ0YV9tbmxpKCk6CiAgICByb2JlcnRhID0gdG9yY2guaHViLmxvYWQoJ3B5dG9yY2gvZmFpcnNlcScsICdyb2JlcnRhLmxhcmdlLm1ubGknKQogICAgcm9iZXJ0YS5ldmFsKCkK</text>
@@ -318,9 +318,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mnli</last-search>
+      <last-search>ner</last-search>
       <last-offset />
-      <last-pattern>mnli</last-pattern>
+      <last-pattern>ner</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
