@@ -100,12 +100,12 @@
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
       </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591649433789">
+      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591653452737">
         <mark key="'" line="221" column="58" />
-        <mark key="[" line="168" column="47" />
+        <mark key="[" line="183" column="109" />
         <mark key="]" line="168" column="48" />
-        <mark key="^" line="168" column="48" />
-        <mark key="." line="168" column="47" />
+        <mark key="^" line="168" column="65" />
+        <mark key="." line="168" column="48" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591504494225">
         <mark key="'" line="13" column="33" />
@@ -276,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>.resize((357, 166))</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>.resize((357, 166))</text>
       </register>
       <register name="/" type="4">
         <text>ner</text>
