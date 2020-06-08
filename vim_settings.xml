@@ -66,6 +66,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -171,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="35" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="275" column="56" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="277" column="23" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
       <jump line="282" column="17" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
@@ -271,6 +273,7 @@
       <jump line="156" column="11" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="221" column="58" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="12" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="210" column="55" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
