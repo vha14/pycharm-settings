@@ -74,22 +74,9 @@
       <file name="/start_script.py" timestamp="1591472322836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591475698695">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1591632303011">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1591206228714">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591477642615">
-        <mark key="'" line="56" column="3" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="46" />
-        <mark key="." line="57" column="45" />
-        <mark key="^" line="57" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1591498557063">
         <mark key="[" line="0" column="9" />
@@ -113,21 +100,10 @@
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590794271375">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="33" />
-        <mark key="^" line="52" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/models/losses.py" timestamp="1590793962056">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591633465711">
+      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591636859670">
         <mark key="'" line="188" column="26" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="73" column="14" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591504494225">
         <mark key="'" line="13" column="33" />
@@ -155,6 +131,28 @@
         <mark key="]" line="116" column="70" />
         <mark key="^" line="116" column="70" />
         <mark key="." line="116" column="69" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1591636889073">
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="18" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="57" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591475698695">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591477642615">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="45" />
+        <mark key="^" line="57" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" timestamp="1590794271375">
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591504991698">
         <mark key="'" line="1" column="0" />
@@ -277,43 +275,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>np.nan_to_num</text>
+        <text>qa</text>
       </register>
       <register name="-" type="4">
-        <text>np.nan_to_num</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
         <text>yinhan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kZWwsIGVuY29kZXIsIG1tZF9sYXllciwgZGVjb2RlciA9IG1ha2VfdHJWQUUoCiAgICB4X2RpbT10cmFpbl9hZGF0YS5zaGFwZVsxXSwgbl9jb25kaXRpb25zPW5fY29uZGl0aW9ucywgcnVuX2VhZ2VybHk9cnVuX2VhZ2VybHksICoqdHJWQUVfY29uZmlnKQo=</text>
+        <text encoding="base64">IyBtYXliZV9kb3dubG9hZF9xYSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnAubmFuX3RvX251bSh0Zi5rZXJhcy5iYWNrZW5kLmV2YWwoeikpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtb2RlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>model.eval()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnAubmFuX3RvX251bSh0Zi5rZXJhcy5iYWNrZW5kLmV2YWwoeikpCg==</text>
       </register>
     </registers>
   </component>
