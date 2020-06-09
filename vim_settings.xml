@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>model</entry>
-        <entry>shape</entry>
         <entry>sparse</entry>
         <entry>eager</entry>
         <entry>alpha</entry>
@@ -25,6 +23,8 @@
         <entry>mnli</entry>
         <entry>ner</entry>
         <entry>date_text</entry>
+        <entry>text</entry>
+        <entry>text =</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -103,12 +103,12 @@
         <mark key="[" line="310" column="9" />
         <mark key="]" line="310" column="78" />
       </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591655851096">
-        <mark key="'" line="12" column="26" />
-        <mark key="[" line="181" column="7" />
-        <mark key="]" line="181" column="13" />
-        <mark key="." line="181" column="12" />
-        <mark key="^" line="181" column="13" />
+      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591672084287">
+        <mark key="'" line="236" column="4" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="63" />
+        <mark key="." line="280" column="0" />
+        <mark key="^" line="222" column="36" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1591504494225">
         <mark key="'" line="13" column="33" />
@@ -174,28 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="56" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="277" column="23" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="282" column="17" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/input_layer.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/models/trvae.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="75" column="33" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="82" column="15" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="125" column="49" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="133" column="63" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="129" column="45" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/work/biopic/tflow/exps/train_haber.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/work/biopic/tflow/models/losses.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/work/biopic/tflow/mmd_loss.py" />
-      <jump line="76" column="36" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="138" column="23" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="174" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="122" column="76" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="123" column="7" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -274,21 +252,43 @@
       <jump line="221" column="58" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="12" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="210" column="55" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="303" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="57" column="21" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="60" column="18" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="63" column="17" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="67" column="24" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="68" column="27" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="70" column="27" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="71" column="67" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="73" column="62" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="75" column="19" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="77" column="18" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="79" column="22" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="82" column="126" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="233" column="8" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="281" column="8" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="283" column="23" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="288" column="11" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="78" column="8" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="222" column="9" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="236" column="4" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRleHQgPSBzdC50ZXh0X2FyZWEoJ0lucHV0IHRleHQnLCBERUZBVUxUX1RFWFQpLnNwbGl0KCJcbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>radio</text>
       </register>
       <register name="/" type="4">
-        <text>date_text</text>
+        <text>text =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0LnRpdGxlKCdTZW50aW1lbnQgQW5hbHlzaXMgb24gVGltZWxpbmUnKQo=</text>
+        <text encoding="base64">ICAgIHRleHQgPSBzdC50ZXh0X2FyZWEoJ0lucHV0IHRleHQnLCBERUZBVUxUX1RFWFQpLnNwbGl0KCJcbiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3QudGl0bGUoJ0JpcmNoIERlbW8gZm9yIEFpcmxpbmVzJykK</text>
@@ -321,9 +321,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>date_text</last-search>
+      <last-search>text =</last-search>
       <last-offset />
-      <last-pattern>date_text</last-pattern>
+      <last-pattern>text =</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
