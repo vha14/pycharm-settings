@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>recons</entry>
         <entry>com</entry>
         <entry>predict</entry>
         <entry>self</entry>
@@ -25,6 +24,7 @@
         <entry>Model</entry>
         <entry>recognition</entry>
         <entry>recognitionIcon</entry>
+        <entry encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -151,12 +151,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809481598">
-        <mark key="'" line="83" column="7" />
-        <mark key="[" line="712" column="55" />
-        <mark key="]" line="712" column="24" />
-        <mark key="." line="712" column="24" />
-        <mark key="^" line="712" column="24" />
+      <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809830473">
+        <mark key="'" line="65" column="3" />
+        <mark key="[" line="712" column="17" />
+        <mark key="]" line="712" column="23" />
+        <mark key="." line="712" column="22" />
+        <mark key="^" line="712" column="23" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591504991698">
         <mark key="'" line="1" column="0" />
@@ -186,11 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="10" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
-      <jump line="826" column="10" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="46" column="12" filename="$USER_HOME$/work/biopic/tflow/analyze.py" />
-      <jump line="7" column="23" filename="$USER_HOME$/work/biopic/tflow/analyze.py" />
       <jump line="88" column="18" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="58" column="55" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="64" column="2" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
@@ -286,6 +281,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
       <jump line="712" column="19" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
       <jump line="83" column="7" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="421" column="31" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="41" column="21" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="49" column="3" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="65" column="3" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +297,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>recognitionIcon</text>
+        <text encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
@@ -333,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>recognitionIcon</last-search>
+      <last-search encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</last-search>
       <last-offset />
-      <last-pattern>recognitionIcon</last-pattern>
+      <last-pattern encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
