@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sparse</entry>
-        <entry>eager</entry>
-        <entry>alpha</entry>
         <entry>Sam</entry>
         <entry>Sample</entry>
         <entry>Adam</entry>
@@ -25,6 +22,9 @@
         <entry>date_text</entry>
         <entry>text</entry>
         <entry>text =</entry>
+        <entry>modelCom</entry>
+        <entry>BeamSearch</entry>
+        <entry>Positive</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -77,9 +77,19 @@
       <file name="/start_script.py" timestamp="1591472322836">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591475698695">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1591206228714">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591477642615">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="45" />
+        <mark key="^" line="57" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1591498557063">
         <mark key="[" line="0" column="9" />
@@ -90,6 +100,9 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="19" />
       </file>
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" timestamp="1591743671848">
+        <mark key="'" line="133" column="49" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" timestamp="1591295433673">
         <mark key="'" line="826" column="10" />
       </file>
@@ -99,9 +112,8 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py" timestamp="1591205964620">
-        <mark key="[" line="310" column="9" />
-        <mark key="]" line="310" column="78" />
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/App.js" timestamp="1591743038835">
+        <mark key="'" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591677183557">
         <mark key="'" line="238" column="4" />
@@ -124,39 +136,19 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/DemoInput.js" timestamp="1591743363684">
+        <mark key="'" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/models.js" timestamp="1591742855316">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/cygia/requirements.txt" timestamp="1591651105452">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/mmd_loss.py" timestamp="1591155820202">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="30" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1591639582274">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="64" column="22" />
-        <mark key="." line="64" column="21" />
-        <mark key="^" line="64" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/cygia/loader.py" timestamp="1591640481160">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591475698695">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591477642615">
-        <mark key="'" line="56" column="3" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="46" />
-        <mark key="." line="57" column="45" />
-        <mark key="^" line="57" column="46" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591504991698">
         <mark key="'" line="1" column="0" />
@@ -165,6 +157,12 @@
         <mark key="^" line="71" column="39" />
         <mark key="." line="71" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1591639582274">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="64" column="22" />
+        <mark key="." line="64" column="21" />
+        <mark key="^" line="64" column="22" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/repro_config.json" timestamp="1591474320695">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="25" column="26" />
@@ -172,13 +170,14 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/work/cygia/loader.py" timestamp="1591640481160">
+        <mark key="'" line="50" column="21" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="122" column="76" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="123" column="7" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="128" column="12" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="130" column="22" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="150" column="30" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="159" column="30" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="169" column="48" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -274,56 +273,61 @@
       <jump line="78" column="8" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="222" column="9" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="236" column="4" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/work/allennlp-demo/ui/src/App.js" />
+      <jump line="5" column="26" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/DemoInput.js" />
+      <jump line="213" column="41" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" />
+      <jump line="133" column="49" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFkZEljb24gZnJvbSAnLi9pY29ucy9hZGQtMTRweC5zdmcnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>text =</text>
+        <text>Positive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdC53cml0ZShmIlByb2Nlc3NlZCBpbiB7aW50KGVsYXBzZWQpfW1zIHVzaW5nIHtkZXZpY2V9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSBzdC50ZXh0X2FyZWEoJ0lucHV0IHRleHQnLCBERUZBVUxUX1FBX1RFWFQpLnNwbGl0KCJcbiIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFkZEljb24gZnJvbSAnLi9pY29ucy9hZGQtMTRweC5zdmcnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gIldlbGNvbWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY29yZSA9IDAuMAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgICBsYWJlbDogIkNvbnRyaWJ1dGluZyIsCiAgICAgICAgaWNvblNyYzogYWRkSWNvbiwKICAgICAgICBkZWZhdWx0T3BlbjogdHJ1ZSwKICAgICAgICBtb2RlbHM6IFsKICAgICAgICAgICAge21vZGVsOiAidXNlci1tb2RlbHMiLCBuYW1lOiAiWW91ciBtb2RlbCBoZXJlISJ9CiAgICAgICAgXQogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbnMgPSAiV2VsY29tZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICB7CiAgICAgICAgbGFiZWw6ICJPdGhlciIsCiAgICAgICAgaWNvblNyYzogb3RoZXJJY29uLAogICAgICAgIGRlZmF1bHRPcGVuOiB0cnVlLAogICAgICAgIG1vZGVsczogWwogICAgICAgICAgICB7bW9kZWw6ICJ0ZXh0dWFsLWVudGFpbG1lbnQiLCBuYW1lOiAiVGV4dHVhbCBFbnRhaWxtZW50IiwgY29tcG9uZW50OiBUZXh0dWFsRW50YWlsbWVudH0sCiAgICAgICAgICAgIHttb2RlbDogIm5leHQtdG9rZW4tbG0iLCBuYW1lOiAiTGFuZ3VhZ2UgTW9kZWxpbmciLCBjb21wb25lbnQ6IExhbmd1YWdlTW9kZWwsIHJlZGlyZWN0czogWyJncHQyIl19LAogICAgICAgICAgICB7bW9kZWw6ICJtYXNrZWQtbG0iLCBuYW1lOiAiTWFza2VkIExhbmd1YWdlIE1vZGVsaW5nIiwgY29tcG9uZW50OiBNYXNrZWRMbX0KICAgICAgICBdCiAgICB9LA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0Z3RfbGFuZyA9ICdkZScK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgICBsYWJlbDogIlNlbWFudGljIHBhcnNpbmciLAogICAgICAgIGljb25TcmM6IHBhcnNlSWNvbiwKICAgICAgICBkZWZhdWx0T3BlbjogdHJ1ZSwKICAgICAgICBtb2RlbHM6IFsKICAgICAgICAgICAge21vZGVsOiAid2lraXRhYmxlcy1wYXJzZXIiLCBuYW1lOiAiV2lraVRhYmxlUXVlc3Rpb25zIFNlbWFudGljIFBhcnNlciIsIGNvbXBvbmVudDogV2lraVRhYmxlc30sCiAgICAgICAgICAgIHttb2RlbDogIm5sdnItcGFyc2VyIiwgbmFtZTogIkNvcm5lbGwgTkxWUiBTZW1hbnRpYyBQYXJzZXIiLCBjb21wb25lbnQ6IE5sdnJ9LAogICAgICAgICAgICB7bW9kZWw6ICJhdGlzLXBhcnNlciIsIG5hbWU6ICJUZXh0IHRvIFNRTCAoQVRJUykiLCBjb21wb25lbnQ6IEF0aXN9CiAgICAgICAgXQogICAgfSw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0Z3QgPSB0cmFuc2xhdGlvbnModHJhbnNsYXRvciwgIldlbGNvbWUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgICBsYWJlbDogIkFubm90YXRlIGEgcGFzc2FnZSIsCiAgICAgICAgaWNvblNyYzogcGFzc2FnZUljb24sCiAgICAgICAgZGVmYXVsdE9wZW46IHRydWUsCiAgICAgICAgbW9kZWxzOiBbCiAgICAgICAgICAgIHttb2RlbDogImNvcmVmZXJlbmNlLXJlc29sdXRpb24iLCBuYW1lOiAiQ29yZWZlcmVuY2UgUmVzb2x1dGlvbiIsIGNvbXBvbmVudDogQ29yZWZ9CiAgICAgICAgXQogICAgfSw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0LndyaXRlKGYiVHJhbnNsYXRpb246IFt7dGd0X2xhbmd9XSAgICAiICsgdGd0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge21vZGVsOiAic2VtYW50aWMtcm9sZS1sYWJlbGluZyIsIG5hbWU6ICJTZW1hbnRpYyBSb2xlIExhYmVsaW5nIiwgY29tcG9uZW50OiBTZW1hbnRpY1JvbGVMYWJlbGluZ30sCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>text =</last-search>
+      <last-search>Positive</last-search>
       <last-offset />
-      <last-pattern>text =</last-pattern>
+      <last-pattern>Positive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
