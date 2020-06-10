@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>com</entry>
         <entry>predict</entry>
         <entry>self</entry>
         <entry>thresh</entry>
@@ -25,6 +24,7 @@
         <entry>recognition</entry>
         <entry>recognitionIcon</entry>
         <entry encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -85,6 +85,9 @@
       <file name="/Dummy.txt" timestamp="1591475698695">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
+        <mark key="'" line="67" column="11" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/utils.py" timestamp="1591477642615">
         <mark key="'" line="56" column="3" />
         <mark key="[" line="57" column="33" />
@@ -130,12 +133,6 @@
         <mark key="]" line="165" column="43" />
         <mark key="^" line="165" column="43" />
         <mark key="." line="165" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/analyze.py" timestamp="1591303794687">
-        <mark key="'" line="6" column="23" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/DemoInput.js" timestamp="1591743363684">
         <mark key="'" line="5" column="26" />
@@ -186,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="18" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="58" column="55" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="64" column="2" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="72" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
@@ -286,6 +281,8 @@
       <jump line="41" column="21" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
       <jump line="49" column="3" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
       <jump line="65" column="3" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="139" column="20" filename="$USER_HOME$/work/prior-demo/bin/deploy" />
+      <jump line="67" column="11" filename="$USER_HOME$/work/prior-demo/bin/deploy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +294,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
@@ -333,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
