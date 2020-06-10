@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Sample</entry>
-        <entry>Adam</entry>
         <entry>recons</entry>
         <entry>com</entry>
         <entry>predict</entry>
@@ -25,6 +23,8 @@
         <entry>BeamSearch</entry>
         <entry>Positive</entry>
         <entry>Model</entry>
+        <entry>recognition</entry>
+        <entry>recognitionIcon</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -107,9 +107,6 @@
         <mark key="]" line="96" column="93" />
         <mark key="." line="96" column="93" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" timestamp="1591295433673">
-        <mark key="'" line="826" column="10" />
-      </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae_repo_config.json" timestamp="1591474256755">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="25" />
@@ -154,6 +151,13 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809481598">
+        <mark key="'" line="83" column="7" />
+        <mark key="[" line="712" column="55" />
+        <mark key="]" line="712" column="24" />
+        <mark key="." line="712" column="24" />
+        <mark key="^" line="712" column="24" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1591504991698">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="71" column="30" />
@@ -182,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="50" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
-      <jump line="1061" column="24" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
-      <jump line="1063" column="12" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
       <jump line="821" column="10" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
       <jump line="826" column="10" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py" />
       <jump line="175" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -282,21 +283,24 @@
       <jump line="41" column="11" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" />
       <jump line="42" column="11" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" />
       <jump line="43" column="29" filename="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="712" column="19" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
+      <jump line="83" column="7" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, interpretData: undefined, attackData: undefined</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, interpretData: undefined, attackData: undefined</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Model</text>
+        <text>recognitionIcon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdC53cml0ZShmIlByb2Nlc3NlZCBpbiB7aW50KGVsYXBzZWQpfW1zIHVzaW5nIHtkZXZpY2V9IikK</text>
+        <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhdHRhY2tEYXRhOiBhdHRhY2tEYXRhLAo=</text>
@@ -329,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Model</last-search>
+      <last-search>recognitionIcon</last-search>
       <last-offset />
-      <last-pattern>Model</last-pattern>
+      <last-pattern>recognitionIcon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
