@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>predict</entry>
-        <entry>self</entry>
-        <entry>thresh</entry>
         <entry>update</entry>
         <entry>use_bias</entry>
         <entry>verbose</entry>
@@ -25,6 +22,9 @@
         <entry>recognitionIcon</entry>
         <entry encoding="base64">IFZpc3VhbFF1ZXN0aW9uQW4=</entry>
         <entry>api</entry>
+        <entry>queryString</entry>
+        <entry>Location</entry>
+        <entry>unwrap</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -97,6 +97,9 @@
       </file>
       <file name="/a.dummy" timestamp="1591498557063">
         <mark key="[" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
+        <mark key="'" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" timestamp="1591763894080">
         <mark key="'" line="43" column="29" />
@@ -177,12 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="2" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="53" column="56" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="59" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="70" column="37" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -277,6 +274,12 @@
       <jump line="65" column="3" filename="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" />
       <jump line="139" column="20" filename="$USER_HOME$/work/prior-demo/bin/deploy" />
       <jump line="67" column="11" filename="$USER_HOME$/work/prior-demo/bin/deploy" />
+      <jump line="47" column="15" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
+      <jump line="59" column="19" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
+      <jump line="0" column="7" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
+      <jump line="1" column="11" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
+      <jump line="53" column="15" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
+      <jump line="3" column="12" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,7 +291,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>unwrap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
@@ -324,9 +327,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>api</last-search>
+      <last-search>unwrap</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>unwrap</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
