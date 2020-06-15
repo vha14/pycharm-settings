@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>use_bias</entry>
         <entry>verbose</entry>
         <entry>yinhan</entry>
         <entry>mnli</entry>
@@ -25,6 +23,8 @@
         <entry>queryString</entry>
         <entry>Location</entry>
         <entry>unwrap</entry>
+        <entry>theme</entry>
+        <entry>Alert</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -104,7 +104,9 @@
         <mark key="]" line="96" column="93" />
         <mark key="." line="96" column="93" />
       </file>
-      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592241605029" />
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592242566187">
+        <mark key="'" line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae_repo_config.json" timestamp="1591474256755">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="25" />
@@ -178,13 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="56" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="70" column="37" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="92" column="45" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="111" column="16" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="112" column="16" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
-      <jump line="124" column="64" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="125" column="64" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="55" column="48" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
       <jump line="91" column="48" filename="$USER_HOME$/work/biopic/tflow/trvae.py" />
@@ -278,6 +273,13 @@
       <jump line="1" column="11" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
       <jump line="53" column="15" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
       <jump line="3" column="12" filename="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" />
+      <jump line="281" column="0" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="300" column="0" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="280" column="36" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="287" column="17" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="2" column="16" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="3" column="9" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +291,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>unwrap</text>
+        <text>Alert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
@@ -325,9 +327,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>unwrap</last-search>
+      <last-search>Alert</last-search>
       <last-offset />
-      <last-pattern>unwrap</last-pattern>
+      <last-pattern>Alert</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
