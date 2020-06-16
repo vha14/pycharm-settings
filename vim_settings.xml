@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ner</entry>
         <entry>date_text</entry>
         <entry>text</entry>
         <entry>text =</entry>
@@ -25,6 +24,7 @@
         <entry>Home</entry>
         <entry>solve</entry>
         <entry>port</entry>
+        <entry>props</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -87,8 +87,8 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592243383112">
-        <mark key="'" line="6" column="9" />
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
+        <mark key="'" line="47" column="41" />
       </file>
       <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591677183557">
         <mark key="'" line="238" column="4" />
@@ -103,12 +103,6 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1591639582274">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="64" column="22" />
-        <mark key="." line="64" column="21" />
-        <mark key="^" line="64" column="22" />
-      </file>
       <file name="$USER_HOME$/work/cygia/loader.py" timestamp="1591640481160">
         <mark key="'" line="50" column="21" />
         <mark key="[" line="64" column="0" />
@@ -119,6 +113,12 @@
         <mark key="[" line="33" column="43" />
         <mark key="]" line="33" column="43" />
         <mark key="." line="33" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
         <mark key="'" line="67" column="11" />
@@ -166,10 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="116" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="188" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="50" column="21" filename="$USER_HOME$/work/cygia/loader.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="169" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="168" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
@@ -266,56 +262,60 @@
       <jump line="12" column="53" filename="$USER_HOME$/work/birch_skiff/api/app/start.py" />
       <jump line="18" column="11" filename="$USER_HOME$/work/birch_skiff/api/app/start.py" />
       <jump line="20" column="18" filename="$USER_HOME$/work/birch_skiff/api/app/start.py" />
+      <jump line="43" column="19" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="44" column="16" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="45" column="14" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="47" column="41" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U21vb3RoIHNhaWxpbmcg4pu177iPIQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
+        <text>The configuration for the proxy lives [here](https://github.com/allenai/skiff-template/blob/master/proxy/local.conf) for development and [here](https://github.com/allenai/skiff-template/blob/master/proxy/prod.conf) for production.</text>
       </register>
       <register name="/" type="4">
-        <text>port</text>
+        <text>props</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRhY2tEYXRhOiBhdHRhY2tEYXRhLAo=</text>
+        <text encoding="base64">U21vb3RoIHNhaWxpbmcg4pu177iPIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcnByZXREYXRhOiBpbnRlcnByZXREYXRhLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gSW5wdXQgZmllbGRzIHRvIHRoZSBtb2RlbC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzYWdlOiBidWlsZFVzYWdlKCJzc3Qtcm9iZXJ0YS1sYXJnZS0yMDIwLjA1LjA1LnRhci5neiIsICJzdGFuZm9yZF9zZW50aW1lbnRfdHJlZWJhbmtfcm9iZXJ0YS5qc29ubmV0IikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzYWdlOiBidWlsZFVzYWdlKCJzc3QtMi1iYXNpYy1jbGFzc2lmaWVyLWdsb3ZlLTIwMTkuMDYuMjcudGFyLmd6IiwgImJhc2ljX3N0YW5mb3JkX3NlbnRpbWVudF90cmVlYmFuay5qc29ubmV0IikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">V2UncmUgZWFnZXIgdG8gaW1wcm92ZSBgc2tpZmZgIGFuZCBuZWVkIHlvdXIgZmVlZGJhY2sgdG8gZG8gc28hCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KiBPcGVuaW5nIGEgW0dpdGh1YiBJc3N1ZV0oaHR0cHM6Ly9naXRodWIuY29tL2FsbGVuYWkvc2tpZmYvaXNzdWVzL25ldy9jaG9vc2UpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiBKb2luaW5nIHRoZSBgI3NraWZmLXVzZXJzYCBzbGFjayBjaGFubmVsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gdW5kZWZpbmVkIGlzIGFsc28gZmluZSwgYnV0IG5vIHVzYWdlIHdpbGwgYmUgZGlzcGxheWVkIGZvciB0aGlzIHRhc2svbW9kZWwK</text>
+        <text encoding="base64">KiBTZW5kaW5nIGFuIGVtYWlsIHRvIFtyZXZpekBhbGxlbmFpLm9yZ10obWFpbHRvOnJldml6QGFsbGVuYWkub3JnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdGFza3MgdGhhdCBoYXZlIG9ubHkgMSBtb2RlbCwgYW5kIG1vZGVscyB0aGF0IGRvIG5vdCBkZWZpbmUgdXNhZ2Ugd2lsbCB1c2UgdGhpcyBhcyBhIGRlZmF1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc3QgYnVpbGRVc2FnZSA9IChtb2RlbEZpbGUsIGNvbmZpZ0ZpbGUpID0+IHsKICBjb25zdCBmdWxsTW9kZWxVcmwgPSBgaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2FsbGVubmxwLXB1YmxpYy1tb2RlbHMvJHttb2RlbEZpbGV9YDsKICBjb25zdCBmdWxsQ29uZmlnVXJsID0gYGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9hbGxlbmFpL2FsbGVubmxwLW1vZGVscy92MS4wLjByYzUvdHJhaW5pbmdfY29uZmlnL2NsYXNzaWZpY2F0aW9uLyR7Y29uZmlnRmlsZX1gOwogIHJldHVybiB7CiAgICBpbnN0YWxsQ29tbWFuZDogJ3BpcCBpbnN0YWxsIGFsbGVubmxwPT0xLjAuMHJjNSBhbGxlbm5scC1tb2RlbHM9PTEuMC4wcmM1JywKICAgIGJhc2hDb21tYW5kOiBiYXNoQ29tbWFuZChmdWxsTW9kZWxVcmwpLAogICAgcHl0aG9uQ29tbWFuZDogcHl0aG9uQ29tbWFuZChmdWxsTW9kZWxVcmwpLAogICAgZXZhbHVhdGlvbkNvbW1hbmQ6IGBhbGxlbm5scCBldmFsdWF0ZSBcXAogICAgJHtmdWxsTW9kZWxVcmx9IFxcCiAgICBodHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2FsbGVubmxwL2RhdGFzZXRzL3NzdC9kZXYudHh0YCwKICAgIHRyYWluaW5nQ29tbWFuZDogYGFsbGVubmxwIHRyYWluICR7ZnVsbENvbmZpZ1VybH0gLXMgb3V0cHV0X3BhdGhgCiAgfQp9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">SWYgeW91J3JlIHN0dWNrIGRvbid0IGhlc2l0YXRlIHRvIHJlYWNoIG91dDoK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>port</last-search>
+      <last-search>props</last-search>
       <last-offset />
-      <last-pattern>port</last-pattern>
+      <last-pattern>props</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
