@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>date_text</entry>
-        <entry>text</entry>
-        <entry>text =</entry>
         <entry>modelCom</entry>
         <entry>BeamSearch</entry>
         <entry>Positive</entry>
@@ -25,6 +22,9 @@
         <entry>solve</entry>
         <entry>port</entry>
         <entry>props</entry>
+        <entry>skipping</entry>
+        <entry>last_batch_seen</entry>
+        <entry>batch_seen</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -93,20 +93,26 @@
       <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
         <mark key="'" line="47" column="41" />
       </file>
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1592432903826">
+        <mark key="[" line="191" column="90" />
+        <mark key="]" line="191" column="90" />
+        <mark key="." line="191" column="90" />
+        <mark key="^" line="191" column="118" />
+      </file>
       <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="^" line="74" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592431874145">
+      <file name="/Dummy.txt" timestamp="1592432856078">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
-        <mark key="'" line="67" column="11" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
         <mark key="'" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" timestamp="1592434411884">
+        <mark key="'" line="1126" column="50" />
       </file>
       <file name="/" timestamp="1592276992179">
         <mark key="[" line="0" column="0" />
@@ -116,12 +122,6 @@
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592431186231">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="51" column="73" />
-      </file>
       <file name="$USER_HOME$/work/birch_skiff/.gitignore" timestamp="1592276828413">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="6" />
@@ -130,12 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="15" column="33" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="55" column="17" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="292" column="32" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="53" column="17" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="54" column="34" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="119" column="4" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="121" column="27" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
@@ -230,56 +224,62 @@
       <jump line="45" column="14" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
       <jump line="47" column="41" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training_v1.py" />
+      <jump line="1101" column="8" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
+      <jump line="1268" column="12" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
+      <jump line="1261" column="0" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
+      <jump line="1208" column="60" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
+      <jump line="1126" column="50" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>, validation_batch_size=None</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, validation_batch_size=None</text>
       </register>
       <register name="/" type="4">
-        <text>props</text>
+        <text>batch_seen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U21vb3RoIHNhaWxpbmcg4pu177iPIQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWxpZGF0YXRpb25fYmF0Y2hfc2l6ZT1Ob25lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U21vb3RoIHNhaWxpbmcg4pu177iPIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V2UncmUgZWFnZXIgdG8gaW1wcm92ZSBgc2tpZmZgIGFuZCBuZWVkIHlvdXIgZmVlZGJhY2sgdG8gZG8gc28hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V2UncmUgZWFnZXIgdG8gaW1wcm92ZSBgc2tpZmZgIGFuZCBuZWVkIHlvdXIgZmVlZGJhY2sgdG8gZG8gc28hCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiBPcGVuaW5nIGEgW0dpdGh1YiBJc3N1ZV0oaHR0cHM6Ly9naXRodWIuY29tL2FsbGVuYWkvc2tpZmYvaXNzdWVzL25ldy9jaG9vc2UpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KiBKb2luaW5nIHRoZSBgI3NraWZmLXVzZXJzYCBzbGFjayBjaGFubmVsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KiBTZW5kaW5nIGFuIGVtYWlsIHRvIFtyZXZpekBhbGxlbmFpLm9yZ10obWFpbHRvOnJldml6QGFsbGVuYWkub3JnKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiBPcGVuaW5nIGEgW0dpdGh1YiBJc3N1ZV0oaHR0cHM6Ly9naXRodWIuY29tL2FsbGVuYWkvc2tpZmYvaXNzdWVzL25ldy9jaG9vc2UpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KiBKb2luaW5nIHRoZSBgI3NraWZmLXVzZXJzYCBzbGFjayBjaGFubmVsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KiBTZW5kaW5nIGFuIGVtYWlsIHRvIFtyZXZpekBhbGxlbmFpLm9yZ10obWFpbHRvOnJldml6QGFsbGVuYWkub3JnKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">SWYgeW91J3JlIHN0dWNrIGRvbid0IGhlc2l0YXRlIHRvIHJlYWNoIG91dDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>props</last-search>
+      <last-search>batch_seen</last-search>
       <last-offset />
-      <last-pattern>props</last-pattern>
+      <last-pattern>batch_seen</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
