@@ -74,17 +74,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/Model.js" timestamp="1591763945689">
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="43" />
-        <mark key="." line="33" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/work/birch_skiff/ui/src/App.tsx" timestamp="1592276635061">
         <mark key="'" line="30" column="19" />
         <mark key="[" line="41" column="15" />
@@ -92,77 +81,46 @@
         <mark key="^" line="41" column="8" />
         <mark key="." line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
-        <mark key="'" line="67" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
-        <mark key="'" line="3" column="12" />
-      </file>
       <file name="$USER_HOME$/work/birch_skiff/api/app/start.py" timestamp="1592276300061">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" timestamp="1591763894080">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="96" column="93" />
-        <mark key="]" line="96" column="93" />
-        <mark key="." line="96" column="93" />
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training_v1.py" timestamp="1592431706026">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
         <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/work/allennlp-demo/ui/src/App.js" timestamp="1591743038835">
-        <mark key="'" line="9" column="14" />
+      <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592431874145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
+        <mark key="'" line="67" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
+        <mark key="'" line="3" column="12" />
       </file>
       <file name="/" timestamp="1592276992179">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/cygia/Airline_demo.py" timestamp="1591677183557">
-        <mark key="'" line="238" column="4" />
-        <mark key="[" line="282" column="41" />
-        <mark key="]" line="282" column="41" />
-        <mark key="." line="282" column="41" />
-        <mark key="^" line="282" column="60" />
-      </file>
-      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/DemoInput.js" timestamp="1591743363684">
-        <mark key="'" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/allennlp-demo/ui/src/models.js" timestamp="1591742855316">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/cygia/requirements.txt" timestamp="1591651105452">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/sonar/ping.py" timestamp="1592276537221">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809830473">
-        <mark key="'" line="65" column="3" />
-        <mark key="[" line="712" column="17" />
-        <mark key="]" line="712" column="23" />
-        <mark key="." line="712" column="22" />
-        <mark key="^" line="712" column="23" />
-      </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592431186231">
         <mark key="[" line="48" column="13" />
         <mark key="]" line="48" column="13" />
         <mark key="." line="48" column="13" />
         <mark key="^" line="51" column="73" />
-      </file>
-      <file name="$USER_HOME$/work/cygia/loader.py" timestamp="1591640481160">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/.gitignore" timestamp="1592276828413">
         <mark key="[" line="14" column="6" />
@@ -172,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="168" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="15" column="33" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
@@ -272,6 +229,7 @@
       <jump line="44" column="16" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
       <jump line="45" column="14" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
       <jump line="47" column="41" filename="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" />
+      <jump line="2" column="0" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training_v1.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
