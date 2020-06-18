@@ -122,12 +122,12 @@
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592502353721">
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592503813664">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="44" column="59" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/.gitignore" timestamp="1592276828413">
         <mark key="[" line="14" column="6" />
@@ -241,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZiJMb2FkaW5nIGNvbmZpZyBmcm9tIHtFWFBfQ09ORklHfSIpCnRyVkFFX2NvbmZpZywgdHJhaW5fY29uZmlnID0gdXRpbHMucGFyc2VfY29uZmlnKEVYUF9DT05GSUcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>mmd_</text>
       </register>
       <register name="-" type="4">
-        <text>nan_to_num</text>
+        <text>mmd_</text>
       </register>
       <register name="/" type="4">
         <text>batch_seen</text>
@@ -254,31 +254,31 @@
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZiJMb2FkaW5nIGNvbmZpZyBmcm9tIHtFWFBfQ09ORklHfSIpCnRyVkFFX2NvbmZpZywgdHJhaW5fY29uZmlnID0gdXRpbHMucGFyc2VfY29uZmlnKEVYUF9DT05GSUcpCg==</text>
+        <text encoding="base64">bW1kX2FkYXRhID0gc2MuQW5uRGF0YSh0b19hcnJheShoX21tZCksIG9icz1hZGF0YS5vYnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RVhQX0NPTkZJRyA9ICcuL3RmbG93L3JlcHJvX2NvbmZpZy5qc29uJyAgIyBodHRwczovL2dpdGh1Yi5jb20vTmFnaGlwb3VyZmFyL3RyVkFFX3JlcHJvZHVjaWJpbGl0eQojIEVYUF9DT05GSUcgPSAnLi90Zmxvdy90cnZhZV9yZXBvX2NvbmZpZy5qc29uJyAgICMgaHR0cHM6Ly9naXRodWIuY29tL3RoZWlzbGFiL3RyVkFFCg==</text>
+        <text encoding="base64">cHJpbnQoZiJMb2FkaW5nIGNvbmZpZyBmcm9tIHtFWFBfQ09ORklHfSIpCnRyVkFFX2NvbmZpZywgdHJhaW5fY29uZmlnID0gdXRpbHMucGFyc2VfY29uZmlnKEVYUF9DT05GSUcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">RVhQX0NPTkZJRyA9ICcuL3RmbG93L3JlcHJvX2NvbmZpZy5qc29uJyAgIyBodHRwczovL2dpdGh1Yi5jb20vTmFnaGlwb3VyZmFyL3RyVkFFX3JlcHJvZHVjaWJpbGl0eQojIEVYUF9DT05GSUcgPSAnLi90Zmxvdy90cnZhZV9yZXBvX2NvbmZpZy5qc29uJyAgICMgaHR0cHM6Ly9naXRodWIuY29tL3RoZWlzbGFiL3RyVkFFCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">RVhQX0NPTkZJRyA9ICcuL3RmbG93L3JlcHJvX2NvbmZpZy5qc29uJyAgIyBodHRwczovL2dpdGh1Yi5jb20vTmFnaGlwb3VyZmFyL3RyVkFFX3JlcHJvZHVjaWJpbGl0eQojIEVYUF9DT05GSUcgPSAnLi90Zmxvdy90cnZhZV9yZXBvX2NvbmZpZy5qc29uJyAgICMgaHR0cHM6Ly9naXRodWIuY29tL3RoZWlzbGFiL3RyVkFFCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bl9lcG9jaHMgPSA1MDAwCmJlc3RfbW9kZWwgPSBmImJlc3RfbW9kZWxfe25fZXBvY2hzfS5oNSIK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXkgaW4gaGlzdG9yeS5oaXN0b3J5OiBwcmludChrZXkpCg==</text>
+        <text encoding="base64">bl9lcG9jaHMgPSA1MDAwCmJlc3RfbW9kZWwgPSBmImJlc3RfbW9kZWxfe25fZXBvY2hzfS5oNSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QkVTVF9NT0RFTCA9ICdiZXN0X21vZGVsLmg1Jwo=</text>
+        <text encoding="base64">ICAgIGZvciBrZXkgaW4gaGlzdG9yeS5oaXN0b3J5OiBwcmludChrZXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWxpZGF0YXRpb25fYmF0Y2hfc2l6ZT1Ob25lKQo=</text>
+        <text encoding="base64">QkVTVF9NT0RFTCA9ICdiZXN0X21vZGVsLmg1Jwo=</text>
       </register>
     </registers>
   </component>
