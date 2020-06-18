@@ -93,11 +93,11 @@
       <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
         <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1592434770099">
-        <mark key="[" line="191" column="101" />
-        <mark key="]" line="192" column="41" />
-        <mark key="." line="192" column="40" />
-        <mark key="^" line="192" column="41" />
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1592456631489">
+        <mark key="[" line="166" column="46" />
+        <mark key="]" line="166" column="46" />
+        <mark key="." line="166" column="46" />
+        <mark key="^" line="166" column="46" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
         <mark key="[" line="85" column="0" />
@@ -235,10 +235,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, validation_batch_size=None</text>
+        <text>, save_freq=50</text>
       </register>
       <register name="-" type="4">
-        <text>, validation_batch_size=None</text>
+        <text>, save_freq=50</text>
       </register>
       <register name="/" type="4">
         <text>batch_seen</text>
