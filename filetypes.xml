@@ -7,17 +7,17 @@
       <mapping pattern="pyenv-notes" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
-      <mapping pattern="fp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".quokka" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="fp" type="PLAIN_TEXT" />
       <mapping pattern=".yapf.style" type="PLAIN_TEXT" />
       <mapping pattern="machine-types" type="PLAIN_TEXT" />
       <mapping ext="hi_py" type="PLAIN_TEXT" />
+      <mapping ext="bazel" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
-      <mapping ext="bazel" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
