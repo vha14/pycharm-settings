@@ -18,6 +18,7 @@
       <mapping pattern="machine-types" type="PLAIN_TEXT" />
       <mapping ext="hi_py" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
