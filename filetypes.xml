@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping ext="deploy" type="Dockerfile" />
+      <mapping ext="dev" type="Dockerfile" />
       <mapping ext="jsonnet" type="JSON" />
       <mapping pattern="tint" type="PLAIN_TEXT" />
       <mapping pattern="pyenv-notes" type="PLAIN_TEXT" />
