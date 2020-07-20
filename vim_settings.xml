@@ -39,7 +39,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -69,52 +69,36 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1592501812429">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1592504888157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
         <mark key="'" line="3" column="12" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1595211856184">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/birch_skiff/sonar/ping.py" timestamp="1592276537221">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/birch_skiff/api/app/start.py" timestamp="1592276300061">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="26" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592503813664">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="11" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="35" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" timestamp="1591763894080">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="96" column="93" />
-        <mark key="]" line="96" column="93" />
-        <mark key="." line="96" column="93" />
-      </file>
-      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
-        <mark key="'" line="67" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
-        <mark key="'" line="47" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592501812429">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1592754865818">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1592456811511">
         <mark key="'" line="13" column="33" />
@@ -123,6 +107,12 @@
         <mark key="]" line="190" column="4" />
         <mark key="^" line="166" column="46" />
         <mark key="." line="190" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/api/app/start.py" timestamp="1592276300061">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/.gitignore" timestamp="1592276828413">
         <mark key="[" line="14" column="6" />
@@ -133,6 +123,13 @@
       <file name="/" timestamp="1592756224523">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592503813664">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="35" column="11" />
+      </file>
       <file name="$USER_HOME$/work/birch_skiff/ui/src/App.tsx" timestamp="1592276635061">
         <mark key="'" line="30" column="19" />
         <mark key="[" line="41" column="15" />
@@ -142,6 +139,12 @@
       </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training_v1.py" timestamp="1592431706026">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" timestamp="1591763894080">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="96" column="93" />
+        <mark key="]" line="96" column="93" />
+        <mark key="." line="96" column="93" />
       </file>
       <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809830473">
         <mark key="'" line="65" column="3" />
@@ -161,8 +164,14 @@
         <mark key="]" line="33" column="43" />
         <mark key="." line="33" column="43" />
       </file>
+      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
+        <mark key="'" line="67" column="11" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" timestamp="1592434706437">
         <mark key="'" line="1126" column="50" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
+        <mark key="'" line="47" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -321,43 +330,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
