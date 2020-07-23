@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>modelCom</entry>
         <entry>BeamSearch</entry>
         <entry>Positive</entry>
         <entry>Model</entry>
@@ -25,6 +24,7 @@
         <entry>skipping</entry>
         <entry>last_batch_seen</entry>
         <entry>batch_seen</entry>
+        <entry>jsx</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -39,7 +39,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -69,26 +69,22 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592501812429">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/birch_skiff/ui/src/App.tsx" timestamp="1592276635061">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="8" />
-        <mark key="^" line="41" column="8" />
-        <mark key="." line="41" column="7" />
       </file>
       <file name="/Python Console" timestamp="1592504888157">
         <mark key="[" line="0" column="0" />
@@ -96,34 +92,36 @@
       <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
         <mark key="'" line="3" column="12" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1595211856184">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/sonar/ping.py" timestamp="1592276537221">
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1592456811511">
+        <mark key="'" line="13" column="33" />
+        <mark key="[" line="190" column="4" />
+        <mark key="m" line="82" column="0" />
+        <mark key="]" line="190" column="4" />
+        <mark key="^" line="166" column="46" />
+        <mark key="." line="190" column="4" />
+      </file>
       <file name="$USER_HOME$/work/birch_skiff/api/app/start.py" timestamp="1592276300061">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training_v1.py" timestamp="1592431706026">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/work/birch_skiff/.gitignore" timestamp="1592276828413">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
-        <mark key="'" line="47" column="41" />
-      </file>
-      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" timestamp="1592434706437">
-        <mark key="'" line="1126" column="50" />
-      </file>
-      <file name="/" timestamp="1592276992179">
+      <file name="/" timestamp="1592756224523">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/biopic/tflow/trvae.py" timestamp="1592456811511">
-        <mark key="[" line="190" column="4" />
-        <mark key="]" line="190" column="4" />
-        <mark key="." line="190" column="4" />
-        <mark key="^" line="166" column="46" />
-      </file>
-      <file name="$USER_HOME$/work/birch_skiff/sonar/ping.py" timestamp="1592276537221">
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="53" column="43" />
-        <mark key="." line="53" column="43" />
       </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592503813664">
         <mark key="'" line="2" column="0" />
@@ -132,16 +130,54 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/work/birch_skiff/.gitignore" timestamp="1592276828413">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="5" />
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/App.tsx" timestamp="1592276635061">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="8" />
+        <mark key="^" line="41" column="8" />
+        <mark key="." line="41" column="7" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/engine/training_v1.py" timestamp="1592431706026">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/demos/SentimentAnalysis.js" timestamp="1591763894080">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="96" column="93" />
+        <mark key="]" line="96" column="93" />
+        <mark key="." line="96" column="93" />
+      </file>
+      <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809830473">
+        <mark key="'" line="65" column="3" />
+        <mark key="[" line="712" column="17" />
+        <mark key="]" line="712" column="23" />
+        <mark key="." line="712" column="22" />
+        <mark key="^" line="712" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/allennlp-demo/ui/src/components/Model.js" timestamp="1591763945689">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/prior-demo/bin/deploy" timestamp="1591811209405">
+        <mark key="'" line="67" column="11" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" timestamp="1592434706437">
+        <mark key="'" line="1126" column="50" />
+      </file>
+      <file name="$USER_HOME$/work/birch_skiff/ui/src/pages/Home.tsx" timestamp="1592328184098">
+        <mark key="'" line="47" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/website/node_modules/@lekoarts/gatsby-theme-minimal-blog/src/components/page.tsx" timestamp="1595221148014">
+        <mark key="'" line="0" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="27" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="155" column="28" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="293" column="35" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="300" column="25" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="48" column="9" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
@@ -240,6 +276,8 @@
       <jump line="1126" column="50" filename="$USER_HOME$/.pyenv/versions/biopic/lib/python3.7/site-packages/tensorflow/python/keras/callbacks.py" />
       <jump line="72" column="33" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
       <jump line="2" column="0" filename="$USER_HOME$/work/biopic/tflow/train_haber.py" />
+      <jump line="1" column="9" filename="$USER_HOME$/work/website/node_modules/@lekoarts/gatsby-theme-minimal-blog/src/components/page.tsx" />
+      <jump line="0" column="9" filename="$USER_HOME$/work/website/node_modules/@lekoarts/gatsby-theme-minimal-blog/src/components/page.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -251,7 +289,7 @@
         <text>mmd_</text>
       </register>
       <register name="/" type="4">
-        <text>batch_seen</text>
+        <text>jsx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
@@ -287,9 +325,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>batch_seen</last-search>
+      <last-search>jsx</last-search>
       <last-offset />
-      <last-pattern>batch_seen</last-pattern>
+      <last-pattern>jsx</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
