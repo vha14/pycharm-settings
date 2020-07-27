@@ -15,6 +15,16 @@
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="JavaScript" />
+        <option value="TypeScript" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
