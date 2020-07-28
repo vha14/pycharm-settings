@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/work/birch_skiff/ui/src/api/Query.ts" timestamp="1591936710395">
         <mark key="'" line="3" column="12" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1595717537341">
+      <file name="/GraphQL.result.json" timestamp="1595900955355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/birch_skiff/sonar/ping.py" timestamp="1592276537221">
@@ -123,6 +123,13 @@
       <file name="/" timestamp="1592756224523">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/incubator-web/redirect/index.ts" timestamp="1595902680820">
+        <mark key="'" line="116" column="4" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="117" column="43" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/work/biopic/tflow/train_haber.py" timestamp="1592503813664">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="35" column="11" />
@@ -151,13 +158,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/work/prior-demo/ui/src/tasks.tsx" timestamp="1591809830473">
-        <mark key="'" line="65" column="3" />
-        <mark key="[" line="712" column="17" />
-        <mark key="]" line="712" column="23" />
-        <mark key="." line="712" column="22" />
-        <mark key="^" line="712" column="23" />
-      </file>
       <file name="$USER_HOME$/work/birch_skiff/README.md" timestamp="1592328625656">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -178,10 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="58" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="12" column="26" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="210" column="55" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="57" column="21" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="60" column="18" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
       <jump line="63" column="17" filename="$USER_HOME$/work/cygia/Airline_demo.py" />
@@ -278,15 +274,19 @@
       <jump line="42" column="6" filename="$USER_HOME$/work/vha14.com/gatsby-config.js" />
       <jump line="49" column="6" filename="$USER_HOME$/work/vha14.com/gatsby-config.js" />
       <jump line="74" column="6" filename="$USER_HOME$/work/vha14.com/gatsby-config.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/work/incubator-web/redirect/index.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/work/incubator-web/redirect/index.ts" />
+      <jump line="132" column="58" filename="$USER_HOME$/work/incubator-web/redirect/index.ts" />
+      <jump line="117" column="4" filename="$USER_HOME$/work/incubator-web/redirect/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLXMzIjogIl4wLjMuMyIsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG9wdGlvbnMgPSBjZXJ0aWZpY2F0ZS5kb21haW5WYWxpZGF0aW9uT3B0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text>mmd_</text>
+        <text>DOMAIN</text>
       </register>
       <register name="/" type="4">
         <text>resolve</text>
@@ -295,31 +295,31 @@
         <text encoding="base64">aW1wb3J0IHJlY29nbml0aW9uSWNvbiBmcm9tICcuL2ljb25zL3JlY29nbml0aW9uLTE0cHguc3ZnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLXMzIjogIl4wLjMuMyIsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG9wdGlvbnMgPSBjZXJ0aWZpY2F0ZS5kb21haW5WYWxpZGF0aW9uT3B0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLW5ldGxpZnkiOiAiXjIuMS4zIiwK</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLXMzIjogIl4wLjMuMyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3kiOiAiZ2F0c2J5LXBsdWdpbi1zMyBkZXBsb3kiLAo=</text>
+        <text encoding="base64">ICAgICJnYXRzYnktcGx1Z2luLW5ldGxpZnkiOiAiXjIuMS4zIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLW5ldGxpZnlgLAo=</text>
+        <text encoding="base64">ICAgICJkZXBsb3kiOiAiZ2F0c2J5LXBsdWdpbi1zMyBkZXBsb3kiLAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLW5ldGxpZnlgLAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogYGdhdHNieS1wbHVnaW4tczNgLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgYnVja2V0TmFtZTogYHZoYTE0LXdlYnNpdGUtYnVja2V0YCwKICAgICAgICByZWdpb246IGB1cy13ZXN0LTJgLAogICAgICAgIHByb3RvY29sOiBzaXRlQWRkcmVzcy5wcm90b2NvbC5zbGljZSgwLCAtMSksCiAgICAgICAgaG9zdG5hbWU6IHNpdGVBZGRyZXNzLmhvc3RuYW1lCiAgICAgIH0sCiAgICB9LA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">bW1kX2FkYXRhID0gc2MuQW5uRGF0YSh0b19hcnJheShoX21tZCksIG9icz1hZGF0YS5vYnMpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZiJMb2FkaW5nIGNvbmZpZyBmcm9tIHtFWFBfQ09ORklHfSIpCnRyVkFFX2NvbmZpZywgdHJhaW5fY29uZmlnID0gdXRpbHMucGFyc2VfY29uZmlnKEVYUF9DT05GSUcpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">RVhQX0NPTkZJRyA9ICcuL3RmbG93L3JlcHJvX2NvbmZpZy5qc29uJyAgIyBodHRwczovL2dpdGh1Yi5jb20vTmFnaGlwb3VyZmFyL3RyVkFFX3JlcHJvZHVjaWJpbGl0eQojIEVYUF9DT05GSUcgPSAnLi90Zmxvdy90cnZhZV9yZXBvX2NvbmZpZy5qc29uJyAgICMgaHR0cHM6Ly9naXRodWIuY29tL3RoZWlzbGFiL3RyVkFFCg==</text>
+        <text encoding="base64">cHJpbnQoZiJMb2FkaW5nIGNvbmZpZyBmcm9tIHtFWFBfQ09ORklHfSIpCnRyVkFFX2NvbmZpZywgdHJhaW5fY29uZmlnID0gdXRpbHMucGFyc2VfY29uZmlnKEVYUF9DT05GSUcpCg==</text>
       </register>
     </registers>
   </component>
