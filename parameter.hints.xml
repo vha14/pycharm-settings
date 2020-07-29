@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="TypeScript">
         <added pattern="renderToString(tex,options)" />
+        <added pattern="Certificate.constructor(name,args,opts)" />
       </blacklist>
     </blacklists>
   </component>
