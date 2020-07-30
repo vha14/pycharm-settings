@@ -14,6 +14,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".quokka" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="fp" type="PLAIN_TEXT" />
       <mapping pattern=".yapf.style" type="PLAIN_TEXT" />
       <mapping pattern="machine-types" type="PLAIN_TEXT" />
