@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping ext="deploy" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="jsonnet" type="JSON" />
       <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
