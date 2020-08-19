@@ -42,7 +42,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.8.2" />
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.8.3" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="format-sources-on-sync" value="true" />
@@ -76,6 +76,9 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+    </driver>
+    <driver id="mysql_aurora">
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="true" />
