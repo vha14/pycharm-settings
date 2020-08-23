@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker-compose://[/home/vu/work/zoombot/web/docker-compose.yml]:api/nodemon" INTERPRETER_PATH="nodemon" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="api" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$USER_HOME$/work/zoombot" remote-root="/opt/project" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/work/zoombot/web/docker-compose.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs>
+        <env name="REACT_APP_API_HOSTNAME" value="localhost" />
+      </envs>
+    </interpreter>
+  </component>
+</application>
