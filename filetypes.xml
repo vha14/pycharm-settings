@@ -3,30 +3,30 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
-      <mapping ext="deploy" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="deploy" type="Dockerfile" />
       <mapping ext="jsonnet" type="JSON" />
-      <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
-      <mapping pattern="error" type="PLAIN_TEXT" />
-      <mapping pattern=".yapf.style" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="pyenv-notes" type="PLAIN_TEXT" />
-      <mapping pattern=".quokka" type="PLAIN_TEXT" />
-      <mapping pattern="BUILD" type="PLAIN_TEXT" />
-      <mapping pattern="machine-types" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="tint" type="PLAIN_TEXT" />
+      <mapping pattern="pyenv-notes" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern=".style.yapf" type="PLAIN_TEXT" />
       <mapping pattern="fp" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern=".quokka" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="error" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".yapf.style" type="PLAIN_TEXT" />
+      <mapping pattern="machine-types" type="PLAIN_TEXT" />
+      <mapping ext="hi_py" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
-      <mapping ext="hi_py" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
