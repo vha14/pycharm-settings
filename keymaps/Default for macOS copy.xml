@@ -1,5 +1,6 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
@@ -45,6 +46,7 @@
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
